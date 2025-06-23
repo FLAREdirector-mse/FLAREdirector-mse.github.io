@@ -1,13 +1,13 @@
 ﻿{
     "name": "Secret Santa June 2025",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "none",
     "unpreviewed": "empty",
     "cards": [
         {
-            "card_name": "The Fin	al Star",
+            "card_name": "The Final Star",
             "color": "",
             "rarity": "mythic",
             "type": "Legendary Artifact",
@@ -834,7 +834,7 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "double faced",
+            "shape": "token",
             "set": "JUN25",
             "loyalty": "",
             "artist": "Fran Hao Shuang",
@@ -888,7 +888,7 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "double faced",
+            "shape": "token",
             "set": "JUN25",
             "loyalty": "",
             "artist": "Fran Hao Shuang",
@@ -3399,6 +3399,24 @@
             "notes": "By FifthDragon for LeetWizard"
         },
         {
+            "card_name": "Open the Cicatrix Maledictum",
+            "color": "B",
+            "rarity": "mythic",
+            "type": "Enchantment",
+            "number": 194,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "At the beginning of your upkeep, choose two at random. Create a Demon creature token with those characteristics.\n\u2022 Blue 2/3 with evolve and flying.\n\u2022 Red 4/1 with unleash and haste.\n\u2022 Black 3/2 with afflict 2 and lifelink.\n\u2022 Green 1/4 with wither and hexproof.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "JUN25",
+            "loyalty": "",
+            "artist": "Zachary Graves",
+            "notes": ""
+        },
+        {
             "card_name": "Plaguebearer",
             "color": "G",
             "rarity": "common",
@@ -3428,24 +3446,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "double faced",
+            "shape": "battle",
             "set": "JUN25",
             "loyalty": "15",
             "artist": "Tindalos Interactive",
             "notes": ""
-			"card_name2": "Open the Cicatrix Maledictum",
-            "color2": "B",
-            "type2": "Enchantment",
-            "color_identity2": "B",
-            "cost2": "",
-            "rules_text2": "At the beginning of your upkeep, choose two at random. Create a Demon creature token with those characteristics.\n\u2022 Blue 2/3 with evolve and flying.\n\u2022 Red 4/1 with unleash and haste.\n\u2022 Black 3/2 with afflict 2 and lifelink.\n\u2022 Green 1/4 with wither and hexproof.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "",
-            "set2": "JUN25",
-            "loyalty2": "",
-            "artist2": "Zachary Graves",
-            "notes2": ""
         },
         {
             "card_name": "The Ball",
@@ -8928,7 +8933,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "You may play an additional land during each of your turns.\n[+2]: Exile the top three cards of your library. You may play those cards until you activate an ability of Chandra and Nissa, Reunited other than this one.\n[0]: Chandra and Nissa deals 3 damage to any target. You gain 3 life.\n[-4]: Return up to one target creature card, up to one target land card, and up to one target noncreature, nonland card from your graveyard to your hand.\n[-4]: Return up to one target creature card, up to one target land card, and up to one target noncreature, nonland card from your graveyard to your hand.",
+            "special_text2": "",
             "loyalty2": "5",
             "artist2": "Sekaiichibannobaka",
             "notes": ""
@@ -9017,8 +9022,8 @@
             "color2": "R",
             "type2": "Legendary Creature \u2014 Giant Dragon",
             "cost2": "",
-            "rules_text2": "Flying, trample, haste\nYour opponents can't gain life.\n{R}: The Giant Enemy Dragon gets +1/+0\nuntil end of turn.",
-            "flavor_text2": "[i]The giant enemy dragon, nerrrrrrr nurrrrrr, ner ner nur nur ner ner nur nur ner ner nurrr.[/i]",
+            "rules_text2": "",
+            "flavor_text2": "[i][/i]",
             "pt2": "12/12",
             "special_text2": "",
             "loyalty2": "",
@@ -9171,8 +9176,8 @@
             "color2": "R",
             "type2": "Legendary Creature \u2014 Giant Dragon",
             "cost2": "",
-            "rules_text2": "Flying, trample, haste\nYour opponents can't gain life.\n{R}: The Giant Enemy Dragon gets +1/+0\nuntil end of turn.",
-            "flavor_text2": "[i]The giant enemy dragon, nerrrrrrr nurrrrrr, ner ner nur nur ner ner nur nur ner ner nurrr.[/i]",
+            "rules_text2": "",
+            "flavor_text2": "[i][/i]",
             "pt2": "12/12",
             "special_text2": "",
             "loyalty2": "",
@@ -11509,6 +11514,5 @@
             "artist": "",
             "notes": ""
         }
-    ],
-    "version": 2
+    ]
 }
