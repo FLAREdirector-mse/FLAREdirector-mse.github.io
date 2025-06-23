@@ -838,7 +838,7 @@
             "set": "JUN25",
             "loyalty": "",
             "artist": "Fran Hao Shuang",
-			"card_name2": "Werewolf",
+            "card_name2": "Werewolf",
             "color2": "RG",
             "type2": "Token Creature \u2014 Werewolf",
             "cost2": "",
@@ -3435,7 +3435,7 @@
             "loyalty2": "",
             "artist2": "Zachary Graves",
             "notes": ""
-		},
+        },
         {
             "card_name": "The Ball",
             "color": "",
