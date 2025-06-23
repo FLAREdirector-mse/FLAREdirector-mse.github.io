@@ -838,19 +838,17 @@
             "set": "JUN25",
             "loyalty": "",
             "artist": "Fran Hao Shuang",
-            "notes": ""
-            "card_name2": "Werewolf",
+			"card_name2": "Werewolf",
             "color2": "RG",
-            "rarity2": "common",
             "type2": "Token Creature \u2014 Werewolf",
             "cost2": "",
-            "rules_text2": "Nightbound [i](If a player casts at least two spells during their own turn, it becomes day next turn.)[/i]",
+            "rules_text"2: "Nightbound [i](If a player casts at least two spells during their own turn, it becomes day next turn.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Fran Hao Shuang",
-            "notes2": ""
+            "notes": ""
         },
         {
             "card_name": "Yak",
@@ -3426,7 +3424,6 @@
             "set": "JUN25",
             "loyalty": "15",
             "artist": "Tindalos Interactive",
-            "notes": ""
             "card_name2": "Open the Cicatrix Maledictum",
             "color2": "B",
             "type2": "Enchantment",
@@ -3437,8 +3434,8 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Zachary Graves",
-            "notes2": ""
-        },
+            "notes": ""
+		},
         {
             "card_name": "The Ball",
             "color": "",
@@ -11502,5 +11499,5 @@
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

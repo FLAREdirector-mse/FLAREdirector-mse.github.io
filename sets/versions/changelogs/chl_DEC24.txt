@@ -1,4 +1,51 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+The Dinosaur's Trampoline
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Create a 3/3 green Dinosaur creature token.
+Target creature gains flying until end of turn.
+II, III — [i]“the first piece of fiction i ever wrote was about how a dinosaur jumped on a trampoline so hard the trampoline broke . . . I cried when i realized that my effort of nearly an hour took less than a minute to read.”[/i]
+—MsMaeve => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Create a 3/3 green Dinosaur creature token.
+Target creature gains flying until end of turn.
+[i]“the first piece of fiction i ever wrote was about how a dinosaur jumped on a trampoline so hard the trampoline broke . . . I cried when i realized that my effort of nearly an hour took less than a minute to read.”[/i]
+—MsMaeve
+
+Harvest Festival
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a Food token.
+III — Sacrifice any number of Food tokens. Create that many 3/3 white and black Food Citizen artifact creature tokens with “{2}, {T}, Sacrifice this token: You gain 3 life.” => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Food token.
+Sacrifice any number of Food tokens. Create that many 3/3 white and black Food Citizen artifact creature tokens with “{2}, {T}, Sacrifice this token: You gain 3 life.”
+
+Pawmo
+rules_text: [i]Volt Absorb —[/i] If a red source would deal damage to Pawmo, prevent that damage and put a +1/+1 counter on Pawmo. => [i]Volt Absorb number—[/i] If a red source would deal damage to Pawmo, prevent that damage and put a +1/+1 counter on Pawmo.
+
+Monster Scout Championship
+special_text: 
+I, II — Learn. [i](You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+III — Put a +1/+1 counter on target creature you control. It deals damage equal to
+its power to target creature you don't control.
+Create two Treasure tokens. => 
+Learn. [i](You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+Put a +1/+1 counter on target creature you control. It deals damage equal to
+its power to target creature you don't control.
+Create two Treasure tokens.
+
+Before the Gates of Hell
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]
+Ward—Pay 2 life for each lore counter on Before the Gates of Hell.
+I, II, III, IV, V, VI — You may sacrifice a creature. If you do, put a lore counter on Before the Gates of Hell.
+Create three 6/6 Demon creature tokens with flying. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]
+Ward—Pay 2 life for each lore counter on Before the Gates of Hell.
+You may sacrifice a creature. If you do, put a lore counter on Before the Gates of Hell.
+Create three 6/6 Demon creature tokens with flying.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
