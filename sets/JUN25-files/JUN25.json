@@ -212,7 +212,7 @@
             "number": 515,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "Menace\nRenown 1 [i](When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned. +1/+1 and -1/-1 counters cancel each other out.)[/i]\nPersist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]",
+            "rules_text": "Menace\nRenown 2 [i](When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned. +1/+1 and -1/-1 counters cancel each other out.)[/i]\nPersist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
