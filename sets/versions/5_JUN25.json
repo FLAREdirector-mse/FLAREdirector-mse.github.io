@@ -3,13 +3,13 @@
     "formats": "",
     "trimmed": "n",
     "image_type": "jpg",
-    "draft_structure": "none",
+    "draft_structure": "cube",
     "unpreviewed": "empty",
     "cards": [
         {
             "card_name": "The Final Star",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 552,
             "color_identity": "C",
@@ -27,7 +27,7 @@
         {
             "card_name": "Joyride Jester",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Clown",
             "number": 262,
             "color_identity": "R",
@@ -45,7 +45,7 @@
         {
             "card_name": "Paint By Numbers",
             "color": "UB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 470,
             "color_identity": "UB",
@@ -63,7 +63,7 @@
         {
             "card_name": "",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 3,
             "color_identity": "C",
@@ -81,7 +81,7 @@
         {
             "card_name": "Bobo's Balloon Buggy",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2014 Vehicle",
             "number": 542,
             "color_identity": "C",
@@ -99,7 +99,7 @@
         {
             "card_name": "Hungry Freebooter",
             "color": "BG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Raccoon Pirates",
             "number": 442,
             "color_identity": "BG",
@@ -117,7 +117,7 @@
         {
             "card_name": "Shelter in Kelp",
             "color": "UG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 494,
             "color_identity": "UG",
@@ -135,7 +135,7 @@
         {
             "card_name": "Undefeated",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 297,
             "color_identity": "R",
@@ -153,7 +153,7 @@
         {
             "card_name": "Goral, of Journey's End",
             "color": "BG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Zombie Elephant",
             "number": 433,
             "color_identity": "BG",
@@ -171,7 +171,7 @@
         {
             "card_name": "Ride the Clouds",
             "color": "WU",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 485,
             "color_identity": "WU",
@@ -189,7 +189,7 @@
         {
             "card_name": "Sensei of Dirty Tricks",
             "color": "UG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Rat Ninja",
             "number": 490,
             "color_identity": "UG",
@@ -207,12 +207,12 @@
         {
             "card_name": "Unvanquished One",
             "color": "WB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Warrior",
             "number": 515,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "Menace\nRenown 1 [i](When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned. +1/+1 and -1/-1 counters cancel each other out.)[/i]\nPersist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]",
+            "rules_text": "Menace\nRenown 2 [i](When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned. +1/+1 and -1/-1 counters cancel each other out.)[/i]\nPersist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -225,7 +225,7 @@
         {
             "card_name": "Blocked Lotus",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 541,
             "color_identity": "C",
@@ -243,7 +243,7 @@
         {
             "card_name": "Operation Snake Eater",
             "color": "BG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Saga",
             "number": 467,
             "color_identity": "BG",
@@ -261,7 +261,7 @@
         {
             "card_name": "RAY Deployment",
             "color": "G",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 346,
             "color_identity": "G",
@@ -279,7 +279,7 @@
         {
             "card_name": "Vulcan Raven",
             "color": "BRG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Mercenary",
             "number": 521,
             "color_identity": "BRG",
@@ -297,7 +297,7 @@
         {
             "card_name": "Anger of the Forebearers",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 227,
             "color_identity": "R",
@@ -315,7 +315,7 @@
         {
             "card_name": "Curse of the Fell",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 100,
             "color_identity": "U",
@@ -333,7 +333,7 @@
         {
             "card_name": "Ornithicera, Fell Sealed",
             "color": "UBR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Saurian Warlock",
             "number": 469,
             "color_identity": "UBR",
@@ -351,7 +351,7 @@
         {
             "card_name": "Rise of the Decayed",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 206,
             "color_identity": "B",
@@ -369,7 +369,7 @@
         {
             "card_name": "Saurian Zombie",
             "color": "BG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Saurian Zombie",
             "number": 487,
             "color_identity": "BG",
@@ -387,7 +387,7 @@
         {
             "card_name": "The Transcendent One",
             "color": "UBR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Enchantment Creature \u2014 Horror",
             "number": 513,
             "color_identity": "UBR",
@@ -405,7 +405,7 @@
         {
             "card_name": "Azula, Storm Prodigy",
             "color": "BR",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Bender",
             "number": 388,
             "color_identity": "BR",
@@ -423,7 +423,7 @@
         {
             "card_name": "Hacan Command",
             "color": "WU",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 436,
             "color_identity": "WU",
@@ -441,7 +441,7 @@
         {
             "card_name": "Worship at the Underhive",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Saga",
             "number": 526,
             "color_identity": "UB",
@@ -459,7 +459,7 @@
         {
             "card_name": "Channeler of Unreality",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Warlock",
             "number": 235,
             "color_identity": "R",
@@ -477,7 +477,7 @@
         {
             "card_name": "Hypnic Jerk",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 48,
             "color_identity": "W",
@@ -495,7 +495,7 @@
         {
             "card_name": "Prime Fear",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Nightmare",
             "number": 277,
             "color_identity": "R",
@@ -513,7 +513,7 @@
         {
             "card_name": "Recurring Theme",
             "color": "UG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 480,
             "color_identity": "UG",
@@ -531,7 +531,7 @@
         {
             "card_name": "Spiralling Thoughts",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Quest",
             "number": 213,
             "color_identity": "B",
@@ -549,7 +549,7 @@
         {
             "card_name": "Brazen Adventure-Fae",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Faerie Rogue",
             "number": 92,
             "color_identity": "U",
@@ -577,7 +577,7 @@
         {
             "card_name": "Butterfly Salesfae",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Faerie",
             "number": 93,
             "color_identity": "UG",
@@ -605,7 +605,7 @@
         {
             "card_name": "Faerie Ring Dance",
             "color": "UG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 422,
             "color_identity": "UG",
@@ -623,7 +623,7 @@
         {
             "card_name": "Flashy-Winged Faerie",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Faerie",
             "number": 105,
             "color_identity": "U",
@@ -651,7 +651,7 @@
         {
             "card_name": "Rambling Warmount",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Faerie Dog Mount",
             "number": 343,
             "color_identity": "G",
@@ -669,7 +669,7 @@
         {
             "card_name": "Sleepy Seelie",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Faerie",
             "number": 357,
             "color_identity": "UG",
@@ -697,7 +697,7 @@
         {
             "card_name": "Solitary Storm Sorceress",
             "color": "UG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Warlock",
             "number": 500,
             "color_identity": "UG",
@@ -715,7 +715,7 @@
         {
             "card_name": "Tome of Tales",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 578,
             "color_identity": "U",
@@ -733,7 +733,7 @@
         {
             "card_name": "Twigwing",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Faerie",
             "number": 365,
             "color_identity": "G",
@@ -751,7 +751,7 @@
         {
             "card_name": "Unlikely Acquaintance",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human",
             "number": 366,
             "color_identity": "UG",
@@ -779,7 +779,7 @@
         {
             "card_name": "Whimsical Proportions",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 373,
             "color_identity": "G",
@@ -797,7 +797,7 @@
         {
             "card_name": "Wondrous Tree",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Plant",
             "number": 375,
             "color_identity": "G",
@@ -825,7 +825,7 @@
         {
             "card_name": "Human Werewolf",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Human Werewolf",
             "number": 1,
             "color_identity": "W",
@@ -843,7 +843,7 @@
         {
             "card_name": "Yak",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Yak",
             "number": 87,
             "color_identity": "W",
@@ -861,7 +861,7 @@
         {
             "card_name": "Gnome Nomad",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Gnome Nomad",
             "number": 322,
             "color_identity": "G",
@@ -879,7 +879,7 @@
         {
             "card_name": "Werewolf",
             "color": "RG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Werewolf",
             "number": 534,
             "color_identity": "RG",
@@ -897,7 +897,7 @@
         {
             "card_name": "Abzan Kin-Foster",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Citizen",
             "number": 24,
             "color_identity": "WRG",
@@ -915,7 +915,7 @@
         {
             "card_name": "Guardian's Oath",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 45,
             "color_identity": "W",
@@ -933,7 +933,7 @@
         {
             "card_name": "Life's Scintille",
             "color": "W",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Creature \u2014 Avatar",
             "number": 55,
             "color_identity": "W",
@@ -951,7 +951,7 @@
         {
             "card_name": "Pluck",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 65,
             "color_identity": "W",
@@ -969,7 +969,7 @@
         {
             "card_name": "Sandwretch Crofter",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Demon",
             "number": 74,
             "color_identity": "W",
@@ -987,7 +987,7 @@
         {
             "card_name": "Woodfenn Forager",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Kithkin Peasant",
             "number": 86,
             "color_identity": "W",
@@ -1005,7 +1005,7 @@
         {
             "card_name": "Hightail Robbery",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 111,
             "color_identity": "U",
@@ -1023,7 +1023,7 @@
         {
             "card_name": "On Strings",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 122,
             "color_identity": "U",
@@ -1041,7 +1041,7 @@
         {
             "card_name": "Ranni, Two-Faced Witch",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Enchantment Creature \u2014 Spirit Witch",
             "number": 126,
             "color_identity": "UB",
@@ -1059,7 +1059,7 @@
         {
             "card_name": "Farrow Harvest",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 167,
             "color_identity": "B",
@@ -1077,7 +1077,7 @@
         {
             "card_name": "Maliketh, Marika's Blade",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 God Assassin",
             "number": 187,
             "color_identity": "B",
@@ -1095,7 +1095,7 @@
         {
             "card_name": "Irascible Sphinx",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Sphinx",
             "number": 258,
             "color_identity": "R",
@@ -1113,7 +1113,7 @@
         {
             "card_name": "Parry This",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 275,
             "color_identity": "R",
@@ -1131,7 +1131,7 @@
         {
             "card_name": "Always a Bigger Dragon",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Kindred Sorcery \u2014 Dragon",
             "number": 301,
             "color_identity": "G",
@@ -1149,7 +1149,7 @@
         {
             "card_name": "Ama Yagbri, the Hoary Alp",
             "color": "WG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Elder Yak",
             "number": 382,
             "color_identity": "WG",
@@ -1167,7 +1167,7 @@
         {
             "card_name": "Amnesiac's Reunion",
             "color": "UR",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 383,
             "color_identity": "UR",
@@ -1185,7 +1185,7 @@
         {
             "card_name": "Boastful Singe-Tail",
             "color": "WR",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Fox Performer",
             "number": 391,
             "color_identity": "WR",
@@ -1203,7 +1203,7 @@
         {
             "card_name": "Howlpack's Hunt",
             "color": "WRG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 441,
             "color_identity": "WRG",
@@ -1221,7 +1221,7 @@
         {
             "card_name": "Maw of Infinity",
             "color": "WG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 454,
             "color_identity": "WG",
@@ -1239,7 +1239,7 @@
         {
             "card_name": "Mesmer, the Abandoned God",
             "color": "BR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 God Rogue",
             "number": 456,
             "color_identity": "BR",
@@ -1257,7 +1257,7 @@
         {
             "card_name": "Nipper, Treasure of the Cove",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Giant Crab",
             "number": 462,
             "color_identity": "WR",
@@ -1275,7 +1275,7 @@
         {
             "card_name": "Pick Parrot",
             "color": "UR",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Bird Rogue",
             "number": 472,
             "color_identity": "UR",
@@ -1293,7 +1293,7 @@
         {
             "card_name": "Quadruple Trouble",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 477,
             "color_identity": "UR",
@@ -1311,7 +1311,7 @@
         {
             "card_name": "Respiteful Tragedy",
             "color": "WB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 483,
             "color_identity": "WB",
@@ -1329,7 +1329,7 @@
         {
             "card_name": "The Resurrection of Falin",
             "color": "BR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Enchantment \u2014 Saga",
             "number": 484,
             "color_identity": "BR",
@@ -1347,7 +1347,7 @@
         {
             "card_name": "Bottled Brilliance",
             "color": "UR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 529,
             "color_identity": "UR",
@@ -1365,7 +1365,7 @@
         {
             "card_name": "The Firelink Shrine",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 590,
             "color_identity": "C",
@@ -1383,7 +1383,7 @@
         {
             "card_name": "Damp Boot",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 549,
             "color_identity": "C",
@@ -1401,7 +1401,7 @@
         {
             "card_name": "Fishing Rod",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 553,
             "color_identity": "C",
@@ -1419,7 +1419,7 @@
         {
             "card_name": "Used Car Batteries",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 581,
             "color_identity": "C",
@@ -1437,7 +1437,7 @@
         {
             "card_name": "Thermonuclear Pufferfish",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Fish",
             "number": 217,
             "color_identity": "B",
@@ -1455,7 +1455,7 @@
         {
             "card_name": "Primordial Sturgeon",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Fish",
             "number": 340,
             "color_identity": "G",
@@ -1473,7 +1473,7 @@
         {
             "card_name": "Cataclysmfish",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Fish",
             "number": 94,
             "color_identity": "U",
@@ -1491,7 +1491,7 @@
         {
             "card_name": "Butcherfish",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Fish Serpent",
             "number": 232,
             "color_identity": "R",
@@ -1509,7 +1509,7 @@
         {
             "card_name": "Crash",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 30,
             "color_identity": "W",
@@ -1527,7 +1527,7 @@
         {
             "card_name": "Dragonfire Engine",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Dragon",
             "number": 35,
             "color_identity": "W",
@@ -1545,7 +1545,7 @@
         {
             "card_name": "Dragonfly Module",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 36,
             "color_identity": "W",
@@ -1563,7 +1563,7 @@
         {
             "card_name": "Gimmick Race",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 42,
             "color_identity": "W",
@@ -1581,7 +1581,7 @@
         {
             "card_name": "Pit Stop",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 64,
             "color_identity": "W",
@@ -1599,7 +1599,7 @@
         {
             "card_name": "Purehearted Pilot",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Pilot",
             "number": 69,
             "color_identity": "W",
@@ -1617,7 +1617,7 @@
         {
             "card_name": "Refurbish",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 70,
             "color_identity": "W",
@@ -1635,7 +1635,7 @@
         {
             "card_name": "Sky Crier",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Bird Citizen",
             "number": 76,
             "color_identity": "W",
@@ -1653,7 +1653,7 @@
         {
             "card_name": "Skybound Charger",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Knight",
             "number": 77,
             "color_identity": "W",
@@ -1671,7 +1671,7 @@
         {
             "card_name": "Sponsored Walker",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 80,
             "color_identity": "W",
@@ -1689,7 +1689,7 @@
         {
             "card_name": "Yoe, Ready to Race",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Pilot",
             "number": 88,
             "color_identity": "W",
@@ -1707,7 +1707,7 @@
         {
             "card_name": "Dead Weight",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 160,
             "color_identity": "B",
@@ -1725,7 +1725,7 @@
         {
             "card_name": "Fear of Nightmares",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment Creature \u2014 Nightmare",
             "number": 168,
             "color_identity": "B",
@@ -1743,7 +1743,7 @@
         {
             "card_name": "Hopeless Nighmare",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 177,
             "color_identity": "B",
@@ -1761,7 +1761,7 @@
         {
             "card_name": "Nightlight Horror",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Horror",
             "number": 191,
             "color_identity": "B",
@@ -1779,7 +1779,7 @@
         {
             "card_name": "Omen of the Dead",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 192,
             "color_identity": "B",
@@ -1797,7 +1797,7 @@
         {
             "card_name": "Pale-Death Moth",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Insect",
             "number": 197,
             "color_identity": "B",
@@ -1815,7 +1815,7 @@
         {
             "card_name": "Recurring Hunter",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Assassin",
             "number": 203,
             "color_identity": "B",
@@ -1833,7 +1833,7 @@
         {
             "card_name": "Sacrifice of Innocence",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 207,
             "color_identity": "B",
@@ -1851,7 +1851,7 @@
         {
             "card_name": "Stitcher's Supplier",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie",
             "number": 215,
             "color_identity": "B",
@@ -1869,7 +1869,7 @@
         {
             "card_name": "Threatening Plush",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Toy Bear",
             "number": 219,
             "color_identity": "B",
@@ -1887,7 +1887,7 @@
         {
             "card_name": "Valgavoth, Furious Dread",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Elder Demon",
             "number": 222,
             "color_identity": "B",
@@ -1905,7 +1905,7 @@
         {
             "card_name": "Valgavoth's Faithful",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Cleric",
             "number": 223,
             "color_identity": "B",
@@ -1923,7 +1923,7 @@
         {
             "card_name": "Basalt Colossus",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Giant",
             "number": 229,
             "color_identity": "R",
@@ -1941,7 +1941,7 @@
         {
             "card_name": "Commune with Lava",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 236,
             "color_identity": "R",
@@ -1959,7 +1959,7 @@
         {
             "card_name": "Crystal Elemental",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Elemental",
             "number": 239,
             "color_identity": "R",
@@ -1977,7 +1977,7 @@
         {
             "card_name": "Demand Answers",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 240,
             "color_identity": "R",
@@ -1995,7 +1995,7 @@
         {
             "card_name": "Exgold Bracelet",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 245,
             "color_identity": "R",
@@ -2013,7 +2013,7 @@
         {
             "card_name": "Fireblood Viashino",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Lizard Shaman",
             "number": 249,
             "color_identity": "R",
@@ -2031,7 +2031,7 @@
         {
             "card_name": "Koth, Fighter Without a Cause",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Artificer",
             "number": 266,
             "color_identity": "R",
@@ -2049,7 +2049,7 @@
         {
             "card_name": "Lavastone Elemental",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Elemental",
             "number": 267,
             "color_identity": "R",
@@ -2067,7 +2067,7 @@
         {
             "card_name": "Magma Spray",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 272,
             "color_identity": "R",
@@ -2085,7 +2085,7 @@
         {
             "card_name": "Rapacious Dragon",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Dragon",
             "number": 281,
             "color_identity": "R",
@@ -2103,7 +2103,7 @@
         {
             "card_name": "Rumbling Rockslide",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 286,
             "color_identity": "R",
@@ -2121,7 +2121,7 @@
         {
             "card_name": "Aafir, Golem Creator",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 300,
             "color_identity": "G",
@@ -2139,7 +2139,7 @@
         {
             "card_name": "Breaking Bonds",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 305,
             "color_identity": "G",
@@ -2157,7 +2157,7 @@
         {
             "card_name": "Earthen Arms",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 311,
             "color_identity": "G",
@@ -2175,7 +2175,7 @@
         {
             "card_name": "Elemental Smash",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 313,
             "color_identity": "G",
@@ -2193,7 +2193,7 @@
         {
             "card_name": "Help from the Realm",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 325,
             "color_identity": "G",
@@ -2211,7 +2211,7 @@
         {
             "card_name": "Inspiring Call",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 327,
             "color_identity": "G",
@@ -2229,7 +2229,7 @@
         {
             "card_name": "Joraga Guardians",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Elf Warrior",
             "number": 328,
             "color_identity": "G",
@@ -2247,7 +2247,7 @@
         {
             "card_name": "Kazandu Nectarpot",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Insect",
             "number": 330,
             "color_identity": "G",
@@ -2265,7 +2265,7 @@
         {
             "card_name": "Reclamation Apostle",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Cleric",
             "number": 348,
             "color_identity": "G",
@@ -2283,7 +2283,7 @@
         {
             "card_name": "Roiling Earth Zendikon",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 351,
             "color_identity": "G",
@@ -2301,7 +2301,7 @@
         {
             "card_name": "Scale the Heights",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 353,
             "color_identity": "G",
@@ -2319,7 +2319,7 @@
         {
             "card_name": "Tajuru Diversionist",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Elf Rogue",
             "number": 361,
             "color_identity": "G",
@@ -2337,7 +2337,7 @@
         {
             "card_name": "Territorial Scythecat",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Cat",
             "number": 362,
             "color_identity": "G",
@@ -2355,7 +2355,7 @@
         {
             "card_name": "Lavablood Golem",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Golem",
             "number": 566,
             "color_identity": "C",
@@ -2373,7 +2373,7 @@
         {
             "card_name": "Ovalchase Dragster",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 570,
             "color_identity": "C",
@@ -2391,7 +2391,7 @@
         {
             "card_name": "Terraformic Spellbomb",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 577,
             "color_identity": "R",
@@ -2409,7 +2409,7 @@
         {
             "card_name": "Evolving Wilds",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 589,
             "color_identity": "C",
@@ -2427,7 +2427,7 @@
         {
             "card_name": "Glimmering Clearing",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2014 Forest",
             "number": 591,
             "color_identity": "G",
@@ -2445,7 +2445,7 @@
         {
             "card_name": "Glimmering Pit",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2014 Swamp",
             "number": 592,
             "color_identity": "B",
@@ -2463,7 +2463,7 @@
         {
             "card_name": "Glimmering Valley",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2014 Plains",
             "number": 593,
             "color_identity": "W",
@@ -2481,7 +2481,7 @@
         {
             "card_name": "Glimmering Volcano",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2014 Mountain",
             "number": 594,
             "color_identity": "R",
@@ -2499,7 +2499,7 @@
         {
             "card_name": "Terramorphic Expanse",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 608,
             "color_identity": "C",
@@ -2517,7 +2517,7 @@
         {
             "card_name": "Kitsune Ace",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Fox Pilot",
             "number": 53,
             "color_identity": "W",
@@ -2535,7 +2535,7 @@
         {
             "card_name": "Open Boardroom",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Room",
             "number": 226,
             "color_identity": "B",
@@ -2563,7 +2563,7 @@
         {
             "card_name": "Repeat Offender",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Cat",
             "number": 349,
             "color_identity": "G",
@@ -2581,7 +2581,7 @@
         {
             "card_name": "Feline Defiance",
             "color": "BG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 423,
             "color_identity": "BG",
@@ -2599,7 +2599,7 @@
         {
             "card_name": "Shadow Clowder Leader",
             "color": "BG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Cat Warrior",
             "number": 491,
             "color_identity": "BG",
@@ -2617,7 +2617,7 @@
         {
             "card_name": "Shade Cat",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Shade Cat",
             "number": 208,
             "color_identity": "B",
@@ -2635,7 +2635,7 @@
         {
             "card_name": "Urza's Leyline",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 22,
             "color_identity": "C",
@@ -2653,7 +2653,7 @@
         {
             "card_name": "Quantum Cat",
             "color": "G",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Creature \u2014 Cat",
             "number": 341,
             "color_identity": "G",
@@ -2671,7 +2671,7 @@
         {
             "card_name": "Rampvagan, Speedy Plunderer",
             "color": "G",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Monkey",
             "number": 344,
             "color_identity": "RG",
@@ -2689,7 +2689,7 @@
         {
             "card_name": "Primepost",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land \u2014 Locus",
             "number": 604,
             "color_identity": "C",
@@ -2707,7 +2707,7 @@
         {
             "card_name": "Urza's Gate",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2014 Urza's Gate",
             "number": 611,
             "color_identity": "C",
@@ -2725,7 +2725,7 @@
         {
             "card_name": "Community",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 12,
             "color_identity": "WUBRG",
@@ -2743,7 +2743,7 @@
         {
             "card_name": "Vitriach, Lunar Beckoned",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Cleric",
             "number": 23,
             "color_identity": "C",
@@ -2761,7 +2761,7 @@
         {
             "card_name": "Snapcaster Apprentice",
             "color": "U",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Wizard",
             "number": 132,
             "color_identity": "U",
@@ -2779,7 +2779,7 @@
         {
             "card_name": "Alluring Nostalgia",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment Creature \u2014 Bear",
             "number": 144,
             "color_identity": "B",
@@ -2797,7 +2797,7 @@
         {
             "card_name": "Fork in the Road",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 252,
             "color_identity": "R",
@@ -2815,7 +2815,7 @@
         {
             "card_name": "Breadification",
             "color": "WU",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 393,
             "color_identity": "WU",
@@ -2833,7 +2833,7 @@
         {
             "card_name": "Fickle Mentality",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 424,
             "color_identity": "UB",
@@ -2851,7 +2851,7 @@
         {
             "card_name": "Wax Wings",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 583,
             "color_identity": "C",
@@ -2869,7 +2869,7 @@
         {
             "card_name": "jeb_",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Sheep",
             "number": 14,
             "color_identity": "C",
@@ -2887,7 +2887,7 @@
         {
             "card_name": "Juno, Mother of Wisdom",
             "color": "U",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Isu God",
             "number": 115,
             "color_identity": "U",
@@ -2905,7 +2905,7 @@
         {
             "card_name": "Charlotte de la Cruz",
             "color": "BR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Assassin",
             "number": 398,
             "color_identity": "BR",
@@ -2923,7 +2923,7 @@
         {
             "card_name": "Orlog Dice",
             "color": "",
-            "rarity": "masterpiece",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 569,
             "color_identity": "C",
@@ -2941,7 +2941,7 @@
         {
             "card_name": "Potion of Invisibility",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 571,
             "color_identity": "C",
@@ -2959,7 +2959,7 @@
         {
             "card_name": "Jungle Temple",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2014 Forest",
             "number": 597,
             "color_identity": "G",
@@ -2977,7 +2977,7 @@
         {
             "card_name": "Neow, Spire Steward",
             "color": "WB",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Whale",
             "number": 459,
             "color_identity": "WUBRG",
@@ -2995,7 +2995,7 @@
         {
             "card_name": "The Spire \u2014 Beyond",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 0,
             "color_identity": "C",
@@ -3013,7 +3013,7 @@
         {
             "card_name": "The Spire \u2014 City",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 0,
             "color_identity": "C",
@@ -3031,7 +3031,7 @@
         {
             "card_name": "The Spire \u2014 Exordium",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 0,
             "color_identity": "C",
@@ -3049,7 +3049,7 @@
         {
             "card_name": "Construct",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Artifact Creature \u2014 Construct",
             "number": 98,
             "color_identity": "U",
@@ -3067,7 +3067,7 @@
         {
             "card_name": "Thief",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Rogue",
             "number": 218,
             "color_identity": "B",
@@ -3085,7 +3085,7 @@
         {
             "card_name": "Warrior",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Warrior",
             "number": 298,
             "color_identity": "R",
@@ -3103,7 +3103,7 @@
         {
             "card_name": "Hill Giant",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Giant",
             "number": 255,
             "color_identity": "R",
@@ -3121,7 +3121,7 @@
         {
             "card_name": "Family",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 317,
             "color_identity": "WG",
@@ -3149,7 +3149,7 @@
         {
             "card_name": "Reclaimed Construct",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct",
             "number": 347,
             "color_identity": "G",
@@ -3167,7 +3167,7 @@
         {
             "card_name": "Bess, Standard Power Level",
             "color": "WG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Druid",
             "number": 390,
             "color_identity": "WG",
@@ -3185,7 +3185,7 @@
         {
             "card_name": "Somnific Stronghold",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Wall",
             "number": 78,
             "color_identity": "W",
@@ -3203,7 +3203,7 @@
         {
             "card_name": "Ceaseless Corpse",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie",
             "number": 151,
             "color_identity": "B",
@@ -3221,7 +3221,7 @@
         {
             "card_name": "Punishment",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 476,
             "color_identity": "WR",
@@ -3239,7 +3239,7 @@
         {
             "card_name": "Raise the Stakes",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Saga",
             "number": 478,
             "color_identity": "UR",
@@ -3257,7 +3257,7 @@
         {
             "card_name": "Trading Card",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Joker",
             "number": 511,
             "color_identity": "UR",
@@ -3275,7 +3275,7 @@
         {
             "card_name": "Brute Denial",
             "color": "RG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 531,
             "color_identity": "RG",
@@ -3293,7 +3293,7 @@
         {
             "card_name": "Old Wooden Shield",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 567,
             "color_identity": "C",
@@ -3311,7 +3311,7 @@
         {
             "card_name": "shit. lets be santa",
             "color": "UG",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Snow Enchantment \u2014 Saga",
             "number": 495,
             "color_identity": "UG",
@@ -3329,7 +3329,7 @@
         {
             "card_name": "Bloodletter",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Demon",
             "number": 231,
             "color_identity": "R",
@@ -3347,7 +3347,7 @@
         {
             "card_name": "Blue Horrors",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Demon",
             "number": 91,
             "color_identity": "U",
@@ -3365,7 +3365,7 @@
         {
             "card_name": "Chaos Marine",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Astartes",
             "number": 152,
             "color_identity": "B",
@@ -3383,7 +3383,7 @@
         {
             "card_name": "Herald of Slaanesh",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Demon",
             "number": 176,
             "color_identity": "B",
@@ -3401,7 +3401,7 @@
         {
             "card_name": "Open the Cicatrix Maledictum",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 194,
             "color_identity": "B",
@@ -3419,7 +3419,7 @@
         {
             "card_name": "Plaguebearer",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Demon",
             "number": 339,
             "color_identity": "G",
@@ -3437,7 +3437,7 @@
         {
             "card_name": "The Fall of Cadia",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Battle \u2014 Siege",
             "number": 166,
             "color_identity": "B",
@@ -3455,7 +3455,7 @@
         {
             "card_name": "The Ball",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Artifact \u2014 Ball",
             "number": 539,
             "color_identity": "C",
@@ -3473,7 +3473,7 @@
         {
             "card_name": "Wily Opposur",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Possum Beastie",
             "number": 374,
             "color_identity": "G",
@@ -3491,7 +3491,7 @@
         {
             "card_name": "Arcane Misclassification",
             "color": "UR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Kindred Enchantment \u2014 Shapeshifter",
             "number": 386,
             "color_identity": "UR",
@@ -3509,7 +3509,7 @@
         {
             "card_name": "Forge-God's Blessing",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 428,
             "color_identity": "WR",
@@ -3527,7 +3527,7 @@
         {
             "card_name": "Gitrog, Plane Consumer",
             "color": "BG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Frog Horror",
             "number": 432,
             "color_identity": "BG",
@@ -3545,7 +3545,7 @@
         {
             "card_name": "Hadriel, Mage Hunter",
             "color": "WUB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Warrior",
             "number": 437,
             "color_identity": "WUB",
@@ -3563,7 +3563,7 @@
         {
             "card_name": "Verdant Warden",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Plant Elemental",
             "number": 370,
             "color_identity": "G",
@@ -3581,7 +3581,7 @@
         {
             "card_name": "Achlys, Cosmic Decay",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Avatar",
             "number": 378,
             "color_identity": "UB",
@@ -3609,7 +3609,7 @@
         {
             "card_name": "Angel of the Wilds",
             "color": "WG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Creature \u2014 Angel Druid",
             "number": 384,
             "color_identity": "WG",
@@ -3627,7 +3627,7 @@
         {
             "card_name": "Haroldt, Expert Marksman",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Giant",
             "number": 254,
             "color_identity": "R",
@@ -3645,7 +3645,7 @@
         {
             "card_name": "Whisperer of the Damned",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Warlock",
             "number": 523,
             "color_identity": "UB",
@@ -3663,7 +3663,7 @@
         {
             "card_name": "Temporal Explorer",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Elf Wizard",
             "number": 135,
             "color_identity": "U",
@@ -3681,7 +3681,7 @@
         {
             "card_name": "Paint Over",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 196,
             "color_identity": "B",
@@ -3699,7 +3699,7 @@
         {
             "card_name": "Eirya, Dragonbinder",
             "color": "UR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Eirya",
             "number": 412,
             "color_identity": "UR",
@@ -3717,7 +3717,7 @@
         {
             "card_name": "Scintillating Pattern",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 75,
             "color_identity": "W",
@@ -3735,7 +3735,7 @@
         {
             "card_name": "Mordenkainen's Disjunction",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 119,
             "color_identity": "U",
@@ -3753,7 +3753,7 @@
         {
             "card_name": "Black Blade of Disaster",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 150,
             "color_identity": "B",
@@ -3771,7 +3771,7 @@
         {
             "card_name": "Isaac's Greater Missile Storm",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 260,
             "color_identity": "R",
@@ -3789,7 +3789,7 @@
         {
             "card_name": "Halaster's Fetch",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 324,
             "color_identity": "G",
@@ -3807,7 +3807,7 @@
         {
             "card_name": "Ulamog, Invader of Segovia",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Eldrazi",
             "number": 21,
             "color_identity": "C",
@@ -3825,7 +3825,7 @@
         {
             "card_name": "Jyn, Savior of the Balin",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Soldier",
             "number": 52,
             "color_identity": "W",
@@ -3843,7 +3843,7 @@
         {
             "card_name": "Gwent, Ashheart Butcher",
             "color": "WBR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Vampire Warrior",
             "number": 435,
             "color_identity": "WBR",
@@ -3861,7 +3861,7 @@
         {
             "card_name": "Sorynth, Blade of Oona",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Faerie Soldier",
             "number": 501,
             "color_identity": "UB",
@@ -3879,7 +3879,7 @@
         {
             "card_name": "Talion, Fae Despot",
             "color": "UB",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Faerie Noble",
             "number": 505,
             "color_identity": "UB",
@@ -3897,7 +3897,7 @@
         {
             "card_name": "Princess Celestia",
             "color": "W",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Alicorn Noble",
             "number": 68,
             "color_identity": "W",
@@ -3915,7 +3915,7 @@
         {
             "card_name": "Seabed Lurker",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Merfolk",
             "number": 127,
             "color_identity": "U",
@@ -3933,7 +3933,7 @@
         {
             "card_name": "Dreambound Existence",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 162,
             "color_identity": "B",
@@ -3951,7 +3951,7 @@
         {
             "card_name": "Princess Luna",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Alicorn Noble",
             "number": 199,
             "color_identity": "B",
@@ -3969,7 +3969,7 @@
         {
             "card_name": "Roughscale Frontliner",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Lizard Warrior",
             "number": 285,
             "color_identity": "R",
@@ -3987,7 +3987,7 @@
         {
             "card_name": "Kwak, Lushmarsh Escort",
             "color": "URG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Frog",
             "number": 449,
             "color_identity": "URG",
@@ -4005,7 +4005,7 @@
         {
             "card_name": "Trigger the End",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 514,
             "color_identity": "UR",
@@ -4023,7 +4023,7 @@
         {
             "card_name": "Leonardo, Fearless Leader",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Turtle Mutant Ninja",
             "number": 54,
             "color_identity": "W",
@@ -4041,7 +4041,7 @@
         {
             "card_name": "Donatello, Genius Gadgeteer",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Turtle Mutant Ninja",
             "number": 103,
             "color_identity": "U",
@@ -4059,7 +4059,7 @@
         {
             "card_name": "Raphael, Cynical Bruiser",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Turtle Mutant Ninja",
             "number": 282,
             "color_identity": "R",
@@ -4077,7 +4077,7 @@
         {
             "card_name": "Michelangelo, Pizza Enthusiast",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Turtle Mutant Ninja",
             "number": 334,
             "color_identity": "G",
@@ -4095,7 +4095,7 @@
         {
             "card_name": "Power of Friendship",
             "color": "WUBRG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 474,
             "color_identity": "WUBRG",
@@ -4113,7 +4113,7 @@
         {
             "card_name": "Crushing Expectations",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 157,
             "color_identity": "B",
@@ -4131,7 +4131,7 @@
         {
             "card_name": "Fickle Temperament",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 246,
             "color_identity": "R",
@@ -4149,7 +4149,7 @@
         {
             "card_name": "Hiding Behind Numbers",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 110,
             "color_identity": "U",
@@ -4167,7 +4167,7 @@
         {
             "card_name": "Lonely Worries",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 57,
             "color_identity": "W",
@@ -4185,7 +4185,7 @@
         {
             "card_name": "Unsteady Resolve",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 367,
             "color_identity": "G",
@@ -4203,7 +4203,7 @@
         {
             "card_name": "Airi, Ordinary Girl",
             "color": "W",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Citizen",
             "number": 26,
             "color_identity": "W",
@@ -4231,7 +4231,7 @@
         {
             "card_name": "Chika, Top of the Class",
             "color": "U",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Citizen",
             "number": 96,
             "color_identity": "U",
@@ -4259,7 +4259,7 @@
         {
             "card_name": "Eiko, Student Council President",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Citizen",
             "number": 164,
             "color_identity": "B",
@@ -4287,7 +4287,7 @@
         {
             "card_name": "Miho, Ikebana Virtuoso",
             "color": "G",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Citizen",
             "number": 335,
             "color_identity": "G",
@@ -4315,7 +4315,7 @@
         {
             "card_name": "Noa, Feared Delinquent",
             "color": "R",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Citizen",
             "number": 274,
             "color_identity": "R",
@@ -4343,7 +4343,7 @@
         {
             "card_name": "Clive, Symphony of the Seas",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Whale Bard",
             "number": 97,
             "color_identity": "U",
@@ -4361,7 +4361,7 @@
         {
             "card_name": "Kaito's Technique",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 116,
             "color_identity": "U",
@@ -4379,7 +4379,7 @@
         {
             "card_name": "Dyer, King of Rhymes",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Tiefling Bard",
             "number": 411,
             "color_identity": "UR",
@@ -4397,7 +4397,7 @@
         {
             "card_name": "Highcity Express",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 562,
             "color_identity": "C",
@@ -4415,7 +4415,7 @@
         {
             "card_name": "Song of the Summer",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 79,
             "color_identity": "W",
@@ -4433,7 +4433,7 @@
         {
             "card_name": "Moresso, Paragon of Harmony",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Elemental",
             "number": 16,
             "color_identity": "WUBRG",
@@ -4451,7 +4451,7 @@
         {
             "card_name": "Legion's Echo",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Horror",
             "number": 185,
             "color_identity": "B",
@@ -4469,7 +4469,7 @@
         {
             "card_name": "Surge Protector",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Construct",
             "number": 573,
             "color_identity": "U",
@@ -4487,7 +4487,7 @@
         {
             "card_name": "Chevalier Ros\u00e9",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Rebel Knight Survivor",
             "number": 29,
             "color_identity": "W",
@@ -4505,7 +4505,7 @@
         {
             "card_name": "Dryad of Dusk's Whisper",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment Creature \u2014 Nymph Dryad",
             "number": 310,
             "color_identity": "G",
@@ -4523,7 +4523,7 @@
         {
             "card_name": "Eyes Agape",
             "color": "UB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 421,
             "color_identity": "UB",
@@ -4541,7 +4541,7 @@
         {
             "card_name": "Gentle Jackalope",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment Creature \u2014 Rabbit Beast",
             "number": 40,
             "color_identity": "W",
@@ -4559,7 +4559,7 @@
         {
             "card_name": "Chase the Blinding Sun",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Saga",
             "number": 28,
             "color_identity": "W",
@@ -4577,7 +4577,7 @@
         {
             "card_name": "Chase the Shifting Moon",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Saga",
             "number": 95,
             "color_identity": "U",
@@ -4595,7 +4595,7 @@
         {
             "card_name": "Pierce the Cosmos",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Saga",
             "number": 276,
             "color_identity": "R",
@@ -4613,7 +4613,7 @@
         {
             "card_name": "Industrious Assembly",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Fortification",
             "number": 257,
             "color_identity": "R",
@@ -4631,7 +4631,7 @@
         {
             "card_name": "Lodged Base Camp",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Fortification",
             "number": 332,
             "color_identity": "G",
@@ -4649,7 +4649,7 @@
         {
             "card_name": "Popup Venue",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Fortification",
             "number": 66,
             "color_identity": "W",
@@ -4667,7 +4667,7 @@
         {
             "card_name": "Twilight Festival",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact \u2014 Fortification",
             "number": 220,
             "color_identity": "B",
@@ -4685,7 +4685,7 @@
         {
             "card_name": "Unfettered Observatory",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Fortification",
             "number": 139,
             "color_identity": "U",
@@ -4703,7 +4703,7 @@
         {
             "card_name": "Quickshot Pathfinder",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 279,
             "color_identity": "R",
@@ -4721,7 +4721,7 @@
         {
             "card_name": "Freightyard Shipper",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 556,
             "color_identity": "C",
@@ -4739,7 +4739,7 @@
         {
             "card_name": "Urahana, Utopian Fleet",
             "color": "W",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2014 Vehicle",
             "number": 85,
             "color_identity": "W",
@@ -4757,7 +4757,7 @@
         {
             "card_name": "Arborist Treehouse",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Enchantment \u2014 Realm",
             "number": 302,
             "color_identity": "G",
@@ -4775,7 +4775,7 @@
         {
             "card_name": "Cult Compound",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Enchantment \u2014 Realm",
             "number": 158,
             "color_identity": "B",
@@ -4793,7 +4793,7 @@
         {
             "card_name": "Machinist Library",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Enchantment \u2014 Realm",
             "number": 118,
             "color_identity": "U",
@@ -4811,7 +4811,7 @@
         {
             "card_name": "Everflaming Ruins",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land",
             "number": 588,
             "color_identity": "R",
@@ -4829,7 +4829,7 @@
         {
             "card_name": "Lethal Wetlands",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land",
             "number": 598,
             "color_identity": "B",
@@ -4847,7 +4847,7 @@
         {
             "card_name": "Mage School",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Enchantment \u2014 Realm",
             "number": 270,
             "color_identity": "R",
@@ -4865,7 +4865,7 @@
         {
             "card_name": "Oogey Boogey",
             "color": "BG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Insect Shaman",
             "number": 466,
             "color_identity": "BG",
@@ -4883,7 +4883,7 @@
         {
             "card_name": "Overgrown Grove",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land",
             "number": 603,
             "color_identity": "G",
@@ -4901,7 +4901,7 @@
         {
             "card_name": "Takeoff Lake",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land",
             "number": 607,
             "color_identity": "U",
@@ -4919,7 +4919,7 @@
         {
             "card_name": "The Barracks",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Enchantment \u2014 Realm",
             "number": 27,
             "color_identity": "W",
@@ -4937,7 +4937,7 @@
         {
             "card_name": "The Earthsoul's Shrine",
             "color": "G",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 312,
             "color_identity": "G",
@@ -4955,7 +4955,7 @@
         {
             "card_name": "The Godsoul's Spire",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 173,
             "color_identity": "B",
@@ -4973,7 +4973,7 @@
         {
             "card_name": "The Lifesoul's Pearl",
             "color": "W",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 56,
             "color_identity": "W",
@@ -4991,7 +4991,7 @@
         {
             "card_name": "The Runesoul's Bauble",
             "color": "R",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 287,
             "color_identity": "R",
@@ -5009,7 +5009,7 @@
         {
             "card_name": "The Truthsoul's Diamond",
             "color": "U",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 138,
             "color_identity": "U",
@@ -5027,7 +5027,7 @@
         {
             "card_name": "Wartorn Flatlands",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land",
             "number": 612,
             "color_identity": "W",
@@ -5045,7 +5045,7 @@
         {
             "card_name": "Godskin Vessel",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2014 Equipment",
             "number": 557,
             "color_identity": "C",
@@ -5063,7 +5063,7 @@
         {
             "card_name": "Playful Peekytoe",
             "color": "UG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Crab Mutant",
             "number": 473,
             "color_identity": "UG",
@@ -5081,7 +5081,7 @@
         {
             "card_name": "Quest for the Lost King",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 202,
             "color_identity": "B",
@@ -5099,7 +5099,7 @@
         {
             "card_name": "Nowhere to Be Found",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 62,
             "color_identity": "W",
@@ -5117,7 +5117,7 @@
         {
             "card_name": "Pentakill!",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 198,
             "color_identity": "B",
@@ -5135,7 +5135,7 @@
         {
             "card_name": "Karthus, the Deathsinger",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Spirit Warlock",
             "number": 182,
             "color_identity": "B",
@@ -5153,7 +5153,7 @@
         {
             "card_name": "Crackling Fury",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 238,
             "color_identity": "R",
@@ -5171,7 +5171,7 @@
         {
             "card_name": "Awake at Last",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 90,
             "color_identity": "U",
@@ -5189,7 +5189,7 @@
         {
             "card_name": "Judicial Scholar",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Advisor",
             "number": 51,
             "color_identity": "W",
@@ -5207,7 +5207,7 @@
         {
             "card_name": "Heartthrob Idol",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Bard",
             "number": 438,
             "color_identity": "UR",
@@ -5225,7 +5225,7 @@
         {
             "card_name": "Abscond",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 89,
             "color_identity": "U",
@@ -5243,7 +5243,7 @@
         {
             "card_name": "Aetherborn Wanderer",
             "color": "BR",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Aetherborn Rogue",
             "number": 380,
             "color_identity": "BR",
@@ -5261,7 +5261,7 @@
         {
             "card_name": "Aethertortoise",
             "color": "UG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Turtle",
             "number": 381,
             "color_identity": "UG",
@@ -5279,7 +5279,7 @@
         {
             "card_name": "Beautiful Bee Holder",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Druid",
             "number": 304,
             "color_identity": "G",
@@ -5297,7 +5297,7 @@
         {
             "card_name": "Brutish Investigator",
             "color": "UG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Crocodile Detective",
             "number": 396,
             "color_identity": "UG",
@@ -5315,7 +5315,7 @@
         {
             "card_name": "Caldera Corral",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Land \u2014 Island Mountain",
             "number": 584,
             "color_identity": "UR",
@@ -5333,7 +5333,7 @@
         {
             "card_name": "Canopy Community",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land \u2014 Forest",
             "number": 585,
             "color_identity": "G",
@@ -5351,7 +5351,7 @@
         {
             "card_name": "Careless Fireball",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 233,
             "color_identity": "R",
@@ -5369,7 +5369,7 @@
         {
             "card_name": "Cherished Skypilot",
             "color": "WR",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Dwarf Pilot",
             "number": 399,
             "color_identity": "WR",
@@ -5387,7 +5387,7 @@
         {
             "card_name": "Civilization's Pride",
             "color": "WUB",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 400,
             "color_identity": "WUB",
@@ -5405,7 +5405,7 @@
         {
             "card_name": "Cold-Blood Colossus",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Lizard Giant",
             "number": 307,
             "color_identity": "G",
@@ -5423,7 +5423,7 @@
         {
             "card_name": "Consulate Old Guard",
             "color": "BG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Advisor",
             "number": 402,
             "color_identity": "BG",
@@ -5441,7 +5441,7 @@
         {
             "card_name": "Corrupted Deluge",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 156,
             "color_identity": "B",
@@ -5459,7 +5459,7 @@
         {
             "card_name": "Domesticate",
             "color": "WG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 408,
             "color_identity": "WG",
@@ -5477,7 +5477,7 @@
         {
             "card_name": "Double-Dip",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 242,
             "color_identity": "R",
@@ -5495,7 +5495,7 @@
         {
             "card_name": "Drake Incubator",
             "color": "WU",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 409,
             "color_identity": "WU",
@@ -5513,7 +5513,7 @@
         {
             "card_name": "Dutiful Father",
             "color": "WG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Lizard Soldier",
             "number": 410,
             "color_identity": "WG",
@@ -5531,7 +5531,7 @@
         {
             "card_name": "Dying to Get In",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 163,
             "color_identity": "B",
@@ -5549,7 +5549,7 @@
         {
             "card_name": "Eidolon of Ceaseless Hope",
             "color": "WB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment Creature \u2014 Spirit",
             "number": 2,
             "color_identity": "WB",
@@ -5567,7 +5567,7 @@
         {
             "card_name": "Elvish Lifecatcher",
             "color": "WG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Elf Cleric",
             "number": 413,
             "color_identity": "WG",
@@ -5585,7 +5585,7 @@
         {
             "card_name": "Enlisted Dragon",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dragon",
             "number": 415,
             "color_identity": "WR",
@@ -5603,7 +5603,7 @@
         {
             "card_name": "Eos, Shifting Superscape",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 587,
             "color_identity": "C",
@@ -5621,7 +5621,7 @@
         {
             "card_name": "Eureka Moment",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 417,
             "color_identity": "UR",
@@ -5639,7 +5639,7 @@
         {
             "card_name": "Fickle Raiments",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 551,
             "color_identity": "C",
@@ -5657,7 +5657,7 @@
         {
             "card_name": "Filigree Seer",
             "color": "UR",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Artificer",
             "number": 426,
             "color_identity": "UR",
@@ -5675,7 +5675,7 @@
         {
             "card_name": "Fore",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 536,
             "color_identity": "UR",
@@ -5703,7 +5703,7 @@
         {
             "card_name": "Forgotten Pharaoh",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Snake",
             "number": 37,
             "color_identity": "W",
@@ -5721,7 +5721,7 @@
         {
             "card_name": "From Death, Life",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 39,
             "color_identity": "W",
@@ -5739,7 +5739,7 @@
         {
             "card_name": "Greatlight Archangel",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Angel Cleric",
             "number": 44,
             "color_identity": "W",
@@ -5757,7 +5757,7 @@
         {
             "card_name": "Growthmoss",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Plant",
             "number": 323,
             "color_identity": "G",
@@ -5775,7 +5775,7 @@
         {
             "card_name": "Hare Plane Squadron",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 560,
             "color_identity": "C",
@@ -5793,7 +5793,7 @@
         {
             "card_name": "Head",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 537,
             "color_identity": "UB",
@@ -5821,7 +5821,7 @@
         {
             "card_name": "Hedge",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 377,
             "color_identity": "G",
@@ -5849,7 +5849,7 @@
         {
             "card_name": "Hide Armor",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 561,
             "color_identity": "U",
@@ -5867,7 +5867,7 @@
         {
             "card_name": "Homarid Hostel",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land \u2014 Island",
             "number": 596,
             "color_identity": "U",
@@ -5885,7 +5885,7 @@
         {
             "card_name": "Home",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 538,
             "color_identity": "WU",
@@ -5913,7 +5913,7 @@
         {
             "card_name": "Indigo Revolutionary",
             "color": "RG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Warrior",
             "number": 444,
             "color_identity": "RG",
@@ -5931,7 +5931,7 @@
         {
             "card_name": "It Just Doesn't Make Sense",
             "color": "W",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 50,
             "color_identity": "W",
@@ -5949,7 +5949,7 @@
         {
             "card_name": "Joraga Warmaster",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Elf Warrior",
             "number": 329,
             "color_identity": "G",
@@ -5967,7 +5967,7 @@
         {
             "card_name": "Kaitha, Liberated Dragon",
             "color": "R",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Elder Dragon",
             "number": 263,
             "color_identity": "R",
@@ -5985,7 +5985,7 @@
         {
             "card_name": "Kei Monk Disciple",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Ape Monk",
             "number": 264,
             "color_identity": "R",
@@ -6003,7 +6003,7 @@
         {
             "card_name": "Kobold Baron",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Kobold Noble",
             "number": 265,
             "color_identity": "R",
@@ -6021,7 +6021,7 @@
         {
             "card_name": "Lilis, Amateur Cartographer",
             "color": "URG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Scout",
             "number": 451,
             "color_identity": "URG",
@@ -6039,7 +6039,7 @@
         {
             "card_name": "Lion Sphinx",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Sphinx",
             "number": 117,
             "color_identity": "U",
@@ -6057,7 +6057,7 @@
         {
             "card_name": "Loot the Relics",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 269,
             "color_identity": "R",
@@ -6075,7 +6075,7 @@
         {
             "card_name": "Magma Meeting House",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land \u2014 Mountain",
             "number": 599,
             "color_identity": "R",
@@ -6093,7 +6093,7 @@
         {
             "card_name": "Mangrove Motel",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Land \u2014 Forest Island",
             "number": 600,
             "color_identity": "UG",
@@ -6111,7 +6111,7 @@
         {
             "card_name": "Menagerie Master",
             "color": "WG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Bard",
             "number": 455,
             "color_identity": "WG",
@@ -6129,7 +6129,7 @@
         {
             "card_name": "Mistmonk Disciple",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Monk",
             "number": 59,
             "color_identity": "W",
@@ -6147,7 +6147,7 @@
         {
             "card_name": "Nature's Pride",
             "color": "BRG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 458,
             "color_identity": "BRG",
@@ -6165,7 +6165,7 @@
         {
             "card_name": "New Assembly Automatom",
             "color": "WU",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Assembly-Worker",
             "number": 460,
             "color_identity": "WU",
@@ -6183,7 +6183,7 @@
         {
             "card_name": "Novice Lich",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Cleric",
             "number": 464,
             "color_identity": "WB",
@@ -6201,7 +6201,7 @@
         {
             "card_name": "On Stranger Tides",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 193,
             "color_identity": "UB",
@@ -6219,7 +6219,7 @@
         {
             "card_name": "Open-Grave Opportunist",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Rogue",
             "number": 195,
             "color_identity": "B",
@@ -6237,7 +6237,7 @@
         {
             "card_name": "Prayer of Peace",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 67,
             "color_identity": "W",
@@ -6265,7 +6265,7 @@
         {
             "card_name": "Profane Choice",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 200,
             "color_identity": "B",
@@ -6293,7 +6293,7 @@
         {
             "card_name": "Rain Deer's Blessing",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 124,
             "color_identity": "U",
@@ -6311,7 +6311,7 @@
         {
             "card_name": "Recomissioning Station",
             "color": "WB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 479,
             "color_identity": "WB",
@@ -6329,7 +6329,7 @@
         {
             "card_name": "Redglade Silencer",
             "color": "BG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Elf Rogue",
             "number": 481,
             "color_identity": "BG",
@@ -6347,7 +6347,7 @@
         {
             "card_name": "Reignite",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 283,
             "color_identity": "R",
@@ -6365,7 +6365,7 @@
         {
             "card_name": "Resist a Rest",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 72,
             "color_identity": "W",
@@ -6383,7 +6383,7 @@
         {
             "card_name": "Righteous Wind-Warden",
             "color": "WG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Angel Warrior",
             "number": 486,
             "color_identity": "WG",
@@ -6401,7 +6401,7 @@
         {
             "card_name": "Scavenge the Spoils",
             "color": "UB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 488,
             "color_identity": "UB",
@@ -6419,7 +6419,7 @@
         {
             "card_name": "Scorch",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 288,
             "color_identity": "R",
@@ -6437,7 +6437,7 @@
         {
             "card_name": "Shadow-Wing Enforcer",
             "color": "WB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Angel Rogue",
             "number": 492,
             "color_identity": "WB",
@@ -6455,7 +6455,7 @@
         {
             "card_name": "Shatter the Storm",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 129,
             "color_identity": "U",
@@ -6473,7 +6473,7 @@
         {
             "card_name": "Shattered by the Storm",
             "color": "WB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 493,
             "color_identity": "WB",
@@ -6491,7 +6491,7 @@
         {
             "card_name": "Snailshell Shire",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Land \u2014 Mountain Forest",
             "number": 606,
             "color_identity": "RG",
@@ -6509,7 +6509,7 @@
         {
             "card_name": "Sphinx of Promise",
             "color": "WUG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Creature \u2014 Sphinx",
             "number": 502,
             "color_identity": "WUG",
@@ -6537,7 +6537,7 @@
         {
             "card_name": "Subtle Movements",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 134,
             "color_identity": "U",
@@ -6565,7 +6565,7 @@
         {
             "card_name": "Thunderclap",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 295,
             "color_identity": "R",
@@ -6593,7 +6593,7 @@
         {
             "card_name": "Time Flies",
             "color": "UB",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Creature \u2014 Insect",
             "number": 509,
             "color_identity": "UB",
@@ -6611,7 +6611,7 @@
         {
             "card_name": "Traitorous Impulse",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 296,
             "color_identity": "R",
@@ -6629,7 +6629,7 @@
         {
             "card_name": "Up to Something",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 141,
             "color_identity": "U",
@@ -6647,7 +6647,7 @@
         {
             "card_name": "Usurp",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 221,
             "color_identity": "B",
@@ -6665,7 +6665,7 @@
         {
             "card_name": "Vastwood Great-Elk",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Elk",
             "number": 368,
             "color_identity": "G",
@@ -6693,7 +6693,7 @@
         {
             "card_name": "Wandering Cataloguer",
             "color": "WG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Bard",
             "number": 522,
             "color_identity": "WG",
@@ -6711,7 +6711,7 @@
         {
             "card_name": "Zombie Grudgekeeper",
             "color": "BG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Warrior",
             "number": 528,
             "color_identity": "BG",
@@ -6729,7 +6729,7 @@
         {
             "card_name": "The Clocktower",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 0,
             "color_identity": "W",
@@ -6747,7 +6747,7 @@
         {
             "card_name": "Slithering Murklurker",
             "color": "UG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Snake",
             "number": 498,
             "color_identity": "UG",
@@ -6765,7 +6765,7 @@
         {
             "card_name": "Terror Treader",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Nightmare Elk",
             "number": 216,
             "color_identity": "B",
@@ -6783,7 +6783,7 @@
         {
             "card_name": "Wojek Blazebringer",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Soldier",
             "number": 525,
             "color_identity": "WR",
@@ -6801,7 +6801,7 @@
         {
             "card_name": "Balemurk Horrors",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 147,
             "color_identity": "B",
@@ -6819,7 +6819,7 @@
         {
             "card_name": "Benalia Occultist",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Warlock",
             "number": 148,
             "color_identity": "B",
@@ -6847,7 +6847,7 @@
         {
             "card_name": "Expired Crewmate",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Pirate",
             "number": 165,
             "color_identity": "B",
@@ -6865,7 +6865,7 @@
         {
             "card_name": "Gorgon's Sting",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 174,
             "color_identity": "B",
@@ -6883,7 +6883,7 @@
         {
             "card_name": "Invoke the Founders",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 181,
             "color_identity": "B",
@@ -6901,7 +6901,7 @@
         {
             "card_name": "Kotis's Herald",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Warrior",
             "number": 183,
             "color_identity": "B",
@@ -6929,7 +6929,7 @@
         {
             "card_name": "Legacy of the Raven Man",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 184,
             "color_identity": "B",
@@ -6947,7 +6947,7 @@
         {
             "card_name": "Liliana of House Vess",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Liliana",
             "number": 186,
             "color_identity": "B",
@@ -6965,7 +6965,7 @@
         {
             "card_name": "Mortality's Hymn",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 188,
             "color_identity": "B",
@@ -6983,7 +6983,7 @@
         {
             "card_name": "Professor Serafina Onyx",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 201,
             "color_identity": "B",
@@ -7001,7 +7001,7 @@
         {
             "card_name": "Kraul Recycler",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Insect Rogue",
             "number": 331,
             "color_identity": "G",
@@ -7019,7 +7019,7 @@
         {
             "card_name": "Map to Tarnation",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Map",
             "number": 333,
             "color_identity": "G",
@@ -7037,7 +7037,7 @@
         {
             "card_name": "Ranger's All-Aether",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 345,
             "color_identity": "G",
@@ -7055,7 +7055,7 @@
         {
             "card_name": "Rotten Mystic",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Druid",
             "number": 352,
             "color_identity": "BG",
@@ -7073,7 +7073,7 @@
         {
             "card_name": "Scour the Hauntwoods",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 354,
             "color_identity": "G",
@@ -7091,7 +7091,7 @@
         {
             "card_name": "Season of the Forager",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 355,
             "color_identity": "G",
@@ -7109,7 +7109,7 @@
         {
             "card_name": "Speedbrood Survey",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 358,
             "color_identity": "G",
@@ -7127,7 +7127,7 @@
         {
             "card_name": "Stalker of the Vale",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Squirrel Rogue",
             "number": 359,
             "color_identity": "BG",
@@ -7145,7 +7145,7 @@
         {
             "card_name": "Three Tree Seedsower",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Squirrel Druid",
             "number": 363,
             "color_identity": "G",
@@ -7163,7 +7163,7 @@
         {
             "card_name": "Vraska's Marauder",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Gorgon Assassin",
             "number": 371,
             "color_identity": "G",
@@ -7181,7 +7181,7 @@
         {
             "card_name": "Ygra's Unending Hunger",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 376,
             "color_identity": "G",
@@ -7199,7 +7199,7 @@
         {
             "card_name": "Gudul Ambush",
             "color": "BG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 434,
             "color_identity": "BG",
@@ -7217,7 +7217,7 @@
         {
             "card_name": "Lathril's Reclaimer",
             "color": "BG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Elf Assassin",
             "number": 450,
             "color_identity": "BG",
@@ -7235,7 +7235,7 @@
         {
             "card_name": "Phyrexia's Charm",
             "color": "BG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 471,
             "color_identity": "BG",
@@ -7253,7 +7253,7 @@
         {
             "card_name": "Vraska, the Stoneglarer",
             "color": "BG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Gorgon Assassin",
             "number": 520,
             "color_identity": "BG",
@@ -7271,7 +7271,7 @@
         {
             "card_name": "Gloomy Farmstead",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 595,
             "color_identity": "BG",
@@ -7289,7 +7289,7 @@
         {
             "card_name": "Profained Arbory",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Land \u2014 Swamp Forest",
             "number": 605,
             "color_identity": "BG",
@@ -7307,7 +7307,7 @@
         {
             "card_name": "Manifest",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature",
             "number": 15,
             "color_identity": "C",
@@ -7325,7 +7325,7 @@
         {
             "card_name": "Bird",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Bird",
             "number": 149,
             "color_identity": "B",
@@ -7343,7 +7343,7 @@
         {
             "card_name": "Zombie",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Zombie",
             "number": 225,
             "color_identity": "B",
@@ -7361,7 +7361,7 @@
         {
             "card_name": "Elf Warrior",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Elf Warrior",
             "number": 314,
             "color_identity": "G",
@@ -7379,7 +7379,7 @@
         {
             "card_name": "Clue",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Artifact \u2014 Clue",
             "number": 547,
             "color_identity": "C",
@@ -7397,7 +7397,7 @@
         {
             "card_name": "Food",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Artifact \u2014 Food",
             "number": 554,
             "color_identity": "C",
@@ -7415,7 +7415,7 @@
         {
             "card_name": "Grisly Retribution",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 175,
             "color_identity": "B",
@@ -7433,7 +7433,7 @@
         {
             "card_name": "Kallist Rhoka, Displaced Mind",
             "color": "WU",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 447,
             "color_identity": "WU",
@@ -7451,7 +7451,7 @@
         {
             "card_name": "Encrusted Aegisaur",
             "color": "RG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Dinosaur",
             "number": 414,
             "color_identity": "RG",
@@ -7469,7 +7469,7 @@
         {
             "card_name": "Etali and Ted, Ill-Fated Bond",
             "color": "WRG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Elder Dinosaur Capybara",
             "number": 416,
             "color_identity": "WRG",
@@ -7487,7 +7487,7 @@
         {
             "card_name": "Orazca Spire",
             "color": "WR",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 468,
             "color_identity": "WR",
@@ -7505,7 +7505,7 @@
         {
             "card_name": "Scion of Ted",
             "color": "WG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Capybara Cleric",
             "number": 489,
             "color_identity": "WG",
@@ -7523,7 +7523,7 @@
         {
             "card_name": "Ted, Peaceful Resolution",
             "color": "WG",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Capybara",
             "number": 507,
             "color_identity": "WG",
@@ -7541,7 +7541,7 @@
         {
             "card_name": "Frantic Shuffle",
             "color": "UR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 429,
             "color_identity": "UR",
@@ -7559,7 +7559,7 @@
         {
             "card_name": "Supernova",
             "color": "W",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 81,
             "color_identity": "W",
@@ -7577,7 +7577,7 @@
         {
             "card_name": "Seafloor Sensation",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Merfolk Performer",
             "number": 128,
             "color_identity": "U",
@@ -7595,7 +7595,7 @@
         {
             "card_name": "Sneaping Sneaker",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Weird",
             "number": 133,
             "color_identity": "U",
@@ -7613,7 +7613,7 @@
         {
             "card_name": "Arrival of the Legions",
             "color": "WR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 387,
             "color_identity": "WR",
@@ -7631,7 +7631,7 @@
         {
             "card_name": "A Tentacular Terror!",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Octopus",
             "number": 508,
             "color_identity": "UB",
@@ -7649,7 +7649,7 @@
         {
             "card_name": "Orbital Probe Cannon",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Artifact \u2014 Contraption",
             "number": 568,
             "color_identity": "C",
@@ -7667,7 +7667,7 @@
         {
             "card_name": "Flotsam, Cruel Informant",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Fish",
             "number": 106,
             "color_identity": "U",
@@ -7685,7 +7685,7 @@
         {
             "card_name": "Chef Louis",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human",
             "number": 153,
             "color_identity": "B",
@@ -7703,7 +7703,7 @@
         {
             "card_name": "Ursula, Atlantican Outcast",
             "color": "UB",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Octopus Merfolk Shaman",
             "number": 516,
             "color_identity": "UB",
@@ -7721,7 +7721,7 @@
         {
             "card_name": "Writhing Polyp",
             "color": "UB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Plant Spirit",
             "number": 527,
             "color_identity": "UB",
@@ -7739,7 +7739,7 @@
         {
             "card_name": "Ursula's Necklace",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 580,
             "color_identity": "C",
@@ -7757,7 +7757,7 @@
         {
             "card_name": "Boons of Olympus",
             "color": "WRG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 392,
             "color_identity": "WRG",
@@ -7775,7 +7775,7 @@
         {
             "card_name": "Dierk, Geistmage Genius",
             "color": "UBR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 407,
             "color_identity": "UBR",
@@ -7793,7 +7793,7 @@
         {
             "card_name": "Simon, the Red Prince",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Noble",
             "number": 291,
             "color_identity": "UR",
@@ -7821,7 +7821,7 @@
         {
             "card_name": "Blindside",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 230,
             "color_identity": "R",
@@ -7839,7 +7839,7 @@
         {
             "card_name": "Decipher the Message",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Battle \u2014 Challenge",
             "number": 101,
             "color_identity": "U",
@@ -7857,7 +7857,7 @@
         {
             "card_name": "Faces of the Game",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Plant",
             "number": 316,
             "color_identity": "G",
@@ -7875,7 +7875,7 @@
         {
             "card_name": "Hunt for Food",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 326,
             "color_identity": "G",
@@ -7893,7 +7893,7 @@
         {
             "card_name": "Leader of the Pack",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 268,
             "color_identity": "R",
@@ -7911,7 +7911,7 @@
         {
             "card_name": "Mounting Paranoia",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 189,
             "color_identity": "B",
@@ -7929,7 +7929,7 @@
         {
             "card_name": "Physical Superstar",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Gymbro",
             "number": 338,
             "color_identity": "G",
@@ -7947,7 +7947,7 @@
         {
             "card_name": "Return of the Outcasts",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 205,
             "color_identity": "B",
@@ -7965,7 +7965,7 @@
         {
             "card_name": "Shrine Keeper",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Plant",
             "number": 211,
             "color_identity": "B",
@@ -7983,7 +7983,7 @@
         {
             "card_name": "Team Flag",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 576,
             "color_identity": "C",
@@ -8001,7 +8001,7 @@
         {
             "card_name": "Team Player",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Monkey",
             "number": 83,
             "color_identity": "W",
@@ -8019,7 +8019,7 @@
         {
             "card_name": "The Pieces Fall Into Place",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Conspiracy",
             "number": 18,
             "color_identity": "C",
@@ -8037,7 +8037,7 @@
         {
             "card_name": "Tropical Storm",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 137,
             "color_identity": "U",
@@ -8055,7 +8055,7 @@
         {
             "card_name": "Trip to Exile Island",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 84,
             "color_identity": "W",
@@ -8073,7 +8073,7 @@
         {
             "card_name": "D-Reaper",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Creature \u2014 Digital Horror",
             "number": 13,
             "color_identity": "C",
@@ -8091,7 +8091,7 @@
         {
             "card_name": "Containment Contraption",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 403,
             "color_identity": "WR",
@@ -8109,7 +8109,7 @@
         {
             "card_name": "Stonescale Brontodon",
             "color": "G",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Creature \u2014 Dinosaur",
             "number": 360,
             "color_identity": "G",
@@ -8137,7 +8137,7 @@
         {
             "card_name": "Jin-Gitaxias, Restless Evolution",
             "color": "U",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Phyrexian Praetor",
             "number": 114,
             "color_identity": "U",
@@ -8155,7 +8155,7 @@
         {
             "card_name": "My Work Continues",
             "color": "",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Ongoing Scheme",
             "number": 17,
             "color_identity": "C",
@@ -8173,7 +8173,7 @@
         {
             "card_name": "Subaru's Immortality",
             "color": "WB",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 503,
             "color_identity": "WB",
@@ -8191,7 +8191,7 @@
         {
             "card_name": "Can Be Bought",
             "color": "BR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 535,
             "color_identity": "WBR",
@@ -8219,7 +8219,7 @@
         {
             "card_name": "Trainer Class",
             "color": "WR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Class",
             "number": 512,
             "color_identity": "WR",
@@ -8237,7 +8237,7 @@
         {
             "card_name": "Crucius, the Mad",
             "color": "WUB",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Sphinx",
             "number": 404,
             "color_identity": "WUB",
@@ -8255,7 +8255,7 @@
         {
             "card_name": "Kruphix of Endless Horizons",
             "color": "UG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Enchantment Creature \u2014 God",
             "number": 448,
             "color_identity": "UG",
@@ -8273,7 +8273,7 @@
         {
             "card_name": "Abathur",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Enchantment Creature \u2014 Insect",
             "number": 143,
             "color_identity": "B",
@@ -8291,7 +8291,7 @@
         {
             "card_name": "Nicol Bolas, Benevolent Tyrant",
             "color": "UBR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Bolas",
             "number": 461,
             "color_identity": "UBR",
@@ -8309,7 +8309,7 @@
         {
             "card_name": "Vallia's Kindness",
             "color": "WU",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 518,
             "color_identity": "WU",
@@ -8327,7 +8327,7 @@
         {
             "card_name": "All Will Kneel",
             "color": "",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Ongoing Scheme",
             "number": 11,
             "color_identity": "C",
@@ -8345,7 +8345,7 @@
         {
             "card_name": "Vallia Giftbringer",
             "color": "WUBRG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Elf",
             "number": 517,
             "color_identity": "WUBRG",
@@ -8363,7 +8363,7 @@
         {
             "card_name": "The Stars Obey My Every Whim",
             "color": "",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Scheme",
             "number": 20,
             "color_identity": "C",
@@ -8381,7 +8381,7 @@
         {
             "card_name": "Progress Stops at Naught",
             "color": "",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Ongoing Scheme",
             "number": 19,
             "color_identity": "C",
@@ -8399,7 +8399,7 @@
         {
             "card_name": "Captain Titus",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Astartes Warrior",
             "number": 397,
             "color_identity": "WR",
@@ -8417,7 +8417,7 @@
         {
             "card_name": "Bee and Puppycat",
             "color": "RG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Cyborg Dog Cat",
             "number": 389,
             "color_identity": "RG",
@@ -8435,7 +8435,7 @@
         {
             "card_name": "The Negate",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Instant",
             "number": 121,
             "color_identity": "U",
@@ -8453,7 +8453,7 @@
         {
             "card_name": "Cradle",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Enchantment \u2014 Aura",
             "number": 308,
             "color_identity": "G",
@@ -8471,7 +8471,7 @@
         {
             "card_name": "Talk to the Hand",
             "color": "WU",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Instant",
             "number": 506,
             "color_identity": "WU",
@@ -8489,7 +8489,7 @@
         {
             "card_name": "Locked In With Me",
             "color": "UB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 452,
             "color_identity": "UB",
@@ -8507,7 +8507,7 @@
         {
             "card_name": "Bridget's Yo-Yo",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 543,
             "color_identity": "C",
@@ -8525,7 +8525,7 @@
         {
             "card_name": "Clue",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Artifact \u2014 Clue",
             "number": 545,
             "color_identity": "C",
@@ -8543,7 +8543,7 @@
         {
             "card_name": "Human",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Human",
             "number": 47,
             "color_identity": "W",
@@ -8561,7 +8561,7 @@
         {
             "card_name": "Jonesy, the First",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Soldier",
             "number": 261,
             "color_identity": "R",
@@ -8579,7 +8579,7 @@
         {
             "card_name": "The Battle Bus",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2014 Vehicle",
             "number": 540,
             "color_identity": "C",
@@ -8597,7 +8597,7 @@
         {
             "card_name": "This is Cannon",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 294,
             "color_identity": "R",
@@ -8615,7 +8615,7 @@
         {
             "card_name": "Gold",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Artifact \u2014 Gold",
             "number": 558,
             "color_identity": "C",
@@ -8633,7 +8633,7 @@
         {
             "card_name": "Time Together",
             "color": "RG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 510,
             "color_identity": "RG",
@@ -8651,7 +8651,7 @@
         {
             "card_name": "The Fox Devil",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Fox Demon",
             "number": 169,
             "color_identity": "B",
@@ -8669,7 +8669,7 @@
         {
             "card_name": "Bridget, Freeform Spinner",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Minion",
             "number": 394,
             "color_identity": "UR",
@@ -8687,7 +8687,7 @@
         {
             "card_name": "Logan, the Weapon X",
             "color": "BR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Mutant Berserker Hero",
             "number": 453,
             "color_identity": "BR",
@@ -8705,7 +8705,7 @@
         {
             "card_name": "First Kiss",
             "color": "UR",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Saga",
             "number": 427,
             "color_identity": "UR",
@@ -8723,7 +8723,7 @@
         {
             "card_name": "No Fun Allowed",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 61,
             "color_identity": "W",
@@ -8741,7 +8741,7 @@
         {
             "card_name": "Nancy, the Crayfish",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Crab Fish",
             "number": 120,
             "color_identity": "U",
@@ -8759,7 +8759,7 @@
         {
             "card_name": "The Button",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 544,
             "color_identity": "C",
@@ -8777,7 +8777,7 @@
         {
             "card_name": "Brisket",
             "color": "UG",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 395,
             "color_identity": "UG",
@@ -8795,7 +8795,7 @@
         {
             "card_name": "Freja, the Sharpshooter",
             "color": "WU",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Ranger",
             "number": 430,
             "color_identity": "WU",
@@ -8813,7 +8813,7 @@
         {
             "card_name": "Should've Picked Mercy",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 210,
             "color_identity": "B",
@@ -8831,7 +8831,7 @@
         {
             "card_name": "Chandra, the Flame Tamer",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 234,
             "color_identity": "RG",
@@ -8859,7 +8859,7 @@
         {
             "card_name": "Into the Zone",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 49,
             "color_identity": "W",
@@ -8877,7 +8877,7 @@
         {
             "card_name": "I Got Fired Today",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 178,
             "color_identity": "B",
@@ -8895,7 +8895,7 @@
         {
             "card_name": "Victory Royale",
             "color": "WUBRG",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 519,
             "color_identity": "WUBRG",
@@ -8913,7 +8913,7 @@
         {
             "card_name": "Nissa, Nature's Animator",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Elf Scout",
             "number": 336,
             "color_identity": "RG",
@@ -8941,7 +8941,7 @@
         {
             "card_name": "Sponsorship Segment",
             "color": "B",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 214,
             "color_identity": "B",
@@ -8959,7 +8959,7 @@
         {
             "card_name": "Enemy",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 244,
             "color_identity": "R",
@@ -8987,7 +8987,7 @@
         {
             "card_name": "Ichiban Kasuga",
             "color": "WBR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Hero",
             "number": 443,
             "color_identity": "WBR",
@@ -9005,7 +9005,7 @@
         {
             "card_name": "Giant",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Giant",
             "number": 253,
             "color_identity": "R",
@@ -9033,7 +9033,7 @@
         {
             "card_name": "The Forty-Second Doctor",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Enchantment Creature \u2014 Saga Human Doctor",
             "number": 107,
             "color_identity": "U",
@@ -9051,7 +9051,7 @@
         {
             "card_name": "Shinichi Izumi, the Host",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Shapeshifter",
             "number": 209,
             "color_identity": "B",
@@ -9069,7 +9069,7 @@
         {
             "card_name": "Da Coconut Nut 2",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2014 Golem",
             "number": 548,
             "color_identity": "C",
@@ -9087,7 +9087,7 @@
         {
             "card_name": "Simon, the Ice King",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 496,
             "color_identity": "UB",
@@ -9105,7 +9105,7 @@
         {
             "card_name": "Nite Owl, the Vigilante",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Hero",
             "number": 463,
             "color_identity": "UB",
@@ -9123,7 +9123,7 @@
         {
             "card_name": "Just as Planned",
             "color": "WUG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 446,
             "color_identity": "WUG",
@@ -9141,7 +9141,7 @@
         {
             "card_name": "Gildedguy, the Invincible",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Stickfigure Knight",
             "number": 431,
             "color_identity": "WR",
@@ -9159,7 +9159,7 @@
         {
             "card_name": "Dragon",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Dragon",
             "number": 243,
             "color_identity": "R",
@@ -9187,7 +9187,7 @@
         {
             "card_name": "Here We Go Again",
             "color": "BR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 439,
             "color_identity": "BR",
@@ -9205,7 +9205,7 @@
         {
             "card_name": "Bugsnak",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Artifact Creature \u2014 Food Plant",
             "number": 306,
             "color_identity": "G",
@@ -9223,7 +9223,7 @@
         {
             "card_name": "Filbo Fiddlepie",
             "color": "UG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Grumpus Advisor",
             "number": 425,
             "color_identity": "UG",
@@ -9241,7 +9241,7 @@
         {
             "card_name": "Adamant Will",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 25,
             "color_identity": "W",
@@ -9259,7 +9259,7 @@
         {
             "card_name": "Aerial Crossbreed",
             "color": "WU",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 379,
             "color_identity": "WU",
@@ -9277,7 +9277,7 @@
         {
             "card_name": "Ancient Dogged",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Zombie Dog",
             "number": 145,
             "color_identity": "B",
@@ -9295,7 +9295,7 @@
         {
             "card_name": "Armoured Stray",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 303,
             "color_identity": "G",
@@ -9313,7 +9313,7 @@
         {
             "card_name": "Babbdi Bat",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
             "number": 228,
             "color_identity": "R",
@@ -9331,7 +9331,7 @@
         {
             "card_name": "Backstreet Racer",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Pilot",
             "number": 146,
             "color_identity": "B",
@@ -9349,7 +9349,7 @@
         {
             "card_name": "Cliffside Ritual",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 154,
             "color_identity": "B",
@@ -9367,7 +9367,7 @@
         {
             "card_name": "Composed Foxhound",
             "color": "BR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 401,
             "color_identity": "BR",
@@ -9385,7 +9385,7 @@
         {
             "card_name": "Cordial Invitation",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 155,
             "color_identity": "B",
@@ -9403,7 +9403,7 @@
         {
             "card_name": "Crabulous Cancrix",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Crab",
             "number": 99,
             "color_identity": "U",
@@ -9421,7 +9421,7 @@
         {
             "card_name": "Daring Dingo",
             "color": "RG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 406,
             "color_identity": "RG",
@@ -9439,7 +9439,7 @@
         {
             "card_name": "Dastardness",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 159,
             "color_identity": "B",
@@ -9457,7 +9457,7 @@
         {
             "card_name": "Defiant Strike",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 31,
             "color_identity": "W",
@@ -9475,7 +9475,7 @@
         {
             "card_name": "Demonic Tyke",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Demon Dog",
             "number": 161,
             "color_identity": "B",
@@ -9493,7 +9493,7 @@
         {
             "card_name": "Dick Dastardly and Muttley",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Dog Pilot",
             "number": 309,
             "color_identity": "G",
@@ -9511,7 +9511,7 @@
         {
             "card_name": "Disenchant",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 32,
             "color_identity": "W",
@@ -9529,7 +9529,7 @@
         {
             "card_name": "Divination",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 102,
             "color_identity": "U",
@@ -9547,7 +9547,7 @@
         {
             "card_name": "Diving Life-Lover",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 33,
             "color_identity": "W",
@@ -9565,7 +9565,7 @@
         {
             "card_name": "Dogged Hell-Beast",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 241,
             "color_identity": "R",
@@ -9583,7 +9583,7 @@
         {
             "card_name": "Dogged Samurai",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog Samurai",
             "number": 34,
             "color_identity": "W",
@@ -9601,7 +9601,7 @@
         {
             "card_name": "Endangered Beast",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Beast",
             "number": 315,
             "color_identity": "G",
@@ -9619,7 +9619,7 @@
         {
             "card_name": "Exuberant Mutt",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 420,
             "color_identity": "UR",
@@ -9637,7 +9637,7 @@
         {
             "card_name": "Familiar's Flight",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 104,
             "color_identity": "U",
@@ -9655,7 +9655,7 @@
         {
             "card_name": "Fiery Mongrel",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 247,
             "color_identity": "R",
@@ -9673,7 +9673,7 @@
         {
             "card_name": "Fiery Tail-Wagger",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 248,
             "color_identity": "R",
@@ -9691,7 +9691,7 @@
         {
             "card_name": "Flare of Glory",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 250,
             "color_identity": "R",
@@ -9709,7 +9709,7 @@
         {
             "card_name": "Floriferous Fangren",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Plant Spirit",
             "number": 318,
             "color_identity": "G",
@@ -9727,7 +9727,7 @@
         {
             "card_name": "Floriferous Fight",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 319,
             "color_identity": "G",
@@ -9745,7 +9745,7 @@
         {
             "card_name": "Floriferous Vine-Warrior",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Plant Warrior",
             "number": 320,
             "color_identity": "G",
@@ -9763,7 +9763,7 @@
         {
             "card_name": "Genial Pack",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 321,
             "color_identity": "G",
@@ -9781,7 +9781,7 @@
         {
             "card_name": "Ghastly Hellhound",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog Spirit",
             "number": 170,
             "color_identity": "B",
@@ -9799,7 +9799,7 @@
         {
             "card_name": "Ghoulish Supremacy",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Spirit Ghoul",
             "number": 171,
             "color_identity": "B",
@@ -9817,7 +9817,7 @@
         {
             "card_name": "Gilda",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 172,
             "color_identity": "B",
@@ -9835,7 +9835,7 @@
         {
             "card_name": "Gilda's Amity",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 41,
             "color_identity": "W",
@@ -9853,7 +9853,7 @@
         {
             "card_name": "Grab",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 43,
             "color_identity": "W",
@@ -9871,7 +9871,7 @@
         {
             "card_name": "Grappling Pacifist",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Octopus",
             "number": 109,
             "color_identity": "U",
@@ -9889,7 +9889,7 @@
         {
             "card_name": "High-Born Fido",
             "color": "WB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 440,
             "color_identity": "WB",
@@ -9907,7 +9907,7 @@
         {
             "card_name": "Holy Guardian",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Angel Cleric",
             "number": 46,
             "color_identity": "W",
@@ -9925,7 +9925,7 @@
         {
             "card_name": "Hot-Wheel Shark",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Shark",
             "number": 112,
             "color_identity": "U",
@@ -9943,7 +9943,7 @@
         {
             "card_name": "Hungry Flames",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 256,
             "color_identity": "R",
@@ -9961,7 +9961,7 @@
         {
             "card_name": "Hyperforge Ravager",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct Warrior",
             "number": 563,
             "color_identity": "C",
@@ -9979,7 +9979,7 @@
         {
             "card_name": "Ima",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 179,
             "color_identity": "B",
@@ -9997,7 +9997,7 @@
         {
             "card_name": "Insensitize",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 113,
             "color_identity": "U",
@@ -10015,7 +10015,7 @@
         {
             "card_name": "Invariable Eskimo",
             "color": "WG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 445,
             "color_identity": "WG",
@@ -10033,7 +10033,7 @@
         {
             "card_name": "Ironclad Animator",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct Warrior",
             "number": 564,
             "color_identity": "C",
@@ -10051,7 +10051,7 @@
         {
             "card_name": "Loyal Throne-Friend",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 58,
             "color_identity": "W",
@@ -10069,7 +10069,7 @@
         {
             "card_name": "Magic School",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 271,
             "color_identity": "R",
@@ -10087,7 +10087,7 @@
         {
             "card_name": "Maritte",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 273,
             "color_identity": "R",
@@ -10105,7 +10105,7 @@
         {
             "card_name": "Mischevious Dashchund",
             "color": "BG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 457,
             "color_identity": "BG",
@@ -10123,7 +10123,7 @@
         {
             "card_name": "Murder",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 190,
             "color_identity": "B",
@@ -10141,7 +10141,7 @@
         {
             "card_name": "Mystical Elf",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Elf Faerie Archer",
             "number": 60,
             "color_identity": "W",
@@ -10159,7 +10159,7 @@
         {
             "card_name": "Oakenform",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
             "number": 337,
             "color_identity": "G",
@@ -10177,7 +10177,7 @@
         {
             "card_name": "Peculiar Ghoul",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Spirit",
             "number": 123,
             "color_identity": "U",
@@ -10195,7 +10195,7 @@
         {
             "card_name": "Penelope Pitstop",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Pilot",
             "number": 63,
             "color_identity": "W",
@@ -10213,7 +10213,7 @@
         {
             "card_name": "Prudent Kuri",
             "color": "UG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 475,
             "color_identity": "UG",
@@ -10231,7 +10231,7 @@
         {
             "card_name": "Pyre's Price",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 278,
             "color_identity": "R",
@@ -10249,7 +10249,7 @@
         {
             "card_name": "Rabid Bite",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 342,
             "color_identity": "G",
@@ -10267,7 +10267,7 @@
         {
             "card_name": "Rabid Hound Dogs",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 280,
             "color_identity": "R",
@@ -10285,7 +10285,7 @@
         {
             "card_name": "Rain Dog",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 125,
             "color_identity": "U",
@@ -10303,7 +10303,7 @@
         {
             "card_name": "Return Anew",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 204,
             "color_identity": "B",
@@ -10321,7 +10321,7 @@
         {
             "card_name": "Revitalize",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 73,
             "color_identity": "W",
@@ -10339,7 +10339,7 @@
         {
             "card_name": "Robo Jouster",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct Warrior",
             "number": 284,
             "color_identity": "R",
@@ -10357,7 +10357,7 @@
         {
             "card_name": "Robo Rider",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct Warrior",
             "number": 350,
             "color_identity": "G",
@@ -10375,7 +10375,7 @@
         {
             "card_name": "Scrapforge Sentinel",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct Warrior",
             "number": 572,
             "color_identity": "C",
@@ -10393,7 +10393,7 @@
         {
             "card_name": "Shock",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 290,
             "color_identity": "R",
@@ -10411,7 +10411,7 @@
         {
             "card_name": "Shore Stampede",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 356,
             "color_identity": "G",
@@ -10429,7 +10429,7 @@
         {
             "card_name": "Skittish Retriever",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 497,
             "color_identity": "WR",
@@ -10447,7 +10447,7 @@
         {
             "card_name": "Slipstream Snare",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 130,
             "color_identity": "U",
@@ -10465,7 +10465,7 @@
         {
             "card_name": "Smash",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 212,
             "color_identity": "B",
@@ -10483,7 +10483,7 @@
         {
             "card_name": "Smoke on the Water",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Pilot",
             "number": 131,
             "color_identity": "U",
@@ -10501,7 +10501,7 @@
         {
             "card_name": "Sneaky Bitzer",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 499,
             "color_identity": "UB",
@@ -10519,7 +10519,7 @@
         {
             "card_name": "Sweet Racer",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Pilot",
             "number": 82,
             "color_identity": "W",
@@ -10537,7 +10537,7 @@
         {
             "card_name": "Tavern Scoundrel",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human",
             "number": 293,
             "color_identity": "R",
@@ -10555,7 +10555,7 @@
         {
             "card_name": "Three-Headed Hound",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Dog",
             "number": 136,
             "color_identity": "U",
@@ -10573,7 +10573,7 @@
         {
             "card_name": "Titanic Growth",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 364,
             "color_identity": "G",
@@ -10591,7 +10591,7 @@
         {
             "card_name": "Unsummon",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 140,
             "color_identity": "U",
@@ -10609,7 +10609,7 @@
         {
             "card_name": "Veil of the Past",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 369,
             "color_identity": "G",
@@ -10627,7 +10627,7 @@
         {
             "card_name": "Voltaic Fabricator",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct Warrior",
             "number": 582,
             "color_identity": "C",
@@ -10645,7 +10645,7 @@
         {
             "card_name": "Wacky Racer",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Pilot",
             "number": 372,
             "color_identity": "G",
@@ -10663,7 +10663,7 @@
         {
             "card_name": "White Dragon",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Dragon Spirit",
             "number": 142,
             "color_identity": "U",
@@ -10681,7 +10681,7 @@
         {
             "card_name": "Apostle of the Tower",
             "color": "UB",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Elf Wizard",
             "number": 385,
             "color_identity": "UB",
@@ -10709,7 +10709,7 @@
         {
             "card_name": "Bright Young Thing",
             "color": "UB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Homunculus Wizard",
             "number": 530,
             "color_identity": "UB",
@@ -10737,7 +10737,7 @@
         {
             "card_name": "Clue",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Artifact \u2014 Clue",
             "number": 546,
             "color_identity": "C",
@@ -10755,7 +10755,7 @@
         {
             "card_name": "Contigency Personnel",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Human",
             "number": 237,
             "color_identity": "R",
@@ -10773,7 +10773,7 @@
         {
             "card_name": "Cult Fascination",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 405,
             "color_identity": "UB",
@@ -10791,7 +10791,7 @@
         {
             "card_name": "Dissonant Murmurs",
             "color": "UB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 532,
             "color_identity": "UB",
@@ -10809,7 +10809,7 @@
         {
             "card_name": "Draining Labor",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land",
             "number": 586,
             "color_identity": "B",
@@ -10827,7 +10827,7 @@
         {
             "card_name": "Energy Pull Gun",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2014 Equipment",
             "number": 550,
             "color_identity": "C",
@@ -10845,7 +10845,7 @@
         {
             "card_name": "Experienced Lead Researcher",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Scientist",
             "number": 418,
             "color_identity": "WR",
@@ -10863,7 +10863,7 @@
         {
             "card_name": "Exploring the Tower of Mansus",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 419,
             "color_identity": "UB",
@@ -10881,7 +10881,7 @@
         {
             "card_name": "Foreseen Catastrophe",
             "color": "R",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 251,
             "color_identity": "WR",
@@ -10899,7 +10899,7 @@
         {
             "card_name": "Forge of Power",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Gateway",
             "number": 555,
             "color_identity": "B",
@@ -10927,7 +10927,7 @@
         {
             "card_name": "Frightened Researcher",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Scientist",
             "number": 38,
             "color_identity": "W",
@@ -10945,7 +10945,7 @@
         {
             "card_name": "Ghastly Aspirant",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment Creature \u2014 Spirit Wizard",
             "number": 108,
             "color_identity": "U",
@@ -10963,7 +10963,7 @@
         {
             "card_name": "Grail of Sensations",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Gateway",
             "number": 559,
             "color_identity": "U",
@@ -10991,7 +10991,7 @@
         {
             "card_name": "Infamous Physician",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Creature \u2014 Mutant Wizard",
             "number": 180,
             "color_identity": "B",
@@ -11019,7 +11019,7 @@
         {
             "card_name": "Irreplaceable Creativity",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Kindred Instant \u2014 Human",
             "number": 259,
             "color_identity": "WR",
@@ -11037,7 +11037,7 @@
         {
             "card_name": "Lantern of Enlightenment",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact \u2014 Gateway",
             "number": 565,
             "color_identity": "UB",
@@ -11065,7 +11065,7 @@
         {
             "card_name": "Mansus Elite Club",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Land",
             "number": 601,
             "color_identity": "B",
@@ -11083,7 +11083,7 @@
         {
             "card_name": "Morland Library",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 602,
             "color_identity": "U",
@@ -11101,7 +11101,7 @@
         {
             "card_name": "Occult Happenings Detective",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Human Wizard Detective",
             "number": 465,
             "color_identity": "UB",
@@ -11119,7 +11119,7 @@
         {
             "card_name": "Reinforced Spacedrill",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 71,
             "color_identity": "W",
@@ -11137,7 +11137,7 @@
         {
             "card_name": "Rejuvenating Extremophiles",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 482,
             "color_identity": "WR",
@@ -11155,7 +11155,7 @@
         {
             "card_name": "Self-Defense Weaponry",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 289,
             "color_identity": "R",
@@ -11183,7 +11183,7 @@
         {
             "card_name": "Self-Fulfilling Study",
             "color": "UB",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 533,
             "color_identity": "UB",
@@ -11201,7 +11201,7 @@
         {
             "card_name": "Steelheart Empath",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Human Construct",
             "number": 292,
             "color_identity": "R",
@@ -11219,7 +11219,7 @@
         {
             "card_name": "T.O.M. Intelligence Model",
             "color": "WR",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Artifact Planeswalker \u2014 T.OM.",
             "number": 504,
             "color_identity": "WR",
@@ -11237,7 +11237,7 @@
         {
             "card_name": "T.O.M. Nerve Implant",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Human Construct",
             "number": 574,
             "color_identity": "C",
@@ -11255,7 +11255,7 @@
         {
             "card_name": "Talent Welder",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct",
             "number": 575,
             "color_identity": "W",
@@ -11273,7 +11273,7 @@
         {
             "card_name": "Tour Ink Presenter",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct",
             "number": 579,
             "color_identity": "C",
@@ -11291,7 +11291,7 @@
         {
             "card_name": "Tower of Mansus",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 609,
             "color_identity": "UB",
@@ -11309,7 +11309,7 @@
         {
             "card_name": "Undertower Auction",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 610,
             "color_identity": "UB",
@@ -11327,7 +11327,7 @@
         {
             "card_name": "Whispering Dreams",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 224,
             "color_identity": "B",
@@ -11355,7 +11355,7 @@
         {
             "card_name": "Wizard",
             "color": "UB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2014 Wizard",
             "number": 524,
             "color_identity": "UB",
@@ -11373,7 +11373,7 @@
         {
             "card_name": "You Must Be Stopped",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 299,
             "color_identity": "R",
@@ -11391,7 +11391,7 @@
         {
             "card_name": "",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 9,
             "color_identity": "C",
@@ -11409,7 +11409,7 @@
         {
             "card_name": "",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 5,
             "color_identity": "C",
@@ -11427,7 +11427,7 @@
         {
             "card_name": "",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 6,
             "color_identity": "C",
@@ -11445,7 +11445,7 @@
         {
             "card_name": "",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 7,
             "color_identity": "C",
@@ -11463,7 +11463,7 @@
         {
             "card_name": "",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 4,
             "color_identity": "C",
@@ -11481,7 +11481,7 @@
         {
             "card_name": "",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 8,
             "color_identity": "C",
@@ -11499,7 +11499,7 @@
         {
             "card_name": "",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "",
             "number": 10,
             "color_identity": "C",

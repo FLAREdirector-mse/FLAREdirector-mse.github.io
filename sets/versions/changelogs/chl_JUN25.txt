@@ -1,4 +1,1326 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+The Final Star
+
+Joyride Jester
+
+Paint By Numbers
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Balancing Equations
+Puzzle
+
+When you remove both a +1/+1 counter and a -1/-1 counter from a creature in the same turn, solve this Puzzle.
+
+When you solve this Puzzle, draw two cards.
+
+Bobo's Balloon Buggy
+
+Hungry Freebooter
+
+Shelter in Kelp
+
+Undefeated
+
+Goral, of Journey's End
+
+Ride the Clouds
+
+Sensei of Dirty Tricks
+
+Unvanquished One
+rules_text: Menace
+Renown 1 [i](When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned. +1/+1 and -1/-1 counters cancel each other out.)[/i]
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i] => Menace
+Renown 2 [i](When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned. +1/+1 and -1/-1 counters cancel each other out.)[/i]
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+
+Blocked Lotus
+
+Operation Snake Eater
+
+RAY Deployment
+
+Vulcan Raven
+
+Anger of the Forebearers
+
+Curse of the Fell
+
+Ornithicera, Fell Sealed
+
+Rise of the Decayed
+
+Saurian Zombie
+
+The Transcendent One
+
+Azula, Storm Prodigy
+
+Hacan Command
+
+Worship at the Underhive
+
+Channeler of Unreality
+
+Hypnic Jerk
+
+Prime Fear
+
+Recurring Theme
+
+Spiralling Thoughts
+
+Brazen Adventure-Fae
+
+Butterfly Salesfae
+
+Faerie Ring Dance
+
+Flashy-Winged Faerie
+
+Rambling Warmount
+
+Sleepy Seelie
+
+Solitary Storm Sorceress
+
+Tome of Tales
+
+Twigwing
+
+Unlikely Acquaintance
+
+Whimsical Proportions
+
+Wondrous Tree
+
+Human Werewolf
+
+Yak
+
+Gnome Nomad
+
+Werewolf
+
+Abzan Kin-Foster
+
+Guardian's Oath
+
+Life's Scintille
+
+Pluck
+
+Sandwretch Crofter
+
+Woodfenn Forager
+
+Hightail Robbery
+
+On Strings
+
+Ranni, Two-Faced Witch
+
+Farrow Harvest
+
+Maliketh, Marika's Blade
+
+Irascible Sphinx
+
+Parry This
+
+Always a Bigger Dragon
+
+Ama Yagbri, the Hoary Alp
+
+Amnesiac's Reunion
+
+Boastful Singe-Tail
+
+Howlpack's Hunt
+
+Maw of Infinity
+
+Mesmer, the Abandoned God
+
+Nipper, Treasure of the Cove
+
+Pick Parrot
+
+Quadruple Trouble
+
+Respiteful Tragedy
+
+The Resurrection of Falin
+
+Bottled Brilliance
+
+The Firelink Shrine
+
+Damp Boot
+
+Fishing Rod
+
+Used Car Batteries
+
+Thermonuclear Pufferfish
+
+Primordial Sturgeon
+
+Cataclysmfish
+
+Butcherfish
+
+Crash
+
+Dragonfire Engine
+
+Dragonfly Module
+
+Gimmick Race
+
+Pit Stop
+
+Purehearted Pilot
+
+Refurbish
+
+Sky Crier
+
+Skybound Charger
+
+Sponsored Walker
+
+Yoe, Ready to Race
+
+Dead Weight
+
+Fear of Nightmares
+
+Hopeless Nighmare
+
+Nightlight Horror
+
+Omen of the Dead
+
+Pale-Death Moth
+
+Recurring Hunter
+
+Sacrifice of Innocence
+
+Stitcher's Supplier
+
+Threatening Plush
+
+Valgavoth, Furious Dread
+
+Valgavoth's Faithful
+
+Basalt Colossus
+
+Commune with Lava
+
+Crystal Elemental
+
+Demand Answers
+
+Exgold Bracelet
+
+Fireblood Viashino
+
+Koth, Fighter Without a Cause
+
+Lavastone Elemental
+
+Magma Spray
+
+Rapacious Dragon
+
+Rumbling Rockslide
+
+Aafir, Golem Creator
+
+Breaking Bonds
+
+Earthen Arms
+
+Elemental Smash
+
+Help from the Realm
+
+Inspiring Call
+
+Joraga Guardians
+
+Kazandu Nectarpot
+
+Reclamation Apostle
+
+Roiling Earth Zendikon
+
+Scale the Heights
+
+Tajuru Diversionist
+
+Territorial Scythecat
+
+Lavablood Golem
+
+Ovalchase Dragster
+
+Terraformic Spellbomb
+
+Evolving Wilds
+
+Glimmering Clearing
+
+Glimmering Pit
+
+Glimmering Valley
+
+Glimmering Volcano
+
+Terramorphic Expanse
+
+Kitsune Ace
+
+Open Boardroom
+
+Repeat Offender
+
+Feline Defiance
+
+Shadow Clowder Leader
+
+Shade Cat
+
+Urza's Leyline
+
+Quantum Cat
+
+Rampvagan, Speedy Plunderer
+
+Primepost
+
+Urza's Gate
+
+Community
+
+Vitriach, Lunar Beckoned
+
+Snapcaster Apprentice
+
+Alluring Nostalgia
+
+Fork in the Road
+
+Breadification
+
+Fickle Mentality
+
+Wax Wings
+
+jeb_
+
+Juno, Mother of Wisdom
+
+Charlotte de la Cruz
+
+Orlog Dice
+
+Potion of Invisibility
+
+Jungle Temple
+
+Neow, Spire Steward
+
+The Spire — Beyond
+
+The Spire — City
+
+The Spire — Exordium
+
+Construct
+
+Thief
+
+Warrior
+
+Hill Giant
+
+Family
+
+Reclaimed Construct
+
+Bess, Standard Power Level
+
+Somnific Stronghold
+
+Ceaseless Corpse
+
+Punishment
+
+Raise the Stakes
+
+Trading Card
+
+Brute Denial
+
+Old Wooden Shield
+
+shit. lets be santa
+
+Bloodletter
+
+Blue Horrors
+
+Chaos Marine
+
+Herald of Slaanesh
+
+Open the Cicatrix Maledictum
+
+Plaguebearer
+
+The Fall of Cadia
+
+The Ball
+
+Wily Opposur
+
+Arcane Misclassification
+
+Forge-God's Blessing
+
+Gitrog, Plane Consumer
+
+Hadriel, Mage Hunter
+
+Verdant Warden
+
+Achlys, Cosmic Decay
+
+Angel of the Wilds
+
+Haroldt, Expert Marksman
+
+Whisperer of the Damned
+
+Temporal Explorer
+
+Paint Over
+
+Eirya, Dragonbinder
+
+Scintillating Pattern
+
+Mordenkainen's Disjunction
+
+Black Blade of Disaster
+
+Isaac's Greater Missile Storm
+
+Halaster's Fetch
+
+Ulamog, Invader of Segovia
+
+Jyn, Savior of the Balin
+
+Gwent, Ashheart Butcher
+
+Sorynth, Blade of Oona
+
+Talion, Fae Despot
+
+Princess Celestia
+
+Seabed Lurker
+
+Dreambound Existence
+
+Princess Luna
+
+Roughscale Frontliner
+
+Kwak, Lushmarsh Escort
+
+Trigger the End
+
+Leonardo, Fearless Leader
+
+Donatello, Genius Gadgeteer
+
+Raphael, Cynical Bruiser
+
+Michelangelo, Pizza Enthusiast
+
+Power of Friendship
+
+Crushing Expectations
+
+Fickle Temperament
+
+Hiding Behind Numbers
+
+Lonely Worries
+
+Unsteady Resolve
+
+Airi, Ordinary Girl
+
+Chika, Top of the Class
+
+Eiko, Student Council President
+
+Miho, Ikebana Virtuoso
+
+Noa, Feared Delinquent
+
+Clive, Symphony of the Seas
+
+Kaito's Technique
+
+Dyer, King of Rhymes
+
+Highcity Express
+
+Song of the Summer
+
+Moresso, Paragon of Harmony
+
+Legion's Echo
+
+Surge Protector
+
+Chevalier Rosé
+
+Dryad of Dusk's Whisper
+
+Eyes Agape
+
+Gentle Jackalope
+
+Chase the Blinding Sun
+
+Chase the Shifting Moon
+
+Pierce the Cosmos
+
+Industrious Assembly
+
+Lodged Base Camp
+
+Popup Venue
+
+Twilight Festival
+
+Unfettered Observatory
+
+Quickshot Pathfinder
+
+Freightyard Shipper
+
+Urahana, Utopian Fleet
+
+Arborist Treehouse
+
+Cult Compound
+
+Machinist Library
+
+Everflaming Ruins
+
+Lethal Wetlands
+
+Mage School
+
+Oogey Boogey
+
+Overgrown Grove
+
+Takeoff Lake
+
+The Barracks
+
+The Earthsoul's Shrine
+
+The Godsoul's Spire
+
+The Lifesoul's Pearl
+
+The Runesoul's Bauble
+
+The Truthsoul's Diamond
+
+Wartorn Flatlands
+
+Godskin Vessel
+
+Playful Peekytoe
+
+Quest for the Lost King
+
+Nowhere to Be Found
+
+Pentakill!
+
+Karthus, the Deathsinger
+
+Crackling Fury
+
+Awake at Last
+
+Judicial Scholar
+
+Heartthrob Idol
+
+Abscond
+
+Aetherborn Wanderer
+
+Aethertortoise
+
+Beautiful Bee Holder
+
+Brutish Investigator
+
+Caldera Corral
+
+Canopy Community
+
+Careless Fireball
+
+Cherished Skypilot
+
+Civilization's Pride
+
+Cold-Blood Colossus
+
+Consulate Old Guard
+
+Corrupted Deluge
+
+Domesticate
+
+Double-Dip
+
+Drake Incubator
+
+Dutiful Father
+
+Dying to Get In
+
+Eidolon of Ceaseless Hope
+
+Elvish Lifecatcher
+
+Enlisted Dragon
+
+Eos, Shifting Superscape
+
+Eureka Moment
+
+Fickle Raiments
+
+Filigree Seer
+
+Fore
+
+Forgotten Pharaoh
+
+From Death, Life
+
+Greatlight Archangel
+
+Growthmoss
+
+Hare Plane Squadron
+
+Head
+
+Hedge
+
+Hide Armor
+
+Homarid Hostel
+
+Home
+
+Indigo Revolutionary
+
+It Just Doesn't Make Sense
+
+Joraga Warmaster
+
+Kaitha, Liberated Dragon
+
+Kei Monk Disciple
+
+Kobold Baron
+
+Lilis, Amateur Cartographer
+
+Lion Sphinx
+
+Loot the Relics
+
+Magma Meeting House
+
+Mangrove Motel
+
+Menagerie Master
+
+Mistmonk Disciple
+
+Nature's Pride
+
+New Assembly Automatom
+
+Novice Lich
+
+On Stranger Tides
+
+Open-Grave Opportunist
+
+Prayer of Peace
+
+Profane Choice
+
+Rain Deer's Blessing
+
+Recomissioning Station
+
+Redglade Silencer
+
+Reignite
+
+Resist a Rest
+
+Righteous Wind-Warden
+
+Scavenge the Spoils
+
+Scorch
+
+Shadow-Wing Enforcer
+
+Shatter the Storm
+
+Shattered by the Storm
+
+Snailshell Shire
+
+Sphinx of Promise
+
+Subtle Movements
+
+Thunderclap
+
+Time Flies
+
+Traitorous Impulse
+
+Up to Something
+
+Usurp
+
+Vastwood Great-Elk
+
+Wandering Cataloguer
+
+Zombie Grudgekeeper
+
+The Clocktower
+
+Slithering Murklurker
+
+Terror Treader
+
+Wojek Blazebringer
+
+Balemurk Horrors
+
+Benalia Occultist
+
+Expired Crewmate
+
+Gorgon's Sting
+
+Invoke the Founders
+
+Kotis's Herald
+
+Legacy of the Raven Man
+
+Liliana of House Vess
+
+Mortality's Hymn
+
+Professor Serafina Onyx
+
+Kraul Recycler
+
+Map to Tarnation
+
+Ranger's All-Aether
+
+Rotten Mystic
+
+Scour the Hauntwoods
+
+Season of the Forager
+
+Speedbrood Survey
+
+Stalker of the Vale
+
+Three Tree Seedsower
+
+Vraska's Marauder
+
+Ygra's Unending Hunger
+
+Gudul Ambush
+
+Lathril's Reclaimer
+
+Phyrexia's Charm
+
+Vraska, the Stoneglarer
+
+Gloomy Farmstead
+
+Profained Arbory
+
+Manifest
+
+Bird
+
+Zombie
+
+Elf Warrior
+
+Clue
+
+Food
+
+Grisly Retribution
+
+Kallist Rhoka, Displaced Mind
+
+Encrusted Aegisaur
+
+Etali and Ted, Ill-Fated Bond
+
+Orazca Spire
+
+Scion of Ted
+
+Ted, Peaceful Resolution
+
+Frantic Shuffle
+
+Supernova
+
+Seafloor Sensation
+
+Sneaping Sneaker
+
+Arrival of the Legions
+
+A Tentacular Terror!
+
+Orbital Probe Cannon
+
+Flotsam, Cruel Informant
+
+Chef Louis
+
+Ursula, Atlantican Outcast
+
+Writhing Polyp
+
+Ursula's Necklace
+
+Boons of Olympus
+
+Dierk, Geistmage Genius
+
+Simon, the Red Prince
+
+Blindside
+
+Decipher the Message
+
+Faces of the Game
+
+Hunt for Food
+
+Leader of the Pack
+
+Mounting Paranoia
+
+Physical Superstar
+
+Return of the Outcasts
+
+Shrine Keeper
+
+Team Flag
+
+Team Player
+
+The Pieces Fall Into Place
+
+Tropical Storm
+
+Trip to Exile Island
+
+D-Reaper
+
+Containment Contraption
+
+Stonescale Brontodon
+
+Jin-Gitaxias, Restless Evolution
+
+My Work Continues
+
+Subaru's Immortality
+
+Can Be Bought
+
+Trainer Class
+
+Crucius, the Mad
+
+Kruphix of Endless Horizons
+
+Abathur
+
+Nicol Bolas, Benevolent Tyrant
+
+Vallia's Kindness
+
+All Will Kneel
+
+Vallia Giftbringer
+
+The Stars Obey My Every Whim
+
+Progress Stops at Naught
+
+Captain Titus
+
+Bee and Puppycat
+
+The Negate
+
+Cradle
+
+Talk to the Hand
+
+Locked In With Me
+
+Bridget's Yo-Yo
+
+Clue
+
+Human
+
+Jonesy, the First
+
+The Battle Bus
+
+This is Cannon
+
+Gold
+
+Time Together
+
+The Fox Devil
+
+Bridget, Freeform Spinner
+
+Logan, the Weapon X
+
+First Kiss
+
+No Fun Allowed
+
+Nancy, the Crayfish
+
+The Button
+
+Brisket
+
+Freja, the Sharpshooter
+
+Should've Picked Mercy
+
+Chandra, the Flame Tamer
+
+Into the Zone
+
+I Got Fired Today
+
+Victory Royale
+
+Nissa, Nature's Animator
+
+Sponsorship Segment
+
+Enemy
+
+Ichiban Kasuga
+
+Giant
+
+The Forty-Second Doctor
+
+Shinichi Izumi, the Host
+
+Da Coconut Nut 2
+
+Simon, the Ice King
+
+Nite Owl, the Vigilante
+
+Just as Planned
+
+Gildedguy, the Invincible
+
+Dragon
+
+Here We Go Again
+
+Bugsnak
+
+Filbo Fiddlepie
+
+Adamant Will
+
+Aerial Crossbreed
+
+Ancient Dogged
+
+Armoured Stray
+
+Babbdi Bat
+
+Backstreet Racer
+
+Cliffside Ritual
+
+Composed Foxhound
+
+Cordial Invitation
+
+Crabulous Cancrix
+
+Daring Dingo
+
+Dastardness
+
+Defiant Strike
+
+Demonic Tyke
+
+Dick Dastardly and Muttley
+
+Disenchant
+
+Divination
+
+Diving Life-Lover
+
+Dogged Hell-Beast
+
+Dogged Samurai
+
+Endangered Beast
+
+Exuberant Mutt
+
+Familiar's Flight
+
+Fiery Mongrel
+
+Fiery Tail-Wagger
+
+Flare of Glory
+
+Floriferous Fangren
+
+Floriferous Fight
+
+Floriferous Vine-Warrior
+
+Genial Pack
+
+Ghastly Hellhound
+
+Ghoulish Supremacy
+
+Gilda
+
+Gilda's Amity
+
+Grab
+
+Grappling Pacifist
+
+High-Born Fido
+
+Holy Guardian
+
+Hot-Wheel Shark
+
+Hungry Flames
+
+Hyperforge Ravager
+
+Ima
+
+Insensitize
+
+Invariable Eskimo
+
+Ironclad Animator
+
+Loyal Throne-Friend
+
+Magic School
+
+Maritte
+
+Mischevious Dashchund
+
+Murder
+
+Mystical Elf
+
+Oakenform
+
+Peculiar Ghoul
+
+Penelope Pitstop
+
+Prudent Kuri
+
+Pyre's Price
+
+Rabid Bite
+
+Rabid Hound Dogs
+
+Rain Dog
+
+Return Anew
+
+Revitalize
+
+Robo Jouster
+
+Robo Rider
+
+Scrapforge Sentinel
+
+Shock
+
+Shore Stampede
+
+Skittish Retriever
+
+Slipstream Snare
+
+Smash
+
+Smoke on the Water
+
+Sneaky Bitzer
+
+Sweet Racer
+
+Tavern Scoundrel
+
+Three-Headed Hound
+
+Titanic Growth
+
+Unsummon
+
+Veil of the Past
+
+Voltaic Fabricator
+
+Wacky Racer
+
+White Dragon
+
+Apostle of the Tower
+
+Bright Young Thing
+
+Clue
+
+Contigency Personnel
+
+Cult Fascination
+
+Dissonant Murmurs
+
+Draining Labor
+
+Energy Pull Gun
+
+Experienced Lead Researcher
+
+Exploring the Tower of Mansus
+
+Foreseen Catastrophe
+
+Forge of Power
+
+Frightened Researcher
+
+Ghastly Aspirant
+
+Grail of Sensations
+
+Infamous Physician
+
+Irreplaceable Creativity
+
+Lantern of Enlightenment
+
+Mansus Elite Club
+
+Morland Library
+
+Occult Happenings Detective
+
+Reinforced Spacedrill
+
+Rejuvenating Extremophiles
+
+Self-Defense Weaponry
+
+Self-Fulfilling Study
+
+Steelheart Empath
+
+T.O.M. Intelligence Model
+
+T.O.M. Nerve Implant
+
+Talent Welder
+
+Tour Ink Presenter
+
+Tower of Mansus
+
+Undertower Auction
+
+Whispering Dreams
+
+Wizard
+
+You Must Be Stopped
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Collective Computing
+Puzzle
+
+When three or more Constructs
+and/or Humans you control become untapped, solve this Puzzle.
+
+When you solve this Puzzle, put a +1/+1 counter on each of any number of target creatures you control.
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Food Cultivation Project
+Puzzle
+
+When you put a counter on a permanent you control, if there are three or more different kinds of counters on that permanent, solve this Puzzle.
+
+When you solve this Puzzle, create your choice of a Clue token, a Food token, or a Treasure token, then repeat this process once.
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Hurtful Realities
+Puzzle
+
+You can only have one copy of Hurtful Realities in your puzzle deck.
+
+When you or a permanent you control are dealt damage while there are five or more Puzzles among cards in your graveyard and four or more card types among permanents you control, solve this Puzzle.
+
+When you solve this Puzzle, return any number of Puzzle cards in your graveyard to your Puzzle deck and shuffle it. Hurtful Realities deals 1 damage to each opponent for each Puzzle card returned this way.
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Iterative Execution
+Puzzle
+
+Whenever you cast an instant or sorcery spell, put a solution counter on this Puzzle.
+When there are three or more solution counters on this Puzzle, solve it.
+
+[i]Sweep[/i] — When you solve this Puzzle, you may return any number of lands you control to their owner's hand. When you do, choose up to that many target instant and/or sorcery cards
+in your graveyard. Those cards gain retrace until the end of your next turn. [i](You may cast a card with retrace from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Natural Creativity
+Puzzle
+
+When you put a +1/+1 counter on a creature that dealt combat damage this turn, solve this Puzzle.
+
+When you solve this Puzzle, it deals 3 damage to up to one nonplayer target and you gain 3 life.
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Navigating the Cloning Bay
+Puzzle
+
+When you put one or more counters on a Human for the third time in a turn, solve this Puzzle.
+
+When you solve this Puzzle, until the end of your next turn, the next Human spell you cast has replicate. The replicate cost is equal to its mana cost. [i](When you cast that spell, copy it for each time you paid its replicate cost. Copies of permanent spells become tokens.)[/i]
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Station Contact Loss
+Puzzle
+
+At the beginning of your upkeep, if you control a Human artifact creature, solve this Puzzle.
+
+When you solve this Puzzle, choose one —
+• Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+• Return target Equipment card from your graveyard to your hand.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
