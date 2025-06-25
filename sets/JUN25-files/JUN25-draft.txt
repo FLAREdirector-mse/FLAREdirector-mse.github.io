@@ -1583,7 +1583,7 @@
 		{
 			"name": "Orlog Dice",
 			"rarity": "special",
-			"mana_cost": "",
+			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
 			"collector_number": "569",
 			"image_uris": {
