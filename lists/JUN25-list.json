@@ -17,1707 +17,1686 @@
     },
     {
         "card_name": "Abzan Kin-Foster",
-        "number": 22,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Abscond",
-        "number": 88,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Abathur",
-        "number": 142,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Anger of the Forebearers",
-        "number": 226,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Aafir, Golem Creator",
-        "number": 299,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Adamant Will",
         "number": 23,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Awake at Last",
-        "number": 89,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Alluring Nostalgia",
-        "number": 143,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Babbdi Bat",
-        "number": 227,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Always a Bigger Dragon",
-        "number": 300,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Airi, Ordinary Girl",
-        "number": 24,
-        "shape": "transform double faced",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Brazen Adventure-Fae",
+        "card_name": "Abscond",
         "number": 91,
-        "shape": "adventure",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Ancient Dogged",
-        "number": 144,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Basalt Colossus",
-        "number": 228,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Arborist Treehouse",
-        "number": 301,
-        "shape": "saga",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "The Barracks",
-        "number": 25,
-        "shape": "saga",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Butterfly Salesfae",
-        "number": 92,
-        "shape": "adventure",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Backstreet Racer",
-        "number": 145,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Blindside",
-        "number": 229,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Armoured Stray",
-        "number": 302,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Chase the Blinding Sun",
-        "number": 26,
-        "shape": "saga",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Cataclysmfish",
-        "number": 93,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Balemurk Horrors",
-        "number": 146,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Butcherfish",
-        "number": 231,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Beautiful Bee Holder",
-        "number": 303,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Chevalier Ros\u00e9",
-        "number": 27,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Chase the Shifting Moon",
-        "number": 94,
-        "shape": "saga",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Benalia Occultist",
+        "card_name": "Abathur",
         "number": 147,
-        "shape": "adventure",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Careless Fireball",
-        "number": 232,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Breaking Bonds",
-        "number": 304,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Crash",
-        "number": 28,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Chika, Top of the Class",
-        "number": 95,
-        "shape": "transform double faced",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Black Blade of Disaster",
-        "number": 149,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Chandra, the Flame Tamer",
+        "card_name": "Anger of the Forebearers",
         "number": 233,
-        "shape": "transform double faced",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Cold-Blood Colossus",
-        "number": 306,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Defiant Strike",
-        "number": 29,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Clive, Symphony of the Seas",
-        "number": 96,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Ceaseless Corpse",
-        "number": 150,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Channeler of Unreality",
-        "number": 234,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Dick Dastardly and Muttley",
+        "card_name": "Aafir, Golem Creator",
         "number": 308,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Disenchant",
-        "number": 30,
+        "card_name": "Adamant Will",
+        "number": 24,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Crabulous Cancrix",
-        "number": 98,
+        "card_name": "Awake at Last",
+        "number": 92,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Chef Louis",
-        "number": 152,
+        "card_name": "Alluring Nostalgia",
+        "number": 148,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Commune with Lava",
-        "number": 235,
+        "card_name": "Babbdi Bat",
+        "number": 234,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Dryad of Dusk's Whisper",
+        "card_name": "Always a Bigger Dragon",
         "number": 309,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Diving Life-Lover",
-        "number": 31,
+        "card_name": "Airi, Ordinary Girl",
+        "number": 25,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Brazen Adventure-Fae",
+        "number": 94,
+        "shape": "adventure",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Ancient Dogged",
+        "number": 149,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Curse of the Fell",
-        "number": 99,
+        "card_name": "Basalt Colossus",
+        "number": 235,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Cliffside Ritual",
-        "number": 153,
+        "card_name": "Arborist Treehouse",
+        "number": 310,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "The Barracks",
+        "number": 26,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Butterfly Salesfae",
+        "number": 95,
+        "shape": "adventure",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Backstreet Racer",
+        "number": 150,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Contigency Personnel",
+        "card_name": "Blindside",
         "number": 236,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Earthen Arms",
-        "number": 310,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Dogged Samurai",
-        "number": 32,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Decipher the Message",
-        "number": 100,
-        "shape": "battle split",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Cordial Invitation",
-        "number": 154,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Crackling Fury",
-        "number": 237,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "The Earthsoul's Shrine",
+        "card_name": "Armoured Stray",
         "number": 311,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Dragonfire Engine",
-        "number": 33,
+        "card_name": "Chase the Blinding Sun",
+        "number": 27,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Cataclysmfish",
+        "number": 96,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Divination",
-        "number": 101,
+        "card_name": "Balemurk Horrors",
+        "number": 151,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Corrupted Deluge",
-        "number": 155,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Crystal Elemental",
+        "card_name": "Butcherfish",
         "number": 238,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Elemental Smash",
+        "card_name": "Beautiful Bee Holder",
         "number": 312,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Dragonfly Module",
-        "number": 34,
+        "card_name": "Chevalier Ros\u00e9",
+        "number": 28,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Donatello, Genius Gadgeteer",
-        "number": 102,
-        "shape": "normal",
+        "card_name": "Chase the Shifting Moon",
+        "number": 97,
+        "shape": "saga",
         "set": "JUN25"
     },
     {
-        "card_name": "Crushing Expectations",
-        "number": 156,
-        "shape": "normal",
+        "card_name": "Benalia Occultist",
+        "number": 152,
+        "shape": "adventure",
         "set": "JUN25"
     },
     {
-        "card_name": "Demand Answers",
+        "card_name": "Careless Fireball",
         "number": 239,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Endangered Beast",
-        "number": 314,
+        "card_name": "Breaking Bonds",
+        "number": 313,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Forgotten Pharaoh",
-        "number": 35,
+        "card_name": "Crash",
+        "number": 29,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Familiar's Flight",
-        "number": 103,
+        "card_name": "Chika, Top of the Class",
+        "number": 98,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Black Blade of Disaster",
+        "number": 154,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Cult Compound",
-        "number": 157,
-        "shape": "saga",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Dogged Hell-Beast",
+        "card_name": "Chandra, the Flame Tamer",
         "number": 240,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "JUN25"
     },
     {
-        "card_name": "Faces of the Game",
+        "card_name": "Cold-Blood Colossus",
         "number": 315,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Frightened Researcher",
-        "number": 36,
+        "card_name": "Defiant Strike",
+        "number": 30,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Flashy-Winged Faerie",
-        "number": 104,
-        "shape": "adventure",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Dastardness",
-        "number": 158,
+        "card_name": "Clive, Symphony of the Seas",
+        "number": 99,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Double-Dip",
+        "card_name": "Ceaseless Corpse",
+        "number": 155,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Channeler of Unreality",
         "number": 241,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Family",
-        "number": 316,
-        "shape": "aftermath",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "From Death, Life",
-        "number": 37,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Flotsam, Cruel Informant",
-        "number": 105,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Dead Weight",
-        "number": 159,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Dragon",
-        "number": 242,
-        "shape": "transform double faced",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Floriferous Fangren",
+        "card_name": "Crawling from the Drink",
         "number": 317,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Gentle Jackalope",
-        "number": 38,
+        "card_name": "Disenchant",
+        "number": 31,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "The Forty-Second Doctor",
-        "number": 106,
-        "shape": "saga",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Demonic Tyke",
-        "number": 160,
+        "card_name": "Crabulous Cancrix",
+        "number": 101,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Enemy",
-        "number": 243,
-        "shape": "transform double faced",
+        "card_name": "Chef Louis",
+        "number": 157,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Floriferous Fight",
+        "card_name": "Commune with Lava",
+        "number": 242,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Dick Dastardly and Muttley",
         "number": 318,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Gilda's Amity",
-        "number": 39,
+        "card_name": "Diving Life-Lover",
+        "number": 32,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Ghastly Aspirant",
-        "number": 107,
+        "card_name": "Curse of the Fell",
+        "number": 102,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Dreambound Existence",
-        "number": 161,
+        "card_name": "Cliffside Ritual",
+        "number": 158,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Exgold Bracelet",
-        "number": 244,
+        "card_name": "Contigency Personnel",
+        "number": 243,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Floriferous Vine-Warrior",
+        "card_name": "Dryad of Dusk's Whisper",
         "number": 319,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Gimmick Race",
-        "number": 40,
+        "card_name": "Dogged Samurai",
+        "number": 33,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Grappling Pacifist",
-        "number": 108,
+        "card_name": "Decipher the Message",
+        "number": 103,
+        "shape": "battle split",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "CONTAGION()",
+        "number": 159,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Dying to Get In",
-        "number": 162,
+        "card_name": "Crackling Fury",
+        "number": 244,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Fickle Temperament",
-        "number": 245,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Genial Pack",
+        "card_name": "Earthen Arms",
         "number": 320,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Grab",
-        "number": 41,
+        "card_name": "Dragonfire Engine",
+        "number": 34,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Hiding Behind Numbers",
-        "number": 109,
+        "card_name": "Divination",
+        "number": 104,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Eiko, Student Council President",
-        "number": 163,
-        "shape": "transform double faced",
+        "card_name": "Cordial Invitation",
+        "number": 160,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Fiery Mongrel",
+        "card_name": "Crystal Elemental",
+        "number": 245,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "The Earthsoul's Shrine",
+        "number": 321,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Dragonfly Module",
+        "number": 35,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Donatello, Genius Gadgeteer",
+        "number": 105,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Corrupted Deluge",
+        "number": 161,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Demand Answers",
         "number": 246,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Growthmoss",
+        "card_name": "Elemental Smash",
         "number": 322,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Greatlight Archangel",
-        "number": 42,
+        "card_name": "Forgotten Pharaoh",
+        "number": 36,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Hightail Robbery",
-        "number": 110,
+        "card_name": "Familiar's Flight",
+        "number": 106,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Expired Crewmate",
-        "number": 164,
+        "card_name": "Crushing Expectations",
+        "number": 162,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Fiery Tail-Wagger",
+        "card_name": "Dogged Hell-Beast",
         "number": 247,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Halaster's Fetch",
-        "number": 323,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Guardian's Oath",
-        "number": 43,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Hot-Wheel Shark",
-        "number": 111,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "The Fall of Cadia",
-        "number": 165,
-        "shape": "battle split",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Fireblood Viashino",
-        "number": 248,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Help from the Realm",
+        "card_name": "Endangered Beast",
         "number": 324,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Holy Guardian",
-        "number": 44,
+        "card_name": "Frightened Researcher",
+        "number": 37,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Insensitize",
-        "number": 112,
+        "card_name": "Flashy-Winged Faerie",
+        "number": 107,
+        "shape": "adventure",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Cult Compound",
+        "number": 163,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Double-Dip",
+        "number": 248,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Farrow Harvest",
-        "number": 166,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Flare of Glory",
-        "number": 249,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Hunt for Food",
+        "card_name": "Faces of the Game",
         "number": 325,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Hypnic Jerk",
-        "number": 47,
+        "card_name": "From Death, Life",
+        "number": 38,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Jin-Gitaxias, Restless Evolution",
-        "number": 113,
+        "card_name": "Flotsam, Cruel Informant",
+        "number": 108,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Fear of Nightmares",
-        "number": 167,
+        "card_name": "Dastardness",
+        "number": 164,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Foreseen Catastrophe",
-        "number": 250,
-        "shape": "normal",
+        "card_name": "Dragon",
+        "number": 249,
+        "shape": "transform double faced",
         "set": "JUN25"
     },
     {
-        "card_name": "Inspiring Call",
+        "card_name": "Family",
         "number": 326,
+        "shape": "aftermath",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Gentle Jackalope",
+        "number": 39,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Into the Zone",
-        "number": 48,
+        "card_name": "The Forty-Second Doctor",
+        "number": 109,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Dead Weight",
+        "number": 165,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Juno, Mother of Wisdom",
-        "number": 114,
-        "shape": "normal",
+        "card_name": "Enemy",
+        "number": 250,
+        "shape": "transform double faced",
         "set": "JUN25"
     },
     {
-        "card_name": "The Fox Devil",
-        "number": 168,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Fork in the Road",
-        "number": 251,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Joraga Guardians",
+        "card_name": "Floriferous Fangren",
         "number": 327,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "It Just Doesn't Make Sense",
-        "number": 49,
+        "card_name": "Gilda's Amity",
+        "number": 40,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Kaito's Technique",
-        "number": 115,
+        "card_name": "Ghastly Aspirant",
+        "number": 110,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Ghastly Hellhound",
-        "number": 169,
+        "card_name": "Demonic Tyke",
+        "number": 166,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Giant",
-        "number": 252,
-        "shape": "transform double faced",
+        "card_name": "Exgold Bracelet",
+        "number": 251,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Joraga Warmaster",
+        "card_name": "Floriferous Fight",
         "number": 328,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Judicial Scholar",
-        "number": 50,
+        "card_name": "Gimmick Race",
+        "number": 41,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Lion Sphinx",
-        "number": 116,
+        "card_name": "Grappling Pacifist",
+        "number": 111,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Ghoulish Supremacy",
-        "number": 170,
+        "card_name": "Dreambound Existence",
+        "number": 167,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Haroldt, Expert Marksman",
-        "number": 253,
+        "card_name": "Fickle Temperament",
+        "number": 252,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Kazandu Nectarpot",
+        "card_name": "Floriferous Vine-Warrior",
         "number": 329,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Jyn, Savior of the Balin",
-        "number": 51,
+        "card_name": "Grab",
+        "number": 42,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Machinist Library",
-        "number": 117,
-        "shape": "saga",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Gilda",
-        "number": 171,
+        "card_name": "Hiding Behind Numbers",
+        "number": 112,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Hill Giant",
-        "number": 254,
+        "card_name": "Dying to Get In",
+        "number": 168,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Kraul Recycler",
+        "card_name": "Fiery Mongrel",
+        "number": 253,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Genial Pack",
         "number": 330,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Kitsune Ace",
-        "number": 52,
+        "card_name": "Greatlight Archangel",
+        "number": 43,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Mordenkainen's Disjunction",
-        "number": 118,
+        "card_name": "Hightail Robbery",
+        "number": 113,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "The Godsoul's Spire",
-        "number": 172,
+        "card_name": "Eiko, Student Council President",
+        "number": 169,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Fiery Tail-Wagger",
+        "number": 254,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Hungry Flames",
-        "number": 255,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Lodged Base Camp",
-        "number": 331,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Leonardo, Fearless Leader",
-        "number": 53,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Nancy, the Crayfish",
-        "number": 119,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Gorgon's Sting",
-        "number": 173,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Industrious Assembly",
-        "number": 256,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Map to Tarnation",
+        "card_name": "Growthmoss",
         "number": 332,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Life's Scintille",
-        "number": 54,
+        "card_name": "Guardian's Oath",
+        "number": 44,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "The Negate",
-        "number": 120,
+        "card_name": "Hot-Wheel Shark",
+        "number": 114,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Grisly Retribution",
-        "number": 174,
+        "card_name": "Expired Crewmate",
+        "number": 170,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Irascible Sphinx",
-        "number": 257,
+        "card_name": "Fireblood Viashino",
+        "number": 255,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Michelangelo, Pizza Enthusiast",
+        "card_name": "Halaster's Fetch",
         "number": 333,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "The Lifesoul's Pearl",
-        "number": 55,
+        "card_name": "Holy Guardian",
+        "number": 45,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "On Strings",
-        "number": 121,
+        "card_name": "Insensitize",
+        "number": 115,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Hopeless Nighmare",
-        "number": 176,
+        "card_name": "The Fall of Cadia",
+        "number": 171,
+        "shape": "battle split",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Flare of Glory",
+        "number": 256,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Irreplaceable Creativity",
+        "card_name": "Help from the Realm",
+        "number": 334,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Hypnic Jerk",
+        "number": 48,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Jin-Gitaxias, Restless Evolution",
+        "number": 116,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Farrow Harvest",
+        "number": 172,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Foreseen Catastrophe",
+        "number": 257,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Hunt for Food",
+        "number": 335,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Into the Zone",
+        "number": 49,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Juno, Mother of Wisdom",
+        "number": 117,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Fear of Nightmares",
+        "number": 173,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Fork in the Road",
         "number": 258,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Miho, Ikebana Virtuoso",
-        "number": 334,
-        "shape": "transform double faced",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Lonely Worries",
-        "number": 56,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Peculiar Ghoul",
-        "number": 122,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "I Got Fired Today",
-        "number": 177,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Isaac's Greater Missile Storm",
-        "number": 259,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Nissa, Nature's Animator",
-        "number": 335,
-        "shape": "transform double faced",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Loyal Throne-Friend",
-        "number": 57,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Rain Deer's Blessing",
-        "number": 123,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Ima",
-        "number": 178,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Jonesy, the First",
-        "number": 260,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Oakenform",
+        "card_name": "Inspiring Call",
         "number": 336,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Mistmonk Disciple",
-        "number": 58,
+        "card_name": "It Just Doesn't Make Sense",
+        "number": 50,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Rain Dog",
-        "number": 124,
+        "card_name": "Kaito's Technique",
+        "number": 118,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Infamous Physician",
-        "number": 179,
-        "shape": "adventure",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Joyride Jester",
-        "number": 261,
+        "card_name": "The Fox Devil",
+        "number": 174,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Physical Superstar",
+        "card_name": "Giant",
+        "number": 259,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Joraga Guardians",
         "number": 337,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Mystical Elf",
-        "number": 59,
+        "card_name": "Judicial Scholar",
+        "number": 51,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Ranni, Two-Faced Witch",
-        "number": 125,
+        "card_name": "Lion Sphinx",
+        "number": 119,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Invoke the Founders",
-        "number": 180,
+        "card_name": "Ghastly Hellhound",
+        "number": 175,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Kaitha, Liberated Dragon",
-        "number": 262,
+        "card_name": "Haroldt, Expert Marksman",
+        "number": 260,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Primordial Sturgeon",
+        "card_name": "Joraga Warmaster",
+        "number": 338,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Jyn, Savior of the Balin",
+        "number": 52,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Lord of the Unstoppable Tide",
+        "number": 120,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Ghoulish Supremacy",
+        "number": 176,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Hill Giant",
+        "number": 261,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Kazandu Nectarpot",
         "number": 339,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "No Fun Allowed",
-        "number": 60,
+        "card_name": "Kitsune Ace",
+        "number": 53,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Seabed Lurker",
-        "number": 126,
+        "card_name": "Machinist Library",
+        "number": 121,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Gilda",
+        "number": 177,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Karthus, the Deathsinger",
-        "number": 181,
+        "card_name": "Hungry Flames",
+        "number": 262,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Kei Monk Disciple",
-        "number": 263,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Quantum Cat",
+        "card_name": "Kraul Recycler",
         "number": 340,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Nowhere to Be Found",
-        "number": 61,
+        "card_name": "Leonardo, Fearless Leader",
+        "number": 54,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Seafloor Sensation",
-        "number": 127,
+        "card_name": "Memetic Thoughtform",
+        "number": 122,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Kotis's Herald",
-        "number": 182,
-        "shape": "adventure",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Kobold Baron",
-        "number": 264,
+        "card_name": "The Godsoul's Spire",
+        "number": 178,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Rabid Bite",
+        "card_name": "Industrious Assembly",
+        "number": 263,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Lodged Base Camp",
         "number": 341,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Penelope Pitstop",
-        "number": 62,
+        "card_name": "Life's Scintille",
+        "number": 55,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Shatter the Storm",
-        "number": 128,
+        "card_name": "Mordenkainen's Disjunction",
+        "number": 123,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Legacy of the Raven Man",
-        "number": 183,
+        "card_name": "Gorgon's Sting",
+        "number": 179,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Koth, Fighter Without a Cause",
-        "number": 265,
+        "card_name": "Irascible Sphinx",
+        "number": 264,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Rambling Warmount",
+        "card_name": "Luminescent Painter",
         "number": 342,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Pit Stop",
-        "number": 63,
+        "card_name": "The Lifesoul's Pearl",
+        "number": 56,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Slipstream Snare",
-        "number": 129,
+        "card_name": "Nancy, the Crayfish",
+        "number": 124,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Legion's Echo",
-        "number": 184,
+        "card_name": "Grisly Retribution",
+        "number": 180,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Lavastone Elemental",
-        "number": 266,
+        "card_name": "Irreplaceable Creativity",
+        "number": 265,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Rampvagan, Speedy Plunderer",
+        "card_name": "Map to Tarnation",
         "number": 343,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Pluck",
-        "number": 64,
+        "card_name": "Lonely Worries",
+        "number": 57,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Smoke on the Water",
-        "number": 130,
+        "card_name": "The Negate",
+        "number": 125,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Liliana of House Vess",
-        "number": 185,
-        "shape": "planeswalker",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Leader of the Pack",
-        "number": 267,
+        "card_name": "Hopeless Nighmare",
+        "number": 182,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Ranger's All-Aether",
+        "card_name": "Isaac's Greater Missile Storm",
+        "number": 266,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Michelangelo, Pizza Enthusiast",
         "number": 344,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Popup Venue",
-        "number": 65,
+        "card_name": "Loyal Throne-Friend",
+        "number": 58,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Snapcaster Apprentice",
-        "number": 131,
+        "card_name": "On Strings",
+        "number": 126,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Maliketh, Marika's Blade",
-        "number": 186,
+        "card_name": "I Got Fired Today",
+        "number": 183,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Loot the Relics",
+        "card_name": "Jonesy, the First",
+        "number": 267,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Miho, Ikebana Virtuoso",
+        "number": 345,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Mistmonk Disciple",
+        "number": 59,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Peculiar Ghoul",
+        "number": 127,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Ima",
+        "number": 184,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Joyride Jester",
         "number": 268,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "RAY Deployment",
-        "number": 345,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Prayer of Peace",
-        "number": 66,
-        "shape": "transform double faced",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Sneaping Sneaker",
-        "number": 132,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Mortality's Hymn",
-        "number": 187,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Mage School",
-        "number": 269,
-        "shape": "saga",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Reclaimed Construct",
+        "card_name": "Nissa, Nature's Animator",
         "number": 346,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Princess Celestia",
-        "number": 67,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Subtle Movements",
-        "number": 133,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
-        "card_name": "Mounting Paranoia",
-        "number": 188,
+        "card_name": "Mystical Elf",
+        "number": 60,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Magic School",
-        "number": 270,
+        "card_name": "Rain Deer's Blessing",
+        "number": 128,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Reclamation Apostle",
+        "card_name": "Infamous Physician",
+        "number": 185,
+        "shape": "adventure",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Kaitha, Liberated Dragon",
+        "number": 269,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Oakenform",
         "number": 347,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Purehearted Pilot",
-        "number": 68,
+        "card_name": "No Fun Allowed",
+        "number": 61,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Temporal Explorer",
-        "number": 134,
+        "card_name": "Rain Dog",
+        "number": 129,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Murder",
-        "number": 189,
+        "card_name": "Invoke the Founders",
+        "number": 186,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Magma Spray",
-        "number": 271,
+        "card_name": "Kei Monk Disciple",
+        "number": 270,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Repeat Offender",
+        "card_name": "Physical Superstar",
         "number": 348,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Refurbish",
-        "number": 69,
+        "card_name": "Nowhere to Be Found",
+        "number": 62,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Three-Headed Hound",
-        "number": 135,
+        "card_name": "Ranni, Two-Faced Witch",
+        "number": 130,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Nightlight Horror",
-        "number": 190,
+        "card_name": "Karthus, the Deathsinger",
+        "number": 187,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Maritte",
-        "number": 272,
+        "card_name": "Kobold Baron",
+        "number": 271,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Robo Rider",
-        "number": 349,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Reinforced Spacedrill",
-        "number": 70,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Tropical Storm",
-        "number": 136,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Omen of the Dead",
-        "number": 191,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Noa, Feared Delinquent",
-        "number": 273,
-        "shape": "transform double faced",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Roiling Earth Zendikon",
+        "card_name": "Primordial Sturgeon",
         "number": 350,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Resist a Rest",
-        "number": 71,
+        "card_name": "Overwhelming Abundance",
+        "number": 63,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "The Truthsoul's Diamond",
-        "number": 137,
+        "card_name": "Seabed Lurker",
+        "number": 131,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "On Stranger Tides",
-        "number": 192,
+        "card_name": "Kotis's Herald",
+        "number": 188,
+        "shape": "adventure",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Koth, Fighter Without a Cause",
+        "number": 272,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Parry This",
-        "number": 274,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Rotten Mystic",
+        "card_name": "Quantum Cat",
         "number": 351,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Revitalize",
-        "number": 72,
+        "card_name": "Penelope Pitstop",
+        "number": 64,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Unfettered Observatory",
-        "number": 138,
+        "card_name": "Seafloor Sensation",
+        "number": 132,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Open the Cicatrix Maledictum",
-        "number": 193,
+        "card_name": "Legacy of the Raven Man",
+        "number": 189,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Pierce the Cosmos",
-        "number": 275,
-        "shape": "saga",
+        "card_name": "Lavastone Elemental",
+        "number": 273,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Scale the Heights",
+        "card_name": "Rabid Bite",
         "number": 352,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Sandwretch Crofter",
-        "number": 73,
+        "card_name": "Pit Stop",
+        "number": 65,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Unsummon",
-        "number": 139,
+        "card_name": "Shatter the Storm",
+        "number": 133,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Open-Grave Opportunist",
-        "number": 194,
+        "card_name": "Legion's Echo",
+        "number": 190,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Prime Fear",
-        "number": 276,
+        "card_name": "Leader of the Pack",
+        "number": 274,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Scour the Hauntwoods",
+        "card_name": "Rambling Warmount",
         "number": 353,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Scintillating Pattern",
-        "number": 74,
+        "card_name": "Pluck",
+        "number": 66,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Up to Something",
-        "number": 140,
+        "card_name": "Slipstream Snare",
+        "number": 134,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Paint Over",
-        "number": 195,
+        "card_name": "Liliana of House Vess",
+        "number": 191,
+        "shape": "planeswalker",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Loot the Relics",
+        "number": 275,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Pyre's Price",
-        "number": 277,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Season of the Forager",
+        "card_name": "Rampvagan, Speedy Plunderer",
         "number": 354,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Sky Crier",
-        "number": 75,
+        "card_name": "Popup Venue",
+        "number": 67,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "White Dragon",
-        "number": 141,
+        "card_name": "Smoke on the Water",
+        "number": 135,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Pale-Death Moth",
-        "number": 196,
+        "card_name": "Maliketh, Marika's Blade",
+        "number": 192,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Quickshot Pathfinder",
-        "number": 278,
-        "shape": "normal",
+        "card_name": "Mage School",
+        "number": 276,
+        "shape": "saga",
         "set": "JUN25"
     },
     {
-        "card_name": "Shore Stampede",
+        "card_name": "Ranger's All-Aether",
         "number": 355,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Skybound Charger",
-        "number": 76,
+        "card_name": "Prayer of Peace",
+        "number": 68,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Snapcaster Apprentice",
+        "number": 136,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Fore",
-        "number": 536,
-        "shape": "fuse split",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Pentakill!",
-        "number": 197,
+        "card_name": "Mortality's Hymn",
+        "number": 193,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Rabid Hound Dogs",
-        "number": 279,
+        "card_name": "Magic School",
+        "number": 277,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Sleepy Seelie",
+        "card_name": "RAY Deployment",
         "number": 356,
-        "shape": "adventure",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Somnific Stronghold",
-        "number": 77,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Head",
-        "number": 537,
-        "shape": "fuse split",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Princess Luna",
-        "number": 198,
+        "card_name": "Princess Celestia",
+        "number": 69,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Rapacious Dragon",
-        "number": 280,
+        "card_name": "Sneaping Sneaker",
+        "number": 137,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Speedbrood Survey",
+        "card_name": "Mounting Paranoia",
+        "number": 194,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Magma Spray",
+        "number": 278,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Reclaimed Construct",
         "number": 357,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Song of the Summer",
-        "number": 78,
+        "card_name": "Purehearted Pilot",
+        "number": 70,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Profane Choice",
-        "number": 199,
+        "card_name": "Subtle Movements",
+        "number": 138,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
-        "card_name": "Raphael, Cynical Bruiser",
-        "number": 281,
+        "card_name": "Murder",
+        "number": 195,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Stalker of the Vale",
+        "card_name": "Maritte",
+        "number": 279,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Reclamation Apostle",
         "number": 358,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Sponsored Walker",
-        "number": 79,
+        "card_name": "Refurbish",
+        "number": 71,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Professor Serafina Onyx",
-        "number": 200,
+        "card_name": "Temporal Explorer",
+        "number": 139,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Reignite",
-        "number": 282,
+        "card_name": "Nasty Plot",
+        "number": 196,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Stonescale Brontodon",
-        "number": 359,
+        "card_name": "Noa, Feared Delinquent",
+        "number": 280,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
-        "card_name": "Supernova",
-        "number": 80,
+        "card_name": "Repeat Offender",
+        "number": 359,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Quest for the Lost King",
-        "number": 201,
+        "card_name": "Reinforced Spacedrill",
+        "number": 72,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Robo Jouster",
-        "number": 283,
+        "card_name": "Three-Headed Hound",
+        "number": 140,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Tajuru Diversionist",
+        "card_name": "Nightlight Horror",
+        "number": 197,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Parry This",
+        "number": 281,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Robo Rider",
         "number": 360,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Sweet Racer",
+        "card_name": "Resist a Rest",
+        "number": 73,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Tropical Storm",
+        "number": 141,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Omen of the Dead",
+        "number": 198,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Pierce the Cosmos",
+        "number": 282,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Roiling Earth Zendikon",
+        "number": 361,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Revitalize",
+        "number": 74,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "The Truthsoul's Diamond",
+        "number": 142,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "On Stranger Tides",
+        "number": 199,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Prime Fear",
+        "number": 283,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Rotten Mystic",
+        "number": 362,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Sandwretch Crofter",
+        "number": 75,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Unfettered Observatory",
+        "number": 143,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Open the Cicatrix Maledictum",
+        "number": 200,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Pyre's Price",
+        "number": 284,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Scale the Heights",
+        "number": 363,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Scintillating Pattern",
+        "number": 76,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Unsummon",
+        "number": 144,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Open-Grave Opportunist",
+        "number": 201,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Quickshot Pathfinder",
+        "number": 285,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Scour the Hauntwoods",
+        "number": 364,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Sky Crier",
+        "number": 77,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Up to Something",
+        "number": 145,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Paint Over",
+        "number": 202,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Rabid Hound Dogs",
+        "number": 286,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Season of the Forager",
+        "number": 365,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Skybound Charger",
+        "number": 78,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "White Dragon",
+        "number": 146,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Pale-Death Moth",
+        "number": 203,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Rapacious Dragon",
+        "number": 287,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Shore Stampede",
+        "number": 366,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Sojourners' Rest",
+        "number": 79,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Fore",
+        "number": 590,
+        "shape": "fuse split",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Pentakill!",
+        "number": 204,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Raphael, Cynical Bruiser",
+        "number": 288,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Sleepy Seelie",
+        "number": 367,
+        "shape": "adventure",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Somnific Stronghold",
+        "number": 80,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Head",
+        "number": 591,
+        "shape": "fuse split",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Princess Luna",
+        "number": 205,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Reignite",
+        "number": 289,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Speedbrood Survey",
+        "number": 368,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Song of the Summer",
         "number": 81,
         "shape": "normal",
         "set": "JUN25"
@@ -1726,25 +1705,25 @@
         "card_name": "e"
     },
     {
-        "card_name": "Recurring Hunter",
-        "number": 202,
+        "card_name": "Profane Choice",
+        "number": 206,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Robo Jouster",
+        "number": 290,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Roughscale Frontliner",
-        "number": 284,
+        "card_name": "Stalker of the Vale",
+        "number": 369,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Territorial Scythecat",
-        "number": 361,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Team Player",
+        "card_name": "Sponsored Walker",
         "number": 82,
         "shape": "normal",
         "set": "JUN25"
@@ -1753,25 +1732,25 @@
         "card_name": "e"
     },
     {
-        "card_name": "Return Anew",
-        "number": 203,
+        "card_name": "Professor Serafina Onyx",
+        "number": 207,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Rumbling Rockslide",
-        "number": 285,
+        "card_name": "Roughscale Frontliner",
+        "number": 291,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Three Tree Seedsower",
-        "number": 362,
-        "shape": "normal",
+        "card_name": "Stonescale Brontodon",
+        "number": 370,
+        "shape": "transform double faced",
         "set": "JUN25"
     },
     {
-        "card_name": "Trip to Exile Island",
+        "card_name": "Supernova",
         "number": 83,
         "shape": "normal",
         "set": "JUN25"
@@ -1780,25 +1759,25 @@
         "card_name": "e"
     },
     {
-        "card_name": "Return of the Outcasts",
-        "number": 204,
+        "card_name": "Quest for the Lost King",
+        "number": 208,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "The Runesoul's Bauble",
-        "number": 286,
+        "card_name": "Rumbling Rockslide",
+        "number": 292,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Titanic Growth",
-        "number": 363,
+        "card_name": "Tajuru Diversionist",
+        "number": 371,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Urahana, Utopian Fleet",
+        "card_name": "Sweet Racer",
         "number": 84,
         "shape": "normal",
         "set": "JUN25"
@@ -1807,25 +1786,25 @@
         "card_name": "e"
     },
     {
-        "card_name": "Rise of the Decayed",
-        "number": 205,
+        "card_name": "Recurring Hunter",
+        "number": 209,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Scorch",
-        "number": 287,
+        "card_name": "The Runesoul's Bauble",
+        "number": 293,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Twigwing",
-        "number": 364,
+        "card_name": "Territorial Scythecat",
+        "number": 372,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Woodfenn Forager",
+        "card_name": "Team Player",
         "number": 85,
         "shape": "normal",
         "set": "JUN25"
@@ -1834,25 +1813,52 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sacrifice of Innocence",
-        "number": 206,
+        "card_name": "Return Anew",
+        "number": 210,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Scorch",
+        "number": 294,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Three Tree Seedsower",
+        "number": 373,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Trip to Exile Island",
+        "number": 86,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Return of the Outcasts",
+        "number": 211,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Self-Defense Weaponry",
-        "number": 288,
+        "number": 295,
         "shape": "adventure",
         "set": "JUN25"
     },
     {
-        "card_name": "Unlikely Acquaintance",
-        "number": 365,
-        "shape": "adventure",
+        "card_name": "Titanic Growth",
+        "number": 374,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Yoe, Ready to Race",
+        "card_name": "Urahana, Utopian Fleet",
         "number": 87,
         "shape": "normal",
         "set": "JUN25"
@@ -1861,26 +1867,80 @@
         "card_name": "e"
     },
     {
-        "card_name": "Shinichi Izumi, the Host",
-        "number": 208,
+        "card_name": "Rise of the Decayed",
+        "number": 212,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Shock",
-        "number": 289,
+        "number": 296,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Twigwing",
+        "number": 375,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Woodfenn Forager",
+        "number": 88,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sacrifice of Innocence",
+        "number": 213,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Simon, the Red Prince",
+        "number": 297,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Unlikely Acquaintance",
+        "number": 376,
+        "shape": "adventure",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Yoe, Ready to Race",
+        "number": 90,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shinichi Izumi, the Host",
+        "number": 215,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Star-Crossed Fate",
+        "number": 298,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Unsteady Resolve",
-        "number": 366,
+        "number": 377,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Home",
-        "number": 538,
+        "number": 592,
         "shape": "fuse split",
         "set": "JUN25"
     },
@@ -1889,19 +1949,19 @@
     },
     {
         "card_name": "Should've Picked Mercy",
-        "number": 209,
+        "number": 216,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Simon, the Red Prince",
-        "number": 290,
-        "shape": "transform double faced",
+        "card_name": "Steelheart Empath",
+        "number": 299,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Vastwood Great-Elk",
-        "number": 367,
+        "number": 378,
         "shape": "transform double faced",
         "set": "JUN25"
     },
@@ -1913,19 +1973,19 @@
     },
     {
         "card_name": "Shrine Keeper",
-        "number": 210,
+        "number": 217,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Steelheart Empath",
-        "number": 291,
+        "card_name": "Tavern Scoundrel",
+        "number": 300,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Veil of the Past",
-        "number": 368,
+        "number": 379,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1937,19 +1997,19 @@
     },
     {
         "card_name": "Smash",
-        "number": 211,
+        "number": 218,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Tavern Scoundrel",
-        "number": 292,
+        "card_name": "This is Cannon",
+        "number": 301,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Verdant Warden",
-        "number": 369,
+        "number": 380,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1961,19 +2021,19 @@
     },
     {
         "card_name": "Spiralling Thoughts",
-        "number": 212,
+        "number": 219,
         "shape": "saga",
         "set": "JUN25"
     },
     {
-        "card_name": "This is Cannon",
-        "number": 293,
-        "shape": "normal",
+        "card_name": "Thunderclap",
+        "number": 302,
+        "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Vraska's Marauder",
-        "number": 370,
+        "number": 381,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1985,19 +2045,19 @@
     },
     {
         "card_name": "Sponsorship Segment",
-        "number": 213,
+        "number": 220,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Thunderclap",
-        "number": 294,
-        "shape": "transform double faced",
+        "card_name": "Traitorous Impulse",
+        "number": 303,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Wacky Racer",
-        "number": 371,
+        "number": 382,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2009,19 +2069,19 @@
     },
     {
         "card_name": "Stitcher's Supplier",
-        "number": 214,
+        "number": 221,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Traitorous Impulse",
-        "number": 295,
+        "card_name": "Undefeated",
+        "number": 304,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Whimsical Proportions",
-        "number": 372,
+        "number": 383,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2033,19 +2093,19 @@
     },
     {
         "card_name": "Terror Treader",
-        "number": 215,
+        "number": 222,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Undefeated",
-        "number": 296,
+        "card_name": "The Warshrieker Ambush",
+        "number": 306,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Wily Opposur",
-        "number": 373,
+        "number": 384,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2057,19 +2117,19 @@
     },
     {
         "card_name": "Thermonuclear Pufferfish",
-        "number": 216,
+        "number": 223,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "You Must Be Stopped",
-        "number": 298,
+        "number": 307,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Wondrous Tree",
-        "number": 374,
+        "number": 385,
         "shape": "adventure",
         "set": "JUN25"
     },
@@ -2081,7 +2141,7 @@
     },
     {
         "card_name": "Threatening Plush",
-        "number": 218,
+        "number": 225,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2090,7 +2150,7 @@
     },
     {
         "card_name": "Ygra's Unending Hunger",
-        "number": 375,
+        "number": 386,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2102,7 +2162,7 @@
     },
     {
         "card_name": "Twilight Festival",
-        "number": 219,
+        "number": 226,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2111,7 +2171,7 @@
     },
     {
         "card_name": "Hedge",
-        "number": 376,
+        "number": 387,
         "shape": "fuse split",
         "set": "JUN25"
     },
@@ -2123,7 +2183,7 @@
     },
     {
         "card_name": "Usurp",
-        "number": 220,
+        "number": 227,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2141,7 +2201,7 @@
     },
     {
         "card_name": "Valgavoth, Furious Dread",
-        "number": 221,
+        "number": 228,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2159,7 +2219,7 @@
     },
     {
         "card_name": "Valgavoth's Faithful",
-        "number": 222,
+        "number": 229,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2177,7 +2237,7 @@
     },
     {
         "card_name": "Whispering Dreams",
-        "number": 223,
+        "number": 230,
         "shape": "transform double faced",
         "set": "JUN25"
     },
@@ -2195,7 +2255,7 @@
     },
     {
         "card_name": "Open Boardroom",
-        "number": 225,
+        "number": 232,
         "shape": "fuse split",
         "set": "JUN25"
     },
@@ -2220,227 +2280,260 @@
     "a->gold",
     {
         "card_name": "Aerial Crossbreed",
-        "number": 378,
+        "number": 390,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Achlys, Cosmic Decay",
-        "number": 377,
+        "number": 388,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Aetherborn Wanderer",
-        "number": 379,
+        "number": 391,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Bee and Puppycat",
-        "number": 388,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Ama Yagbri, the Hoary Alp",
-        "number": 381,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Breadification",
-        "number": 392,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Apostle of the Tower",
-        "number": 384,
-        "shape": "transform double faced",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Azula, Storm Prodigy",
-        "number": 387,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Daring Dingo",
-        "number": 405,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Angel of the Wilds",
-        "number": 383,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Drake Incubator",
-        "number": 408,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Cult Fascination",
         "number": 404,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Charlotte de la Cruz",
-        "number": 397,
+        "card_name": "Ama Yagbri, the Hoary Alp",
+        "number": 394,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Encrusted Aegisaur",
-        "number": 414,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Bess, Standard Power Level",
-        "number": 389,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Freja, the Sharpshooter",
-        "number": 430,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Exploring the Tower of Mansus",
-        "number": 419,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Composed Foxhound",
-        "number": 400,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Indigo Revolutionary",
-        "number": 444,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Domesticate",
-        "number": 407,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Hacan Command",
-        "number": 436,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Eyes Agape",
-        "number": 421,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Here We Go Again",
-        "number": 439,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Time Together",
-        "number": 510,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Dutiful Father",
+        "card_name": "Breadification",
         "number": 409,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Kallist Rhoka, Displaced Mind",
-        "number": 447,
+        "card_name": "Apostle of the Tower",
+        "number": 397,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Azula, Storm Prodigy",
+        "number": 402,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Fickle Mentality",
-        "number": 424,
+        "card_name": "Daring Dingo",
+        "number": 427,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Logan, the Weapon X",
-        "number": 453,
+        "card_name": "Angel of the Wilds",
+        "number": 396,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Brute Denial",
-        "number": 531,
+        "card_name": "Drake Incubator",
+        "number": 431,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Elvish Lifecatcher",
-        "number": 413,
+        "card_name": "Cult Fascination",
+        "number": 425,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "New Assembly Automatom",
-        "number": 460,
+        "card_name": "Charlotte de la Cruz",
+        "number": 416,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Locked In With Me",
-        "number": 452,
+        "card_name": "Devilish Corporation",
+        "number": 428,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Mesmer, the Abandoned God",
-        "number": 456,
+        "card_name": "Bess, Standard Power Level",
+        "number": 405,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Invariable Eskimo",
-        "number": 445,
+        "card_name": "Freja, the Sharpshooter",
+        "number": 457,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Ride the Clouds",
-        "number": 485,
+        "card_name": "Exploring the Tower of Mansus",
+        "number": 444,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Nite Owl, the Vigilante",
+        "card_name": "Composed Foxhound",
+        "number": 419,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Encrusted Aegisaur",
+        "number": 439,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Domesticate",
+        "number": 430,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Hacan Command",
         "number": 463,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "The Resurrection of Falin",
-        "number": 484,
-        "shape": "saga",
+        "card_name": "Eyes Agape",
+        "number": 446,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Here We Go Again",
+        "number": 468,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Feline Interruption",
+        "number": 450,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Dutiful Father",
+        "number": 433,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Kallist Rhoka, Displaced Mind",
+        "number": 478,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Fickle Mentality",
+        "number": 451,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Kill Your Darlings",
+        "number": 479,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Indigo Revolutionary",
+        "number": 474,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Elvish Lifecatcher",
+        "number": 438,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "New Assembly Automatom",
+        "number": 498,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Locked In With Me",
+        "number": 486,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Logan, the Weapon X",
+        "number": 487,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Time Together",
+        "number": 556,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Invariable Eskimo",
+        "number": 475,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Ride the Clouds",
+        "number": 526,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Moth of Mourning",
+        "number": 495,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Mesmer, the Abandoned God",
+        "number": 493,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Brute Denial",
+        "number": 584,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "The Lands Arise",
+        "number": 482,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Spooky Ghosts",
+        "number": 546,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Nite Owl, the Vigilante",
+        "number": 501,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Parker's Reveal on Page 13",
+        "number": 509,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
@@ -2448,26 +2541,26 @@
     },
     {
         "card_name": "Maw of Infinity",
-        "number": 454,
+        "number": 491,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Talk to the Hand",
-        "number": 506,
+        "card_name": "Sunwater Shaper",
+        "number": 548,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Occult Happenings Detective",
-        "number": 465,
+        "number": 503,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Can Be Bought",
-        "number": 535,
-        "shape": "fuse split",
+        "card_name": "The Resurrection of Falin",
+        "number": 525,
+        "shape": "saga",
         "set": "JUN25"
     },
     {
@@ -2475,40 +2568,46 @@
     },
     {
         "card_name": "Menagerie Master",
-        "number": 455,
+        "number": 492,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Vallia's Kindness",
-        "number": 518,
+        "card_name": "Talk to the Hand",
+        "number": 552,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Paint By Numbers",
-        "number": 470,
+        "number": 508,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "e"
+        "card_name": "Can Be Bought",
+        "number": 589,
+        "shape": "fuse split",
+        "set": "JUN25"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Righteous Wind-Warden",
-        "number": 486,
+        "number": 527,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "e"
+        "card_name": "Vallia's Kindness",
+        "number": 568,
+        "shape": "normal",
+        "set": "JUN25"
     },
     {
         "card_name": "Scavenge the Spoils",
-        "number": 488,
+        "number": 529,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2520,7 +2619,7 @@
     },
     {
         "card_name": "Scion of Ted",
-        "number": 489,
+        "number": 530,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2529,7 +2628,28 @@
     },
     {
         "card_name": "Simon, the Ice King",
-        "number": 496,
+        "number": 537,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Skath, Ten-Towns Guide",
+        "number": 538,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sneaky Bitzer",
+        "number": 541,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2541,7 +2661,7 @@
     },
     {
         "card_name": "Ted, Peaceful Resolution",
-        "number": 507,
+        "number": 553,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2549,8 +2669,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sneaky Bitzer",
-        "number": 499,
+        "card_name": "Sorynth, Blade of Oona",
+        "number": 543,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2562,34 +2682,16 @@
     },
     {
         "card_name": "Wandering Cataloguer",
-        "number": 522,
+        "number": 574,
         "shape": "normal",
         "set": "JUN25"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sorynth, Blade of Oona",
-        "number": 501,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Talion, Fae Despot",
-        "number": 505,
+        "number": 551,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2607,7 +2709,7 @@
     },
     {
         "card_name": "A Tentacular Terror!",
-        "number": 508,
+        "number": 554,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2625,7 +2727,25 @@
     },
     {
         "card_name": "Time Flies",
-        "number": 509,
+        "number": 555,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Twice-Pilfered Haul",
+        "number": 564,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2643,7 +2763,7 @@
     },
     {
         "card_name": "Ursula, Atlantican Outcast",
-        "number": 516,
+        "number": 566,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2661,7 +2781,7 @@
     },
     {
         "card_name": "Whisperer of the Damned",
-        "number": 523,
+        "number": 575,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2679,7 +2799,7 @@
     },
     {
         "card_name": "Worship at the Underhive",
-        "number": 526,
+        "number": 579,
         "shape": "saga",
         "set": "JUN25"
     },
@@ -2697,7 +2817,7 @@
     },
     {
         "card_name": "Writhing Polyp",
-        "number": 527,
+        "number": 580,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2715,7 +2835,7 @@
     },
     {
         "card_name": "Bright Young Thing",
-        "number": 530,
+        "number": 583,
         "shape": "adventure",
         "set": "JUN25"
     },
@@ -2733,7 +2853,7 @@
     },
     {
         "card_name": "Dissonant Murmurs",
-        "number": 532,
+        "number": 585,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2751,7 +2871,7 @@
     },
     {
         "card_name": "Self-Fulfilling Study",
-        "number": 533,
+        "number": 587,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2781,328 +2901,388 @@
     },
     {
         "card_name": "Eidolon of Ceaseless Hope",
-        "number": 411,
+        "number": 436,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Amnesiac's Reunion",
-        "number": 382,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Consulate Old Guard",
-        "number": 401,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Arrival of the Legions",
-        "number": 386,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Aethertortoise",
-        "number": 380,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "High-Born Fido",
-        "number": 440,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Arcane Misclassification",
-        "number": 385,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Feline Defiance",
-        "number": 423,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Boastful Singe-Tail",
-        "number": 390,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Brisket",
-        "number": 394,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Neow, Spire Steward",
-        "number": 459,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Bridget, Freeform Spinner",
-        "number": 393,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Gitrog, Plane Consumer",
-        "number": 432,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Captain Titus",
-        "number": 396,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Brutish Investigator",
         "number": 395,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Novice Lich",
-        "number": 464,
+        "card_name": "Calenfyr's Opus",
+        "number": 413,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Dyer, King of Rhymes",
-        "number": 410,
+        "card_name": "Arrival of the Legions",
+        "number": 400,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Goral, of Journey's End",
-        "number": 433,
+        "card_name": "Aethertortoise",
+        "number": 392,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Cherished Skypilot",
+        "card_name": "Heishen, Unsanctified Temple",
+        "number": 467,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Arcane Misclassification",
         "number": 398,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Faerie Ring Dance",
-        "number": 422,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Recomissioning Station",
-        "number": 479,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Eirya, Dragonbinder",
-        "number": 412,
-        "shape": "planeswalker",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Gudul Ambush",
-        "number": 434,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Containment Contraption",
-        "number": 402,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Filbo Fiddlepie",
-        "number": 425,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Respiteful Tragedy",
-        "number": 483,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Eureka Moment",
-        "number": 417,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Hungry Freebooter",
-        "number": 442,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Enlisted Dragon",
-        "number": 415,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Kruphix of Endless Horizons",
-        "number": 448,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Shadow-Wing Enforcer",
-        "number": 492,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Exuberant Mutt",
+        "card_name": "Consulate Old Guard",
         "number": 420,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Lathril's Reclaimer",
-        "number": 450,
+        "card_name": "Boastful Singe-Tail",
+        "number": 407,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Experienced Lead Researcher",
-        "number": 418,
+        "card_name": "Brisket",
+        "number": 411,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Playful Peekytoe",
-        "number": 473,
+        "card_name": "High-Born Fido",
+        "number": 469,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Shattered by the Storm",
-        "number": 493,
+        "card_name": "Bridget, Freeform Spinner",
+        "number": 410,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Filigree Seer",
-        "number": 426,
+        "card_name": "Feline Defiance",
+        "number": 449,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Mischevious Dashchund",
-        "number": 457,
+        "card_name": "Captain Titus",
+        "number": 415,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Forge-God's Blessing",
-        "number": 428,
+        "card_name": "Brutish Investigator",
+        "number": 412,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Prudent Kuri",
-        "number": 475,
+        "card_name": "Neow, Spire Steward",
+        "number": 497,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Subaru's Immortality",
-        "number": 503,
+        "card_name": "Crackling Geistbomb",
+        "number": 422,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "First Kiss",
-        "number": 427,
-        "shape": "saga",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Oogey Boogey",
-        "number": 466,
+        "card_name": "Gitrog, Plane Consumer",
+        "number": 459,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Gildedguy, the Invincible",
-        "number": 431,
+        "card_name": "Cherished Skypilot",
+        "number": 417,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Recurring Theme",
+        "card_name": "Faerie Ring Dance",
+        "number": 447,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Novice Lich",
+        "number": 502,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Dyer, King of Rhymes",
+        "number": 434,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Goral, of Journey's End",
+        "number": 460,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Containment Contraption",
+        "number": 421,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Filbo Fiddlepie",
+        "number": 452,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Recomissioning Station",
+        "number": 519,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Eirya, Dragonbinder",
+        "number": 437,
+        "shape": "planeswalker",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Gudul Ambush",
+        "number": 461,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Enlisted Dragon",
+        "number": 440,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Kruphix of Endless Horizons",
         "number": 480,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Unvanquished One",
+        "card_name": "Respiteful Tragedy",
+        "number": 524,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Eureka Moment",
+        "number": 442,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Hungry Freebooter",
+        "number": 472,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Experienced Lead Researcher",
+        "number": 443,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Playful Peekytoe",
+        "number": 513,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Shadow-Wing Enforcer",
+        "number": 533,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Exuberant Mutt",
+        "number": 445,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Lathril's Reclaimer",
+        "number": 484,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Forge-God's Blessing",
+        "number": 455,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Prudent Kuri",
         "number": 515,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Frantic Shuffle",
-        "number": 429,
+        "card_name": "Shattered by the Storm",
+        "number": 534,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Operation Snake Eater",
-        "number": 467,
+        "card_name": "Filigree Seer",
+        "number": 453,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Mischevious Dashchund",
+        "number": 494,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Gildedguy, the Invincible",
+        "number": 458,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Recurring Theme",
+        "number": 520,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Subaru's Immortality",
+        "number": 547,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "First Kiss",
+        "number": 454,
         "shape": "saga",
         "set": "JUN25"
     },
     {
-        "card_name": "Nipper, Treasure of the Cove",
-        "number": 462,
+        "card_name": "Oogey Boogey",
+        "number": 504,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Master of Refraction",
+        "number": 490,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Sensei of Dirty Tricks",
-        "number": 490,
+        "number": 531,
         "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Unvanquished One",
+        "number": 565,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Frantic Shuffle",
+        "number": 456,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Operation Snake Eater",
+        "number": 505,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Nipper, Treasure of the Cove",
+        "number": 500,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Shelter in Kelp",
+        "number": 535,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Wailing Doom",
+        "number": 573,
+        "shape": "transform double faced",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Heartthrob Idol",
+        "number": 466,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Phyrexia's Charm",
+        "number": 510,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Orazca Spire",
+        "number": 506,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "shit. lets be santa",
+        "number": 536,
+        "shape": "saga",
         "set": "JUN25"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Heartthrob Idol",
-        "number": 438,
+        "card_name": "Highpond Master",
+        "number": 470,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Phyrexia's Charm",
-        "number": 471,
+        "card_name": "Redglade Silencer",
+        "number": 521,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Orazca Spire",
-        "number": 468,
+        "card_name": "Punishment",
+        "number": 516,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Shelter in Kelp",
-        "number": 494,
+        "card_name": "Slithering Murklurker",
+        "number": 540,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3111,26 +3291,26 @@
     },
     {
         "card_name": "Pick Parrot",
-        "number": 472,
+        "number": 511,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Redglade Silencer",
-        "number": 481,
+        "card_name": "Shadow Clowder Leader",
+        "number": 532,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Punishment",
-        "number": 476,
+        "card_name": "Rejuvenating Extremophiles",
+        "number": 522,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "shit. lets be santa",
-        "number": 495,
-        "shape": "saga",
+        "card_name": "Solitary Storm Sorceress",
+        "number": 542,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
@@ -3138,25 +3318,25 @@
     },
     {
         "card_name": "Quadruple Trouble",
-        "number": 477,
+        "number": 517,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Shadow Clowder Leader",
-        "number": 491,
+        "card_name": "Syr Onage, the Stubborn",
+        "number": 549,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Rejuvenating Extremophiles",
-        "number": 482,
+        "card_name": "Renee Venus Parvati",
+        "number": 523,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Slithering Murklurker",
-        "number": 498,
+        "card_name": "Spirit to Seed",
+        "number": 545,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3165,25 +3345,19 @@
     },
     {
         "card_name": "Raise the Stakes",
-        "number": 478,
+        "number": 518,
         "shape": "saga",
         "set": "JUN25"
     },
     {
         "card_name": "Vraska, the Stoneglarer",
-        "number": 520,
+        "number": 571,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Skittish Retriever",
-        "number": 497,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Solitary Storm Sorceress",
-        "number": 500,
+        "number": 539,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3191,20 +3365,23 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Trading Card",
-        "number": 511,
+        "number": 558,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Zombie Grudgekeeper",
-        "number": 528,
+        "number": 581,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "T.O.M. Intelligence Model",
-        "number": 504,
+        "number": 550,
         "shape": "planeswalker",
         "set": "JUN25"
     },
@@ -3216,7 +3393,7 @@
     },
     {
         "card_name": "Trigger the End",
-        "number": 514,
+        "number": 563,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3225,7 +3402,7 @@
     },
     {
         "card_name": "Trainer Class",
-        "number": 512,
+        "number": 559,
         "shape": "saga",
         "set": "JUN25"
     },
@@ -3237,7 +3414,7 @@
     },
     {
         "card_name": "Bottled Brilliance",
-        "number": 529,
+        "number": 582,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3246,7 +3423,7 @@
     },
     {
         "card_name": "Wojek Blazebringer",
-        "number": 525,
+        "number": 578,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3270,73 +3447,133 @@
     },
     {
         "card_name": "Civilization's Pride",
-        "number": 399,
+        "number": 418,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Dierk, Geistmage Genius",
+        "card_name": "Cryptomnesia",
+        "number": 424,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Bile Reborn",
         "number": 406,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Nature's Pride",
-        "number": 458,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
         "card_name": "Boons of Olympus",
-        "number": 391,
+        "number": 408,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Just as Planned",
-        "number": 446,
+        "card_name": "Czeros, Sky Regent",
+        "number": 426,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Crucius, the Mad",
-        "number": 403,
+        "number": 423,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Nicol Bolas, Benevolent Tyrant",
-        "number": 461,
-        "shape": "planeswalker",
+        "card_name": "Dierk, Geistmage Genius",
+        "number": 429,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Vulcan Raven",
-        "number": 521,
+        "card_name": "Nature's Pride",
+        "number": 496,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Etali and Ted, Ill-Fated Bond",
-        "number": 416,
+        "number": 441,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Just as Planned",
+        "number": 476,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Duncaster Mysteries",
+        "number": 432,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Lurzog, Necroascendant",
+        "number": 488,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Tributetaker Hydra",
+        "number": 562,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Heart of the Cards",
+        "number": 465,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Pilgrim of the Overgrown",
+        "number": 512,
+        "shape": "class",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Echoes of the Fallen",
+        "number": 435,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Nicol Bolas, Benevolent Tyrant",
+        "number": 499,
+        "shape": "planeswalker",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Vulcan Raven",
+        "number": 572,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Howlpack's Hunt",
+        "number": 471,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Sphinx of Promise",
-        "number": 502,
+        "number": 544,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Hadriel, Mage Hunter",
-        "number": 437,
+        "number": 464,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Ornithicera, Fell Sealed",
-        "number": 469,
+        "number": 507,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3344,8 +3581,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Howlpack's Hunt",
-        "number": 441,
+        "card_name": "Treacherous Swine",
+        "number": 561,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3357,7 +3594,7 @@
     },
     {
         "card_name": "The Transcendent One",
-        "number": 513,
+        "number": 560,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3386,14 +3623,74 @@
         "card_name": "er"
     },
     {
+        "card_name": "Alluring Wisp",
+        "number": 393,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Across the Sands",
+        "number": 389,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "The Feast of Hemlock Vale",
+        "number": 448,
+        "shape": "saga",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Arleigh, Moonlit Champion",
+        "number": 399,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Witch of the Embrace",
+        "number": 576,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
         "card_name": "Gwent, Ashheart Butcher",
-        "number": 435,
+        "number": 462,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Calm Before the Hunt",
+        "number": 414,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Vitu-Ghazi Culler",
+        "number": 570,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Kadhirva the Ascetic",
+        "number": 477,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Ghost of Summer Christmas",
+        "number": 586,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Ichiban Kasuga",
+        "number": 473,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Kwak, Lushmarsh Escort",
-        "number": 449,
+        "number": 481,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3407,14 +3704,14 @@
         "card_name": "e"
     },
     {
-        "card_name": "Ichiban Kasuga",
-        "number": 443,
+        "card_name": "Mardu Vanguard",
+        "number": 489,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Lilis, Amateur Cartographer",
-        "number": 451,
+        "number": 485,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3443,22 +3740,49 @@
         "card_name": "er"
     },
     {
+        "card_name": "Baihu, Heir of Autumn",
+        "number": 403,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Tomb-Tearer Nephilim",
+        "number": 557,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Arza and Kraft",
+        "number": 401,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "The Last Night",
+        "number": 483,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
         "card_name": "Power of Friendship",
-        "number": 474,
+        "number": 514,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Vallia Giftbringer",
-        "number": 517,
+        "number": 567,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Victory Royale",
-        "number": 519,
+        "number": 569,
         "shape": "normal",
         "set": "JUN25"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -3504,292 +3828,298 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Moresso, Paragon of Harmony",
+        "card_name": "Mirai, Echo of the Seasons",
         "number": 14,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "JUN25"
     },
     {
-        "card_name": "My Work Continues",
+        "card_name": "Moresso, Paragon of Harmony",
         "number": 15,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "The Pieces Fall Into Place",
+        "card_name": "My Work Continues",
         "number": 16,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Progress Stops at Naught",
+        "card_name": "The Pieces Fall Into Place",
         "number": 17,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "The Stars Obey My Every Whim",
+        "card_name": "Progress Stops at Naught",
         "number": 18,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Ulamog, Invader of Segovia",
+        "card_name": "The Stars Obey My Every Whim",
         "number": 19,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Urza's Leyline",
+        "card_name": "Ulamog, Invader of Segovia",
         "number": 20,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Vitriach, Lunar Beckoned",
+        "card_name": "Urza's Leyline",
         "number": 21,
         "shape": "normal",
         "set": "JUN25"
     },
     {
+        "card_name": "Vitriach, Lunar Beckoned",
+        "number": 22,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
         "card_name": "The Battle Bus",
-        "number": 540,
+        "number": 594,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Blocked Lotus",
-        "number": 541,
+        "number": 595,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Bobo's Balloon Buggy",
-        "number": 542,
+        "number": 596,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Bridget's Yo-Yo",
-        "number": 543,
+        "number": 597,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "The Button",
-        "number": 544,
+        "number": 598,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Da Coconut Nut 2",
-        "number": 548,
+        "number": 602,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Damp Boot",
-        "number": 549,
+        "number": 603,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Energy Pull Gun",
-        "number": 550,
+        "number": 604,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Fickle Raiments",
-        "number": 551,
+        "number": 605,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "The Final Star",
-        "number": 552,
+        "number": 606,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Fishing Rod",
-        "number": 553,
+        "number": 607,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Forge of Power",
-        "number": 555,
+        "number": 609,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Freightyard Shipper",
-        "number": 556,
+        "number": 610,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Godskin Vessel",
-        "number": 557,
+        "number": 611,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Grail of Sensations",
-        "number": 559,
+        "number": 613,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Hare Plane Squadron",
-        "number": 560,
+        "number": 614,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Hide Armor",
-        "number": 561,
+        "number": 615,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Highcity Express",
-        "number": 562,
+        "number": 616,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Hyperforge Ravager",
-        "number": 563,
+        "number": 617,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Ironclad Animator",
-        "number": 564,
+        "number": 618,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Lantern of Enlightenment",
-        "number": 565,
+        "number": 619,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Lavablood Golem",
-        "number": 566,
+        "number": 620,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Old Wooden Shield",
-        "number": 567,
+        "number": 621,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Orbital Probe Cannon",
-        "number": 568,
+        "number": 622,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Orlog Dice",
-        "number": 569,
+        "number": 623,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Ovalchase Dragster",
-        "number": 570,
+        "number": 624,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Potion of Invisibility",
-        "number": 571,
+        "number": 625,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Scrapforge Sentinel",
-        "number": 572,
+        "number": 626,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Surge Protector",
-        "number": 573,
+        "number": 627,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "T.O.M. Nerve Implant",
-        "number": 574,
+        "number": 628,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Talent Welder",
-        "number": 575,
+        "number": 629,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Team Flag",
-        "number": 576,
+        "number": 630,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Terraformic Spellbomb",
-        "number": 577,
+        "number": 631,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Thran Sentinel",
+        "number": 632,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Tome of Tales",
-        "number": 578,
+        "number": 633,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Tour Ink Presenter",
-        "number": 579,
+        "number": 634,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Ursula's Necklace",
-        "number": 580,
+        "number": 635,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Used Car Batteries",
-        "number": 581,
+        "number": 636,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Voltaic Fabricator",
-        "number": 582,
+        "number": 637,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Wax Wings",
-        "number": 583,
+        "number": 638,
         "shape": "normal",
         "set": "JUN25"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -3812,61 +4142,61 @@
     "a->land",
     {
         "card_name": "Glimmering Valley",
-        "number": 593,
+        "number": 648,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Homarid Hostel",
-        "number": 596,
+        "number": 651,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Draining Labor",
-        "number": 586,
+        "number": 641,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Everflaming Ruins",
-        "number": 588,
+        "number": 643,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Canopy Community",
-        "number": 585,
+        "number": 640,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Wartorn Flatlands",
-        "number": 612,
+        "number": 668,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Morland Library",
-        "number": 602,
+        "number": 658,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Glimmering Pit",
-        "number": 592,
+        "number": 647,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Glimmering Volcano",
-        "number": 594,
+        "number": 649,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Glimmering Clearing",
-        "number": 591,
+        "number": 646,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3875,25 +4205,25 @@
     },
     {
         "card_name": "Takeoff Lake",
-        "number": 607,
+        "number": 663,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Lethal Wetlands",
-        "number": 598,
+        "number": 653,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Magma Meeting House",
-        "number": 599,
+        "number": 655,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Jungle Temple",
-        "number": 597,
+        "number": 652,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3905,7 +4235,7 @@
     },
     {
         "card_name": "Mansus Elite Club",
-        "number": 601,
+        "number": 657,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3914,7 +4244,7 @@
     },
     {
         "card_name": "Overgrown Grove",
-        "number": 603,
+        "number": 659,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3938,7 +4268,7 @@
     },
     {
         "card_name": "Tower of Mansus",
-        "number": 609,
+        "number": 665,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3947,7 +4277,7 @@
     },
     {
         "card_name": "Snailshell Shire",
-        "number": 606,
+        "number": 662,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3959,7 +4289,7 @@
     },
     {
         "card_name": "Undertower Auction",
-        "number": 610,
+        "number": 666,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -3992,13 +4322,13 @@
     },
     {
         "card_name": "Caldera Corral",
-        "number": 584,
+        "number": 639,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Gloomy Farmstead",
-        "number": 595,
+        "number": 650,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4006,8 +4336,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Mangrove Motel",
-        "number": 600,
+        "card_name": "Loch and Quay",
+        "number": 654,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4019,7 +4349,7 @@
     },
     {
         "card_name": "Profained Arbory",
-        "number": 605,
+        "number": 661,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4027,7 +4357,10 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Mangrove Motel",
+        "number": 656,
+        "shape": "normal",
+        "set": "JUN25"
     },
     {
         "card_name": "er"
@@ -4046,37 +4379,37 @@
     },
     {
         "card_name": "Eos, Shifting Superscape",
-        "number": 587,
+        "number": 642,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Evolving Wilds",
-        "number": 589,
+        "number": 644,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "The Firelink Shrine",
-        "number": 590,
+        "number": 645,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Primepost",
-        "number": 604,
+        "number": 660,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Terramorphic Expanse",
-        "number": 608,
+        "number": 664,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Urza's Gate",
-        "number": 611,
+        "number": 667,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4179,37 +4512,37 @@
     },
     {
         "card_name": "The Ball",
-        "number": 539,
+        "number": 593,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Clue",
-        "number": 545,
+        "number": 599,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Clue",
-        "number": 546,
+        "number": 600,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Clue",
-        "number": 547,
+        "number": 601,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Food",
-        "number": 554,
+        "number": 608,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Gold",
-        "number": 558,
+        "number": 612,
         "shape": "token",
         "set": "JUN25"
     },
@@ -4221,127 +4554,127 @@
     },
     {
         "card_name": "Human",
-        "number": 45,
-        "shape": "token",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Human Werewolf",
         "number": 46,
         "shape": "token",
         "set": "JUN25"
     },
     {
+        "card_name": "Human Werewolf",
+        "number": 47,
+        "shape": "token",
+        "set": "JUN25"
+    },
+    {
         "card_name": "Yak",
-        "number": 86,
+        "number": 89,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Blue Horrors",
-        "number": 90,
+        "number": 93,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Construct",
-        "number": 97,
+        "number": 100,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Bird",
-        "number": 148,
+        "number": 153,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Chaos Marine",
-        "number": 151,
+        "number": 156,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Herald of Slaanesh",
-        "number": 175,
+        "number": 181,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Shade Cat",
-        "number": 207,
+        "number": 214,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Thief",
-        "number": 217,
-        "shape": "token",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Zombie",
         "number": 224,
         "shape": "token",
         "set": "JUN25"
     },
     {
+        "card_name": "Zombie",
+        "number": 231,
+        "shape": "token",
+        "set": "JUN25"
+    },
+    {
         "card_name": "Bloodletter",
-        "number": 230,
+        "number": 237,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Warrior",
-        "number": 297,
-        "shape": "token",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Bugsnak",
         "number": 305,
         "shape": "token",
         "set": "JUN25"
     },
     {
+        "card_name": "Bugsnak",
+        "number": 314,
+        "shape": "token",
+        "set": "JUN25"
+    },
+    {
         "card_name": "Cradle",
-        "number": 307,
+        "number": 316,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Elf Warrior",
-        "number": 313,
+        "number": 323,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Gnome Nomad",
-        "number": 321,
+        "number": 331,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Plaguebearer",
-        "number": 338,
+        "number": 349,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Saurian Zombie",
-        "number": 487,
+        "number": 528,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Wizard",
-        "number": 524,
+        "number": 577,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Werewolf",
-        "number": 534,
+        "number": 588,
         "shape": "token",
         "set": "JUN25"
     },
