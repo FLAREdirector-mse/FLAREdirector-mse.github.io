@@ -1831,16 +1831,6 @@
 			}
 		},
 		{
-			"name": "Open the Cicatrix Maledictum",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Enchantment",
-			"collector_number": "236",
-			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/236_Open the Cicatrix Maledictum.jpg"
-			}
-		},
-		{
 			"name": "Plaguebearer",
 			"rarity": "special",
 			"mana_cost": "",
@@ -1856,8 +1846,15 @@
 			"mana_cost": "{3}{B}{B}",
 			"type": "Battle — Siege",
 			"collector_number": "204",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/204_The Fall of Cadia_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/204_The Fall of Cadia.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/204_The Fall of Cadia_front.jpg"
 			}
 		},
 		{
@@ -7846,8 +7843,15 @@
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Tau Warrior",
 			"collector_number": "599",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/599_O'Shovah, Commander Farsight_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/599_O'Shovah, Commander Farsight.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/599_O'Shovah, Commander Farsight_front.jpg"
 			}
 		},
 		{
@@ -8310,7 +8314,6 @@
 	1 Brute Denial
 	1 Old Wooden Shield
 	1 shit. lets be santa
-	1 Open the Cicatrix Maledictum
 	1 The Fall of Cadia
 	1 Wily Opposur
 	1 Arcane Misclassification

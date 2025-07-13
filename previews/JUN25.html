@@ -5,6 +5,10 @@
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>JUN25 visual preview</title>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -82,7 +86,7 @@
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -118,33 +122,40 @@
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
-			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
@@ -179,11 +190,12 @@
 		</div>
 	</div>
 
-	<div class="icon-bar">
-			<div class="icon"><a href="DEC24"><img src="/sets/DEC24-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="JUN25"><img src="/sets/JUN25-files/icon.png"></img></a></div>
-
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="JUN25"><img src="/sets/JUN25-files/icon.png">Secret Santa June 2025</a>
+	
+		<a class="set-bar inactive" href="DEC24"><img src="/sets/DEC24-files/icon.png">Secret Santa Dec. 2024</a>
+	
 		</div>
 		<div class="banner">
 		<img class="logo" src="/sets/JUN25-files/logo.png">
@@ -296,146 +308,41 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\135_In Every Universe.jpg" id="135_In Every Universe" data-flag="@X" onclick="openSidebar('135_In Every Universe',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\233_Oblivion Spawn.jpg" id="233_Oblivion Spawn" data-flag="@X" onclick="openSidebar('233_Oblivion Spawn',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\330_Matthew Patel.jpg" id="330_Matthew Patel" data-flag="@X" onclick="openSidebar('330_Matthew Patel',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\461_Affirm the Old Ways.jpg" id="461_Affirm the Old Ways" data-flag="@X" onclick="openSidebar('461_Affirm the Old Ways',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\83_Rite of Passage.jpg" id="83_Rite of Passage" data-flag="@X" onclick="openSidebar('83_Rite of Passage',true)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\140_Keen Piranha.jpg" id="140_Keen Piranha" data-flag="@X" onclick="openSidebar('140_Keen Piranha',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\237_Open the Vats.jpg" id="237_Open the Vats" data-flag="@X" onclick="openSidebar('237_Open the Vats',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\331_Nezuri, the Situationship.jpg" id="331_Nezuri, the Situationship" data-flag="@X" onclick="openSidebar('331_Nezuri, the Situationship',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\494_Coastline Lookouts.jpg" id="494_Coastline Lookouts" data-flag="@X" onclick="openSidebar('494_Coastline Lookouts',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\97_Well-Read Initiate.jpg" id="97_Well-Read Initiate" data-flag="@X" onclick="openSidebar('97_Well-Read Initiate',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\144_Magic 8-Ball.jpg" id="144_Magic 8-Ball" data-flag="@X" onclick="openSidebar('144_Magic 8-Ball',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\247_Refurbished Dreadnought.jpg" id="247_Refurbished Dreadnought" data-flag="@X" onclick="openSidebar('247_Refurbished Dreadnought',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\336_Prismatic Blades.jpg" id="336_Prismatic Blades" data-flag="@X" onclick="openSidebar('336_Prismatic Blades',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\504_Decorated Machina.jpg" id="504_Decorated Machina" data-flag="@X" onclick="openSidebar('504_Decorated Machina',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\99_Wring Life from Stillness.jpg" id="99_Wring Life from Stillness" data-flag="@X" onclick="openSidebar('99_Wring Life from Stillness',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\153_Ramiera, the Elusive.jpg" id="153_Ramiera, the Elusive" data-flag="@X" onclick="openSidebar('153_Ramiera, the Elusive',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\252_Sate the Darkness.jpg" id="252_Sate the Darkness" data-flag="@X" onclick="openSidebar('252_Sate the Darkness',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\342_Rapid Raptor.jpg" id="342_Rapid Raptor" data-flag="@X" onclick="openSidebar('342_Rapid Raptor',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\698_Force of Instinct.jpg" id="698_Force of Instinct" data-flag="@X" onclick="openSidebar('698_Force of Instinct',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\102_Your Fate Is Sealed!.jpg" id="102_Your Fate Is Sealed!" data-flag="@X" onclick="openSidebar('102_Your Fate Is Sealed!',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\158_Sky-Tech Expert.jpg" id="158_Sky-Tech Expert" data-flag="@X" onclick="openSidebar('158_Sky-Tech Expert',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\261_Syr Morgan's Reverie.jpg" id="261_Syr Morgans Reverie" data-flag="@X" onclick="openSidebar('261_Syr Morgans Reverie',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\344_Revolutionary's Recording.jpg" id="344_Revolutionarys Recording" data-flag="@X" onclick="openSidebar('344_Revolutionarys Recording',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\704_Yuki.jpg" id="704_Yuki" data-flag="@X" onclick="openSidebar('704_Yuki',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\115_Come.jpg" id="115_Come" data-flag="@X" onclick="openSidebar('115_Come',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\159_Slipstream Lurker.jpg" id="159_Slipstream Lurker" data-flag="@X" onclick="openSidebar('159_Slipstream Lurker',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\266_Turkey Vulture.jpg" id="266_Turkey Vulture" data-flag="@X" onclick="openSidebar('266_Turkey Vulture',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\353_Sorcerous Markings.jpg" id="353_Sorcerous Markings" data-flag="@X" onclick="openSidebar('353_Sorcerous Markings',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\456_Advanced Machining.jpg" id="456_Advanced Machining" data-flag="@X" onclick="openSidebar('456_Advanced Machining',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\165_Sync or Swim.jpg" id="165_Sync or Swim" data-flag="@X" onclick="openSidebar('165_Sync or Swim',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\268_Umbral Prodigy.jpg" id="268_Umbral Prodigy" data-flag="@X" onclick="openSidebar('268_Umbral Prodigy',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\355_Starcruiser Battlemage.jpg" id="355_Starcruiser Battlemage" data-flag="@X" onclick="openSidebar('355_Starcruiser Battlemage',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img data-alt_src="/sets\JUN25-files\img\518_Eliza, Snaremaster_back.jpg" alt="/sets\JUN25-files\img\518_Eliza, Snaremaster_front.jpg" id="518_Eliza, Snaremaster" data-flag="@XD" onclick="openSidebar('518_Eliza, Snaremaster',false)"><button class="flip-btn" onclick="imgFlip('518_Eliza, Snaremaster')"></button></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\168_Time and Tide.jpg" id="168_Time and Tide" data-flag="@X" onclick="openSidebar('168_Time and Tide',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\272_We Have Reserves.jpg" id="272_We Have Reserves" data-flag="@X" onclick="openSidebar('272_We Have Reserves',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\362_Violence.jpg" id="362_Violence" data-flag="@X" onclick="openSidebar('362_Violence',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\615_Reckoning of Worlds.jpg" id="615_Reckoning of Worlds" data-flag="@X" onclick="openSidebar('615_Reckoning of Worlds',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\488_Cartoon Violence.jpg" id="488_Cartoon Violence" data-flag="@X" onclick="openSidebar('488_Cartoon Violence',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\454_Achtot's Vanguard.jpg" id="454_Achtots Vanguard" data-flag="@X" onclick="openSidebar('454_Achtots Vanguard',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\465_Amilie, Ordained in Steel.jpg" id="465_Amilie, Ordained in Steel" data-flag="@X" onclick="openSidebar('465_Amilie, Ordained in Steel',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\626_Sacred Assassin.jpg" id="626_Sacred Assassin" data-flag="@X" onclick="openSidebar('626_Sacred Assassin',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\507_Dispose Of.jpg" id="507_Dispose Of" data-flag="@X" onclick="openSidebar('507_Dispose Of',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\486_Captain Bonerender.jpg" id="486_Captain Bonerender" data-flag="@X" onclick="openSidebar('486_Captain Bonerender',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\521_Enemy of the Ocean.jpg" id="521_Enemy of the Ocean" data-flag="@X" onclick="openSidebar('521_Enemy of the Ocean',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\656_Targeted Demolition.jpg" id="656_Targeted Demolition" data-flag="@X" onclick="openSidebar('656_Targeted Demolition',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\511_Dust of Destruction.jpg" id="511_Dust of Destruction" data-flag="@X" onclick="openSidebar('511_Dust of Destruction',false)"></div>
-				<div class="container"><img data-alt_src="/sets\JUN25-files\img\599_O'Shovah, Commander Farsight_back.jpg" alt="/sets\JUN25-files\img\599_O'Shovah, Commander Farsight_front.jpg" id="599_OShovah, Commander Farsight" data-flag="@XD" onclick="openSidebar('599_OShovah, Commander Farsight',false)"><button class="flip-btn" onclick="imgFlip('599_OShovah, Commander Farsight')"></button></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\680_Warden of the Sword.jpg" id="680_Warden of the Sword" data-flag="@X" onclick="openSidebar('680_Warden of the Sword',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\700_Like Clockwork.jpg" id="700_Like Clockwork" data-flag="@X" onclick="openSidebar('700_Like Clockwork',false)"></div>
-				<div class="container"><img data-alt_src="/sets\JUN25-files\img\517_Elder Deep Beast_back.jpg" alt="/sets\JUN25-files\img\517_Elder Deep Beast_front.jpg" id="517_Elder Deep Beast" data-flag="@XD" onclick="openSidebar('517_Elder Deep Beast',false)"><button class="flip-btn" onclick="imgFlip('517_Elder Deep Beast')"></button></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\631_Scrap Recycler.jpg" id="631_Scrap Recycler" data-flag="@X" onclick="openSidebar('631_Scrap Recycler',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\576_Lucian, Unyielding Leader.jpg" id="576_Lucian, Unyielding Leader" data-flag="@X" onclick="openSidebar('576_Lucian, Unyielding Leader',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\458_Æternia, Phaseblade.jpg" id="458_Æternia, Phaseblade" data-flag="@X" onclick="openSidebar('458_Æternia, Phaseblade',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\537_Flush!.jpg" id="537_Flush!" data-flag="@X" onclick="openSidebar('537_Flush!',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\696_Force of Impact.jpg" id="696_Force of Impact" data-flag="@X" onclick="openSidebar('696_Force of Impact',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\602_Paragon of the Herd.jpg" id="602_Paragon of the Herd" data-flag="@X" onclick="openSidebar('602_Paragon of the Herd',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\543_God is My Wrath.jpg" id="543_God is My Wrath" data-flag="@X" onclick="openSidebar('543_God is My Wrath',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\560_Infinite Echoes.jpg" id="560_Infinite Echoes" data-flag="@X" onclick="openSidebar('560_Infinite Echoes',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\697_Force of Infection.jpg" id="697_Force of Infection" data-flag="@X" onclick="openSidebar('697_Force of Infection',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\689_Inter.jpg" id="689_Inter" data-flag="@X" onclick="openSidebar('689_Inter',true)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\562_Jazith Sha, the Ineffable.jpg" id="562_Jazith Sha, the Ineffable" data-flag="@X" onclick="openSidebar('562_Jazith Sha, the Ineffable',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\648_Stagserpent.jpg" id="648_Stagserpent" data-flag="@X" onclick="openSidebar('648_Stagserpent',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\701_Revocable Relinquishment.jpg" id="701_Revocable Relinquishment" data-flag="@X" onclick="openSidebar('701_Revocable Relinquishment',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\601_Paradox Investigations.jpg" id="601_Paradox Investigations" data-flag="@X" onclick="openSidebar('601_Paradox Investigations',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\492_The Circle of Seven.jpg" id="492_The Circle of Seven" data-flag="@X" onclick="openSidebar('492_The Circle of Seven',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\612_Radiant Pyromancer.jpg" id="612_Radiant Pyromancer" data-flag="@X" onclick="openSidebar('612_Radiant Pyromancer',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img data-alt_src="/sets\JUN25-files\img\549_Harness Creation_back.jpg" alt="/sets\JUN25-files\img\549_Harness Creation_front.jpg" id="549_Harness Creation" data-flag="@XD" onclick="openSidebar('549_Harness Creation',false)"><button class="flip-btn" onclick="imgFlip('549_Harness Creation')"></button></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\614_Rakhamezhi, the Ambiguous.jpg" id="614_Rakhamezhi, the Ambiguous" data-flag="@X" onclick="openSidebar('614_Rakhamezhi, the Ambiguous',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\651_Svetlana, Gate Guardian.jpg" id="651_Svetlana, Gate Guardian" data-flag="@X" onclick="openSidebar('651_Svetlana, Gate Guardian',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\625_Robot Herding.jpg" id="625_Robot Herding" data-flag="@X" onclick="openSidebar('625_Robot Herding',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\627_Sanity is the Price of Knowledge.jpg" id="627_Sanity is the Price of Knowledge" data-flag="@X" onclick="openSidebar('627_Sanity is the Price of Knowledge',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\687_Your Deaths Were Long Foretold.jpg" id="687_Your Deaths Were Long Foretold" data-flag="@X" onclick="openSidebar('687_Your Deaths Were Long Foretold',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\694_Force of Coercion.jpg" id="694_Force of Coercion" data-flag="@X" onclick="openSidebar('694_Force of Coercion',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\695_Force of Habit.jpg" id="695_Force of Habit" data-flag="@X" onclick="openSidebar('695_Force of Habit',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\462_The Age of Mad Science.jpg" id="462_The Age of Mad Science" data-flag="@X" onclick="openSidebar('462_The Age of Mad Science',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\489_Champion of the Fell.jpg" id="489_Champion of the Fell" data-flag="@X" onclick="openSidebar('489_Champion of the Fell',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\566_Kesar, Foremost Talon.jpg" id="566_Kesar, Foremost Talon" data-flag="@X" onclick="openSidebar('566_Kesar, Foremost Talon',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\578_Magar of the Twisted Effigy.jpg" id="578_Magar of the Twisted Effigy" data-flag="@X" onclick="openSidebar('578_Magar of the Twisted Effigy',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\583_Mental Overload.jpg" id="583_Mental Overload" data-flag="@X" onclick="openSidebar('583_Mental Overload',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\664_Transcended One of Betrayal.jpg" id="664_Transcended One of Betrayal" data-flag="@X" onclick="openSidebar('664_Transcended One of Betrayal',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -450,55 +357,30 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\456_Advanced Machining.jpg" id="456_Advanced Machining" data-flag="@X" onclick="openSidebar('456_Advanced Machining',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\511_Dust of Destruction.jpg" id="511_Dust of Destruction" data-flag="@X" onclick="openSidebar('511_Dust of Destruction',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\696_Force of Impact.jpg" id="696_Force of Impact" data-flag="@X" onclick="openSidebar('696_Force of Impact',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\602_Paragon of the Herd.jpg" id="602_Paragon of the Herd" data-flag="@X" onclick="openSidebar('602_Paragon of the Herd',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\698_Force of Instinct.jpg" id="698_Force of Instinct" data-flag="@X" onclick="openSidebar('698_Force of Instinct',false)"></div>
 				<div class="container"><img data-alt_src="/sets\JUN25-files\img\518_Eliza, Snaremaster_back.jpg" alt="/sets\JUN25-files\img\518_Eliza, Snaremaster_front.jpg" id="518_Eliza, Snaremaster" data-flag="@XD" onclick="openSidebar('518_Eliza, Snaremaster',false)"><button class="flip-btn" onclick="imgFlip('518_Eliza, Snaremaster')"></button></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\562_Jazith Sha, the Ineffable.jpg" id="562_Jazith Sha, the Ineffable" data-flag="@X" onclick="openSidebar('562_Jazith Sha, the Ineffable',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\648_Stagserpent.jpg" id="648_Stagserpent" data-flag="@X" onclick="openSidebar('648_Stagserpent',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\458_Æternia, Phaseblade.jpg" id="458_Æternia, Phaseblade" data-flag="@X" onclick="openSidebar('458_Æternia, Phaseblade',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\601_Paradox Investigations.jpg" id="601_Paradox Investigations" data-flag="@X" onclick="openSidebar('601_Paradox Investigations',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\543_God is My Wrath.jpg" id="543_God is My Wrath" data-flag="@X" onclick="openSidebar('543_God is My Wrath',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\627_Sanity is the Price of Knowledge.jpg" id="627_Sanity is the Price of Knowledge" data-flag="@X" onclick="openSidebar('627_Sanity is the Price of Knowledge',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\689_Inter.jpg" id="689_Inter" data-flag="@X" onclick="openSidebar('689_Inter',true)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\687_Your Deaths Were Long Foretold.jpg" id="687_Your Deaths Were Long Foretold" data-flag="@X" onclick="openSidebar('687_Your Deaths Were Long Foretold',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\701_Revocable Relinquishment.jpg" id="701_Revocable Relinquishment" data-flag="@X" onclick="openSidebar('701_Revocable Relinquishment',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\694_Force of Coercion.jpg" id="694_Force of Coercion" data-flag="@X" onclick="openSidebar('694_Force of Coercion',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\492_The Circle of Seven.jpg" id="492_The Circle of Seven" data-flag="@X" onclick="openSidebar('492_The Circle of Seven',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\462_The Age of Mad Science.jpg" id="462_The Age of Mad Science" data-flag="@X" onclick="openSidebar('462_The Age of Mad Science',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img data-alt_src="/sets\JUN25-files\img\549_Harness Creation_back.jpg" alt="/sets\JUN25-files\img\549_Harness Creation_front.jpg" id="549_Harness Creation" data-flag="@XD" onclick="openSidebar('549_Harness Creation',false)"><button class="flip-btn" onclick="imgFlip('549_Harness Creation')"></button></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\489_Champion of the Fell.jpg" id="489_Champion of the Fell" data-flag="@X" onclick="openSidebar('489_Champion of the Fell',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\651_Svetlana, Gate Guardian.jpg" id="651_Svetlana, Gate Guardian" data-flag="@X" onclick="openSidebar('651_Svetlana, Gate Guardian',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\578_Magar of the Twisted Effigy.jpg" id="578_Magar of the Twisted Effigy" data-flag="@X" onclick="openSidebar('578_Magar of the Twisted Effigy',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\583_Mental Overload.jpg" id="583_Mental Overload" data-flag="@X" onclick="openSidebar('583_Mental Overload',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\664_Transcended One of Betrayal.jpg" id="664_Transcended One of Betrayal" data-flag="@X" onclick="openSidebar('664_Transcended One of Betrayal',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
@@ -520,7 +402,7 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\656_Targeted Demolition.jpg" id="656_Targeted Demolition" data-flag="@X" onclick="openSidebar('656_Targeted Demolition',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\537_Flush!.jpg" id="537_Flush!" data-flag="@X" onclick="openSidebar('537_Flush!',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\631_Scrap Recycler.jpg" id="631_Scrap Recycler" data-flag="@X" onclick="openSidebar('631_Scrap Recycler',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\576_Lucian, Unyielding Leader.jpg" id="576_Lucian, Unyielding Leader" data-flag="@X" onclick="openSidebar('576_Lucian, Unyielding Leader',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\704_Yuki.jpg" id="704_Yuki" data-flag="@X" onclick="openSidebar('704_Yuki',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\700_Like Clockwork.jpg" id="700_Like Clockwork" data-flag="@X" onclick="openSidebar('700_Like Clockwork',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\560_Infinite Echoes.jpg" id="560_Infinite Echoes" data-flag="@X" onclick="openSidebar('560_Infinite Echoes',false)"></div>
@@ -547,11 +429,6 @@
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\566_Kesar, Foremost Talon.jpg" id="566_Kesar, Foremost Talon" data-flag="@X" onclick="openSidebar('566_Kesar, Foremost Talon',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -565,24 +442,16 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\489_Champion of the Fell.jpg" id="489_Champion of the Fell" data-flag="@X" onclick="openSidebar('489_Champion of the Fell',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\689_Inter.jpg" id="689_Inter" data-flag="@X" onclick="openSidebar('689_Inter',true)"></div>
+				<div class="container"><img alt="/sets\JUN25-files\img\701_Revocable Relinquishment.jpg" id="701_Revocable Relinquishment" data-flag="@X" onclick="openSidebar('701_Revocable Relinquishment',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\578_Magar of the Twisted Effigy.jpg" id="578_Magar of the Twisted Effigy" data-flag="@X" onclick="openSidebar('578_Magar of the Twisted Effigy',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\701_Revocable Relinquishment.jpg" id="701_Revocable Relinquishment" data-flag="@X" onclick="openSidebar('701_Revocable Relinquishment',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\583_Mental Overload.jpg" id="583_Mental Overload" data-flag="@X" onclick="openSidebar('583_Mental Overload',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\492_The Circle of Seven.jpg" id="492_The Circle of Seven" data-flag="@X" onclick="openSidebar('492_The Circle of Seven',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\664_Transcended One of Betrayal.jpg" id="664_Transcended One of Betrayal" data-flag="@X" onclick="openSidebar('664_Transcended One of Betrayal',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img data-alt_src="/sets\JUN25-files\img\549_Harness Creation_back.jpg" alt="/sets\JUN25-files\img\549_Harness Creation_front.jpg" id="549_Harness Creation" data-flag="@XD" onclick="openSidebar('549_Harness Creation',false)"><button class="flip-btn" onclick="imgFlip('549_Harness Creation')"></button></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\651_Svetlana, Gate Guardian.jpg" id="651_Svetlana, Gate Guardian" data-flag="@X" onclick="openSidebar('651_Svetlana, Gate Guardian',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -611,32 +480,7 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\142_Lord of the Unstoppable Tide.jpg" id="142_Lord of the Unstoppable Tide" data-flag="@X" onclick="openSidebar('142_Lord of the Unstoppable Tide',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\188_CONTAGION().jpg" id="188_CONTAGION()" data-flag="@X" onclick="openSidebar('188_CONTAGION()',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\354_Star-Crossed Fate.jpg" id="354_Star-Crossed Fate" data-flag="@X" onclick="openSidebar('354_Star-Crossed Fate',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\775_Loch and Quay.jpg" id="775_Loch and Quay" data-flag="@X" onclick="openSidebar('775_Loch and Quay',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\552_Heishen, Unsanctified Temple.jpg" id="552_Heishen, Unsanctified Temple" data-flag="@X" onclick="openSidebar('552_Heishen, Unsanctified Temple',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\555_Highpond Master.jpg" id="555_Highpond Master" data-flag="@X" onclick="openSidebar('555_Highpond Master',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\484_Calenfyr's Opus.jpg" id="484_Calenfyrs Opus" data-flag="@X" onclick="openSidebar('484_Calenfyrs Opus',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\532_Feline Interruption.jpg" id="532_Feline Interruption" data-flag="@X" onclick="openSidebar('532_Feline Interruption',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\375_Crawling from the Drink.jpg" id="375_Crawling from the Drink" data-flag="@X" onclick="openSidebar('375_Crawling from the Drink',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\650_Sunwater Shaper.jpg" id="650_Sunwater Shaper" data-flag="@X" onclick="openSidebar('650_Sunwater Shaper',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\669_Twice-Pilfered Haul.jpg" id="669_Twice-Pilfered Haul" data-flag="@X" onclick="openSidebar('669_Twice-Pilfered Haul',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\567_Kill Your Darlings.jpg" id="567_Kill Your Darlings" data-flag="@X" onclick="openSidebar('567_Kill Your Darlings',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\620_Renee Venus Parvati.jpg" id="620_Renee Venus Parvati" data-flag="@X" onclick="openSidebar('620_Renee Venus Parvati',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\639_Skath, Ten-Towns Guide.jpg" id="639_Skath, Ten-Towns Guide" data-flag="@X" onclick="openSidebar('639_Skath, Ten-Towns Guide',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\510_Duncaster Mysteries.jpg" id="510_Duncaster Mysteries" data-flag="@X" onclick="openSidebar('510_Duncaster Mysteries',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\470_Arleigh, Moonlit Champion.jpg" id="470_Arleigh, Moonlit Champion" data-flag="@X" onclick="openSidebar('470_Arleigh, Moonlit Champion',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\477_Bile Reborn.jpg" id="477_Bile Reborn" data-flag="@X" onclick="openSidebar('477_Bile Reborn',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\550_Heart of the Cards.jpg" id="550_Heart of the Cards" data-flag="@X" onclick="openSidebar('550_Heart of the Cards',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\455_Across the Sands.jpg" id="455_Across the Sands" data-flag="@X" onclick="openSidebar('455_Across the Sands',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\530_The Feast of Hemlock Vale.jpg" id="530_The Feast of Hemlock Vale" data-flag="@X" onclick="openSidebar('530_The Feast of Hemlock Vale',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\577_Lurzog, Necroascendant.jpg" id="577_Lurzog, Necroascendant" data-flag="@X" onclick="openSidebar('577_Lurzog, Necroascendant',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\699_Ghost of Summer Christmas.jpg" id="699_Ghost of Summer Christmas" data-flag="@X" onclick="openSidebar('699_Ghost of Summer Christmas',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\579_Mardu Vanguard.jpg" id="579_Mardu Vanguard" data-flag="@X" onclick="openSidebar('579_Mardu Vanguard',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\502_Czeros, Sky Regent.jpg" id="502_Czeros, Sky Regent" data-flag="@X" onclick="openSidebar('502_Czeros, Sky Regent',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\472_Arza and Kraft.jpg" id="472_Arza and Kraft" data-flag="@X" onclick="openSidebar('472_Arza and Kraft',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\474_Baihu, Heir of Autumn.jpg" id="474_Baihu, Heir of Autumn" data-flag="@X" onclick="openSidebar('474_Baihu, Heir of Autumn',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -647,16 +491,6 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\567_Kill Your Darlings.jpg" id="567_Kill Your Darlings" data-flag="@X" onclick="openSidebar('567_Kill Your Darlings',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\532_Feline Interruption.jpg" id="532_Feline Interruption" data-flag="@X" onclick="openSidebar('532_Feline Interruption',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\639_Skath, Ten-Towns Guide.jpg" id="639_Skath, Ten-Towns Guide" data-flag="@X" onclick="openSidebar('639_Skath, Ten-Towns Guide',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\510_Duncaster Mysteries.jpg" id="510_Duncaster Mysteries" data-flag="@X" onclick="openSidebar('510_Duncaster Mysteries',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\577_Lurzog, Necroascendant.jpg" id="577_Lurzog, Necroascendant" data-flag="@X" onclick="openSidebar('577_Lurzog, Necroascendant',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\477_Bile Reborn.jpg" id="477_Bile Reborn" data-flag="@X" onclick="openSidebar('477_Bile Reborn',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\550_Heart of the Cards.jpg" id="550_Heart of the Cards" data-flag="@X" onclick="openSidebar('550_Heart of the Cards',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\502_Czeros, Sky Regent.jpg" id="502_Czeros, Sky Regent" data-flag="@X" onclick="openSidebar('502_Czeros, Sky Regent',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\472_Arza and Kraft.jpg" id="472_Arza and Kraft" data-flag="@X" onclick="openSidebar('472_Arza and Kraft',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\474_Baihu, Heir of Autumn.jpg" id="474_Baihu, Heir of Autumn" data-flag="@X" onclick="openSidebar('474_Baihu, Heir of Autumn',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -667,11 +501,6 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\484_Calenfyr's Opus.jpg" id="484_Calenfyrs Opus" data-flag="@X" onclick="openSidebar('484_Calenfyrs Opus',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\620_Renee Venus Parvati.jpg" id="620_Renee Venus Parvati" data-flag="@X" onclick="openSidebar('620_Renee Venus Parvati',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\775_Loch and Quay.jpg" id="775_Loch and Quay" data-flag="@X" onclick="openSidebar('775_Loch and Quay',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\530_The Feast of Hemlock Vale.jpg" id="530_The Feast of Hemlock Vale" data-flag="@X" onclick="openSidebar('530_The Feast of Hemlock Vale',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\470_Arleigh, Moonlit Champion.jpg" id="470_Arleigh, Moonlit Champion" data-flag="@X" onclick="openSidebar('470_Arleigh, Moonlit Champion',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\699_Ghost of Summer Christmas.jpg" id="699_Ghost of Summer Christmas" data-flag="@X" onclick="openSidebar('699_Ghost of Summer Christmas',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\579_Mardu Vanguard.jpg" id="579_Mardu Vanguard" data-flag="@X" onclick="openSidebar('579_Mardu Vanguard',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\455_Across the Sands.jpg" id="455_Across the Sands" data-flag="@X" onclick="openSidebar('455_Across the Sands',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -682,11 +511,6 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\477_Bile Reborn.jpg" id="477_Bile Reborn" data-flag="@X" onclick="openSidebar('477_Bile Reborn',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\550_Heart of the Cards.jpg" id="550_Heart of the Cards" data-flag="@X" onclick="openSidebar('550_Heart of the Cards',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\502_Czeros, Sky Regent.jpg" id="502_Czeros, Sky Regent" data-flag="@X" onclick="openSidebar('502_Czeros, Sky Regent',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\472_Arza and Kraft.jpg" id="472_Arza and Kraft" data-flag="@X" onclick="openSidebar('472_Arza and Kraft',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\474_Baihu, Heir of Autumn.jpg" id="474_Baihu, Heir of Autumn" data-flag="@X" onclick="openSidebar('474_Baihu, Heir of Autumn',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -715,31 +539,6 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\231_Nasty Plot.jpg" id="231_Nasty Plot" data-flag="@X" onclick="openSidebar('231_Nasty Plot',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\364_The Warshrieker Ambush.jpg" id="364_The Warshrieker Ambush" data-flag="@X" onclick="openSidebar('364_The Warshrieker Ambush',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\402_Luminescent Painter.jpg" id="402_Luminescent Painter" data-flag="@X" onclick="openSidebar('402_Luminescent Painter',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\647_Spooky Ghosts.jpg" id="647_Spooky Ghosts" data-flag="@X" onclick="openSidebar('647_Spooky Ghosts',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\498_Crackling Geistbomb.jpg" id="498_Crackling Geistbomb" data-flag="@X" onclick="openSidebar('498_Crackling Geistbomb',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\603_Parker's Reveal on Page 13.jpg" id="603_Parkers Reveal on Page 13" data-flag="@X" onclick="openSidebar('603_Parkers Reveal on Page 13',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\505_Devilish Corporation.jpg" id="505_Devilish Corporation" data-flag="@X" onclick="openSidebar('505_Devilish Corporation',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\570_The Lands Arise.jpg" id="570_The Lands Arise" data-flag="@X" onclick="openSidebar('570_The Lands Arise',false)"></div>
-				<div class="container"><img data-alt_src="/sets\JUN25-files\img\678_Wailing Doom_back.jpg" alt="/sets\JUN25-files\img\678_Wailing Doom_front.jpg" id="678_Wailing Doom" data-flag="@XD" onclick="openSidebar('678_Wailing Doom',false)"><button class="flip-btn" onclick="imgFlip('678_Wailing Doom')"></button></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\586_Moth of Mourning.jpg" id="586_Moth of Mourning" data-flag="@X" onclick="openSidebar('586_Moth of Mourning',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\652_Syr Onage, the Stubborn.jpg" id="652_Syr Onage, the Stubborn" data-flag="@X" onclick="openSidebar('652_Syr Onage, the Stubborn',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\580_Master of Refraction.jpg" id="580_Master of Refraction" data-flag="@X" onclick="openSidebar('580_Master of Refraction',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\646_Spirit to Seed.jpg" id="646_Spirit to Seed" data-flag="@X" onclick="openSidebar('646_Spirit to Seed',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\514_Echoes of the Fallen.jpg" id="514_Echoes of the Fallen" data-flag="@X" onclick="openSidebar('514_Echoes of the Fallen',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\500_Cryptomnesia.jpg" id="500_Cryptomnesia" data-flag="@X" onclick="openSidebar('500_Cryptomnesia',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\667_Tributetaker Hydra.jpg" id="667_Tributetaker Hydra" data-flag="@X" onclick="openSidebar('667_Tributetaker Hydra',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\463_Alluring Wisp.jpg" id="463_Alluring Wisp" data-flag="@X" onclick="openSidebar('463_Alluring Wisp',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\485_Calm Before the Hunt.jpg" id="485_Calm Before the Hunt" data-flag="@X" onclick="openSidebar('485_Calm Before the Hunt',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\675_Vitu-Ghazi Culler.jpg" id="675_Vitu-Ghazi Culler" data-flag="@X" onclick="openSidebar('675_Vitu-Ghazi Culler',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\564_Kadhirva the Ascetic.jpg" id="564_Kadhirva the Ascetic" data-flag="@X" onclick="openSidebar('564_Kadhirva the Ascetic',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\682_Witch of the Embrace.jpg" id="682_Witch of the Embrace" data-flag="@X" onclick="openSidebar('682_Witch of the Embrace',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\666_Treacherous Swine.jpg" id="666_Treacherous Swine" data-flag="@X" onclick="openSidebar('666_Treacherous Swine',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\606_Pilgrim of the Overgrown.jpg" id="606_Pilgrim of the Overgrown" data-flag="@X" onclick="openSidebar('606_Pilgrim of the Overgrown',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\571_The Last Night.jpg" id="571_The Last Night" data-flag="@X" onclick="openSidebar('571_The Last Night',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\661_Tomb-Tearer Nephilim.jpg" id="661_Tomb-Tearer Nephilim" data-flag="@X" onclick="openSidebar('661_Tomb-Tearer Nephilim',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -750,16 +549,6 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\603_Parker's Reveal on Page 13.jpg" id="603_Parkers Reveal on Page 13" data-flag="@X" onclick="openSidebar('603_Parkers Reveal on Page 13',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\505_Devilish Corporation.jpg" id="505_Devilish Corporation" data-flag="@X" onclick="openSidebar('505_Devilish Corporation',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\570_The Lands Arise.jpg" id="570_The Lands Arise" data-flag="@X" onclick="openSidebar('570_The Lands Arise',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\514_Echoes of the Fallen.jpg" id="514_Echoes of the Fallen" data-flag="@X" onclick="openSidebar('514_Echoes of the Fallen',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\500_Cryptomnesia.jpg" id="500_Cryptomnesia" data-flag="@X" onclick="openSidebar('500_Cryptomnesia',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\667_Tributetaker Hydra.jpg" id="667_Tributetaker Hydra" data-flag="@X" onclick="openSidebar('667_Tributetaker Hydra',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\666_Treacherous Swine.jpg" id="666_Treacherous Swine" data-flag="@X" onclick="openSidebar('666_Treacherous Swine',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\606_Pilgrim of the Overgrown.jpg" id="606_Pilgrim of the Overgrown" data-flag="@X" onclick="openSidebar('606_Pilgrim of the Overgrown',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\571_The Last Night.jpg" id="571_The Last Night" data-flag="@X" onclick="openSidebar('571_The Last Night',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\661_Tomb-Tearer Nephilim.jpg" id="661_Tomb-Tearer Nephilim" data-flag="@X" onclick="openSidebar('661_Tomb-Tearer Nephilim',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -770,11 +559,6 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\652_Syr Onage, the Stubborn.jpg" id="652_Syr Onage, the Stubborn" data-flag="@X" onclick="openSidebar('652_Syr Onage, the Stubborn',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\580_Master of Refraction.jpg" id="580_Master of Refraction" data-flag="@X" onclick="openSidebar('580_Master of Refraction',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\646_Spirit to Seed.jpg" id="646_Spirit to Seed" data-flag="@X" onclick="openSidebar('646_Spirit to Seed',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\675_Vitu-Ghazi Culler.jpg" id="675_Vitu-Ghazi Culler" data-flag="@X" onclick="openSidebar('675_Vitu-Ghazi Culler',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\564_Kadhirva the Ascetic.jpg" id="564_Kadhirva the Ascetic" data-flag="@X" onclick="openSidebar('564_Kadhirva the Ascetic',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\682_Witch of the Embrace.jpg" id="682_Witch of the Embrace" data-flag="@X" onclick="openSidebar('682_Witch of the Embrace',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\463_Alluring Wisp.jpg" id="463_Alluring Wisp" data-flag="@X" onclick="openSidebar('463_Alluring Wisp',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\485_Calm Before the Hunt.jpg" id="485_Calm Before the Hunt" data-flag="@X" onclick="openSidebar('485_Calm Before the Hunt',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -785,11 +569,6 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\667_Tributetaker Hydra.jpg" id="667_Tributetaker Hydra" data-flag="@X" onclick="openSidebar('667_Tributetaker Hydra',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\666_Treacherous Swine.jpg" id="666_Treacherous Swine" data-flag="@X" onclick="openSidebar('666_Treacherous Swine',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\606_Pilgrim of the Overgrown.jpg" id="606_Pilgrim of the Overgrown" data-flag="@X" onclick="openSidebar('606_Pilgrim of the Overgrown',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\571_The Last Night.jpg" id="571_The Last Night" data-flag="@X" onclick="openSidebar('571_The Last Night',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\661_Tomb-Tearer Nephilim.jpg" id="661_Tomb-Tearer Nephilim" data-flag="@X" onclick="openSidebar('661_Tomb-Tearer Nephilim',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -1074,12 +853,12 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\338_Quickshot Pathfinder.jpg" id="338_Quickshot Pathfinder" data-flag="@X" onclick="openSidebar('338_Quickshot Pathfinder',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\428_Shore Stampede.jpg" id="428_Shore Stampede" data-flag="@X" onclick="openSidebar('428_Shore Stampede',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\87_Skybound Charger.jpg" id="87_Skybound Charger" data-flag="@X" onclick="openSidebar('87_Skybound Charger',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\706_Fore.jpg" id="706_Fore" data-flag="@X" onclick="openSidebar('706_Fore',true)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\242_Princess Luna.jpg" id="242_Princess Luna" data-flag="@X" onclick="openSidebar('242_Princess Luna',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\339_Rabid Hound Dogs.jpg" id="339_Rabid Hound Dogs" data-flag="@X" onclick="openSidebar('339_Rabid Hound Dogs',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\429_Sleepy Seelie.jpg" id="429_Sleepy Seelie" data-flag="@X" onclick="openSidebar('429_Sleepy Seelie',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\89_Somnific Stronghold.jpg" id="89_Somnific Stronghold" data-flag="@X" onclick="openSidebar('89_Somnific Stronghold',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\707_Head.jpg" id="707_Head" data-flag="@X" onclick="openSidebar('707_Head',true)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img data-alt_src="/sets\JUN25-files\img\243_Profane Choice_back.jpg" alt="/sets\JUN25-files\img\243_Profane Choice_front.jpg" id="243_Profane Choice" data-flag="@XD" onclick="openSidebar('243_Profane Choice',false)"><button class="flip-btn" onclick="imgFlip('243_Profane Choice')"></button></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\340_Rapacious Dragon.jpg" id="340_Rapacious Dragon" data-flag="@X" onclick="openSidebar('340_Rapacious Dragon',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\430_Speedbrood Survey.jpg" id="430_Speedbrood Survey" data-flag="@X" onclick="openSidebar('430_Speedbrood Survey',false)"></div>
@@ -1128,7 +907,7 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\255_Should've Picked Mercy.jpg" id="255_Shouldve Picked Mercy" data-flag="@X" onclick="openSidebar('255_Shouldve Picked Mercy',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\351_Shock.jpg" id="351_Shock" data-flag="@X" onclick="openSidebar('351_Shock',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\440_Unsteady Resolve.jpg" id="440_Unsteady Resolve" data-flag="@X" onclick="openSidebar('440_Unsteady Resolve',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\708_Home.jpg" id="708_Home" data-flag="@X" onclick="openSidebar('708_Home',true)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\256_Shrine Keeper.jpg" id="256_Shrine Keeper" data-flag="@X" onclick="openSidebar('256_Shrine Keeper',false)"></div>
 				<div class="container"><img data-alt_src="/sets\JUN25-files\img\352_Simon, the Red Prince_back.jpg" alt="/sets\JUN25-files\img\352_Simon, the Red Prince_front.jpg" id="352_Simon, the Red Prince" data-flag="@XD" onclick="openSidebar('352_Simon, the Red Prince',false)"><button class="flip-btn" onclick="imgFlip('352_Simon, the Red Prince')"></button></div>
@@ -1245,7 +1024,7 @@
 				<div class="container"><img alt="/sets\JUN25-files\img\581_Maw of Infinity.jpg" id="581_Maw of Infinity" data-flag="@X" onclick="openSidebar('581_Maw of Infinity',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\655_Talk to the Hand.jpg" id="655_Talk to the Hand" data-flag="@X" onclick="openSidebar('655_Talk to the Hand',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\594_Occult Happenings Detective.jpg" id="594_Occult Happenings Detective" data-flag="@X" onclick="openSidebar('594_Occult Happenings Detective',false)"></div>
-				<div class="container"><img alt="/sets\JUN25-files\img\705_Can Be Bought.jpg" id="705_Can Be Bought" data-flag="@X" onclick="openSidebar('705_Can Be Bought',true)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\582_Menagerie Master.jpg" id="582_Menagerie Master" data-flag="@X" onclick="openSidebar('582_Menagerie Master',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\673_Vallia's Kindness.jpg" id="673_Vallias Kindness" data-flag="@X" onclick="openSidebar('673_Vallias Kindness',false)"></div>
@@ -1253,7 +1032,7 @@
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\624_Righteous Wind-Warden.jpg" id="624_Righteous Wind-Warden" data-flag="@X" onclick="openSidebar('624_Righteous Wind-Warden',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\JUN25-files\img\708_Home.jpg" id="708_Home" data-flag="@X" onclick="openSidebar('708_Home',true)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\629_Scavenge the Spoils.jpg" id="629_Scavenge the Spoils" data-flag="@X" onclick="openSidebar('629_Scavenge the Spoils',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
@@ -1320,6 +1099,11 @@
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\702_Self-Fulfilling Study.jpg" id="702_Self-Fulfilling Study" data-flag="@X" onclick="openSidebar('702_Self-Fulfilling Study',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\JUN25-files\img\707_Head.jpg" id="707_Head" data-flag="@X" onclick="openSidebar('707_Head',true)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
@@ -1413,6 +1197,11 @@
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\684_Wojek Blazebringer.jpg" id="684_Wojek Blazebringer" data-flag="@X" onclick="openSidebar('684_Wojek Blazebringer',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\JUN25-files\img\706_Fore.jpg" id="706_Fore" data-flag="@X" onclick="openSidebar('706_Fore',true)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -1450,6 +1239,11 @@
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\558_Ichiban Kasuga.jpg" id="558_Ichiban Kasuga" data-flag="@X" onclick="openSidebar('558_Ichiban Kasuga',false)"></div>
 				<div class="container"><img alt="/sets\JUN25-files\img\573_Lilis, Amateur Cartographer.jpg" id="573_Lilis, Amateur Cartographer" data-flag="@X" onclick="openSidebar('573_Lilis, Amateur Cartographer',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\JUN25-files\img\705_Can Be Bought.jpg" id="705_Can Be Bought" data-flag="@X" onclick="openSidebar('705_Can Be Bought',true)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
@@ -1811,6 +1605,24 @@
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {
