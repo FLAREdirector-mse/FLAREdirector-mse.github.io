@@ -341,7 +341,7 @@
     },
     {
         "card_name": "Force of Instinct",
-        "number": 699,
+        "number": 698,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -371,7 +371,7 @@
     },
     {
         "card_name": "Yuki",
-        "number": 705,
+        "number": 704,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -458,7 +458,7 @@
     },
     {
         "card_name": "Reckoning of Worlds",
-        "number": 616,
+        "number": 615,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -485,7 +485,7 @@
     },
     {
         "card_name": "Sacred Assassin",
-        "number": 627,
+        "number": 626,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -512,7 +512,7 @@
     },
     {
         "card_name": "Targeted Demolition",
-        "number": 657,
+        "number": 656,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -523,14 +523,14 @@
         "set": "JUN25"
     },
     {
-        "card_name": "jan lawa Osopa pi lukin suli",
-        "number": 562,
+        "card_name": "O'Shovah, Commander Farsight",
+        "number": 599,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Warden of the Sword",
-        "number": 681,
+        "number": 680,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -539,7 +539,7 @@
     },
     {
         "card_name": "Like Clockwork",
-        "number": 701,
+        "number": 700,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -550,14 +550,14 @@
         "set": "JUN25"
     },
     {
-        "card_name": "O'Shovah, Commander Farsight",
-        "number": 600,
+        "card_name": "Scrap Recycler",
+        "number": 631,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Lucian, Unyielding Leader",
-        "number": 577,
+        "number": 576,
         "shape": "planeswalker",
         "set": "JUN25"
     },
@@ -577,14 +577,14 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Scrap Recycler",
-        "number": 632,
+        "card_name": "Force of Impact",
+        "number": 696,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Paragon of the Herd",
-        "number": 603,
+        "number": 602,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -604,7 +604,7 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Force of Impact",
+        "card_name": "Force of Infection",
         "number": 697,
         "shape": "normal",
         "set": "JUN25"
@@ -617,19 +617,19 @@
     },
     {
         "card_name": "Inter",
-        "number": 690,
+        "number": 689,
         "shape": "fuse split",
         "set": "JUN25"
     },
     {
         "card_name": "Jazith Sha, the Ineffable",
-        "number": 563,
+        "number": 562,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Force of Infection",
-        "number": 698,
+        "card_name": "Stagserpent",
+        "number": 648,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -641,21 +641,18 @@
     },
     {
         "card_name": "Revocable Relinquishment",
-        "number": 702,
+        "number": 701,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Paradox Investigations",
-        "number": 602,
+        "number": 601,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Stagserpent",
-        "number": 649,
-        "shape": "normal",
-        "set": "JUN25"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -671,7 +668,7 @@
     },
     {
         "card_name": "Radiant Pyromancer",
-        "number": 613,
+        "number": 612,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -692,7 +689,7 @@
     },
     {
         "card_name": "Rakhamezhi, the Ambiguous",
-        "number": 615,
+        "number": 614,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -707,13 +704,13 @@
     },
     {
         "card_name": "Svetlana, Gate Guardian",
-        "number": 652,
+        "number": 651,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Robot Herding",
-        "number": 626,
+        "number": 625,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -731,7 +728,7 @@
     },
     {
         "card_name": "Sanity is the Price of Knowledge",
-        "number": 628,
+        "number": 627,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -749,7 +746,7 @@
     },
     {
         "card_name": "Your Deaths Were Long Foretold",
-        "number": 688,
+        "number": 687,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -767,7 +764,7 @@
     },
     {
         "card_name": "Force of Coercion",
-        "number": 695,
+        "number": 694,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -785,7 +782,7 @@
     },
     {
         "card_name": "Force of Habit",
-        "number": 696,
+        "number": 695,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -839,7 +836,7 @@
     },
     {
         "card_name": "Kesar, Foremost Talon",
-        "number": 567,
+        "number": 566,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -857,7 +854,7 @@
     },
     {
         "card_name": "Magar of the Twisted Effigy",
-        "number": 579,
+        "number": 578,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -875,7 +872,7 @@
     },
     {
         "card_name": "Mental Overload",
-        "number": 584,
+        "number": 583,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -893,7 +890,7 @@
     },
     {
         "card_name": "Transcended One of Betrayal",
-        "number": 665,
+        "number": 664,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -963,19 +960,19 @@
     },
     {
         "card_name": "Force of Impact",
-        "number": 697,
+        "number": 696,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Paragon of the Herd",
-        "number": 603,
+        "number": 602,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Force of Instinct",
-        "number": 699,
+        "number": 698,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -987,13 +984,13 @@
     },
     {
         "card_name": "Jazith Sha, the Ineffable",
-        "number": 563,
+        "number": 562,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Stagserpent",
-        "number": 649,
+        "number": 648,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1011,7 +1008,7 @@
     },
     {
         "card_name": "Paradox Investigations",
-        "number": 602,
+        "number": 601,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1032,7 +1029,7 @@
     },
     {
         "card_name": "Sanity is the Price of Knowledge",
-        "number": 628,
+        "number": 627,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1047,13 +1044,13 @@
     },
     {
         "card_name": "Inter",
-        "number": 690,
+        "number": 689,
         "shape": "fuse split",
         "set": "JUN25"
     },
     {
         "card_name": "Your Deaths Were Long Foretold",
-        "number": 688,
+        "number": 687,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1068,13 +1065,13 @@
     },
     {
         "card_name": "Revocable Relinquishment",
-        "number": 702,
+        "number": 701,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Force of Coercion",
-        "number": 695,
+        "number": 694,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1131,13 +1128,13 @@
     },
     {
         "card_name": "Svetlana, Gate Guardian",
-        "number": 652,
+        "number": 651,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Magar of the Twisted Effigy",
-        "number": 579,
+        "number": 578,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1155,7 +1152,7 @@
     },
     {
         "card_name": "Mental Overload",
-        "number": 584,
+        "number": 583,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1173,7 +1170,7 @@
     },
     {
         "card_name": "Transcended One of Betrayal",
-        "number": 665,
+        "number": 664,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1203,7 +1200,7 @@
     },
     {
         "card_name": "Reckoning of Worlds",
-        "number": 616,
+        "number": 615,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1233,7 +1230,7 @@
     },
     {
         "card_name": "Sacred Assassin",
-        "number": 627,
+        "number": 626,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1244,14 +1241,14 @@
         "set": "JUN25"
     },
     {
-        "card_name": "jan lawa Osopa pi lukin suli",
-        "number": 562,
+        "card_name": "O'Shovah, Commander Farsight",
+        "number": 599,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Warden of the Sword",
-        "number": 681,
+        "number": 680,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1263,7 +1260,7 @@
     },
     {
         "card_name": "Targeted Demolition",
-        "number": 657,
+        "number": 656,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1274,26 +1271,26 @@
         "set": "JUN25"
     },
     {
-        "card_name": "O'Shovah, Commander Farsight",
-        "number": 600,
+        "card_name": "Scrap Recycler",
+        "number": 631,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Lucian, Unyielding Leader",
-        "number": 577,
+        "number": 576,
         "shape": "planeswalker",
         "set": "JUN25"
     },
     {
         "card_name": "Yuki",
-        "number": 705,
+        "number": 704,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Like Clockwork",
-        "number": 701,
+        "number": 700,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1304,8 +1301,8 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Scrap Recycler",
-        "number": 632,
+        "card_name": "Force of Infection",
+        "number": 697,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1320,15 +1317,12 @@
     },
     {
         "card_name": "Radiant Pyromancer",
-        "number": 613,
+        "number": 612,
         "shape": "normal",
         "set": "JUN25"
     },
     {
-        "card_name": "Force of Infection",
-        "number": 698,
-        "shape": "normal",
-        "set": "JUN25"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1341,7 +1335,7 @@
     },
     {
         "card_name": "Rakhamezhi, the Ambiguous",
-        "number": 615,
+        "number": 614,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1359,7 +1353,7 @@
     },
     {
         "card_name": "Robot Herding",
-        "number": 626,
+        "number": 625,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1377,7 +1371,7 @@
     },
     {
         "card_name": "Force of Habit",
-        "number": 696,
+        "number": 695,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1395,7 +1389,7 @@
     },
     {
         "card_name": "Kesar, Foremost Talon",
-        "number": 567,
+        "number": 566,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1437,13 +1431,13 @@
     },
     {
         "card_name": "Stagserpent",
-        "number": 649,
+        "number": 648,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Paragon of the Herd",
-        "number": 603,
+        "number": 602,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1467,13 +1461,13 @@
     },
     {
         "card_name": "Inter",
-        "number": 690,
+        "number": 689,
         "shape": "fuse split",
         "set": "JUN25"
     },
     {
         "card_name": "Magar of the Twisted Effigy",
-        "number": 579,
+        "number": 578,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1485,13 +1479,13 @@
     },
     {
         "card_name": "Revocable Relinquishment",
-        "number": 702,
+        "number": 701,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Mental Overload",
-        "number": 584,
+        "number": 583,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1509,7 +1503,7 @@
     },
     {
         "card_name": "Transcended One of Betrayal",
-        "number": 665,
+        "number": 664,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1536,7 +1530,7 @@
     },
     {
         "card_name": "Svetlana, Gate Guardian",
-        "number": 652,
+        "number": 651,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1566,13 +1560,13 @@
     },
     {
         "card_name": "Lucian, Unyielding Leader",
-        "number": 577,
+        "number": 576,
         "shape": "planeswalker",
         "set": "JUN25"
     },
     {
         "card_name": "Kesar, Foremost Talon",
-        "number": 567,
+        "number": 566,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1605,13 +1599,13 @@
     },
     {
         "card_name": "Svetlana, Gate Guardian",
-        "number": 652,
+        "number": 651,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Inter",
-        "number": 690,
+        "number": 689,
         "shape": "fuse split",
         "set": "JUN25"
     },
@@ -1659,7 +1653,7 @@
     },
     {
         "card_name": "Loch and Quay",
-        "number": 776,
+        "number": 775,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1695,31 +1689,31 @@
     },
     {
         "card_name": "Sunwater Shaper",
-        "number": 651,
+        "number": 650,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Twice-Pilfered Haul",
-        "number": 670,
+        "number": 669,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Kill Your Darlings",
-        "number": 568,
+        "number": 567,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Renee Venus Parvati",
-        "number": 621,
+        "number": 620,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Skath, Ten-Towns Guide",
-        "number": 640,
+        "number": 639,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1761,19 +1755,19 @@
     },
     {
         "card_name": "Lurzog, Necroascendant",
-        "number": 578,
+        "number": 577,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Ghost of Summer Christmas",
-        "number": 700,
+        "number": 699,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Mardu Vanguard",
-        "number": 580,
+        "number": 579,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1819,19 +1813,19 @@
     "a->gold",
     {
         "card_name": "Sunwater Shaper",
-        "number": 651,
+        "number": 650,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Twice-Pilfered Haul",
-        "number": 670,
+        "number": 669,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Kill Your Darlings",
-        "number": 568,
+        "number": 567,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1843,7 +1837,7 @@
     },
     {
         "card_name": "Skath, Ten-Towns Guide",
-        "number": 640,
+        "number": 639,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1855,7 +1849,7 @@
     },
     {
         "card_name": "Lurzog, Necroascendant",
-        "number": 578,
+        "number": 577,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1933,13 +1927,13 @@
     },
     {
         "card_name": "Renee Venus Parvati",
-        "number": 621,
+        "number": 620,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Loch and Quay",
-        "number": 776,
+        "number": 775,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1957,13 +1951,13 @@
     },
     {
         "card_name": "Ghost of Summer Christmas",
-        "number": 700,
+        "number": 699,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Mardu Vanguard",
-        "number": 580,
+        "number": 579,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -1996,7 +1990,7 @@
     },
     {
         "card_name": "Lurzog, Necroascendant",
-        "number": 578,
+        "number": 577,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2056,7 +2050,7 @@
     },
     {
         "card_name": "Mardu Vanguard",
-        "number": 580,
+        "number": 579,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2080,7 +2074,7 @@
     },
     {
         "card_name": "Ghost of Summer Christmas",
-        "number": 700,
+        "number": 699,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2164,7 +2158,7 @@
     },
     {
         "card_name": "Spooky Ghosts",
-        "number": 648,
+        "number": 647,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2176,7 +2170,7 @@
     },
     {
         "card_name": "Parker's Reveal on Page 13",
-        "number": 604,
+        "number": 603,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2188,37 +2182,37 @@
     },
     {
         "card_name": "The Lands Arise",
-        "number": 571,
+        "number": 570,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Wailing Doom",
-        "number": 679,
+        "number": 678,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Moth of Mourning",
-        "number": 587,
+        "number": 586,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Syr Onage, the Stubborn",
-        "number": 653,
+        "number": 652,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Master of Refraction",
-        "number": 581,
+        "number": 580,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Spirit to Seed",
-        "number": 647,
+        "number": 646,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2236,7 +2230,7 @@
     },
     {
         "card_name": "Tributetaker Hydra",
-        "number": 668,
+        "number": 667,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2254,43 +2248,43 @@
     },
     {
         "card_name": "Vitu-Ghazi Culler",
-        "number": 676,
+        "number": 675,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Kadhirva the Ascetic",
-        "number": 565,
+        "number": 564,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Witch of the Embrace",
-        "number": 683,
+        "number": 682,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Treacherous Swine",
-        "number": 667,
+        "number": 666,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Pilgrim of the Overgrown",
-        "number": 607,
+        "number": 606,
         "shape": "class",
         "set": "JUN25"
     },
     {
         "card_name": "The Last Night",
-        "number": 572,
+        "number": 571,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Tomb-Tearer Nephilim",
-        "number": 662,
+        "number": 661,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2318,19 +2312,19 @@
     "a->gold",
     {
         "card_name": "Spooky Ghosts",
-        "number": 648,
+        "number": 647,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Moth of Mourning",
-        "number": 587,
+        "number": 586,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Parker's Reveal on Page 13",
-        "number": 604,
+        "number": 603,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2342,7 +2336,7 @@
     },
     {
         "card_name": "The Lands Arise",
-        "number": 571,
+        "number": 570,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2360,31 +2354,31 @@
     },
     {
         "card_name": "Tributetaker Hydra",
-        "number": 668,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Treacherous Swine",
         "number": 667,
         "shape": "normal",
         "set": "JUN25"
     },
     {
+        "card_name": "Treacherous Swine",
+        "number": 666,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
         "card_name": "Pilgrim of the Overgrown",
-        "number": 607,
+        "number": 606,
         "shape": "class",
         "set": "JUN25"
     },
     {
         "card_name": "The Last Night",
-        "number": 572,
+        "number": 571,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Tomb-Tearer Nephilim",
-        "number": 662,
+        "number": 661,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2414,7 +2408,7 @@
     },
     {
         "card_name": "Wailing Doom",
-        "number": 679,
+        "number": 678,
         "shape": "transform double faced",
         "set": "JUN25"
     },
@@ -2426,37 +2420,37 @@
     },
     {
         "card_name": "Syr Onage, the Stubborn",
-        "number": 653,
+        "number": 652,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Master of Refraction",
-        "number": 581,
+        "number": 580,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Spirit to Seed",
-        "number": 647,
+        "number": 646,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Vitu-Ghazi Culler",
-        "number": 676,
+        "number": 675,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Kadhirva the Ascetic",
-        "number": 565,
+        "number": 564,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Witch of the Embrace",
-        "number": 683,
+        "number": 682,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2501,31 +2495,31 @@
     },
     {
         "card_name": "Tributetaker Hydra",
-        "number": 668,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Treacherous Swine",
         "number": 667,
         "shape": "normal",
         "set": "JUN25"
     },
     {
+        "card_name": "Treacherous Swine",
+        "number": 666,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
         "card_name": "Pilgrim of the Overgrown",
-        "number": 607,
+        "number": 606,
         "shape": "class",
         "set": "JUN25"
     },
     {
         "card_name": "The Last Night",
-        "number": 572,
+        "number": 571,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Tomb-Tearer Nephilim",
-        "number": 662,
+        "number": 661,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2567,19 +2561,19 @@
     },
     {
         "card_name": "Vitu-Ghazi Culler",
-        "number": 676,
+        "number": 675,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Kadhirva the Ascetic",
-        "number": 565,
+        "number": 564,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Witch of the Embrace",
-        "number": 683,
+        "number": 682,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -2600,19 +2594,19 @@
     },
     {
         "card_name": "Tomb-Tearer Nephilim",
-        "number": 662,
+        "number": 661,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "The Last Night",
-        "number": 572,
+        "number": 571,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Thran Sentinel",
-        "number": 754,
+        "number": 753,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4199,7 +4193,7 @@
     },
     {
         "card_name": "Fore",
-        "number": 707,
+        "number": 706,
         "shape": "fuse split",
         "set": "JUN25"
     },
@@ -4229,7 +4223,7 @@
     },
     {
         "card_name": "Head",
-        "number": 708,
+        "number": 707,
         "shape": "fuse split",
         "set": "JUN25"
     },
@@ -4496,7 +4490,7 @@
     },
     {
         "card_name": "Home",
-        "number": 709,
+        "number": 708,
         "shape": "fuse split",
         "set": "JUN25"
     },
@@ -4974,7 +4968,7 @@
     },
     {
         "card_name": "Time Together",
-        "number": 661,
+        "number": 660,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4986,7 +4980,7 @@
     },
     {
         "card_name": "Kallist Rhoka, Displaced Mind",
-        "number": 566,
+        "number": 565,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4998,13 +4992,13 @@
     },
     {
         "card_name": "Logan, the Weapon X",
-        "number": 576,
+        "number": 575,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Brute Denial",
-        "number": 693,
+        "number": 692,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5016,19 +5010,19 @@
     },
     {
         "card_name": "New Assembly Automatom",
-        "number": 590,
+        "number": 589,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Locked In With Me",
-        "number": 575,
+        "number": 574,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Mesmer, the Abandoned God",
-        "number": 585,
+        "number": 584,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5043,19 +5037,19 @@
     },
     {
         "card_name": "Ride the Clouds",
-        "number": 624,
+        "number": 623,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Nite Owl, the Vigilante",
-        "number": 593,
+        "number": 592,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "The Resurrection of Falin",
-        "number": 623,
+        "number": 622,
         "shape": "saga",
         "set": "JUN25"
     },
@@ -5064,25 +5058,25 @@
     },
     {
         "card_name": "Maw of Infinity",
-        "number": 582,
+        "number": 581,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Talk to the Hand",
-        "number": 656,
+        "number": 655,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Occult Happenings Detective",
-        "number": 595,
+        "number": 594,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Can Be Bought",
-        "number": 706,
+        "number": 705,
         "shape": "fuse split",
         "set": "JUN25"
     },
@@ -5091,19 +5085,19 @@
     },
     {
         "card_name": "Menagerie Master",
-        "number": 583,
+        "number": 582,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Vallia's Kindness",
-        "number": 674,
+        "number": 673,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Paint By Numbers",
-        "number": 601,
+        "number": 600,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5115,7 +5109,7 @@
     },
     {
         "card_name": "Righteous Wind-Warden",
-        "number": 625,
+        "number": 624,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5124,7 +5118,7 @@
     },
     {
         "card_name": "Scavenge the Spoils",
-        "number": 630,
+        "number": 629,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5136,7 +5130,7 @@
     },
     {
         "card_name": "Scion of Ted",
-        "number": 631,
+        "number": 630,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5145,7 +5139,7 @@
     },
     {
         "card_name": "Simon, the Ice King",
-        "number": 639,
+        "number": 638,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5157,7 +5151,7 @@
     },
     {
         "card_name": "Ted, Peaceful Resolution",
-        "number": 658,
+        "number": 657,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5166,7 +5160,7 @@
     },
     {
         "card_name": "Sneaky Bitzer",
-        "number": 643,
+        "number": 642,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5178,7 +5172,7 @@
     },
     {
         "card_name": "Wandering Cataloguer",
-        "number": 680,
+        "number": 679,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5187,7 +5181,7 @@
     },
     {
         "card_name": "Sorynth, Blade of Oona",
-        "number": 645,
+        "number": 644,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5205,7 +5199,7 @@
     },
     {
         "card_name": "Talion, Fae Despot",
-        "number": 655,
+        "number": 654,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5223,7 +5217,7 @@
     },
     {
         "card_name": "A Tentacular Terror!",
-        "number": 659,
+        "number": 658,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5241,7 +5235,7 @@
     },
     {
         "card_name": "Time Flies",
-        "number": 660,
+        "number": 659,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5259,7 +5253,7 @@
     },
     {
         "card_name": "Ursula, Atlantican Outcast",
-        "number": 672,
+        "number": 671,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5277,7 +5271,7 @@
     },
     {
         "card_name": "Whisperer of the Damned",
-        "number": 682,
+        "number": 681,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5295,7 +5289,7 @@
     },
     {
         "card_name": "Worship at the Underhive",
-        "number": 686,
+        "number": 685,
         "shape": "saga",
         "set": "JUN25"
     },
@@ -5313,7 +5307,7 @@
     },
     {
         "card_name": "Writhing Polyp",
-        "number": 687,
+        "number": 686,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5331,7 +5325,7 @@
     },
     {
         "card_name": "Bright Young Thing",
-        "number": 692,
+        "number": 691,
         "shape": "adventure",
         "set": "JUN25"
     },
@@ -5349,7 +5343,7 @@
     },
     {
         "card_name": "Dissonant Murmurs",
-        "number": 694,
+        "number": 693,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5367,7 +5361,7 @@
     },
     {
         "card_name": "Self-Fulfilling Study",
-        "number": 703,
+        "number": 702,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5457,7 +5451,7 @@
     },
     {
         "card_name": "Neow, Spire Steward",
-        "number": 589,
+        "number": 588,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5487,7 +5481,7 @@
     },
     {
         "card_name": "Novice Lich",
-        "number": 594,
+        "number": 593,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5517,7 +5511,7 @@
     },
     {
         "card_name": "Recomissioning Station",
-        "number": 617,
+        "number": 616,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5547,7 +5541,7 @@
     },
     {
         "card_name": "Respiteful Tragedy",
-        "number": 622,
+        "number": 621,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5571,13 +5565,13 @@
     },
     {
         "card_name": "Kruphix of Endless Horizons",
-        "number": 569,
+        "number": 568,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Shadow-Wing Enforcer",
-        "number": 635,
+        "number": 634,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5589,7 +5583,7 @@
     },
     {
         "card_name": "Lathril's Reclaimer",
-        "number": 573,
+        "number": 572,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5601,13 +5595,13 @@
     },
     {
         "card_name": "Playful Peekytoe",
-        "number": 608,
+        "number": 607,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Shattered by the Storm",
-        "number": 636,
+        "number": 635,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5619,7 +5613,7 @@
     },
     {
         "card_name": "Mischevious Dashchund",
-        "number": 586,
+        "number": 585,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5631,13 +5625,13 @@
     },
     {
         "card_name": "Prudent Kuri",
-        "number": 610,
+        "number": 609,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Subaru's Immortality",
-        "number": 650,
+        "number": 649,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5649,7 +5643,7 @@
     },
     {
         "card_name": "Oogey Boogey",
-        "number": 596,
+        "number": 595,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5661,13 +5655,13 @@
     },
     {
         "card_name": "Recurring Theme",
-        "number": 618,
+        "number": 617,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Unvanquished One",
-        "number": 671,
+        "number": 670,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5679,19 +5673,19 @@
     },
     {
         "card_name": "Operation Snake Eater",
-        "number": 597,
+        "number": 596,
         "shape": "saga",
         "set": "JUN25"
     },
     {
         "card_name": "Nipper, Treasure of the Cove",
-        "number": 592,
+        "number": 591,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Sensei of Dirty Tricks",
-        "number": 633,
+        "number": 632,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5706,19 +5700,19 @@
     },
     {
         "card_name": "Phyrexia's Charm",
-        "number": 605,
+        "number": 604,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Orazca Spire",
-        "number": 598,
+        "number": 597,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Shelter in Kelp",
-        "number": 637,
+        "number": 636,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5727,25 +5721,25 @@
     },
     {
         "card_name": "Pick Parrot",
-        "number": 606,
+        "number": 605,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Redglade Silencer",
-        "number": 619,
+        "number": 618,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Punishment",
-        "number": 611,
+        "number": 610,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "shit. lets be santa",
-        "number": 638,
+        "number": 637,
         "shape": "saga",
         "set": "JUN25"
     },
@@ -5754,25 +5748,25 @@
     },
     {
         "card_name": "Quadruple Trouble",
-        "number": 612,
+        "number": 611,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Shadow Clowder Leader",
-        "number": 634,
+        "number": 633,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Rejuvenating Extremophiles",
-        "number": 620,
+        "number": 619,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Slithering Murklurker",
-        "number": 642,
+        "number": 641,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5781,25 +5775,25 @@
     },
     {
         "card_name": "Raise the Stakes",
-        "number": 614,
+        "number": 613,
         "shape": "saga",
         "set": "JUN25"
     },
     {
         "card_name": "Vraska, the Stoneglarer",
-        "number": 677,
+        "number": 676,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Skittish Retriever",
-        "number": 641,
+        "number": 640,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Solitary Storm Sorceress",
-        "number": 644,
+        "number": 643,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5808,19 +5802,19 @@
     },
     {
         "card_name": "Trading Card",
-        "number": 663,
+        "number": 662,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Zombie Grudgekeeper",
-        "number": 689,
+        "number": 688,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "T.O.M. Intelligence Model",
-        "number": 654,
+        "number": 653,
         "shape": "planeswalker",
         "set": "JUN25"
     },
@@ -5832,7 +5826,7 @@
     },
     {
         "card_name": "Trigger the End",
-        "number": 669,
+        "number": 668,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5841,7 +5835,7 @@
     },
     {
         "card_name": "Trainer Class",
-        "number": 664,
+        "number": 663,
         "shape": "saga",
         "set": "JUN25"
     },
@@ -5853,7 +5847,7 @@
     },
     {
         "card_name": "Bottled Brilliance",
-        "number": 691,
+        "number": 690,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5862,7 +5856,7 @@
     },
     {
         "card_name": "Wojek Blazebringer",
-        "number": 685,
+        "number": 684,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5898,7 +5892,7 @@
     },
     {
         "card_name": "Nature's Pride",
-        "number": 588,
+        "number": 587,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5910,7 +5904,7 @@
     },
     {
         "card_name": "Just as Planned",
-        "number": 564,
+        "number": 563,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5922,13 +5916,13 @@
     },
     {
         "card_name": "Nicol Bolas, Benevolent Tyrant",
-        "number": 591,
+        "number": 590,
         "shape": "planeswalker",
         "set": "JUN25"
     },
     {
         "card_name": "Vulcan Raven",
-        "number": 678,
+        "number": 677,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5940,7 +5934,7 @@
     },
     {
         "card_name": "Sphinx of Promise",
-        "number": 646,
+        "number": 645,
         "shape": "transform double faced",
         "set": "JUN25"
     },
@@ -5952,7 +5946,7 @@
     },
     {
         "card_name": "Ornithicera, Fell Sealed",
-        "number": 599,
+        "number": 598,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -5973,7 +5967,7 @@
     },
     {
         "card_name": "The Transcendent One",
-        "number": 666,
+        "number": 665,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6009,7 +6003,7 @@
     },
     {
         "card_name": "Kwak, Lushmarsh Escort",
-        "number": 570,
+        "number": 569,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6030,7 +6024,7 @@
     },
     {
         "card_name": "Lilis, Amateur Cartographer",
-        "number": 574,
+        "number": 573,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6060,19 +6054,19 @@
     },
     {
         "card_name": "Power of Friendship",
-        "number": 609,
+        "number": 608,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Vallia Giftbringer",
-        "number": 673,
+        "number": 672,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Victory Royale",
-        "number": 675,
+        "number": 674,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6169,235 +6163,235 @@
     },
     {
         "card_name": "The Battle Bus",
-        "number": 711,
+        "number": 710,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Blocked Lotus",
-        "number": 712,
+        "number": 711,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Bobo's Balloon Buggy",
-        "number": 713,
+        "number": 712,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Bridget's Yo-Yo",
-        "number": 714,
+        "number": 713,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "The Button",
-        "number": 715,
+        "number": 714,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Da Coconut Nut 2",
-        "number": 719,
+        "number": 718,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Damp Boot",
-        "number": 720,
+        "number": 719,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Energy Pull Gun",
-        "number": 721,
+        "number": 720,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Fickle Raiments",
-        "number": 722,
+        "number": 721,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "The Final Star",
-        "number": 723,
+        "number": 722,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Fishing Rod",
-        "number": 724,
+        "number": 723,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Forge of Power",
-        "number": 726,
+        "number": 725,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Freightyard Shipper",
-        "number": 727,
+        "number": 726,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Godskin Vessel",
-        "number": 728,
+        "number": 727,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Grail of Sensations",
-        "number": 730,
+        "number": 729,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Hare Plane Squadron",
-        "number": 732,
+        "number": 731,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Hide Armor",
-        "number": 733,
+        "number": 732,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Highcity Express",
-        "number": 734,
+        "number": 733,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Hyperforge Ravager",
-        "number": 735,
+        "number": 734,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Ironclad Animator",
-        "number": 736,
+        "number": 735,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Lantern of Enlightenment",
-        "number": 737,
+        "number": 736,
         "shape": "transform double faced",
         "set": "JUN25"
     },
     {
         "card_name": "Lavablood Golem",
-        "number": 738,
+        "number": 737,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Old Wooden Shield",
-        "number": 740,
+        "number": 739,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Orbital Probe Cannon",
-        "number": 741,
+        "number": 740,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Orlog Dice",
-        "number": 742,
+        "number": 741,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Ovalchase Dragster",
-        "number": 743,
+        "number": 742,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Potion of Invisibility",
-        "number": 745,
+        "number": 744,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Scrapforge Sentinel",
-        "number": 747,
+        "number": 746,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Surge Protector",
-        "number": 749,
+        "number": 748,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "T.O.M. Nerve Implant",
-        "number": 750,
+        "number": 749,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Talent Welder",
-        "number": 751,
+        "number": 750,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Team Flag",
-        "number": 752,
+        "number": 751,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Terraformic Spellbomb",
-        "number": 753,
+        "number": 752,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Tome of Tales",
-        "number": 755,
+        "number": 754,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Tour Ink Presenter",
-        "number": 756,
+        "number": 755,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Ursula's Necklace",
-        "number": 757,
+        "number": 756,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Used Car Batteries",
-        "number": 758,
+        "number": 757,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Voltaic Fabricator",
-        "number": 759,
+        "number": 758,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Wax Wings",
-        "number": 760,
+        "number": 759,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6428,61 +6422,61 @@
     "a->land",
     {
         "card_name": "Glimmering Valley",
-        "number": 770,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Homarid Hostel",
-        "number": 773,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Draining Labor",
-        "number": 763,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Everflaming Ruins",
-        "number": 765,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Canopy Community",
-        "number": 762,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Wartorn Flatlands",
-        "number": 790,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Morland Library",
-        "number": 780,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "Glimmering Pit",
         "number": 769,
         "shape": "normal",
         "set": "JUN25"
     },
     {
+        "card_name": "Homarid Hostel",
+        "number": 772,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Draining Labor",
+        "number": 762,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Everflaming Ruins",
+        "number": 764,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Canopy Community",
+        "number": 761,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Wartorn Flatlands",
+        "number": 789,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Morland Library",
+        "number": 779,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Glimmering Pit",
+        "number": 768,
+        "shape": "normal",
+        "set": "JUN25"
+    },
+    {
         "card_name": "Glimmering Volcano",
-        "number": 771,
+        "number": 770,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Glimmering Clearing",
-        "number": 768,
+        "number": 767,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6491,25 +6485,25 @@
     },
     {
         "card_name": "Takeoff Lake",
-        "number": 785,
+        "number": 784,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Lethal Wetlands",
-        "number": 775,
+        "number": 774,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Magma Meeting House",
-        "number": 777,
+        "number": 776,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Jungle Temple",
-        "number": 774,
+        "number": 773,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6521,7 +6515,7 @@
     },
     {
         "card_name": "Mansus Elite Club",
-        "number": 779,
+        "number": 778,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6530,7 +6524,7 @@
     },
     {
         "card_name": "Overgrown Grove",
-        "number": 781,
+        "number": 780,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6554,7 +6548,7 @@
     },
     {
         "card_name": "Tower of Mansus",
-        "number": 787,
+        "number": 786,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6563,7 +6557,7 @@
     },
     {
         "card_name": "Snailshell Shire",
-        "number": 784,
+        "number": 783,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6575,7 +6569,7 @@
     },
     {
         "card_name": "Undertower Auction",
-        "number": 788,
+        "number": 787,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6608,13 +6602,13 @@
     },
     {
         "card_name": "Caldera Corral",
-        "number": 761,
+        "number": 760,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Gloomy Farmstead",
-        "number": 772,
+        "number": 771,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6623,7 +6617,7 @@
     },
     {
         "card_name": "Mangrove Motel",
-        "number": 778,
+        "number": 777,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6635,7 +6629,7 @@
     },
     {
         "card_name": "Profained Arbory",
-        "number": 783,
+        "number": 782,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6662,37 +6656,37 @@
     },
     {
         "card_name": "Eos, Shifting Superscape",
-        "number": 764,
+        "number": 763,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Evolving Wilds",
-        "number": 766,
+        "number": 765,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "The Firelink Shrine",
-        "number": 767,
+        "number": 766,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Primepost",
-        "number": 782,
+        "number": 781,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Terramorphic Expanse",
-        "number": 786,
+        "number": 785,
         "shape": "normal",
         "set": "JUN25"
     },
     {
         "card_name": "Urza's Gate",
-        "number": 789,
+        "number": 788,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -6795,7 +6789,13 @@
     },
     {
         "card_name": "The Ball",
-        "number": 710,
+        "number": 709,
+        "shape": "token",
+        "set": "JUN25"
+    },
+    {
+        "card_name": "Clue",
+        "number": 715,
         "shape": "token",
         "set": "JUN25"
     },
@@ -6812,20 +6812,14 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Clue",
-        "number": 718,
-        "shape": "token",
-        "set": "JUN25"
-    },
-    {
         "card_name": "Food",
-        "number": 725,
+        "number": 724,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Gold",
-        "number": 729,
+        "number": 728,
         "shape": "token",
         "set": "JUN25"
     },
@@ -6945,19 +6939,19 @@
     },
     {
         "card_name": "Saurian Zombie",
-        "number": 629,
+        "number": 628,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Wizard",
-        "number": 684,
+        "number": 683,
         "shape": "token",
         "set": "JUN25"
     },
     {
         "card_name": "Werewolf",
-        "number": 704,
+        "number": 703,
         "shape": "token",
         "set": "JUN25"
     },

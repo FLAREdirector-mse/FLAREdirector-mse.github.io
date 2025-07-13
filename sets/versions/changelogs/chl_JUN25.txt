@@ -1,4 +1,571 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+jan lawa Osopa pi lukin suli removed.
+
+The Final Star
+
+Paint By Numbers
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Balancing Equations
+Puzzle
+
+When you remove both a +1/+1 counter and a -1/-1 counter from a creature in the same turn, solve this Puzzle.
+
+When you solve this Puzzle, draw two cards.
+
+Bobo's Balloon Buggy
+
+Shelter in Kelp
+
+Ride the Clouds
+
+Sensei of Dirty Tricks
+
+Unvanquished One
+
+Blocked Lotus
+
+Operation Snake Eater
+
+Vulcan Raven
+
+Ornithicera, Fell Sealed
+
+Saurian Zombie
+
+The Transcendent One
+
+Worship at the Underhive
+
+Recurring Theme
+
+Solitary Storm Sorceress
+
+Tome of Tales
+
+Werewolf
+
+Abzan Kin-Foster
+
+Maw of Infinity
+
+Mesmer, the Abandoned God
+
+Nipper, Treasure of the Cove
+
+Pick Parrot
+
+Quadruple Trouble
+
+Respiteful Tragedy
+
+The Resurrection of Falin
+
+Bottled Brilliance
+
+The Firelink Shrine
+
+Damp Boot
+
+Fishing Rod
+
+Used Car Batteries
+
+Lavablood Golem
+
+Ovalchase Dragster
+
+Terraformic Spellbomb
+
+Evolving Wilds
+
+Glimmering Clearing
+
+Glimmering Pit
+
+Glimmering Valley
+
+Glimmering Volcano
+
+Terramorphic Expanse
+
+Shadow Clowder Leader
+
+Primepost
+
+Urza's Gate
+
+Wax Wings
+
+Orlog Dice
+
+Potion of Invisibility
+
+Jungle Temple
+
+Neow, Spire Steward
+
+Punishment
+
+Raise the Stakes
+
+Trading Card
+
+Brute Denial
+
+Old Wooden Shield
+
+shit. lets be santa
+
+The Ball
+
+Whisperer of the Damned
+
+Sorynth, Blade of Oona
+
+Talion, Fae Despot
+
+Kwak, Lushmarsh Escort
+
+Trigger the End
+
+Power of Friendship
+
+Highcity Express
+
+Surge Protector
+
+Freightyard Shipper
+
+Everflaming Ruins
+
+Lethal Wetlands
+
+Oogey Boogey
+
+Overgrown Grove
+
+Takeoff Lake
+
+Wartorn Flatlands
+
+Godskin Vessel
+
+Playful Peekytoe
+
+Caldera Corral
+
+Canopy Community
+
+Eos, Shifting Superscape
+
+Fickle Raiments
+
+Fore
+
+Hare Plane Squadron
+
+Head
+
+Hide Armor
+
+Homarid Hostel
+
+Home
+
+Lilis, Amateur Cartographer
+
+Magma Meeting House
+
+Mangrove Motel
+
+Menagerie Master
+
+Nature's Pride
+
+New Assembly Automatom
+
+Novice Lich
+
+Recomissioning Station
+
+Redglade Silencer
+
+Righteous Wind-Warden
+
+Scavenge the Spoils
+
+Shadow-Wing Enforcer
+
+Shattered by the Storm
+
+Snailshell Shire
+
+Sphinx of Promise
+
+Time Flies
+
+Wandering Cataloguer
+
+Zombie Grudgekeeper
+
+Slithering Murklurker
+
+Wojek Blazebringer
+
+Lathril's Reclaimer
+
+Phyrexia's Charm
+
+Vraska, the Stoneglarer
+
+Gloomy Farmstead
+
+Profained Arbory
+
+Clue
+
+Food
+
+Kallist Rhoka, Displaced Mind
+
+Orazca Spire
+
+Scion of Ted
+
+Ted, Peaceful Resolution
+
+A Tentacular Terror!
+
+Orbital Probe Cannon
+
+Ursula, Atlantican Outcast
+
+Writhing Polyp
+
+Ursula's Necklace
+
+Team Flag
+
+Subaru's Immortality
+
+Can Be Bought
+
+Trainer Class
+
+Kruphix of Endless Horizons
+
+Nicol Bolas, Benevolent Tyrant
+
+Vallia's Kindness
+
+Vallia Giftbringer
+
+Talk to the Hand
+
+Locked In With Me
+
+Bridget's Yo-Yo
+
+Clue
+
+The Battle Bus
+
+Gold
+
+Time Together
+
+Logan, the Weapon X
+
+The Button
+
+Victory Royale
+
+Da Coconut Nut 2
+
+Simon, the Ice King
+
+Nite Owl, the Vigilante
+
+Just as Planned
+
+Hyperforge Ravager
+
+Ironclad Animator
+
+Mischevious Dashchund
+
+Prudent Kuri
+
+Scrapforge Sentinel
+
+Skittish Retriever
+
+Sneaky Bitzer
+
+Voltaic Fabricator
+
+Bright Young Thing
+
+Clue
+
+Dissonant Murmurs
+
+Draining Labor
+
+Energy Pull Gun
+
+Forge of Power
+
+Grail of Sensations
+
+Lantern of Enlightenment
+
+Mansus Elite Club
+
+Morland Library
+
+Occult Happenings Detective
+
+Rejuvenating Extremophiles
+
+Self-Fulfilling Study
+
+T.O.M. Intelligence Model
+
+T.O.M. Nerve Implant
+
+Talent Welder
+
+Tour Ink Presenter
+
+Tower of Mansus
+
+Undertower Auction
+
+Wizard
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Collective Computing
+Puzzle
+
+When three or more Constructs
+and/or Humans you control become untapped, solve this Puzzle.
+
+When you solve this Puzzle, put a +1/+1 counter on each of any number of target creatures you control.
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Food Cultivation Project
+Puzzle
+
+When you put a counter on a permanent you control, if there are three or more different kinds of counters on that permanent, solve this Puzzle.
+
+When you solve this Puzzle, create your choice of a Clue token, a Food token, or a Treasure token, then repeat this process once.
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Hurtful Realities
+Puzzle
+
+You can only have one copy of Hurtful Realities in your puzzle deck.
+
+When you or a permanent you control are dealt damage while there are five or more Puzzles among cards in your graveyard and four or more card types among permanents you control, solve this Puzzle.
+
+When you solve this Puzzle, return any number of Puzzle cards in your graveyard to your Puzzle deck and shuffle it. Hurtful Realities deals 1 damage to each opponent for each Puzzle card returned this way.
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Iterative Execution
+Puzzle
+
+Whenever you cast an instant or sorcery spell, put a solution counter on this Puzzle.
+When there are three or more solution counters on this Puzzle, solve it.
+
+[i]Sweep[/i] — When you solve this Puzzle, you may return any number of lands you control to their owner's hand. When you do, choose up to that many target instant and/or sorcery cards
+in your graveyard. Those cards gain retrace until the end of your next turn. [i](You may cast a card with retrace from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Natural Creativity
+Puzzle
+
+When you put a +1/+1 counter on a creature that dealt combat damage this turn, solve this Puzzle.
+
+When you solve this Puzzle, it deals 3 damage to up to one nonplayer target and you gain 3 life.
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Navigating the Cloning Bay
+Puzzle
+
+When you put one or more counters on a Human for the third time in a turn, solve this Puzzle.
+
+When you solve this Puzzle, until the end of your next turn, the next Human spell you cast has replicate. The replicate cost is equal to its mana cost. [i](When you cast that spell, copy it for each time you paid its replicate cost. Copies of permanent spells become tokens.)[/i]
+
+
+type: Legendary Artifact => 
+cost: {2} => 
+rules_text: {1}, {T}: Put a charge counter on The Final Star.
+{7}, {T}, Remove three charge counters from The Final Star: Each player reveals their library. Exile all creatures from the battlefield and all creature cards from each player's library and graveyard. Then each player shuffles. => Station Contact Loss
+Puzzle
+
+At the beginning of your upkeep, if you control a Human artifact creature, solve this Puzzle.
+
+When you solve this Puzzle, choose one —
+• Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+• Return target Equipment card from your graveyard to your hand.
+
+Mardu Vanguard
+
+Twice-Pilfered Haul
+
+Loch and Quay
+
+Kill Your Darlings
+
+Lurzog, Necroascendant
+
+Renee Venus Parvati
+
+Skath, Ten-Towns Guide
+
+Sunwater Shaper
+
+Ghost of Summer Christmas
+
+Kadhirva the Ascetic
+
+The Lands Arise
+
+The Last Night
+
+Master of Refraction
+
+Moth of Mourning
+
+Parker's Reveal on Page 13
+
+Pilgrim of the Overgrown
+
+Spirit to Seed
+
+Spooky Ghosts
+
+Syr Onage, the Stubborn
+
+Tomb-Tearer Nephilim
+
+Treacherous Swine
+
+Tributetaker Hydra
+
+Vitu-Ghazi Culler
+
+Wailing Doom
+
+Witch of the Embrace
+
+Thran Sentinel
+
+Affirm the Old Ways
+rules_text: Choose one or both—
+• Counter target spell.
+• Return target permanent card from your graveyard to your hand. => Choose one or both —
+• Counter target spell.
+• Return target permanent card from your graveyard to your hand.
+
+Jazith Sha, the Ineffable
+
+Kesar, Foremost Talon
+
+Lucian, Unyielding Leader
+
+Magar of the Twisted Effigy
+
+Mental Overload
+
+O'Shovah, Commander Farsight
+
+Paradox Investigations
+
+Paragon of the Herd
+
+Radiant Pyromancer
+
+Rakhamezhi, the Ambiguous
+
+Reckoning of Worlds
+
+Robot Herding
+
+Sacred Assassin
+
+Sanity is the Price of Knowledge
+
+Scrap Recycler
+
+Stagserpent
+
+Svetlana, Gate Guardian
+
+Targeted Demolition
+
+Transcended One of Betrayal
+
+Warden of the Sword
+
+Your Deaths Were Long Foretold
+
+Inter
+
+Force of Coercion
+
+Force of Habit
+
+Force of Impact
+
+Force of Infection
+
+Force of Instinct
+
+Like Clockwork
+
+Revocable Relinquishment
+
+Yuki
+
+Ground Control Tower
+
+Lithoform Core
+
+Overseer Hangar
+
+Prosperous Compass
+
+Sheltering Wreckage
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Affectionate Princess added.
