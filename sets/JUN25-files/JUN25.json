@@ -14230,7 +14230,7 @@
             "number": 599,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
-            "rules_text": "When O'Shovah enters, he fights target creature you don't control.\nWhenever a creature dealt damage by O'Shovah\nthis turn dies, put a +1/+1 counter on O'Shovah.\nIf that creature had flying, put a flying counter on O'Shovah. The same is true for first strike, double\nstrike, deathtouch, lifelink, menace, reach, trample, and vigilance.",
+            "rules_text": "When O'Shovah enters, he fights target creature you don't control.\nWhenever a creature dealt damage by O'Shovah this turn dies, put a +1/+1 counter on O'Shovah. If that creature had flying, put a flying counter on O'Shovah. The same is true for first strike, double strike, deathtouch, lifelink, menace, reach, trample, and vigilance.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
