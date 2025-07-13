@@ -14234,11 +14234,21 @@
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "JUN25",
             "loyalty": "",
             "artist": "Legion",
-            "notes": "!group SatanBG\njan lawa Osopa pi lukin suli"
+            "card_name2": "jan lawa Osopa pi lukin suli",
+            "color2": "BG",
+            "type2": "soweli taso \u2014 Tawu / jan utala",
+            "cost2": "{3}{B}{G}",
+            "rules_text2": "jan lawa Osopa li kama la ona li alasa e soweli nimi pi lawa sina ala.\nsoweli pi kama pakala tan jan lawa Osopa pi sike ni li moli la o pana e mani +1/+1 lon jan lawa Osopa. soweli ni li jo e tawa sewi la o pana e mani pi tawa sewi lon jan lawa Osopa. utala wan, utala tu, luka moli, misikeke, utala monsuta, pake sewi, utala noka en lape ala la o pali sama.",
+            "flavor_text2": "",
+            "pt2": "4/5",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Legion",
+            "notes": "!group SatanBG"
         },
         {
             "card_name": "Paradox Investigations",

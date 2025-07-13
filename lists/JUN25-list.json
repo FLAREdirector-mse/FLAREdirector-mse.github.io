@@ -525,7 +525,7 @@
     {
         "card_name": "O'Shovah, Commander Farsight",
         "number": 599,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "JUN25"
     },
     {
@@ -1243,7 +1243,7 @@
     {
         "card_name": "O'Shovah, Commander Farsight",
         "number": 599,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "JUN25"
     },
     {
@@ -3270,7 +3270,7 @@
     {
         "card_name": "The Fall of Cadia",
         "number": 204,
-        "shape": "battle split",
+        "shape": "transform double faced split",
         "set": "JUN25"
     },
     {
@@ -4078,8 +4078,8 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Open the Cicatrix Maledictum",
-        "number": 236,
+        "card_name": "Open-Grave Opportunist",
+        "number": 238,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4108,8 +4108,8 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Open-Grave Opportunist",
-        "number": 238,
+        "card_name": "Paint Over",
+        "number": 239,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4138,8 +4138,8 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Paint Over",
-        "number": 239,
+        "card_name": "Pale-Death Moth",
+        "number": 240,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4168,8 +4168,8 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Pale-Death Moth",
-        "number": 240,
+        "card_name": "Pentakill!",
+        "number": 241,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4198,8 +4198,8 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Pentakill!",
-        "number": 241,
+        "card_name": "Princess Luna",
+        "number": 242,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4228,9 +4228,9 @@
         "set": "JUN25"
     },
     {
-        "card_name": "Princess Luna",
-        "number": 242,
-        "shape": "normal",
+        "card_name": "Profane Choice",
+        "number": 243,
+        "shape": "transform double faced",
         "set": "JUN25"
     },
     {
@@ -4255,9 +4255,9 @@
         "card_name": "e"
     },
     {
-        "card_name": "Profane Choice",
-        "number": 243,
-        "shape": "transform double faced",
+        "card_name": "Professor Serafina Onyx",
+        "number": 244,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
@@ -4282,8 +4282,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Professor Serafina Onyx",
-        "number": 244,
+        "card_name": "Quest for the Lost King",
+        "number": 245,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4309,8 +4309,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Quest for the Lost King",
-        "number": 245,
+        "card_name": "Recurring Hunter",
+        "number": 246,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4336,8 +4336,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Recurring Hunter",
-        "number": 246,
+        "card_name": "Return Anew",
+        "number": 248,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4363,8 +4363,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Return Anew",
-        "number": 248,
+        "card_name": "Return of the Outcasts",
+        "number": 249,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4390,8 +4390,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Return of the Outcasts",
-        "number": 249,
+        "card_name": "Rise of the Decayed",
+        "number": 250,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4417,8 +4417,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Rise of the Decayed",
-        "number": 250,
+        "card_name": "Sacrifice of Innocence",
+        "number": 251,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4444,8 +4444,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sacrifice of Innocence",
-        "number": 251,
+        "card_name": "Shinichi Izumi, the Host",
+        "number": 254,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4471,8 +4471,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Shinichi Izumi, the Host",
-        "number": 254,
+        "card_name": "Should've Picked Mercy",
+        "number": 255,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4498,8 +4498,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Should've Picked Mercy",
-        "number": 255,
+        "card_name": "Shrine Keeper",
+        "number": 256,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4522,8 +4522,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Shrine Keeper",
-        "number": 256,
+        "card_name": "Smash",
+        "number": 257,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4546,9 +4546,9 @@
         "card_name": "e"
     },
     {
-        "card_name": "Smash",
-        "number": 257,
-        "shape": "normal",
+        "card_name": "Spiralling Thoughts",
+        "number": 258,
+        "shape": "saga",
         "set": "JUN25"
     },
     {
@@ -4570,9 +4570,9 @@
         "card_name": "e"
     },
     {
-        "card_name": "Spiralling Thoughts",
-        "number": 258,
-        "shape": "saga",
+        "card_name": "Sponsorship Segment",
+        "number": 259,
+        "shape": "normal",
         "set": "JUN25"
     },
     {
@@ -4594,8 +4594,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sponsorship Segment",
-        "number": 259,
+        "card_name": "Stitcher's Supplier",
+        "number": 260,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4618,8 +4618,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Stitcher's Supplier",
-        "number": 260,
+        "card_name": "Terror Treader",
+        "number": 262,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4642,8 +4642,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Terror Treader",
-        "number": 262,
+        "card_name": "Thermonuclear Pufferfish",
+        "number": 263,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4666,8 +4666,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Thermonuclear Pufferfish",
-        "number": 263,
+        "card_name": "Threatening Plush",
+        "number": 265,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4690,8 +4690,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Threatening Plush",
-        "number": 265,
+        "card_name": "Twilight Festival",
+        "number": 267,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4711,8 +4711,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Twilight Festival",
-        "number": 267,
+        "card_name": "Usurp",
+        "number": 269,
         "shape": "normal",
         "set": "JUN25"
     },
@@ -4724,24 +4724,6 @@
         "number": 452,
         "shape": "fuse split",
         "set": "JUN25"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Usurp",
-        "number": 269,
-        "shape": "normal",
-        "set": "JUN25"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
