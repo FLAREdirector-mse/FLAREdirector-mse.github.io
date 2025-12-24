@@ -3443,9 +3443,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "0",
+			"collector_number": "594",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Cloudship.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/594_Cloudship.jpg"
 			}
 		},
 		{
@@ -3513,9 +3513,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "0",
+			"collector_number": "617",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Uhuru Surveyor.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/617_Uhuru Surveyor.jpg"
 			}
 		},
 		{
