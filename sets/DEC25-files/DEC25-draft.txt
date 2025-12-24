@@ -5435,18 +5435,15 @@
 			"mana_cost": "{B}{B}{B}",
 			"type": "Battle — Conquest",
 			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/1_Conquest of the Pit_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/1_Conquest of the Pit.jpg"
-			}
-		},
-		{
-			"name": "Lord of the Mosh Pit",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Creature — Demon",
-			"collector_number": "178",
-			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/178_Lord of the Mosh Pit.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/1_Conquest of the Pit_front.jpg"
 			}
 		},
 		{
@@ -7613,7 +7610,6 @@
 	1 Verdant Weald
 	1 Psionic Combatant
 	1 Conquest of the Pit
-	1 Lord of the Mosh Pit
 	1 Figure of Tragedy
 	1 Fire Auditorium
 	1 Mysterious Bladebike
