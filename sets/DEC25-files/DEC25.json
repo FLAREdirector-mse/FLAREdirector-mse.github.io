@@ -10365,7 +10365,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Battle \u2014 Conquest",
-            "number": 1,
+            "number": 177,
             "color_identity": "B",
             "cost": "{B}{B}{B}",
             "rules_text": "[i](Each player can attack a Conquest during their turn. When they do, they choose an opponent to protect it. When a player defeats it, they exile it, then cast it transformed.)[/i]\nAt the beginning of each opponent's upkeep, you create a 2/2 black Bard creature token.",
