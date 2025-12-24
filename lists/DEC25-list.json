@@ -1,0 +1,5394 @@
+﻿[
+    {
+        "card_name": "Aerial Expedition",
+        "number": 19,
+        "shape": "class",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Absorb Knowledge",
+        "number": 80,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ashfeather Plunderer",
+        "number": 0,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Adoranz's Snatcher",
+        "number": 221,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Worldheart Pinnacle",
+        "number": 0,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Aether Dispersal",
+        "number": 20,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Aquatic Expedition",
+        "number": 81,
+        "shape": "class",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Killer Feast",
+        "number": 0,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Aggress Dread",
+        "number": 222,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Arinelle, the Frozen Sea",
+        "number": 1,
+        "shape": "modal double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Afterlife Seer",
+        "number": 21,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Assembling Mutterers",
+        "number": 82,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Conquest of the Pit",
+        "number": 1,
+        "shape": "battle split",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Akroan War",
+        "number": 223,
+        "shape": "saga",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Alone at the Edge of the World",
+        "number": 295,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Alice, Lost in Size and Shadows",
+        "number": 22,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "At a Loss",
+        "number": 83,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Absolute Dominion",
+        "number": 137,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Angel Dust, Hell's Darling",
+        "number": 224,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Anarch Hotshot",
+        "number": 296,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Alliance Hawk",
+        "number": 23,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Battlefield Prayer",
+        "number": 84,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Adaptor Novuform",
+        "number": 138,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Aurel, the Gyrocopter",
+        "number": 225,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Angel of the Verge",
+        "number": 297,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Aminatou's Grace",
+        "number": 24,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Beguiling Speech",
+        "number": 85,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Alastor, the Radio Demon",
+        "number": 139,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ball Lightning",
+        "number": 226,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Awaken Sleeping Power",
+        "number": 298,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Aurelia's Lieutenant",
+        "number": 25,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Chalice of Reshaping",
+        "number": 86,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Bloodsecrator Demon",
+        "number": 140,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "C.G.B. Handler",
+        "number": 227,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Bestial Rebirth",
+        "number": 299,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Beloved Protector",
+        "number": 26,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Confounding Monolith",
+        "number": 87,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Blown Cover",
+        "number": 141,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Conspiracy Board",
+        "number": 228,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Bouncing Flask",
+        "number": 300,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Breya's Collector",
+        "number": 27,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Curious Fae",
+        "number": 88,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Carefree Vagabond",
+        "number": 142,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Corset Dragon",
+        "number": 229,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Bramble Seeker",
+        "number": 301,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cedric, Blade of Kell's Ridge",
+        "number": 28,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Deception Sliver",
+        "number": 89,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Consult the Skeletons",
+        "number": 143,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Crimson Snapper",
+        "number": 230,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Branchwinder Sliver",
+        "number": 302,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Deanimate",
+        "number": 29,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Disciples of Takot",
+        "number": 90,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cruel Attendant",
+        "number": 144,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Daos' Chase",
+        "number": 231,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Candypop Expedition",
+        "number": 303,
+        "shape": "class",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Drannith Patrol",
+        "number": 30,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Elusive Seabane",
+        "number": 91,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cruel Bargain",
+        "number": 145,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Dealer's Choice",
+        "number": 232,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Castellabeast",
+        "number": 304,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Dripping Perfection",
+        "number": 31,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Expropriate",
+        "number": 92,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cruel Timekeeper",
+        "number": 146,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Dream Sequence",
+        "number": 233,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Chittering Scavenger",
+        "number": 305,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Elana, Canopy Whisperer",
+        "number": 32,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fae of Twenty-Three Winds",
+        "number": 93,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cynder, Shadowdancer",
+        "number": 147,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Edelgard, Flame Emperor",
+        "number": 234,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Composer of Biographies",
+        "number": 306,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Emeria's Redeemer",
+        "number": 33,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fear of Being Forgotten",
+        "number": 94,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Demander of a Chip",
+        "number": 148,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Exemplar Operator",
+        "number": 235,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Coshan Armour",
+        "number": 307,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Extermination Squad",
+        "number": 34,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "First Contact",
+        "number": 95,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Demon of Noble Work",
+        "number": 149,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fervent Roleplayer",
+        "number": 236,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Creekside Shellodon",
+        "number": 308,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "False Wyvern",
+        "number": 35,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Flock of Doves",
+        "number": 96,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Dig Through the",
+        "number": 150,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Flamelit Expedition",
+        "number": 237,
+        "shape": "class",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Embracing Change",
+        "number": 309,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fluttering Restoration",
+        "number": 36,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Heatsinks",
+        "number": 97,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Disconnect",
+        "number": 151,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Flametouched Warrior",
+        "number": 238,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Exploration",
+        "number": 310,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Freeway Getaway",
+        "number": 37,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Heedless Investigator",
+        "number": 98,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Disturbing Revelation",
+        "number": 152,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Food Fight",
+        "number": 239,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Exploring Crew",
+        "number": 311,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Giftbearer",
+        "number": 38,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Heir Revealed",
+        "number": 99,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Eager Candidates",
+        "number": 153,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Friendly Rival",
+        "number": 240,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Eye on the Prize",
+        "number": 312,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Glass-Dune Sphinx",
+        "number": 39,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Hourglass of Time",
+        "number": 100,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Erstwhile Attendants",
+        "number": 154,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Gargantuan Mauler",
+        "number": 241,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Final Flourish",
+        "number": 313,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Horn of Valere",
+        "number": 40,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Imbue with Etherium",
+        "number": 101,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Etherium Salvaging",
+        "number": 155,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Grasp at Remnants",
+        "number": 242,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Friendly Inviters",
+        "number": 314,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "How to Teleport",
+        "number": 41,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Jovial Rift-Mage",
+        "number": 102,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Eva Unit 00",
+        "number": 156,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Gunpowder Brawler",
+        "number": 243,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Glimmerweaver",
+        "number": 315,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Icatian Spear-Speaker",
+        "number": 42,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Kranker Surgeon",
+        "number": 103,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Expert Intruder",
+        "number": 157,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hazardous Sparks",
+        "number": 244,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Harrowing End",
+        "number": 316,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Into the Unknown",
+        "number": 43,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lainur of Lives Beyond",
+        "number": 104,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Eyes Wide Shut",
+        "number": 158,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Heapseeker",
+        "number": 245,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hunger's Blessing",
+        "number": 317,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Iona, Skyclave Sentinel",
+        "number": 44,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Leprosy Dribbler",
+        "number": 105,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Faerie Assassin",
+        "number": 159,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Heartless Blessing",
+        "number": 246,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Killer Service",
+        "number": 318,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Judgment",
+        "number": 45,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Magic I Want You",
+        "number": 106,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Faerie Dealmaker",
+        "number": 160,
+        "shape": "adventure",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Highland Caller",
+        "number": 247,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lentavore",
+        "number": 319,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Kairi, Princess of Heart",
+        "number": 46,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Make Aware",
+        "number": 107,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fearless Poacher",
+        "number": 161,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hill Giant",
+        "number": 248,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Leviathan, the Tidehunter",
+        "number": 320,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Leaping Sliver",
+        "number": 47,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Matter Claimer",
+        "number": 108,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fettered Ambition",
+        "number": 162,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Home-Seek Worm",
+        "number": 249,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mire's Might",
+        "number": 321,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lodus of the Ethersworn",
+        "number": 48,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "May I Have Your Name",
+        "number": 109,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Foretelling Horizons",
+        "number": 163,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Igneous Mauler",
+        "number": 250,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mossback Elk",
+        "number": 322,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Monitor Glider",
+        "number": 49,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Midnight Carrier",
+        "number": 110,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fruitless Persistence",
+        "number": 164,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ignited Memory Jar",
+        "number": 251,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mounted Strassi",
+        "number": 323,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Moonlight Prancer",
+        "number": 50,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mudcrab Merchant",
+        "number": 111,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Galling Mist",
+        "number": 165,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Immolate",
+        "number": 252,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Obtention Crown",
+        "number": 324,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Myiraj's Search",
+        "number": 51,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Multifaceted Interloper",
+        "number": 112,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Goblin Bonethrower",
+        "number": 166,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Insufferable Hubris",
+        "number": 253,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Practice Makes Progress",
+        "number": 325,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Obviation Crown",
+        "number": 52,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Nightcrawler, Tricky Teleporter",
+        "number": 113,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hangman's Tangle",
+        "number": 167,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Isaac & Miria, Joyful Rapscallions",
+        "number": 254,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Prophet of the World Tree",
+        "number": 326,
+        "shape": "transform double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Odyseeker",
+        "number": 53,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Obligation Crown",
+        "number": 114,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Harbinger of the Black Star",
+        "number": 168,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lavabrink Stinger",
+        "number": 255,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "RARE! weed smorking loot",
+        "number": 327,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ready the Blade",
+        "number": 54,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ossified by Coral",
+        "number": 115,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Innocent Inmate",
+        "number": 169,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lethal Swordclaw",
+        "number": 256,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Remnants of a World Long Past",
+        "number": 328,
+        "shape": "battle split",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Recurring Daydream",
+        "number": 55,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Persistent Mumbler",
+        "number": 116,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Kill and Devour",
+        "number": 170,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Magmascale Glutton",
+        "number": 257,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Rouse the Young",
+        "number": 329,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Repurposer Golem",
+        "number": 56,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Prophetic Sight",
+        "number": 117,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Kyubey, Messenger of Magic",
+        "number": 171,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Meowth",
+        "number": 258,
+        "shape": "adventure",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Rowanwood Ent",
+        "number": 330,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Robe of Oblivion",
+        "number": 57,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Render Fleeting",
+        "number": 118,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lanaya, the Templar Assassin",
+        "number": 172,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Molten Core",
+        "number": 259,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Runetusk Boar",
+        "number": 331,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Rylai, the Crystal Maiden",
+        "number": 58,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "River's Blessing",
+        "number": 119,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lett, Who Eschews Aether",
+        "number": 173,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Molten Splash",
+        "number": 260,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Searching the Wilds",
+        "number": 332,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sacred Starseeker",
+        "number": 59,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Rubick, the Grand Magus",
+        "number": 120,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Liliana's Charm",
+        "number": 174,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Negotiation Provocation",
+        "number": 261,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Slizt Clan Operative",
+        "number": 333,
+        "shape": "adventure",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sailor Moon, Light of Justice",
+        "number": 60,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Shadow Way Mage",
+        "number": 121,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lord of the Mosh Pit",
+        "number": 175,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Obsession Crown",
+        "number": 262,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Solitary Groffskithur",
+        "number": 334,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Secret Admirer",
+        "number": 61,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sincerest Form of Flattery",
+        "number": 122,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lordly Aetherlich",
+        "number": 176,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Patches the Pirate",
+        "number": 263,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Song of a New Universe",
+        "number": 335,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Seeker Knight",
+        "number": 62,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Spires that Reach to the Heavens",
+        "number": 123,
+        "shape": "battle split",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "March of the Undying",
+        "number": 177,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Phyrexian Fleshgrinder",
+        "number": 264,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Soul of the Beast",
+        "number": 336,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Shahar, Teiran Escapist",
+        "number": 63,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Subtle Submersible",
+        "number": 124,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Modriss of Zargoth Fen",
+        "number": 178,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Possibility Dreg",
+        "number": 265,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Stealthy Vaultbreaker",
+        "number": 337,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Shimmering Puppet",
+        "number": 64,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Suspended Tide",
+        "number": 125,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Moonlace Clique",
+        "number": 179,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ragnaros the Firelord",
+        "number": 266,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Strong Back",
+        "number": 338,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Spark Rupture",
+        "number": 65,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Telemin Trainer",
+        "number": 126,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Moon's Echo",
+        "number": 180,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Recall the End",
+        "number": 267,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sun's Historian",
+        "number": 339,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sphinx of the End",
+        "number": 66,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Trail of Evidence",
+        "number": 127,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Morbulat, Draining Puppeteer",
+        "number": 181,
+        "shape": "modal double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Redoubled Fury",
+        "number": 268,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Traverse the Plane",
+        "number": 340,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Subdivide",
+        "number": 67,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Trawling Sliver",
+        "number": 128,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Murderous Duplicator",
+        "number": 182,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Rocket League",
+        "number": 269,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Verdant Snapper",
+        "number": 341,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "That Which Sets the Sun",
+        "number": 68,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Treasure Cruise",
+        "number": 129,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Neurodisruptor",
+        "number": 183,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Scourge of Oxid Ridge",
+        "number": 270,
+        "shape": "adventure",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Witness of the Glade",
+        "number": 342,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Towering Archangel",
+        "number": 69,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ulrike, Silvered Moonmist",
+        "number": 130,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Nifty, Adamslayer",
+        "number": 184,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Scouring Scions",
+        "number": 271,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Trouble in Twos",
+        "number": 70,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Unsettling Ritual",
+        "number": 131,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Nine-Lives Familiar",
+        "number": 185,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Scrapscaping",
+        "number": 272,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unexpected Torrent",
+        "number": 71,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Vesperian Jethawk",
+        "number": 132,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "O.I.A. Spook",
+        "number": 186,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Screeching Boggart",
+        "number": 273,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unruly Mob",
+        "number": 72,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Walrus Captain",
+        "number": 133,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Party Hijacker",
+        "number": 187,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sear-Striped Ambusher",
+        "number": 274,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Valor Unending",
+        "number": 73,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Witch of the Deeps",
+        "number": 134,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Persistent Aether-Liches",
+        "number": 188,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Set Alight",
+        "number": 275,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vicarious Sentinel",
+        "number": 74,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "You Try to Talk About Blue Prince",
+        "number": 135,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Price of Knowledge",
+        "number": 189,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Shatter the Earth",
+        "number": 276,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "What Was Done",
+        "number": 75,
+        "shape": "modal double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Your Story",
+        "number": 136,
+        "shape": "saga",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Purrrgatory Prowler",
+        "number": 190,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Shiv Dragon",
+        "number": 277,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Winter's Blessing",
+        "number": 76,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Somnikinesis",
+        "number": 656,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Queen Vanessa",
+        "number": 191,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Singularity of Purpose",
+        "number": 278,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Young Witches",
+        "number": 77,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Repurposed Return",
+        "number": 192,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sliver's Singe",
+        "number": 279,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Display Parlor",
+        "number": 78,
+        "shape": "fuse split",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Right Behind You",
+        "number": 193,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Spark of Memory",
+        "number": 280,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "House Observatory",
+        "number": 79,
+        "shape": "fuse split",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ritual of Retrospection",
+        "number": 194,
+        "shape": "modal double faced split",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Spell Riposte",
+        "number": 281,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lost to Meadows",
+        "number": 655,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sangrite Harvest",
+        "number": 195,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Suffering Venger",
+        "number": 282,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sanguine Stalker",
+        "number": 196,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Superior Scorn",
+        "number": 283,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Selective Truths",
+        "number": 197,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Take It from the Top",
+        "number": 284,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spectramorphosis",
+        "number": 198,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Through the Heart",
+        "number": 285,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sphinx of Ambition",
+        "number": 199,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Tiger-Dillo",
+        "number": 286,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spreader of Self",
+        "number": 200,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Trinket Snatcher",
+        "number": 287,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Starlight Invoker",
+        "number": 201,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Twin-Blade Ravager",
+        "number": 288,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Strike from the Rooftops",
+        "number": 202,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Unalike Remorse",
+        "number": 289,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Subterranean Expedition",
+        "number": 203,
+        "shape": "class",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Versatile Technique",
+        "number": 290,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Thieves' Guild Slicktongue",
+        "number": 204,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Viashino Pyromaster",
+        "number": 291,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Three-Headed Homunculus",
+        "number": 205,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Vibe Investing",
+        "number": 292,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Toll of Winter",
+        "number": 206,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Wargrounds of Gods New and Old",
+        "number": 293,
+        "shape": "battle split",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tortured Artist",
+        "number": 207,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Wrath Sliver",
+        "number": 294,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ulterior Motives",
+        "number": 208,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Tron Ares Ticket",
+        "number": 613,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unfaltering Daughter",
+        "number": 209,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Flametongue Myr",
+        "number": 657,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unlock the Tomb",
+        "number": 210,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unscrupulous Sliver",
+        "number": 211,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Verlis of House Morgont",
+        "number": 212,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Virulent Sliver",
+        "number": 213,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Visitarium Informant",
+        "number": 214,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Voldaren Venerator",
+        "number": 215,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wandering Corpse Eaters",
+        "number": 216,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Waning Innovator",
+        "number": 217,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "We Need to Cook",
+        "number": 218,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Weave",
+        "number": 219,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Widow's Blessing",
+        "number": 220,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Byleth, Proven Professor",
+        "number": 343,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Air Duct Duty",
+        "number": 355,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Blitz\u00f8, I.M.P. Boss",
+        "number": 386,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Alexa, the Bright Blossom",
+        "number": 402,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Benefactor's Intervention",
+        "number": 410,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cloudcaller Whale",
+        "number": 344,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Chronicler of Obsession",
+        "number": 356,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Desiccated Dragon",
+        "number": 387,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cor, Baron of the West Woods",
+        "number": 403,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Divine Flourish",
+        "number": 411,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Destiny's Verdict",
+        "number": 345,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Corridor Reaper",
+        "number": 357,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Enraptured Audience",
+        "number": 388,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fires of Ketria",
+        "number": 404,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Dromoka's Vanguard",
+        "number": 412,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Elvar's Pride",
+        "number": 346,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Daughter of the Frost",
+        "number": 358,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Garrosh Hellscream",
+        "number": 389,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fleetfoot Crasher",
+        "number": 405,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Gentle Heavyshell",
+        "number": 413,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Entrancing Fey",
+        "number": 347,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Dead Man Flexin'",
+        "number": 359,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Glaurung, the Great Worm",
+        "number": 390,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Kitasan Black",
+        "number": 406,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Protectors from Beyond",
+        "number": 414,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ephemeral Sliver",
+        "number": 348,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Deep Ones of Innsmouth",
+        "number": 360,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Herbert West",
+        "number": 391,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mafia Boss",
+        "number": 407,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Saruli Oathseeder",
+        "number": 415,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fleur de Violet",
+        "number": 349,
+        "shape": "adventure",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Deluging Amabie",
+        "number": 361,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Jane Remover",
+        "number": 392,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Primordial Coalescence",
+        "number": 408,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Snuffling Sweetseeker",
+        "number": 416,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lewis Hamiltongue, Ejection Specialist",
+        "number": 350,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Duncan, the Spell Catcher",
+        "number": 362,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Jesse Pinkman",
+        "number": 393,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Razorhorn Charger",
+        "number": 409,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Universal Public Housing",
+        "number": 417,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Marble Hulk",
+        "number": 351,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Empress",
+        "number": 363,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lord of Eighteen Plagues",
+        "number": 394,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Remur, Strong and True",
+        "number": 568,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Bright Ol' Barthimew",
+        "number": 569,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Prerogative of New Prahv",
+        "number": 352,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ever-Sprawling",
+        "number": 364,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Monokuma, Headmaster",
+        "number": 395,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Deliver the Goods",
+        "number": 659,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sir Pentious, Sinful Scientist",
+        "number": 353,
+        "shape": "transform double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Flesh That Hates",
+        "number": 365,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Necrotic Summonings",
+        "number": 396,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Whirlwind, Ultimate Rainbower",
+        "number": 354,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Grisly Baryonyx",
+        "number": 366,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Nyctophobia",
+        "number": 397,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cat-Owl",
+        "number": 557,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Heisenberg",
+        "number": 367,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Profane Marionettist",
+        "number": 398,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Empyrial Experiment",
+        "number": 558,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hypnotic Ninja",
+        "number": 368,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Red Sun Rising",
+        "number": 399,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mydrin, Hydro Cerebrus",
+        "number": 559,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Inkblot Trespasser",
+        "number": 369,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Stormbreath Finisher",
+        "number": 400,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Alia, Bringer of Snow",
+        "number": 658,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "J.H. Boggis, Bespoke Thief",
+        "number": 370,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Vespik, Sanguine Deus",
+        "number": 401,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kaito, Stinging Shadow",
+        "number": 371,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Conductor",
+        "number": 565,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Long Hat Lily",
+        "number": 372,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Figure of Tragedy",
+        "number": 566,
+        "shape": "saga",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lord Downey, Master Assassin",
+        "number": 373,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Grxlmet, Friend of Fiends",
+        "number": 567,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lull with Secrets",
+        "number": 374,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Chaos",
+        "number": 589,
+        "shape": "fuse split",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Marang River Schemer",
+        "number": 375,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Marsten, King of Murk",
+        "number": 376,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mira, Eldrazi Beckoner",
+        "number": 377,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Misleading Moonlight",
+        "number": 378,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Molly, Queen of the Beggars",
+        "number": 379,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nightmares Made Manifest",
+        "number": 380,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Replace Soul",
+        "number": 381,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Revengful Bakekujira",
+        "number": 382,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Scathanna, Dauthi Remnant",
+        "number": 383,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spill the Cauldron",
+        "number": 384,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "To Dust Once More",
+        "number": 385,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dark Magician",
+        "number": 560,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fane, Dread Crow",
+        "number": 561,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Particular Acolyte",
+        "number": 562,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vectis Mindshaper",
+        "number": 563,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Your Power is Mine Now!",
+        "number": 564,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Bough-Breaker Outcast",
+        "number": 418,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Xaver, Uhuru Proprietor",
+        "number": 0,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ballybog Geezer",
+        "number": 444,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Is Amy a House Gift",
+        "number": 464,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Bonded Bands",
+        "number": 478,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Butchershop Quartet",
+        "number": 419,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "All-Smile Masquerade",
+        "number": 432,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Brineboil Trainee",
+        "number": 445,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Above It All",
+        "number": 465,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cheering Procession Leader",
+        "number": 479,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Condemnation",
+        "number": 420,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Daos, Counterfeit Pursuer",
+        "number": 433,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Chaos Knights of Nurgle",
+        "number": 446,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Armory Paladin",
+        "number": 466,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fevered Masterstroke",
+        "number": 480,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Effigies of Orzhova",
+        "number": 421,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Experiment",
+        "number": 434,
+        "shape": "aftermath",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Coax into the Feast",
+        "number": 447,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Attuned to Distotun",
+        "number": 467,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hydrofungal Specimen",
+        "number": 481,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ethereal Differentialist",
+        "number": 422,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mi-Go",
+        "number": 435,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Divayth Fyr, Clone Creator",
+        "number": 448,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Black Fox",
+        "number": 468,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mighty Sealmaster",
+        "number": 483,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Face Trader, Merchant of Masks",
+        "number": 423,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Psionic Combatant",
+        "number": 436,
+        "shape": "leveler",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Evolve Beyond Death",
+        "number": 449,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Bureau Headmaster",
+        "number": 469,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Nomadic Necroseer",
+        "number": 484,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Feline of Life and Death",
+        "number": 424,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Robert and Rosalind",
+        "number": 437,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Foreverbeast's Kin",
+        "number": 450,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Carnival Recollections",
+        "number": 470,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Salkhin, the Rain After Storm",
+        "number": 485,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Journey onto Dreams",
+        "number": 425,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Scrap Scout",
+        "number": 438,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Gild-Scale Defector",
+        "number": 451,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Doom Slayer",
+        "number": 471,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Simic Company Printer",
+        "number": 486,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lost Compass",
+        "number": 426,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Symphony of Storms",
+        "number": 439,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Gorichal, Blightful Deus",
+        "number": 452,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Enlightened Marauder",
+        "number": 472,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "'Til its Arrival",
+        "number": 487,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Melatorok",
+        "number": 427,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Talruum Remnant",
+        "number": 440,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Gravebloom Kirin",
+        "number": 453,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mustache Girl",
+        "number": 473,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Verdant Altisaur",
+        "number": 488,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Myiraj, Sparkless and Alone",
+        "number": 428,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Thez, Professional Disassembler",
+        "number": 441,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lurking Carnotaur",
+        "number": 454,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Protective Memories",
+        "number": 474,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Volo, Monster Cataloguer",
+        "number": 489,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Pale-Rock Hermit",
+        "number": 429,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Tsagaan, Over Troubled Waters",
+        "number": 442,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Manasvi Needs a Smoke",
+        "number": 455,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Raucous Audience",
+        "number": 475,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Wander the Infinite",
+        "number": 490,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Tel, the Girl in the Box",
+        "number": 430,
+        "shape": "modal double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Wayward Disciple",
+        "number": 443,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Muscarian Brew",
+        "number": 456,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Scartin, Dean of Exploration",
+        "number": 476,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Pi Day",
+        "number": 491,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "There Is No Escape",
+        "number": 431,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Inspirational Wulfenite",
+        "number": 570,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Putrefy",
+        "number": 457,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Signature Slash",
+        "number": 477,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Crab Raver",
+        "number": 573,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fire Auditorium",
+        "number": 590,
+        "shape": "fuse split",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Rampaging Megabeetle",
+        "number": 458,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Brawling Mako",
+        "number": 572,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Jelena, Friend of the Sea",
+        "number": 574,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rithe, the Blightswarm",
+        "number": 459,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Overgrown Bogle",
+        "number": 575,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rogue, Kiss of Death",
+        "number": 460,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sinister Cypress",
+        "number": 576,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Star Rotspawn",
+        "number": 461,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Those Who Remain",
+        "number": 462,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wicked House Spirit",
+        "number": 463,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Snatcher",
+        "number": 571,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Aminatou, Daughter of Fate",
+        "number": 494,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Clattering Cavalier",
+        "number": 501,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Adoranz the Conquerer",
+        "number": 493,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Magda Zalken",
+        "number": 2,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Battle Ready Vigil",
+        "number": 496,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Crucius the Mad",
+        "number": 503,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cthulhu, Lying Dreaming",
+        "number": 504,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Chargohr, Bloodmad Lich",
+        "number": 498,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Charlie Morningstar, Redeemer",
+        "number": 499,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Rolan, Paragon of Bant",
+        "number": 541,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Fates Unbound",
+        "number": 510,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Nyarlathotep",
+        "number": 534,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hellbound Rhox",
+        "number": 516,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "City, Cultish Evangel",
+        "number": 500,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Inner Light",
+        "number": 553,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Galdrashan, Apex of the Edge",
+        "number": 511,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Stolas, Goetia Prince",
+        "number": 543,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ku'gath, Plaguefather",
+        "number": 524,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Crom, Insatiable Ape",
+        "number": 502,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Iteration Sphinx",
+        "number": 519,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Vorazoa",
+        "number": 549,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Plaguebearers",
+        "number": 535,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Dawn, Clever Inventor",
+        "number": 505,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "K1, the Test Core",
+        "number": 522,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "DJ Grooves",
+        "number": 580,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Torka, the Turtle King",
+        "number": 547,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sliver Hive-Tender",
+        "number": 542,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Lighthouse",
+        "number": 525,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Velandra, Guilt Trapper",
+        "number": 587,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Trial by Fire",
+        "number": 556,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Summon Simba",
+        "number": 585,
+        "shape": "saga",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mentalist Aether-Lich",
+        "number": 529,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Glorious Rot",
+        "number": 581,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nullmage's Innova",
+        "number": 533,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Naeth the Immovable",
+        "number": 582,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Reminiscing Companion",
+        "number": 539,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vaggie, Fallen Angel",
+        "number": 548,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vox, Voice of the People",
+        "number": 550,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Costly Knowledge",
+        "number": 551,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Crucius' Charm",
+        "number": 552,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Aerial Foundry",
+        "number": 577,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Aetherhusher",
+        "number": 578,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Arlette, Oona's Firstborn",
+        "number": 579,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Riddling Gaze",
+        "number": 584,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vectis Outfitter",
+        "number": 586,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kemuel, the Riddle Gate",
+        "number": 660,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Abyssal Persistant",
+        "number": 492,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Jubilant Captain",
+        "number": 521,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Iconoclasm of Horomazes",
+        "number": 518,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Dokuro, Yesterday's Grudge",
+        "number": 506,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Assured Destruction",
+        "number": 495,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Syldra, Apex of Depths",
+        "number": 545,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jezrien, Herald of Kings",
+        "number": 520,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Dreading the Inevitable",
+        "number": 507,
+        "shape": "saga",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mnemomantic Resurgence",
+        "number": 530,
+        "shape": "adventure",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Swordbourne Slash",
+        "number": 555,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Polyfox Pack",
+        "number": 537,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ennard, Horror of Wires",
+        "number": 508,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Myiraj, Journeying Mnemomancer",
+        "number": 532,
+        "shape": "planeswalker",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Envoy of the Leviathan",
+        "number": 509,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Soul Division",
+        "number": 554,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Grazatl, Moon's Call",
+        "number": 512,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Grazatl's Command",
+        "number": 513,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hazran the Bonelord",
+        "number": 515,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Karian, Soul of the Cult",
+        "number": 523,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Maw, the Sudden Extinction",
+        "number": 528,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Morbid S\u00e9ance",
+        "number": 531,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Reibai-shi, Deity Channeler",
+        "number": 538,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sultai Educator",
+        "number": 544,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yann, Eternal Victim",
+        "number": 588,
+        "shape": "transform double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Hat Kid",
+        "number": 514,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Husk, High Roller",
+        "number": 517,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Breya, the Crux",
+        "number": 497,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Magical Girl Transformation",
+        "number": 527,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Pikmin Forever!",
+        "number": 583,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Lucifer Morningstar",
+        "number": 526,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Planar Rebirth",
+        "number": 536,
+        "shape": "saga",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ripple Through Eternities",
+        "number": 540,
+        "shape": "transform double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Timespiraled",
+        "number": 546,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Cloudship",
+        "number": 0,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Uhuru Surveyor",
+        "number": 0,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Stylish Kobold",
+        "number": 0,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Aethertaint Stalker",
+        "number": 6,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Havenless Angel",
+        "number": 7,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hexedcrawler",
+        "number": 8,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "It That Glistens",
+        "number": 9,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Music Baby",
+        "number": 10,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Nameless Follower",
+        "number": 11,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Planar Defence Initiative",
+        "number": 12,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Popular Uprising",
+        "number": 13,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sopor Mimic",
+        "number": 14,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Spirit Caller",
+        "number": 15,
+        "shape": "transform double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Stockpile Initiative",
+        "number": 16,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "To Commit Murder",
+        "number": 17,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Unmake Anew",
+        "number": 18,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cogwork Gate",
+        "number": 591,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Combat Mobilization Beam",
+        "number": 592,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Crown of Gondor",
+        "number": 593,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Elvar's Tears",
+        "number": 594,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Glimmering Eviscerator",
+        "number": 595,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Grinning Wickerfolk",
+        "number": 596,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Inkwell Phial",
+        "number": 597,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Liquimetalworker",
+        "number": 598,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Meeting Request",
+        "number": 599,
+        "shape": "transform double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mirror of Mystery",
+        "number": 600,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mr. Orfeo's Business Associate",
+        "number": 601,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mysterious Bladebike",
+        "number": 602,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Necronomicon",
+        "number": 603,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Planestrider, Docking System",
+        "number": 604,
+        "shape": "transform double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Retinue Charger",
+        "number": 605,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Seismic Forge",
+        "number": 606,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Shimmervibe",
+        "number": 607,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Side Knife",
+        "number": 608,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sigil of Nurgle",
+        "number": 609,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sol Ring",
+        "number": 610,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Spiritsteel Lance",
+        "number": 611,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Tartarus Engine",
+        "number": 612,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Winged Sapphire",
+        "number": 614,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Urtetian Schema",
+        "number": 661,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Battlefield Revenant",
+        "number": 662,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Zalken Mansion",
+        "number": 5,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Silent Shoal",
+        "number": 642,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Cursed Hollow",
+        "number": 621,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Magda's Hideout",
+        "number": 4,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "The Hunter's Quarry",
+        "number": 3,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Foreboding Temple",
+        "number": 626,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Thriving Isle",
+        "number": 649,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Overgrown Boneyard",
+        "number": 635,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Corroded Volcano",
+        "number": 620,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Elder Deepwood",
+        "number": 623,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Temple of the Fallen Star",
+        "number": 644,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Thriving Moor",
+        "number": 650,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Endless Stretches",
+        "number": 624,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Gaea's Nursery",
+        "number": 628,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Thriving Heath",
+        "number": 648,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yawgmoth Hideout",
+        "number": 654,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Magmaflow Cavern",
+        "number": 630,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Thriving Grove",
+        "number": 647,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shimmering Cavern",
+        "number": 641,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Verdant Weald",
+        "number": 651,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Temple of the Hidden Flame",
+        "number": 645,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Thriving Bluff",
+        "number": 646,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Dawnbound Vista",
+        "number": 622,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Parched Marsh",
+        "number": 636,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Planet Glurg",
+        "number": 637,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fortified Village",
+        "number": 627,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Volcanic Shelter",
+        "number": 652,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Abandoned Chapel",
+        "number": 615,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ancient Workshop",
+        "number": 617,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Island Leviathan",
+        "number": 482,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Abandoned Home",
+        "number": 616,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Apocalyptic Panorama",
+        "number": 618,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Chamber of Records",
+        "number": 619,
+        "shape": "transform double faced",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Evolving Wilds",
+        "number": 625,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hietear, Tragic Cathedral",
+        "number": 629,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mania Bawn",
+        "number": 631,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mansion of the Plaguelord",
+        "number": 632,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Mecatol Rex, Wasted Throne",
+        "number": 633,
+        "shape": "leveler",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Newfound Territory",
+        "number": 634,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Rebirthing Circle",
+        "number": 638,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ruins of Somewhere",
+        "number": 639,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Sanctum of the Soulless",
+        "number": 640,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Splitting Barrens",
+        "number": 643,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Wayfarer's Shrine",
+        "number": 653,
+        "shape": "normal",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Copy",
+        "number": 1,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Hollow Victory",
+        "number": 1,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Yellow Pikmin",
+        "number": 17,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Clue Skeleton",
+        "number": 20,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Missile",
+        "number": 21,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Myr",
+        "number": 22,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Myr",
+        "number": 23,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Potion",
+        "number": 24,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Rock Pikmin",
+        "number": 25,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Creeping Shadows",
+        "number": 26,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 27,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Map",
+        "number": 28,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 29,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Egg Pilot",
+        "number": 2,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Feline of Life and Death",
+        "number": 3,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "White Pikmin",
+        "number": 4,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Blue Pikmin",
+        "number": 5,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Ice Pikmin",
+        "number": 6,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Astartes Warrior",
+        "number": 7,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Feline of Life and Death",
+        "number": 8,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Glow Pikmin",
+        "number": 9,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Horror",
+        "number": 10,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Skeleton",
+        "number": 11,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Skeleton",
+        "number": 12,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Red Pikmin",
+        "number": 13,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Citizen",
+        "number": 14,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Reindeer",
+        "number": 15,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Maggotkin",
+        "number": 16,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Purple Pikmin",
+        "number": 18,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "Winged Pikmin",
+        "number": 19,
+        "shape": "token",
+        "set": "DEC25"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

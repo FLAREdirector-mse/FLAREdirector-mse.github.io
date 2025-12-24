@@ -1,7 +1,7 @@
 ﻿{
     "name": "Secret Santa Dec. 2025",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "cube",
     "unpreviewed": "empty",
@@ -13570,6 +13570,5 @@
             "alias": "",
             "notes": "By Eve for HammersWinGames"
         }
-    ],
-    "version": 1
+    ]
 }
