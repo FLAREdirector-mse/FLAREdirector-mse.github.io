@@ -1,4 +1,94 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Dreading the Inevitable
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+Exile target nonland permanent.
+You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+I — Exile target nonland permanent.
+II — You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+Exile target nonland permanent.
+You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+I — Exile target nonland permanent.
+II — You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle.
+
+Planar Rebirth
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+If this Saga was cast, exile all other permanents.
+Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+For each color among other permanents you control, discover 10. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — If this Saga was cast, exile all other permanents.
+II, III, IV — Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+V — For each color among other permanents you control, discover 10.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+If this Saga was cast, exile all other permanents.
+Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+For each color among other permanents you control, discover 10. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — If this Saga was cast, exile all other permanents.
+II, III, IV — Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+V — For each color among other permanents you control, discover 10.
+
+The Akroan War
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Gain control of target creature for as long as The Akroan War remains on the battlefield.
+Until your next turn, creatures your opponents control attack each combat if able.
+Each tapped creature deals damage to itself equal to its power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature for as long as The Akroan War remains on the battlefield.
+II — Until your next turn, creatures your opponents control attack each combat if able.
+III — Each tapped creature deals damage to itself equal to its power.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Gain control of target creature for as long as The Akroan War remains on the battlefield.
+Until your next turn, creatures your opponents control attack each combat if able.
+Each tapped creature deals damage to itself equal to its power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature for as long as The Akroan War remains on the battlefield.
+II — Until your next turn, creatures your opponents control attack each combat if able.
+III — Each tapped creature deals damage to itself equal to its power.
+
+Your Story
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile up to one target instant or sorcery card in your graveyard with mana value less than or equal to twice the number of lore counters on Your Story. Copy that card. You may cast the copy without paying its mana cost.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile up to one target instant or sorcery card in your graveyard with mana value less than or equal to twice the number of lore counters on Your Story. Copy that card. You may cast the copy without paying its mana cost.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile up to one target instant or sorcery card in your graveyard with mana value less than or equal to twice the number of lore counters on Your Story. Copy that card. You may cast the copy without paying its mana cost.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile up to one target instant or sorcery card in your graveyard with mana value less than or equal to twice the number of lore counters on Your Story. Copy that card. You may cast the copy without paying its mana cost.
+​
+​
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
