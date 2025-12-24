@@ -7076,16 +7076,16 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Battle — Conquest",
-			"collector_number": "177",
+			"collector_number": "144",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/177_Conquest of the Pit_back.jpg"
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/144_Conquest of the Pit_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/177_Conquest of the Pit_front.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/144_Conquest of the Pit_front.jpg"
 			}
 		},
 	]
