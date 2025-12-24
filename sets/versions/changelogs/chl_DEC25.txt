@@ -1,4 +1,862 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Singularity of Purpose
+
+Superior Scorn
+
+Manasvi Needs a Smoke
+
+Salkhin, the Rain After Storm
+
+Simic Company Printer
+
+Ennard, Horror of Wires
+
+Island Leviathan
+
+Tartarus Engine
+
+Those Who Remain
+
+Edelgard, Flame Emperor
+
+Chaos Knights of Nurgle
+
+Glorious Rot
+
+Ku'gath, Plaguefather
+
+Mansion of the Plaguelord
+
+March of the Undying
+
+Plaguebearers
+
+Sigil of Nurgle
+
+Star Rotspawn
+
+Shiv Dragon
+
+Spreader of Self
+
+Wander the Infinite
+
+We Need to Cook
+
+Lavabrink Stinger
+
+Lethal Swordclaw
+
+Tiger-Dillo
+
+Traverse the Plane
+
+Evolve Beyond Death
+
+Syldra, Apex of Depths
+
+Cat-Owl
+
+Evolving Wilds
+
+Starlight Invoker
+
+Aminatou, Daughter of Fate
+
+Fates Unbound
+
+Abandoned Chapel
+
+Dawnbound Vista
+
+Parched Marsh
+
+Alia, Bringer of Snow
+
+Friendly Rival
+
+The Black Fox
+
+Signature Slash
+
+Trawling Sliver
+
+Unscrupulous Sliver
+
+Virulent Sliver
+
+Sliver's Singe
+
+Sliver Hive-Tender
+
+Twin-Blade Ravager
+
+The Price of Knowledge
+
+Dealer's Choice
+
+Searching the Wilds
+
+Soul of the Beast
+
+Abyssal Persistant
+
+Battle Ready Vigil
+
+Costly Knowledge
+
+Hellbound Rhox
+
+Inner Light
+
+Jubilant Captain
+
+Reminiscing Companion
+
+Soul Division
+
+Swordbourne Slash
+
+Trial by Fire
+
+Volo, Monster Cataloguer
+
+Gild-Scale Defector
+
+Nomadic Necroseer
+
+Enlightened Marauder
+
+Scrapscaping
+
+Molten Core
+
+Heapseeker
+
+Conspiracy Board
+
+Trinket Snatcher
+
+Bright Ol' Barthimew
+
+Fane, Dread Crow
+
+Grxlmet, Friend of Fiends
+
+Mydrin, Hydro Cerebrus
+
+Remur, Strong and True
+
+Breya, the Crux
+
+Three-Headed Homunculus
+
+Inkwell Phial
+
+Adaptor Novuform
+
+Aetherhusher
+
+Mentalist Aether-Lich
+
+Vectis Mindshaper
+
+Crucius' Charm
+
+Nullmage's Innova
+
+The Lighthouse
+
+Iteration Sphinx
+
+Crucius the Mad
+
+Retinue Charger
+
+Repurposed Return
+
+Visitarium Informant
+
+Sphinx of Ambition
+
+Aerial Foundry
+
+Suspended Tide
+
+Persistent Aether-Liches
+
+Kemuel, the Riddle Gate
+
+Riddling Gaze
+
+Empyrial Experiment
+
+Lett, Who Eschews Aether
+
+Lordly Aetherlich
+
+Telemin Trainer
+
+Vectis Outfitter
+
+Sangrite Harvest
+
+Widow's Blessing
+
+Heartless Blessing
+
+Isaac & Miria, Joyful Rapscallions
+
+Muscarian Brew
+
+Your Power is Mine Now!
+
+Brawling Mako
+
+Coax into the Feast
+
+Dreading the Inevitable
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+I — Exile target nonland permanent.
+II — You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+Exile target nonland permanent.
+You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+I — Exile target nonland permanent.
+II — You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+Exile target nonland permanent.
+You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle.
+
+Envoy of the Leviathan
+
+Karian, Soul of the Cult
+
+Maw, the Sudden Extinction
+
+Morbid Séance
+
+'Til its Arrival
+
+Yann, Eternal Victim
+
+Rebirthing Circle
+
+Sanctum of the Soulless
+
+Deliver the Goods
+
+Purrrgatory Prowler
+
+Arlette, Oona's Firstborn
+
+Dark Magician
+
+Alastor, the Radio Demon
+
+Angel Dust, Hell's Darling
+
+Charlie Morningstar, Redeemer
+
+Husk, High Roller
+
+It That Glistens
+
+Lucifer Morningstar
+
+Nifty, Adamslayer
+
+Stolas, Goetia Prince
+
+Vaggie, Fallen Angel
+
+Vox, Voice of the People
+
+Highland Caller
+
+Planar Rebirth
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — If this Saga was cast, exile all other permanents.
+II, III, IV — Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+V — For each color among other permanents you control, discover 10. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+If this Saga was cast, exile all other permanents.
+Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+For each color among other permanents you control, discover 10.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — If this Saga was cast, exile all other permanents.
+II, III, IV — Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+V — For each color among other permanents you control, discover 10. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+If this Saga was cast, exile all other permanents.
+Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+For each color among other permanents you control, discover 10.
+
+Iconoclasm of Horomazes
+
+Ulrike, Silvered Moonmist
+
+Flametongue Myr
+
+Lost to Meadows
+
+Urtetian Schema
+
+Chargohr, Bloodmad Lich
+
+Gargantuan Mauler
+
+Above It All
+
+Scouring Scions
+
+Crimson Snapper
+
+Crom, Insatiable Ape
+
+Elder Deepwood
+
+Gorichal, Blightful Deus
+
+K1, the Test Core
+
+Rolan, Paragon of Bant
+
+Torka, the Turtle King
+
+Verdant Snapper
+
+Vorazoa
+
+Phyrexian Fleshgrinder
+
+Solitary Groffskithur
+
+Kyubey, Messenger of Magic
+
+Magical Girl Transformation
+
+Ballybog Geezer
+
+Inspirational Wulfenite
+
+Obsession Crown
+
+Spectramorphosis
+
+Moonlace Clique
+
+Overgrown Bogle
+
+Screeching Boggart
+
+Witch of the Deeps
+
+Moon's Echo
+
+Grazatl, Moon's Call
+
+Grazatl's Command
+
+Lurking Carnotaur
+
+Scartin, Dean of Exploration
+
+Verdant Altisaur
+
+Suffering Venger
+
+Unalike Remorse
+
+Strong Back
+
+Armory Paladin
+
+Bureau Headmaster
+
+Carnival Recollections
+
+City, Cultish Evangel
+
+Dawn, Clever Inventor
+
+Shimmervibe
+
+Fortified Village
+
+Mirror of Mystery
+
+Winged Sapphire
+
+Adoranz's Snatcher
+
+Adoranz the Conquerer
+
+Rithe, the Blightswarm
+
+Elvar's Tears
+
+Combat Mobilization Beam
+
+Ignited Memory Jar
+
+Insufferable Hubris
+
+Liquimetalworker
+
+Shimmering Cavern
+
+Timespiraled
+
+Yawgmoth Hideout
+
+Chaos
+
+Hydrofungal Specimen
+
+Selective Truths
+
+Slizt Clan Operative
+
+Ashfeather Plunderer
+
+Exemplar Operator
+
+Gunpowder Brawler
+
+Rouse the Young
+
+The Crab Raver
+
+Worldheart Pinnacle
+
+Xaver, Uhuru Proprietor
+
+Remnants of a World Long Past
+
+Spires that Reach to the Heavens
+
+The Wargrounds of Gods New and Old
+
+Cheering Procession Leader
+
+Dokuro, Yesterday's Grudge
+
+Mighty Sealmaster
+
+Murderous Duplicator
+
+Rampaging Megabeetle
+
+Reibai-shi, Deity Channeler
+
+Stealthy Vaultbreaker
+
+Wicked House Spirit
+
+Aggress Dread
+
+Mania Bawn
+
+Possibility Dreg
+
+Somnikinesis
+
+Sopor Mimic
+
+Unfaltering Daughter
+
+Hill Giant
+
+Song of a New Universe
+
+Foreverbeast's Kin
+
+Polyfox Pack
+
+Jelena, Friend of the Sea
+
+Modriss of Zargoth Fen
+
+Morbulat, Draining Puppeteer
+
+Sanguine Stalker
+
+Unlock the Tomb
+
+Hazardous Sparks
+
+The Clattering Cavalier
+
+Hazran the Bonelord
+
+The Glimmering Eviscerator
+
+Overgrown Boneyard
+
+Witness of the Glade
+
+Verlis of House Morgont
+
+Liliana's Charm
+
+Toll of Winter
+
+Voldaren Venerator
+
+Spell Riposte
+
+Mr. Orfeo's Business Associate
+
+Redoubled Fury
+
+Velandra, Guilt Trapper
+
+Magda Zalken
+
+The Hunter's Quarry
+
+Magda's Hideout
+
+Zalken Mansion
+
+Through the Heart
+
+Versatile Technique
+
+Battlefield Revenant
+
+Trail of Evidence
+
+Treasure Cruise
+
+The Walrus Captain
+
+Nine-Lives Familiar
+
+Queen Vanessa
+
+The Akroan War
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature for as long as The Akroan War remains on the battlefield.
+II — Until your next turn, creatures your opponents control attack each combat if able.
+III — Each tapped creature deals damage to itself equal to its power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Gain control of target creature for as long as The Akroan War remains on the battlefield.
+Until your next turn, creatures your opponents control attack each combat if able.
+Each tapped creature deals damage to itself equal to its power.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature for as long as The Akroan War remains on the battlefield.
+II — Until your next turn, creatures your opponents control attack each combat if able.
+III — Each tapped creature deals damage to itself equal to its power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Gain control of target creature for as long as The Akroan War remains on the battlefield.
+Until your next turn, creatures your opponents control attack each combat if able.
+Each tapped creature deals damage to itself equal to its power.
+
+Ball Lightning
+
+Food Fight
+
+Hat Kid
+
+Mustache Girl
+
+Putrefy
+
+The Conductor
+
+DJ Grooves
+
+The Snatcher
+
+Crown of Gondor
+
+Sol Ring
+
+Thriving Bluff
+
+Thriving Grove
+
+Thriving Heath
+
+Thriving Isle
+
+Thriving Moor
+
+Wayfarer's Shrine
+
+Planar Defence Initiative
+
+Stockpile Initiative
+
+Vesperian Jethawk
+
+Lanaya, the Templar Assassin
+
+Neurodisruptor
+
+O.I.A. Spook
+
+Aurel, the Gyrocopter
+
+C.G.B. Handler
+
+Negotiation Provocation
+
+Vibe Investing
+
+Assured Destruction
+
+Cthulhu, Lying Dreaming
+
+Nyarlathotep
+
+The Necronomicon
+
+Brineboil Trainee
+
+Fevered Masterstroke
+
+Raucous Audience
+
+Killer Feast
+
+Waning Innovator
+
+Party Hijacker
+
+Side Knife
+
+Stylish Kobold
+
+Spirit Caller
+
+Thieves' Guild Slicktongue
+
+Strike from the Rooftops
+
+Subtle Submersible
+
+Planestrider, Docking System
+
+Nameless Follower
+
+Wandering Corpse Eaters
+
+Flametouched Warrior
+
+Rowanwood Ent
+
+Cursed Hollow
+
+Foreboding Temple
+
+Magmaflow Cavern
+
+Ruins of Somewhere
+
+Silent Shoal
+
+Verdant Weald
+
+Conquest of the Pit
+
+Lord of the Mosh Pit
+
+Figure of Tragedy
+
+Fire Auditorium
+
+Mysterious Bladebike
+
+Gravebloom Kirin
+
+Cogwork Gate
+
+Corset Dragon
+
+Fervent Roleplayer
+
+Grinning Wickerfolk
+
+Right Behind You
+
+Rogue, Kiss of Death
+
+Tron Ares Ticket
+
+Unsettling Ritual
+
+Divayth Fyr, Clone Creator
+
+Mecatol Rex, Wasted Throne
+
+Gaea's Nursery
+
+Sultai Educator
+
+Absolute Dominion
+
+Bonded Bands
+
+Popular Uprising
+
+Ulterior Motives
+
+Sun's Historian
+
+Pi Day
+
+Sinister Cypress
+
+Meowth
+
+Patches the Pirate
+
+Ragnaros the Firelord
+
+Rocket League
+
+The Doom Slayer
+
+Music Baby
+
+Dream Sequence
+
+Jezrien, Herald of Kings
+
+Particular Acolyte
+
+Summon Simba
+
+Scourge of Oxid Ridge
+
+Take It from the Top
+
+Tortured Artist
+
+Your Story
+
+Naeth the Immovable
+
+Planet Glurg
+
+Immolate
+
+Weave
+
+Flamelit Expedition
+
+Pikmin Forever!
+
+Subterranean Expedition
+
+Apocalyptic Panorama
+
+Corroded Volcano
+
+Daos' Chase
+
+Endless Stretches
+
+Hietear, Tragic Cathedral
+
+Recall the End
+
+Abandoned Home
+
+Aethertaint Stalker
+
+Ancient Workshop
+
+Attuned to Distotun
+
+Chamber of Records
+
+Grasp at Remnants
+
+Havenless Angel
+
+Hexedcrawler
+
+Home-Seek Worm
+
+Igneous Mauler
+
+Magmascale Glutton
+
+Meeting Request
+
+Mnemomantic Resurgence
+
+Molten Splash
+
+Myiraj, Journeying Mnemomancer
+
+Newfound Territory
+
+Protective Memories
+
+Ripple Through Eternities
+
+Ritual of Retrospection
+
+Sear-Striped Ambusher
+
+Seismic Forge
+
+Shatter the Earth
+
+Spark of Memory
+
+Spiritsteel Lance
+
+Splitting Barrens
+
+Temple of the Fallen Star
+
+Temple of the Hidden Flame
+
+Volcanic Shelter
+
+Is Amy a House Gift
+
+You Try to Talk About Blue Prince
+
+Viashino Pyromaster
+
+Runetusk Boar
+
+Set Alight
+
+Galdrashan, Apex of the Edge
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

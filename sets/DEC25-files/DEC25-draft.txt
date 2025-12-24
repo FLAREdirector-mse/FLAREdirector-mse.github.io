@@ -25,9 +25,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/278_Singularity of Purpose.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/279_Singularity of Purpose.jpg"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "283",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/283_Superior Scorn.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/284_Superior Scorn.jpg"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Planeswalker — Manasvi",
-			"collector_number": "455",
+			"collector_number": "456",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/455_Manasvi Needs a Smoke.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/456_Manasvi Needs a Smoke.jpg"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "485",
+			"collector_number": "486",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/485_Salkhin, the Rain After Storm.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/486_Salkhin, the Rain After Storm.jpg"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Artifact",
-			"collector_number": "486",
+			"collector_number": "487",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/486_Simic Company Printer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/487_Simic Company Printer.jpg"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Legendary Creature — Robot Horror",
-			"collector_number": "508",
+			"collector_number": "509",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/508_Ennard, Horror of Wires.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/509_Ennard, Horror of Wires.jpg"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Land Creature — Leviathan Island",
-			"collector_number": "482",
+			"collector_number": "483",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/482_Island Leviathan.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/483_Island Leviathan.jpg"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "612",
+			"collector_number": "613",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/612_Tartarus Engine.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/613_Tartarus Engine.jpg"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "462",
+			"collector_number": "463",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/462_Those Who Remain.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/463_Those Who Remain.jpg"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/234_Edelgard, Flame Emperor.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/235_Edelgard, Flame Emperor.jpg"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "446",
+			"collector_number": "447",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/446_Chaos Knights of Nurgle.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/447_Chaos Knights of Nurgle.jpg"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R/G}{B}",
 			"type": "Sorcery",
-			"collector_number": "581",
+			"collector_number": "582",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/581_Glorious Rot.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/582_Glorious Rot.jpg"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "524",
+			"collector_number": "525",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/524_Ku'gath, Plaguefather.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/525_Ku'gath, Plaguefather.jpg"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "632",
+			"collector_number": "633",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/632_Mansion of the Plaguelord.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/633_Mansion of the Plaguelord.jpg"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/177_March of the Undying.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/178_March of the Undying.jpg"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Creature — Astartes Zombie",
-			"collector_number": "535",
+			"collector_number": "536",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/535_Plaguebearers.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/536_Plaguebearers.jpg"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "609",
+			"collector_number": "610",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/609_Sigil of Nurgle.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/610_Sigil of Nurgle.jpg"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "461",
+			"collector_number": "462",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/461_Star Rotspawn.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/462_Star Rotspawn.jpg"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/277_Shiv Dragon.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/278_Shiv Dragon.jpg"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Fractal Zombie",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/200_Spreader of Self.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/201_Spreader of Self.jpg"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "490",
+			"collector_number": "491",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/490_Wander the Infinite.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/491_Wander the Infinite.jpg"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/218_We Need to Cook.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/219_We Need to Cook.jpg"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/255_Lavabrink Stinger.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/256_Lavabrink Stinger.jpg"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Bird Dinosaur",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/256_Lethal Swordclaw.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/257_Lethal Swordclaw.jpg"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Cat Armadillo",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/286_Tiger-Dillo.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/287_Tiger-Dillo.jpg"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "340",
+			"collector_number": "339",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/340_Traverse the Plane.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/339_Traverse the Plane.jpg"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "449",
+			"collector_number": "450",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/449_Evolve Beyond Death.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/450_Evolve Beyond Death.jpg"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — Beast Dragon Whale",
-			"collector_number": "545",
+			"collector_number": "546",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/545_Syldra, Apex of Depths.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/546_Syldra, Apex of Depths.jpg"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W/U}",
 			"type": "Creature — Cat Bird",
-			"collector_number": "557",
+			"collector_number": "558",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/557_Cat-Owl.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/558_Cat-Owl.jpg"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "625",
+			"collector_number": "626",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/625_Evolving Wilds.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/626_Evolving Wilds.jpg"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/201_Starlight Invoker.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/202_Starlight Invoker.jpg"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Planeswalker — Aminatou",
-			"collector_number": "494",
+			"collector_number": "495",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/494_Aminatou, Daughter of Fate.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/495_Aminatou, Daughter of Fate.jpg"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "510",
+			"collector_number": "511",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/510_Fates Unbound.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/511_Fates Unbound.jpg"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "615",
+			"collector_number": "616",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/615_Abandoned Chapel.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/616_Abandoned Chapel.jpg"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "622",
+			"collector_number": "623",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/622_Dawnbound Vista.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/623_Dawnbound Vista.jpg"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "636",
+			"collector_number": "637",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/636_Parched Marsh.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/637_Parched Marsh.jpg"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Snow Creature — Elf",
-			"collector_number": "658",
+			"collector_number": "659",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/658_Alia, Bringer of Snow.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/659_Alia, Bringer of Snow.jpg"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/240_Friendly Rival.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/241_Friendly Rival.jpg"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Planeswalker — Zorro",
-			"collector_number": "468",
+			"collector_number": "469",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/468_The Black Fox.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/469_The Black Fox.jpg"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Instant",
-			"collector_number": "477",
+			"collector_number": "478",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/477_Signature Slash.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/478_Signature Slash.jpg"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Sliver",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/128_Trawling Sliver.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/127_Trawling Sliver.jpg"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Sliver",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/211_Unscrupulous Sliver.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/212_Unscrupulous Sliver.jpg"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Creature — Sliver",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/213_Virulent Sliver.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/214_Virulent Sliver.jpg"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}",
 			"type": "Kindred Sorcery — Sliver",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/279_Sliver's Singe.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/280_Sliver's Singe.jpg"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Sliver",
-			"collector_number": "542",
+			"collector_number": "543",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/542_Sliver Hive-Tender.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/543_Sliver Hive-Tender.jpg"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elf Rogue Wizard",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/288_Twin-Blade Ravager.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/289_Twin-Blade Ravager.jpg"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/189_The Price of Knowledge.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/190_The Price of Knowledge.jpg"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/232_Dealer's Choice.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/233_Dealer's Choice.jpg"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "332",
+			"collector_number": "331",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/332_Searching the Wilds.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/331_Searching the Wilds.jpg"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{G}",
 			"type": "Instant",
-			"collector_number": "336",
+			"collector_number": "335",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/336_Soul of the Beast.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/335_Soul of the Beast.jpg"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature",
-			"collector_number": "492",
+			"collector_number": "493",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/492_Abyssal Persistant.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/493_Abyssal Persistant.jpg"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Creature — Human Knight",
-			"collector_number": "496",
+			"collector_number": "497",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/496_Battle Ready Vigil.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/497_Battle Ready Vigil.jpg"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/W}{2/U}{2/B}",
 			"type": "Sorcery",
-			"collector_number": "551",
+			"collector_number": "552",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/551_Costly Knowledge.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/552_Costly Knowledge.jpg"
 			}
 		},
 		{
@@ -945,9 +945,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{R}{G}",
 			"type": "Creature — Elemental Rhino",
-			"collector_number": "516",
+			"collector_number": "517",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/516_Hellbound Rhox.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/517_Hellbound Rhox.jpg"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/G}{2/W}{2/U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "553",
+			"collector_number": "554",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/553_Inner Light.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/554_Inner Light.jpg"
 			}
 		},
 		{
@@ -965,9 +965,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "521",
+			"collector_number": "522",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/521_Jubilant Captain.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/522_Jubilant Captain.jpg"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Creature — Skeleton Druid",
-			"collector_number": "539",
+			"collector_number": "540",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/539_Reminiscing Companion.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/540_Reminiscing Companion.jpg"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/R}{2/W}{2/B}",
 			"type": "Instant",
-			"collector_number": "554",
+			"collector_number": "555",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/554_Soul Division.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/555_Soul Division.jpg"
 			}
 		},
 		{
@@ -995,9 +995,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/G}{2/U}{2/R}",
 			"type": "Sorcery",
-			"collector_number": "555",
+			"collector_number": "556",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/555_Swordbourne Slash.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/556_Swordbourne Slash.jpg"
 			}
 		},
 		{
@@ -1005,9 +1005,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/B}{2/R}{2/G}",
 			"type": "Sorcery",
-			"collector_number": "556",
+			"collector_number": "557",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/556_Trial by Fire.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/557_Trial by Fire.jpg"
 			}
 		},
 		{
@@ -1015,9 +1015,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "489",
+			"collector_number": "490",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/489_Volo, Monster Cataloguer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/490_Volo, Monster Cataloguer.jpg"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Snake Warrior",
-			"collector_number": "451",
+			"collector_number": "452",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/451_Gild-Scale Defector.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/452_Gild-Scale Defector.jpg"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "484",
+			"collector_number": "485",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/484_Nomadic Necroseer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/485_Nomadic Necroseer.jpg"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Warrior Monk",
-			"collector_number": "472",
+			"collector_number": "473",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/472_Enlightened Marauder.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/473_Enlightened Marauder.jpg"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/272_Scrapscaping.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/273_Scrapscaping.jpg"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/259_Molten Core.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/260_Molten Core.jpg"
 			}
 		},
 		{
@@ -1085,9 +1085,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/245_Heapseeker.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/246_Heapseeker.jpg"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Artifact — Clue",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/228_Conspiracy Board.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/229_Conspiracy Board.jpg"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Goblin Rogue",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/287_Trinket Snatcher.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/288_Trinket Snatcher.jpg"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "special",
 			"mana_cost": "{G/W}",
 			"type": "Legendary Creature — Mouse Bard",
-			"collector_number": "569",
+			"collector_number": "570",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/569_Bright Ol' Barthimew.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/570_Bright Ol' Barthimew.jpg"
 			}
 		},
 		{
@@ -1135,9 +1135,9 @@
 			"rarity": "special",
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Legendary Creature — Zombie Bird",
-			"collector_number": "561",
+			"collector_number": "562",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/561_Fane, Dread Crow.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/562_Fane, Dread Crow.jpg"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{B/R}{B/R}",
 			"type": "Legendary Creature — Beast Horror",
-			"collector_number": "567",
+			"collector_number": "568",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/567_Grxlmet, Friend of Fiends.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/568_Grxlmet, Friend of Fiends.jpg"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Legendary Creature — Elemental Wizard",
-			"collector_number": "559",
+			"collector_number": "560",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/559_Mydrin, Hydro Cerebrus.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/560_Mydrin, Hydro Cerebrus.jpg"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R/G}{R/G}",
 			"type": "Legendary Creature — Wolf Cat",
-			"collector_number": "568",
+			"collector_number": "569",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/568_Remur, Strong and True.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/569_Remur, Strong and True.jpg"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Legendary Artifact Creature — Human",
-			"collector_number": "497",
+			"collector_number": "498",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/497_Breya, the Crux.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/498_Breya, the Crux.jpg"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Homunculus",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/205_Three-Headed Homunculus.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/206_Three-Headed Homunculus.jpg"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "597",
+			"collector_number": "598",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/597_Inkwell Phial.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/598_Inkwell Phial.jpg"
 			}
 		},
 		{
@@ -1245,9 +1245,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Shapeshifter",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/138_Adaptor Novuform.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/137_Adaptor Novuform.jpg"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "special",
 			"mana_cost": "{W/B}{U}",
 			"type": "Artifact Creature — Vedalken",
-			"collector_number": "578",
+			"collector_number": "579",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/578_Aetherhusher.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/579_Aetherhusher.jpg"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Artifact Creature — Zombie Wizard",
-			"collector_number": "529",
+			"collector_number": "530",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/529_Mentalist Aether-Lich.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/530_Mentalist Aether-Lich.jpg"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U/B}",
 			"type": "Artifact Creature — Human Rogue",
-			"collector_number": "563",
+			"collector_number": "564",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/563_Vectis Mindshaper.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/564_Vectis Mindshaper.jpg"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/W}{2/U}{2/B}",
 			"type": "Instant",
-			"collector_number": "552",
+			"collector_number": "553",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/552_Crucius' Charm.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/553_Crucius' Charm.jpg"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{U}{B}",
 			"type": "Artifact Creature — Angel",
-			"collector_number": "533",
+			"collector_number": "534",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/533_Nullmage's Innova.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/534_Nullmage's Innova.jpg"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Artifact",
-			"collector_number": "525",
+			"collector_number": "526",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/525_The Lighthouse.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/526_The Lighthouse.jpg"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{U}{B}",
 			"type": "Artifact Creature — Sphinx",
-			"collector_number": "519",
+			"collector_number": "520",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/519_Iteration Sphinx.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/520_Iteration Sphinx.jpg"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Artifact Planeswalker — Crucius",
-			"collector_number": "503",
+			"collector_number": "504",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/503_Crucius the Mad.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/504_Crucius the Mad.jpg"
 			}
 		},
 		{
@@ -1425,9 +1425,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "605",
+			"collector_number": "606",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/605_Retinue Charger.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/606_Retinue Charger.jpg"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/192_Repurposed Return.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/193_Repurposed Return.jpg"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Vedalken Wizard",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/214_Visitarium Informant.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/215_Visitarium Informant.jpg"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Sphinx",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/199_Sphinx of Ambition.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/200_Sphinx of Ambition.jpg"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "special",
 			"mana_cost": "{W/B}{U}",
 			"type": "Artifact",
-			"collector_number": "577",
+			"collector_number": "578",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/577_Aerial Foundry.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/578_Aerial Foundry.jpg"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/125_Suspended Tide.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/124_Suspended Tide.jpg"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Zombie Wizard",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/188_Persistent Aether-Liches.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/189_Persistent Aether-Liches.jpg"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Artifact Creature — Sphinx",
-			"collector_number": "660",
+			"collector_number": "661",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/660_Kemuel, the Riddle Gate.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/661_Kemuel, the Riddle Gate.jpg"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "special",
 			"mana_cost": "{W/B}{U}",
 			"type": "Instant",
-			"collector_number": "584",
+			"collector_number": "585",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/584_Riddling Gaze.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/585_Riddling Gaze.jpg"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W/U}",
 			"type": "Artifact Creature — Angel",
-			"collector_number": "558",
+			"collector_number": "559",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/558_Empyrial Experiment.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/559_Empyrial Experiment.jpg"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Artifact Creature — Human Wizard",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/173_Lett, Who Eschews Aether.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/174_Lett, Who Eschews Aether.jpg"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Artifact Creature — Zombie Wizard",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/176_Lordly Aetherlich.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/177_Lordly Aetherlich.jpg"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Human Artificer",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/126_Telemin Trainer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/125_Telemin Trainer.jpg"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W/B}{U}",
 			"type": "Artifact Creature — Human Rogue",
-			"collector_number": "586",
+			"collector_number": "587",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/586_Vectis Outfitter.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/587_Vectis Outfitter.jpg"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/195_Sangrite Harvest.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/196_Sangrite Harvest.jpg"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant — Arcane",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/220_Widow's Blessing.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/221_Widow's Blessing.jpg"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery — Arcane",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/246_Heartless Blessing.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/247_Heartless Blessing.jpg"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/254_Isaac & Miria, Joyful Rapscallions.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/255_Isaac & Miria, Joyful Rapscallions.jpg"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery — Alchemy",
-			"collector_number": "456",
+			"collector_number": "457",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/456_Muscarian Brew.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/457_Muscarian Brew.jpg"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U/B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "564",
+			"collector_number": "565",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/564_Your Power is Mine Now!.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/565_Your Power is Mine Now!.jpg"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "special",
 			"mana_cost": "{R/W}{R/W}{R/W}{R/W}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "572",
+			"collector_number": "573",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/572_Brawling Mako.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/573_Brawling Mako.jpg"
 			}
 		},
 		{
@@ -1815,9 +1815,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "447",
+			"collector_number": "448",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/447_Coax into the Feast.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/448_Coax into the Feast.jpg"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "507",
+			"collector_number": "508",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/507_Dreading the Inevitable.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/508_Dreading the Inevitable.jpg"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Creature — Serpent Fish Horror",
-			"collector_number": "509",
+			"collector_number": "510",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/509_Envoy of the Leviathan.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/510_Envoy of the Leviathan.jpg"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "523",
+			"collector_number": "524",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/523_Karian, Soul of the Cult.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/524_Karian, Soul of the Cult.jpg"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Creature — Spirit Leviathan",
-			"collector_number": "528",
+			"collector_number": "529",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/528_Maw, the Sudden Extinction.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/529_Maw, the Sudden Extinction.jpg"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "531",
+			"collector_number": "532",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/531_Morbid Séance.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/532_Morbid Séance.jpg"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "487",
+			"collector_number": "488",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/487_'Til its Arrival.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/488_'Til its Arrival.jpg"
 			}
 		},
 		{
@@ -1895,16 +1895,16 @@
 			"rarity": "special",
 			"mana_cost": "{U/B}{B/G}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "588",
+			"collector_number": "589",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/588_Yann, Eternal Victim_back.jpg"
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/589_Yann, Eternal Victim_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/588_Yann, Eternal Victim_front.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/589_Yann, Eternal Victim_front.jpg"
 			}
 		},
 		{
@@ -1912,9 +1912,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "638",
+			"collector_number": "639",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/638_Rebirthing Circle.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/639_Rebirthing Circle.jpg"
 			}
 		},
 		{
@@ -1922,9 +1922,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "640",
+			"collector_number": "641",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/640_Sanctum of the Soulless.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/641_Sanctum of the Soulless.jpg"
 			}
 		},
 		{
@@ -1952,9 +1952,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Snow Sorcery",
-			"collector_number": "659",
+			"collector_number": "660",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/659_Deliver the Goods.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/660_Deliver the Goods.jpg"
 			}
 		},
 		{
@@ -2022,9 +2022,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Cat Nightmare",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/190_Purrrgatory Prowler.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/191_Purrrgatory Prowler.jpg"
 			}
 		},
 		{
@@ -2072,9 +2072,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W/B}{W/U}{U/B}",
 			"type": "Legendary Creature — Faerie Noble",
-			"collector_number": "579",
+			"collector_number": "580",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/579_Arlette, Oona's Firstborn.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/580_Arlette, Oona's Firstborn.jpg"
 			}
 		},
 		{
@@ -2082,9 +2082,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U/B}{U/B}",
 			"type": "Creature — Wizard Rogue",
-			"collector_number": "560",
+			"collector_number": "561",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/560_Dark Magician.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/561_Dark Magician.jpg"
 			}
 		},
 		{
@@ -2092,9 +2092,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Legendary Creature — Elk Demon",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/139_Alastor, the Radio Demon.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/138_Alastor, the Radio Demon.jpg"
 			}
 		},
 		{
@@ -2102,9 +2102,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Demon Performer",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/224_Angel Dust, Hell's Darling.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/225_Angel Dust, Hell's Darling.jpg"
 			}
 		},
 		{
@@ -2122,9 +2122,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "499",
+			"collector_number": "500",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/499_Charlie Morningstar, Redeemer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/500_Charlie Morningstar, Redeemer.jpg"
 			}
 		},
 		{
@@ -2132,9 +2132,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Dog Demon",
-			"collector_number": "517",
+			"collector_number": "518",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/517_Husk, High Roller.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/518_Husk, High Roller.jpg"
 			}
 		},
 		{
@@ -2142,9 +2142,9 @@
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Creature — Phyrexian Eldrazi",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/9_It That Glistens.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/8_It That Glistens.jpg"
 			}
 		},
 		{
@@ -2152,9 +2152,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Elder Demon Angel",
-			"collector_number": "526",
+			"collector_number": "527",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/526_Lucifer Morningstar.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/527_Lucifer Morningstar.jpg"
 			}
 		},
 		{
@@ -2162,9 +2162,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/184_Nifty, Adamslayer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/185_Nifty, Adamslayer.jpg"
 			}
 		},
 		{
@@ -2189,9 +2189,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Demon Bird Noble",
-			"collector_number": "543",
+			"collector_number": "544",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/543_Stolas, Goetia Prince.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/544_Stolas, Goetia Prince.jpg"
 			}
 		},
 		{
@@ -2199,9 +2199,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "548",
+			"collector_number": "549",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/548_Vaggie, Fallen Angel.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/549_Vaggie, Fallen Angel.jpg"
 			}
 		},
 		{
@@ -2209,9 +2209,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Artifact Creature — Demon",
-			"collector_number": "550",
+			"collector_number": "551",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/550_Vox, Voice of the People.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/551_Vox, Voice of the People.jpg"
 			}
 		},
 		{
@@ -2246,9 +2246,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Orc Bard",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/247_Highland Caller.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/248_Highland Caller.jpg"
 			}
 		},
 		{
@@ -2256,9 +2256,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "536",
+			"collector_number": "537",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/536_Planar Rebirth.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/537_Planar Rebirth.jpg"
 			}
 		},
 		{
@@ -2266,9 +2266,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "518",
+			"collector_number": "519",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/518_Iconoclasm of Horomazes.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/519_Iconoclasm of Horomazes.jpg"
 			}
 		},
 		{
@@ -2276,9 +2276,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Planeswalker — Ulrike",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/130_Ulrike, Silvered Moonmist.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/129_Ulrike, Silvered Moonmist.jpg"
 			}
 		},
 		{
@@ -2286,9 +2286,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Artifact Creature — Myr",
-			"collector_number": "657",
+			"collector_number": "658",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/657_Flametongue Myr.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/658_Flametongue Myr.jpg"
 			}
 		},
 		{
@@ -2296,9 +2296,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{W}",
 			"type": "Instant",
-			"collector_number": "655",
+			"collector_number": "656",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/655_Lost to Meadows.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/656_Lost to Meadows.jpg"
 			}
 		},
 		{
@@ -2326,9 +2326,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "661",
+			"collector_number": "662",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/661_Urtetian Schema.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/662_Urtetian Schema.jpg"
 			}
 		},
 		{
@@ -2336,9 +2336,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Legendary Creature — Skeleton Barbarian",
-			"collector_number": "498",
+			"collector_number": "499",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/498_Chargohr, Bloodmad Lich.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/499_Chargohr, Bloodmad Lich.jpg"
 			}
 		},
 		{
@@ -2356,9 +2356,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Kavu",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/241_Gargantuan Mauler.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/242_Gargantuan Mauler.jpg"
 			}
 		},
 		{
@@ -2376,9 +2376,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "465",
+			"collector_number": "466",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/465_Above It All.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/466_Above It All.jpg"
 			}
 		},
 		{
@@ -2436,9 +2436,9 @@
 			"rarity": "special",
 			"mana_cost": "{C}{R}",
 			"type": "Creature — Eldrazi Drone",
-			"collector_number": "271",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/271_Scouring Scions.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/272_Scouring Scions.jpg"
 			}
 		},
 		{
@@ -2476,9 +2476,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Turtle",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/230_Crimson Snapper.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/231_Crimson Snapper.jpg"
 			}
 		},
 		{
@@ -2486,9 +2486,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Ape Warrior",
-			"collector_number": "502",
+			"collector_number": "503",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/502_Crom, Insatiable Ape.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/503_Crom, Insatiable Ape.jpg"
 			}
 		},
 		{
@@ -2496,9 +2496,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Forest",
-			"collector_number": "623",
+			"collector_number": "624",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/623_Elder Deepwood.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/624_Elder Deepwood.jpg"
 			}
 		},
 		{
@@ -2506,9 +2506,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — God",
-			"collector_number": "452",
+			"collector_number": "453",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/452_Gorichal, Blightful Deus.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/453_Gorichal, Blightful Deus.jpg"
 			}
 		},
 		{
@@ -2516,9 +2516,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Artifact",
-			"collector_number": "522",
+			"collector_number": "523",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/522_K1, the Test Core.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/523_K1, the Test Core.jpg"
 			}
 		},
 		{
@@ -2526,9 +2526,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "541",
+			"collector_number": "542",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/541_Rolan, Paragon of Bant.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/542_Rolan, Paragon of Bant.jpg"
 			}
 		},
 		{
@@ -2536,9 +2536,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Legendary Creature — Turtle Villain",
-			"collector_number": "547",
+			"collector_number": "548",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/547_Torka, the Turtle King.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/548_Torka, the Turtle King.jpg"
 			}
 		},
 		{
@@ -2546,9 +2546,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Turtle",
-			"collector_number": "341",
+			"collector_number": "340",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/341_Verdant Snapper.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/340_Verdant Snapper.jpg"
 			}
 		},
 		{
@@ -2566,9 +2566,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Enchantment Creature — Jellyfish Mutant",
-			"collector_number": "549",
+			"collector_number": "550",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/549_Vorazoa.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/550_Vorazoa.jpg"
 			}
 		},
 		{
@@ -2606,9 +2606,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Beast",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/264_Phyrexian Fleshgrinder.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/265_Phyrexian Fleshgrinder.jpg"
 			}
 		},
 		{
@@ -2616,9 +2616,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "334",
+			"collector_number": "333",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/334_Solitary Groffskithur.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/333_Solitary Groffskithur.jpg"
 			}
 		},
 		{
@@ -2626,9 +2626,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Alien Cat",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/171_Kyubey, Messenger of Magic.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/172_Kyubey, Messenger of Magic.jpg"
 			}
 		},
 		{
@@ -2646,9 +2646,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{G}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "527",
+			"collector_number": "528",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/527_Magical Girl Transformation.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/528_Magical Girl Transformation.jpg"
 			}
 		},
 		{
@@ -2666,9 +2666,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Ouphe",
-			"collector_number": "444",
+			"collector_number": "445",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/444_Ballybog Geezer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/445_Ballybog Geezer.jpg"
 			}
 		},
 		{
@@ -2686,9 +2686,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U/R}",
 			"type": "Artifact Creature — Elemental Golem",
-			"collector_number": "570",
+			"collector_number": "571",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/570_Inspirational Wulfenite.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/571_Inspirational Wulfenite.jpg"
 			}
 		},
 		{
@@ -2736,9 +2736,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/262_Obsession Crown.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/263_Obsession Crown.jpg"
 			}
 		},
 		{
@@ -2776,9 +2776,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/198_Spectramorphosis.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/199_Spectramorphosis.jpg"
 			}
 		},
 		{
@@ -2786,9 +2786,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Faerie Rogue",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/179_Moonlace Clique.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/180_Moonlace Clique.jpg"
 			}
 		},
 		{
@@ -2796,9 +2796,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G/U}{G/U}",
 			"type": "Creature — Beast",
-			"collector_number": "575",
+			"collector_number": "576",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/575_Overgrown Bogle.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/576_Overgrown Bogle.jpg"
 			}
 		},
 		{
@@ -2806,9 +2806,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/273_Screeching Boggart.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/274_Screeching Boggart.jpg"
 			}
 		},
 		{
@@ -2816,9 +2816,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/134_Witch of the Deeps.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/133_Witch of the Deeps.jpg"
 			}
 		},
 		{
@@ -2826,9 +2826,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/180_Moon's Echo.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/181_Moon's Echo.jpg"
 			}
 		},
 		{
@@ -2846,9 +2846,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Dinosaur Shaman",
-			"collector_number": "512",
+			"collector_number": "513",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/512_Grazatl, Moon's Call.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/513_Grazatl, Moon's Call.jpg"
 			}
 		},
 		{
@@ -2856,9 +2856,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Instant",
-			"collector_number": "513",
+			"collector_number": "514",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/513_Grazatl's Command.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/514_Grazatl's Command.jpg"
 			}
 		},
 		{
@@ -2876,9 +2876,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "454",
+			"collector_number": "455",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/454_Lurking Carnotaur.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/455_Lurking Carnotaur.jpg"
 			}
 		},
 		{
@@ -2886,9 +2886,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Gnome Wizard",
-			"collector_number": "476",
+			"collector_number": "477",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/476_Scartin, Dean of Exploration.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/477_Scartin, Dean of Exploration.jpg"
 			}
 		},
 		{
@@ -2896,9 +2896,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "488",
+			"collector_number": "489",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/488_Verdant Altisaur.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/489_Verdant Altisaur.jpg"
 			}
 		},
 		{
@@ -2926,9 +2926,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Spirit",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/282_Suffering Venger.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/283_Suffering Venger.jpg"
 			}
 		},
 		{
@@ -2936,9 +2936,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "289",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/289_Unalike Remorse.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/290_Unalike Remorse.jpg"
 			}
 		},
 		{
@@ -2956,9 +2956,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "338",
+			"collector_number": "337",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/338_Strong Back.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/337_Strong Back.jpg"
 			}
 		},
 		{
@@ -2966,9 +2966,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "466",
+			"collector_number": "467",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/466_Armory Paladin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/467_Armory Paladin.jpg"
 			}
 		},
 		{
@@ -2986,9 +2986,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "469",
+			"collector_number": "470",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/469_Bureau Headmaster.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/470_Bureau Headmaster.jpg"
 			}
 		},
 		{
@@ -2996,9 +2996,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "470",
+			"collector_number": "471",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/470_Carnival Recollections.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/471_Carnival Recollections.jpg"
 			}
 		},
 		{
@@ -3006,9 +3006,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "500",
+			"collector_number": "501",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/500_City, Cultish Evangel.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/501_City, Cultish Evangel.jpg"
 			}
 		},
 		{
@@ -3016,9 +3016,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human Artificer Survivor",
-			"collector_number": "505",
+			"collector_number": "506",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/505_Dawn, Clever Inventor.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/506_Dawn, Clever Inventor.jpg"
 			}
 		},
 		{
@@ -3026,9 +3026,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "607",
+			"collector_number": "608",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/607_Shimmervibe.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/608_Shimmervibe.jpg"
 			}
 		},
 		{
@@ -3036,9 +3036,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "627",
+			"collector_number": "628",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/627_Fortified Village.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/628_Fortified Village.jpg"
 			}
 		},
 		{
@@ -3076,9 +3076,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "600",
+			"collector_number": "601",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/600_Mirror of Mystery.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/601_Mirror of Mystery.jpg"
 			}
 		},
 		{
@@ -3086,9 +3086,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "614",
+			"collector_number": "615",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/614_Winged Sapphire.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/615_Winged Sapphire.jpg"
 			}
 		},
 		{
@@ -3126,9 +3126,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Zombie Giant",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/221_Adoranz's Snatcher.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/222_Adoranz's Snatcher.jpg"
 			}
 		},
 		{
@@ -3146,9 +3146,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Legendary Planeswalker — Adoranz",
-			"collector_number": "493",
+			"collector_number": "494",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/493_Adoranz the Conquerer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/494_Adoranz the Conquerer.jpg"
 			}
 		},
 		{
@@ -3166,9 +3166,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Zombie Leech",
-			"collector_number": "459",
+			"collector_number": "460",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/459_Rithe, the Blightswarm.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/460_Rithe, the Blightswarm.jpg"
 			}
 		},
 		{
@@ -3176,9 +3176,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "594",
+			"collector_number": "595",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/594_Elvar's Tears.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/595_Elvar's Tears.jpg"
 			}
 		},
 		{
@@ -3196,9 +3196,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "592",
+			"collector_number": "593",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/592_Combat Mobilization Beam.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/593_Combat Mobilization Beam.jpg"
 			}
 		},
 		{
@@ -3216,9 +3216,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}{R}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/251_Ignited Memory Jar.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/252_Ignited Memory Jar.jpg"
 			}
 		},
 		{
@@ -3226,9 +3226,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/253_Insufferable Hubris.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/254_Insufferable Hubris.jpg"
 			}
 		},
 		{
@@ -3246,9 +3246,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "598",
+			"collector_number": "599",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/598_Liquimetalworker.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/599_Liquimetalworker.jpg"
 			}
 		},
 		{
@@ -3266,9 +3266,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "641",
+			"collector_number": "642",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/641_Shimmering Cavern.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/642_Shimmering Cavern.jpg"
 			}
 		},
 		{
@@ -3286,9 +3286,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "546",
+			"collector_number": "547",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/546_Timespiraled.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/547_Timespiraled.jpg"
 			}
 		},
 		{
@@ -3296,9 +3296,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "654",
+			"collector_number": "655",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/654_Yawgmoth Hideout.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/655_Yawgmoth Hideout.jpg"
 			}
 		},
 		{
@@ -3316,9 +3316,9 @@
 			"rarity": "special",
 			"mana_cost": "{B/R}",
 			"type": "Sorcery",
-			"collector_number": "589",
+			"collector_number": "590",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/589_Chaos.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/590_Chaos.jpg"
 			}
 		},
 		{
@@ -3356,9 +3356,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Troll Fish Fungus",
-			"collector_number": "481",
+			"collector_number": "482",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/481_Hydrofungal Specimen.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/482_Hydrofungal Specimen.jpg"
 			}
 		},
 		{
@@ -3393,9 +3393,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/197_Selective Truths.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/198_Selective Truths.jpg"
 			}
 		},
 		{
@@ -3403,9 +3403,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "333",
+			"collector_number": "332",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/333_Slizt Clan Operative.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/332_Slizt Clan Operative.jpg"
 			}
 		},
 		{
@@ -3423,9 +3423,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Bird Pirate",
-			"collector_number": "0",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Ashfeather Plunderer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/139_Ashfeather Plunderer.jpg"
 			}
 		},
 		{
@@ -3453,9 +3453,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/235_Exemplar Operator.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/236_Exemplar Operator.jpg"
 			}
 		},
 		{
@@ -3463,9 +3463,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/243_Gunpowder Brawler.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/244_Gunpowder Brawler.jpg"
 			}
 		},
 		{
@@ -3493,9 +3493,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "329",
+			"collector_number": "328",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/329_Rouse the Young.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/328_Rouse the Young.jpg"
 			}
 		},
 		{
@@ -3503,9 +3503,9 @@
 			"rarity": "special",
 			"mana_cost": "{G/U}",
 			"type": "Legendary Creature — Crab",
-			"collector_number": "573",
+			"collector_number": "574",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/573_The Crab Raver.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/574_The Crab Raver.jpg"
 			}
 		},
 		{
@@ -3533,9 +3533,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "0",
+			"collector_number": "342",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Worldheart Pinnacle.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/342_Worldheart Pinnacle.jpg"
 			}
 		},
 		{
@@ -3543,9 +3543,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "0",
+			"collector_number": "444",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Xaver, Uhuru Proprietor.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/444_Xaver, Uhuru Proprietor.jpg"
 			}
 		},
 		{
@@ -3553,9 +3553,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Battle — Objective",
-			"collector_number": "328",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/328_Remnants of a World Long Past.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Remnants of a World Long Past.jpg"
 			}
 		},
 		{
@@ -3563,9 +3563,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Battle — Objective",
-			"collector_number": "123",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/123_Spires that Reach to the Heavens.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Spires that Reach to the Heavens.jpg"
 			}
 		},
 		{
@@ -3573,9 +3573,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Battle — Objective",
-			"collector_number": "293",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/293_The Wargrounds of Gods New and Old.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_The Wargrounds of Gods New and Old.jpg"
 			}
 		},
 		{
@@ -3583,9 +3583,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{G}{U}",
 			"type": "Enchantment Creature — Dog Spirit Bard",
-			"collector_number": "479",
+			"collector_number": "480",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/479_Cheering Procession Leader.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/480_Cheering Procession Leader.jpg"
 			}
 		},
 		{
@@ -3603,9 +3603,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Skeleton Warrior",
-			"collector_number": "506",
+			"collector_number": "507",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/506_Dokuro, Yesterday's Grudge.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/507_Dokuro, Yesterday's Grudge.jpg"
 			}
 		},
 		{
@@ -3623,9 +3623,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Human Monk",
-			"collector_number": "483",
+			"collector_number": "484",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/483_Mighty Sealmaster.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/484_Mighty Sealmaster.jpg"
 			}
 		},
 		{
@@ -3633,9 +3633,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment Creature — Human Ninja",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/182_Murderous Duplicator.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/183_Murderous Duplicator.jpg"
 			}
 		},
 		{
@@ -3643,9 +3643,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Artifact Creature — Insect Spirit",
-			"collector_number": "458",
+			"collector_number": "459",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/458_Rampaging Megabeetle.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/459_Rampaging Megabeetle.jpg"
 			}
 		},
 		{
@@ -3653,9 +3653,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "538",
+			"collector_number": "539",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/538_Reibai-shi, Deity Channeler.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/539_Reibai-shi, Deity Channeler.jpg"
 			}
 		},
 		{
@@ -3673,9 +3673,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Ninja",
-			"collector_number": "337",
+			"collector_number": "336",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/337_Stealthy Vaultbreaker.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/336_Stealthy Vaultbreaker.jpg"
 			}
 		},
 		{
@@ -3683,9 +3683,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "463",
+			"collector_number": "464",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/463_Wicked House Spirit.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/464_Wicked House Spirit.jpg"
 			}
 		},
 		{
@@ -3693,9 +3693,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/222_Aggress Dread.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/223_Aggress Dread.jpg"
 			}
 		},
 		{
@@ -3763,9 +3763,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "631",
+			"collector_number": "632",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/631_Mania Bawn.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/632_Mania Bawn.jpg"
 			}
 		},
 		{
@@ -3783,9 +3783,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Mutant Beast",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/265_Possibility Dreg.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/266_Possibility Dreg.jpg"
 			}
 		},
 		{
@@ -3803,9 +3803,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "656",
+			"collector_number": "657",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/656_Somnikinesis.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/657_Somnikinesis.jpg"
 			}
 		},
 		{
@@ -3813,9 +3813,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/14_Sopor Mimic.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/13_Sopor Mimic.jpg"
 			}
 		},
 		{
@@ -3823,9 +3823,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Shman",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/209_Unfaltering Daughter.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/210_Unfaltering Daughter.jpg"
 			}
 		},
 		{
@@ -3833,9 +3833,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Giant",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/248_Hill Giant.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/249_Hill Giant.jpg"
 			}
 		},
 		{
@@ -3853,9 +3853,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "335",
+			"collector_number": "334",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/335_Song of a New Universe.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/334_Song of a New Universe.jpg"
 			}
 		},
 		{
@@ -3883,9 +3883,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Nightmare Goat",
-			"collector_number": "450",
+			"collector_number": "451",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/450_Foreverbeast's Kin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/451_Foreverbeast's Kin.jpg"
 			}
 		},
 		{
@@ -3903,9 +3903,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Creature — Elemental Fox",
-			"collector_number": "537",
+			"collector_number": "538",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/537_Polyfox Pack.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/538_Polyfox Pack.jpg"
 			}
 		},
 		{
@@ -3923,9 +3923,9 @@
 			"rarity": "special",
 			"mana_cost": "{G/U}{G/U}{G/U}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "574",
+			"collector_number": "575",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/574_Jelena, Friend of the Sea.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/575_Jelena, Friend of the Sea.jpg"
 			}
 		},
 		{
@@ -3943,9 +3943,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Zombie Warlock",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/178_Modriss of Zargoth Fen.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/179_Modriss of Zargoth Fen.jpg"
 			}
 		},
 		{
@@ -3953,16 +3953,16 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Vampire Warlock",
-			"collector_number": "181",
+			"collector_number": "182",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/181_Morbulat, Draining Puppeteer_back.jpg"
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/182_Morbulat, Draining Puppeteer_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/181_Morbulat, Draining Puppeteer_front.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/182_Morbulat, Draining Puppeteer_front.jpg"
 			}
 		},
 		{
@@ -3970,9 +3970,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Blood Skeleton",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/196_Sanguine Stalker.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/197_Sanguine Stalker.jpg"
 			}
 		},
 		{
@@ -3980,9 +3980,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/210_Unlock the Tomb.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/211_Unlock the Tomb.jpg"
 			}
 		},
 		{
@@ -3990,9 +3990,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/244_Hazardous Sparks.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/245_Hazardous Sparks.jpg"
 			}
 		},
 		{
@@ -4000,9 +4000,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Skeleton Warlock Knight",
-			"collector_number": "501",
+			"collector_number": "502",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/501_The Clattering Cavalier.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/502_The Clattering Cavalier.jpg"
 			}
 		},
 		{
@@ -4010,9 +4010,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Elf Warlock",
-			"collector_number": "515",
+			"collector_number": "516",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/515_Hazran the Bonelord.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/516_Hazran the Bonelord.jpg"
 			}
 		},
 		{
@@ -4040,9 +4040,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact Creature — Skeleton Construct",
-			"collector_number": "595",
+			"collector_number": "596",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/595_The Glimmering Eviscerator.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/596_The Glimmering Eviscerator.jpg"
 			}
 		},
 		{
@@ -4050,9 +4050,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Kindred Land — Skeleton",
-			"collector_number": "635",
+			"collector_number": "636",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/635_Overgrown Boneyard.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/636_Overgrown Boneyard.jpg"
 			}
 		},
 		{
@@ -4110,9 +4110,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Hedgehog Druid",
-			"collector_number": "342",
+			"collector_number": "341",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/342_Witness of the Glade.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/341_Witness of the Glade.jpg"
 			}
 		},
 		{
@@ -4150,9 +4150,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Vampire Ninja",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/212_Verlis of House Morgont.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/213_Verlis of House Morgont.jpg"
 			}
 		},
 		{
@@ -4160,9 +4160,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/174_Liliana's Charm.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/175_Liliana's Charm.jpg"
 			}
 		},
 		{
@@ -4170,9 +4170,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/206_Toll of Winter.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/207_Toll of Winter.jpg"
 			}
 		},
 		{
@@ -4180,9 +4180,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Vampire Warlock",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/215_Voldaren Venerator.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/216_Voldaren Venerator.jpg"
 			}
 		},
 		{
@@ -4210,9 +4210,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{R}",
 			"type": "Instant",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/281_Spell Riposte.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/282_Spell Riposte.jpg"
 			}
 		},
 		{
@@ -4220,9 +4220,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "601",
+			"collector_number": "602",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/601_Mr. Orfeo's Business Associate.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/602_Mr. Orfeo's Business Associate.jpg"
 			}
 		},
 		{
@@ -4230,9 +4230,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/268_Redoubled Fury.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/269_Redoubled Fury.jpg"
 			}
 		},
 		{
@@ -4250,9 +4250,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U/R}{B}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "587",
+			"collector_number": "588",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/587_Velandra, Guilt Trapper.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/588_Velandra, Guilt Trapper.jpg"
 			}
 		},
 		{
@@ -4270,9 +4270,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/2_Magda Zalken.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/1_Magda Zalken.jpg"
 			}
 		},
 		{
@@ -4280,9 +4280,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/3_The Hunter's Quarry.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/2_The Hunter's Quarry.jpg"
 			}
 		},
 		{
@@ -4290,9 +4290,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/4_Magda's Hideout.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/3_Magda's Hideout.jpg"
 			}
 		},
 		{
@@ -4300,9 +4300,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/5_Zalken Mansion.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/4_Zalken Mansion.jpg"
 			}
 		},
 		{
@@ -4330,9 +4330,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "285",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/285_Through the Heart.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/286_Through the Heart.jpg"
 			}
 		},
 		{
@@ -4340,9 +4340,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/290_Versatile Technique.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/291_Versatile Technique.jpg"
 			}
 		},
 		{
@@ -4370,9 +4370,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Token Creature — Zombie",
-			"collector_number": "662",
+			"collector_number": "663",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/662_Battlefield Revenant.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/663_Battlefield Revenant.jpg"
 			}
 		},
 		{
@@ -4420,9 +4420,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/127_Trail of Evidence.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/126_Trail of Evidence.jpg"
 			}
 		},
 		{
@@ -4430,9 +4430,9 @@
 			"rarity": "special",
 			"mana_cost": "{7}{U}",
 			"type": "Sorcery",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/129_Treasure Cruise.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/128_Treasure Cruise.jpg"
 			}
 		},
 		{
@@ -4440,9 +4440,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Walrus",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/133_The Walrus Captain.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/132_The Walrus Captain.jpg"
 			}
 		},
 		{
@@ -4460,9 +4460,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Cat",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/185_Nine-Lives Familiar.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/186_Nine-Lives Familiar.jpg"
 			}
 		},
 		{
@@ -4470,9 +4470,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Shade Noble",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/191_Queen Vanessa.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/192_Queen Vanessa.jpg"
 			}
 		},
 		{
@@ -4480,9 +4480,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/223_The Akroan War.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/224_The Akroan War.jpg"
 			}
 		},
 		{
@@ -4490,9 +4490,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/226_Ball Lightning.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/227_Ball Lightning.jpg"
 			}
 		},
 		{
@@ -4500,9 +4500,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/239_Food Fight.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/240_Food Fight.jpg"
 			}
 		},
 		{
@@ -4540,9 +4540,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Alien",
-			"collector_number": "514",
+			"collector_number": "515",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/514_Hat Kid.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/515_Hat Kid.jpg"
 			}
 		},
 		{
@@ -4560,9 +4560,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "473",
+			"collector_number": "474",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/473_Mustache Girl.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/474_Mustache Girl.jpg"
 			}
 		},
 		{
@@ -4570,9 +4570,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Instant",
-			"collector_number": "457",
+			"collector_number": "458",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/457_Putrefy.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/458_Putrefy.jpg"
 			}
 		},
 		{
@@ -4580,9 +4580,9 @@
 			"rarity": "special",
 			"mana_cost": "{B/R}{R}",
 			"type": "Legendary Creature — Bird Advisor",
-			"collector_number": "565",
+			"collector_number": "566",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/565_The Conductor.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/566_The Conductor.jpg"
 			}
 		},
 		{
@@ -4590,9 +4590,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{B/R}",
 			"type": "Legendary Creature — Bird Performer",
-			"collector_number": "580",
+			"collector_number": "581",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/580_DJ Grooves.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/581_DJ Grooves.jpg"
 			}
 		},
 		{
@@ -4600,9 +4600,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B/G}",
 			"type": "Legendary Creature — Shade Noble",
-			"collector_number": "571",
+			"collector_number": "572",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/571_The Snatcher.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/572_The Snatcher.jpg"
 			}
 		},
 		{
@@ -4610,9 +4610,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "593",
+			"collector_number": "594",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/593_Crown of Gondor.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/594_Crown of Gondor.jpg"
 			}
 		},
 		{
@@ -4620,9 +4620,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "610",
+			"collector_number": "611",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/610_Sol Ring.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/611_Sol Ring.jpg"
 			}
 		},
 		{
@@ -4630,9 +4630,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "646",
+			"collector_number": "647",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/646_Thriving Bluff.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/647_Thriving Bluff.jpg"
 			}
 		},
 		{
@@ -4640,9 +4640,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "647",
+			"collector_number": "648",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/647_Thriving Grove.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/648_Thriving Grove.jpg"
 			}
 		},
 		{
@@ -4650,9 +4650,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "648",
+			"collector_number": "649",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/648_Thriving Heath.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/649_Thriving Heath.jpg"
 			}
 		},
 		{
@@ -4660,9 +4660,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "649",
+			"collector_number": "650",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/649_Thriving Isle.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/650_Thriving Isle.jpg"
 			}
 		},
 		{
@@ -4670,9 +4670,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "650",
+			"collector_number": "651",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/650_Thriving Moor.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/651_Thriving Moor.jpg"
 			}
 		},
 		{
@@ -4680,9 +4680,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "653",
+			"collector_number": "654",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/653_Wayfarer's Shrine.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/654_Wayfarer's Shrine.jpg"
 			}
 		},
 		{
@@ -4700,9 +4700,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/12_Planar Defence Initiative.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/11_Planar Defence Initiative.jpg"
 			}
 		},
 		{
@@ -4710,9 +4710,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/16_Stockpile Initiative.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/15_Stockpile Initiative.jpg"
 			}
 		},
 		{
@@ -4750,9 +4750,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U}",
 			"type": "Artifact Creature — Warmachina",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/132_Vesperian Jethawk.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/131_Vesperian Jethawk.jpg"
 			}
 		},
 		{
@@ -4770,9 +4770,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Elf Assassin",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/172_Lanaya, the Templar Assassin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/173_Lanaya, the Templar Assassin.jpg"
 			}
 		},
 		{
@@ -4780,9 +4780,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/B}",
 			"type": "Sorcery",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/183_Neurodisruptor.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/184_Neurodisruptor.jpg"
 			}
 		},
 		{
@@ -4790,9 +4790,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Detective",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/186_O.I.A. Spook.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/187_O.I.A. Spook.jpg"
 			}
 		},
 		{
@@ -4800,9 +4800,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Gnome Pilot",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/225_Aurel, the Gyrocopter.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/226_Aurel, the Gyrocopter.jpg"
 			}
 		},
 		{
@@ -4810,9 +4810,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Detective",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/227_C.G.B. Handler.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/228_C.G.B. Handler.jpg"
 			}
 		},
 		{
@@ -4820,9 +4820,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/261_Negotiation Provocation.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/262_Negotiation Provocation.jpg"
 			}
 		},
 		{
@@ -4830,9 +4830,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/R}{2/R}",
 			"type": "Sorcery",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/292_Vibe Investing.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/293_Vibe Investing.jpg"
 			}
 		},
 		{
@@ -4870,9 +4870,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "495",
+			"collector_number": "496",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/495_Assured Destruction.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/496_Assured Destruction.jpg"
 			}
 		},
 		{
@@ -4900,9 +4900,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "504",
+			"collector_number": "505",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/504_Cthulhu, Lying Dreaming.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/505_Cthulhu, Lying Dreaming.jpg"
 			}
 		},
 		{
@@ -4940,9 +4940,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "534",
+			"collector_number": "535",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/534_Nyarlathotep.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/535_Nyarlathotep.jpg"
 			}
 		},
 		{
@@ -4950,9 +4950,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "603",
+			"collector_number": "604",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/603_The Necronomicon.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/604_The Necronomicon.jpg"
 			}
 		},
 		{
@@ -4960,9 +4960,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Troll Citizen",
-			"collector_number": "445",
+			"collector_number": "446",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/445_Brineboil Trainee.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/446_Brineboil Trainee.jpg"
 			}
 		},
 		{
@@ -4990,9 +4990,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "480",
+			"collector_number": "481",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/480_Fevered Masterstroke.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/481_Fevered Masterstroke.jpg"
 			}
 		},
 		{
@@ -5030,9 +5030,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Guest",
-			"collector_number": "475",
+			"collector_number": "476",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/475_Raucous Audience.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/476_Raucous Audience.jpg"
 			}
 		},
 		{
@@ -5070,9 +5070,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "0",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Killer Feast.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/171_Killer Feast.jpg"
 			}
 		},
 		{
@@ -5080,9 +5080,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Aetherborn Vampire",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/217_Waning Innovator.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/218_Waning Innovator.jpg"
 			}
 		},
 		{
@@ -5090,9 +5090,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Aetherborn Rogue",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/187_Party Hijacker.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/188_Party Hijacker.jpg"
 			}
 		},
 		{
@@ -5110,9 +5110,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "608",
+			"collector_number": "609",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/608_Side Knife.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/609_Side Knife.jpg"
 			}
 		},
 		{
@@ -5120,9 +5120,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Creature — Kobold Noble",
-			"collector_number": "0",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Stylish Kobold.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/16_Stylish Kobold.jpg"
 			}
 		},
 		{
@@ -5130,16 +5130,16 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "15",
+			"collector_number": "14",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/15_Spirit Caller_back.jpg"
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/14_Spirit Caller_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/15_Spirit Caller_front.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/14_Spirit Caller_front.jpg"
 			}
 		},
 		{
@@ -5147,9 +5147,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/204_Thieves' Guild Slicktongue.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/205_Thieves' Guild Slicktongue.jpg"
 			}
 		},
 		{
@@ -5197,9 +5197,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/202_Strike from the Rooftops.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/203_Strike from the Rooftops.jpg"
 			}
 		},
 		{
@@ -5237,9 +5237,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/124_Subtle Submersible.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/123_Subtle Submersible.jpg"
 			}
 		},
 		{
@@ -5257,16 +5257,16 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "604",
+			"collector_number": "605",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/604_Planestrider, Docking System_back.jpg"
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/605_Planestrider, Docking System_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/604_Planestrider, Docking System_front.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/605_Planestrider, Docking System_front.jpg"
 			}
 		},
 		{
@@ -5274,9 +5274,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Creature — Cleric",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/11_Nameless Follower.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/10_Nameless Follower.jpg"
 			}
 		},
 		{
@@ -5324,9 +5324,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Goblin Zombie",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/216_Wandering Corpse Eaters.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/217_Wandering Corpse Eaters.jpg"
 			}
 		},
 		{
@@ -5334,9 +5334,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Minotaur Warrior",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/238_Flametouched Warrior.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/239_Flametouched Warrior.jpg"
 			}
 		},
 		{
@@ -5344,9 +5344,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Treefolk Wizard",
-			"collector_number": "330",
+			"collector_number": "329",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/330_Rowanwood Ent.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/329_Rowanwood Ent.jpg"
 			}
 		},
 		{
@@ -5364,9 +5364,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "621",
+			"collector_number": "622",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/621_Cursed Hollow.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/622_Cursed Hollow.jpg"
 			}
 		},
 		{
@@ -5374,9 +5374,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "626",
+			"collector_number": "627",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/626_Foreboding Temple.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/627_Foreboding Temple.jpg"
 			}
 		},
 		{
@@ -5384,9 +5384,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "630",
+			"collector_number": "631",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/630_Magmaflow Cavern.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/631_Magmaflow Cavern.jpg"
 			}
 		},
 		{
@@ -5394,9 +5394,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "639",
+			"collector_number": "640",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/639_Ruins of Somewhere.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/640_Ruins of Somewhere.jpg"
 			}
 		},
 		{
@@ -5404,9 +5404,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "642",
+			"collector_number": "643",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/642_Silent Shoal.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/643_Silent Shoal.jpg"
 			}
 		},
 		{
@@ -5414,9 +5414,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "651",
+			"collector_number": "652",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/651_Verdant Weald.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/652_Verdant Weald.jpg"
 			}
 		},
 		{
@@ -5434,9 +5434,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Battle — Conquest",
-			"collector_number": "1",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/1_Conquest of the Pit.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Conquest of the Pit.jpg"
 			}
 		},
 		{
@@ -5444,9 +5444,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Creature — Demon",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/175_Lord of the Mosh Pit.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/176_Lord of the Mosh Pit.jpg"
 			}
 		},
 		{
@@ -5454,9 +5454,9 @@
 			"rarity": "special",
 			"mana_cost": "{B/R}",
 			"type": "Artifact Enchantment — Equipment Class",
-			"collector_number": "566",
+			"collector_number": "567",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/566_Figure of Tragedy.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/567_Figure of Tragedy.jpg"
 			}
 		},
 		{
@@ -5464,9 +5464,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Class Room",
-			"collector_number": "590",
+			"collector_number": "591",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/590_Fire Auditorium.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/591_Fire Auditorium.jpg"
 			}
 		},
 		{
@@ -5474,9 +5474,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Clue Equipment Vehicle",
-			"collector_number": "602",
+			"collector_number": "603",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/602_Mysterious Bladebike.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/603_Mysterious Bladebike.jpg"
 			}
 		},
 		{
@@ -5484,9 +5484,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Kirin Spirit",
-			"collector_number": "453",
+			"collector_number": "454",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/453_Gravebloom Kirin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/454_Gravebloom Kirin.jpg"
 			}
 		},
 		{
@@ -5524,9 +5524,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "591",
+			"collector_number": "592",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/591_Cogwork Gate.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/592_Cogwork Gate.jpg"
 			}
 		},
 		{
@@ -5534,9 +5534,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/229_Corset Dragon.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/230_Corset Dragon.jpg"
 			}
 		},
 		{
@@ -5584,9 +5584,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Performer",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/236_Fervent Roleplayer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/237_Fervent Roleplayer.jpg"
 			}
 		},
 		{
@@ -5604,9 +5604,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Scarecrow",
-			"collector_number": "596",
+			"collector_number": "597",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/596_Grinning Wickerfolk.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/597_Grinning Wickerfolk.jpg"
 			}
 		},
 		{
@@ -5644,9 +5644,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/193_Right Behind You.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/194_Right Behind You.jpg"
 			}
 		},
 		{
@@ -5654,9 +5654,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Mutant Rogue Hero",
-			"collector_number": "460",
+			"collector_number": "461",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/460_Rogue, Kiss of Death.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/461_Rogue, Kiss of Death.jpg"
 			}
 		},
 		{
@@ -5674,9 +5674,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "613",
+			"collector_number": "614",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/613_Tron Ares Ticket.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/614_Tron Ares Ticket.jpg"
 			}
 		},
 		{
@@ -5684,9 +5684,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/131_Unsettling Ritual.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/130_Unsettling Ritual.jpg"
 			}
 		},
 		{
@@ -5694,9 +5694,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Elf Wizard",
-			"collector_number": "448",
+			"collector_number": "449",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/448_Divayth Fyr, Clone Creator.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/449_Divayth Fyr, Clone Creator.jpg"
 			}
 		},
 		{
@@ -5744,9 +5744,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "633",
+			"collector_number": "634",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/633_Mecatol Rex, Wasted Throne.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/634_Mecatol Rex, Wasted Throne.jpg"
 			}
 		},
 		{
@@ -5764,9 +5764,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "628",
+			"collector_number": "629",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/628_Gaea's Nursery.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/629_Gaea's Nursery.jpg"
 			}
 		},
 		{
@@ -5794,9 +5794,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Creature — Snake Advisor",
-			"collector_number": "544",
+			"collector_number": "545",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/544_Sultai Educator.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/545_Sultai Educator.jpg"
 			}
 		},
 		{
@@ -5814,9 +5814,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/137_Absolute Dominion.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/136_Absolute Dominion.jpg"
 			}
 		},
 		{
@@ -5824,9 +5824,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Artifact",
-			"collector_number": "478",
+			"collector_number": "479",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/478_Bonded Bands.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/479_Bonded Bands.jpg"
 			}
 		},
 		{
@@ -5864,9 +5864,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/13_Popular Uprising.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/12_Popular Uprising.jpg"
 			}
 		},
 		{
@@ -5874,9 +5874,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/208_Ulterior Motives.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/209_Ulterior Motives.jpg"
 			}
 		},
 		{
@@ -5894,9 +5894,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "339",
+			"collector_number": "338",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/339_Sun's Historian.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/338_Sun's Historian.jpg"
 			}
 		},
 		{
@@ -5914,9 +5914,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "491",
+			"collector_number": "492",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/491_Pi Day.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/492_Pi Day.jpg"
 			}
 		},
 		{
@@ -5924,9 +5924,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Creature — Treefolk Druid",
-			"collector_number": "576",
+			"collector_number": "577",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/576_Sinister Cypress.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/577_Sinister Cypress.jpg"
 			}
 		},
 		{
@@ -5934,9 +5934,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Cat",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/258_Meowth.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/259_Meowth.jpg"
 			}
 		},
 		{
@@ -5944,9 +5944,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Demon Pirate",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/263_Patches the Pirate.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/264_Patches the Pirate.jpg"
 			}
 		},
 		{
@@ -5954,9 +5954,9 @@
 			"rarity": "special",
 			"mana_cost": "{10}{R}{R}{R}",
 			"type": "Legendary Creature — Elder Elemental",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/266_Ragnaros the Firelord.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/267_Ragnaros the Firelord.jpg"
 			}
 		},
 		{
@@ -5964,9 +5964,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/269_Rocket League.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/270_Rocket League.jpg"
 			}
 		},
 		{
@@ -5974,9 +5974,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "471",
+			"collector_number": "472",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/471_The Doom Slayer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/472_The Doom Slayer.jpg"
 			}
 		},
 		{
@@ -5994,9 +5994,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Creature — Elemental Horror",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/10_Music Baby.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/9_Music Baby.jpg"
 			}
 		},
 		{
@@ -6034,9 +6034,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/233_Dream Sequence.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/234_Dream Sequence.jpg"
 			}
 		},
 		{
@@ -6124,9 +6124,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Herald Knight",
-			"collector_number": "520",
+			"collector_number": "521",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/520_Jezrien, Herald of Kings.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/521_Jezrien, Herald of Kings.jpg"
 			}
 		},
 		{
@@ -6134,9 +6134,9 @@
 			"rarity": "special",
 			"mana_cost": "{U/B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "562",
+			"collector_number": "563",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/562_Particular Acolyte.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/563_Particular Acolyte.jpg"
 			}
 		},
 		{
@@ -6144,9 +6144,9 @@
 			"rarity": "special",
 			"mana_cost": "{R/W}{G}",
 			"type": "Legendary Enchantment Creature — Saga Cat",
-			"collector_number": "585",
+			"collector_number": "586",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/585_Summon Simba.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/586_Summon Simba.jpg"
 			}
 		},
 		{
@@ -6204,9 +6204,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Phyrexian Beast",
-			"collector_number": "270",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/270_Scourge of Oxid Ridge.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/271_Scourge of Oxid Ridge.jpg"
 			}
 		},
 		{
@@ -6214,9 +6214,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/284_Take It from the Top.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/285_Take It from the Top.jpg"
 			}
 		},
 		{
@@ -6224,9 +6224,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Construct Actor",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/207_Tortured Artist.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/208_Tortured Artist.jpg"
 			}
 		},
 		{
@@ -6234,9 +6234,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/136_Your Story.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/135_Your Story.jpg"
 			}
 		},
 		{
@@ -6254,9 +6254,9 @@
 			"rarity": "special",
 			"mana_cost": "{B/R}{G}",
 			"type": "Legendary Creature — Alien Berserker",
-			"collector_number": "582",
+			"collector_number": "583",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/582_Naeth the Immovable.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/583_Naeth the Immovable.jpg"
 			}
 		},
 		{
@@ -6274,9 +6274,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Pla‍net",
-			"collector_number": "637",
+			"collector_number": "638",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/637_Planet Glurg.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/638_Planet Glurg.jpg"
 			}
 		},
 		{
@@ -6314,9 +6314,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/252_Immolate.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/253_Immolate.jpg"
 			}
 		},
 		{
@@ -6334,9 +6334,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/219_Weave.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/220_Weave.jpg"
 			}
 		},
 		{
@@ -6384,9 +6384,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Expedition",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/237_Flamelit Expedition.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/238_Flamelit Expedition.jpg"
 			}
 		},
 		{
@@ -6414,9 +6414,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{G}{RWU}{RWU}",
 			"type": "Instant",
-			"collector_number": "583",
+			"collector_number": "584",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/583_Pikmin Forever!.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/584_Pikmin Forever!.jpg"
 			}
 		},
 		{
@@ -6454,9 +6454,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Expedition",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/203_Subterranean Expedition.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/204_Subterranean Expedition.jpg"
 			}
 		},
 		{
@@ -6494,9 +6494,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "618",
+			"collector_number": "619",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/618_Apocalyptic Panorama.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/619_Apocalyptic Panorama.jpg"
 			}
 		},
 		{
@@ -6504,9 +6504,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "620",
+			"collector_number": "621",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/620_Corroded Volcano.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/621_Corroded Volcano.jpg"
 			}
 		},
 		{
@@ -6514,9 +6514,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/231_Daos' Chase.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/232_Daos' Chase.jpg"
 			}
 		},
 		{
@@ -6524,9 +6524,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "624",
+			"collector_number": "625",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/624_Endless Stretches.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/625_Endless Stretches.jpg"
 			}
 		},
 		{
@@ -6534,9 +6534,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "629",
+			"collector_number": "630",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/629_Hietear, Tragic Cathedral.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/630_Hietear, Tragic Cathedral.jpg"
 			}
 		},
 		{
@@ -6554,9 +6554,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/267_Recall the End.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/268_Recall the End.jpg"
 			}
 		},
 		{
@@ -6564,9 +6564,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "616",
+			"collector_number": "617",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/616_Abandoned Home.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/617_Abandoned Home.jpg"
 			}
 		},
 		{
@@ -6574,9 +6574,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{C}",
 			"type": "Creature — Beast",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/6_Aethertaint Stalker.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/5_Aethertaint Stalker.jpg"
 			}
 		},
 		{
@@ -6584,9 +6584,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "617",
+			"collector_number": "618",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/617_Ancient Workshop.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/618_Ancient Workshop.jpg"
 			}
 		},
 		{
@@ -6594,9 +6594,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{2/W}{W}",
 			"type": "Enchantment",
-			"collector_number": "467",
+			"collector_number": "468",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/467_Attuned to Distotun.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/468_Attuned to Distotun.jpg"
 			}
 		},
 		{
@@ -6604,16 +6604,16 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "619",
+			"collector_number": "620",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/619_Chamber of Records_back.jpg"
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/620_Chamber of Records_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/619_Chamber of Records_front.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/620_Chamber of Records_front.jpg"
 			}
 		},
 		{
@@ -6651,9 +6651,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/242_Grasp at Remnants.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/243_Grasp at Remnants.jpg"
 			}
 		},
 		{
@@ -6661,9 +6661,9 @@
 			"rarity": "special",
 			"mana_cost": "{C}{C}{C}",
 			"type": "Legendary Creature — Angel Horror",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/7_Havenless Angel.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/6_Havenless Angel.jpg"
 			}
 		},
 		{
@@ -6671,9 +6671,9 @@
 			"rarity": "special",
 			"mana_cost": "{C}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/8_Hexedcrawler.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/7_Hexedcrawler.jpg"
 			}
 		},
 		{
@@ -6681,9 +6681,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Worm Elemental",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/249_Home-Seek Worm.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/250_Home-Seek Worm.jpg"
 			}
 		},
 		{
@@ -6691,9 +6691,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Bear",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/250_Igneous Mauler.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/251_Igneous Mauler.jpg"
 			}
 		},
 		{
@@ -6701,9 +6701,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/R}{R}",
 			"type": "Creature — Lizard Elemental",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/257_Magmascale Glutton.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/258_Magmascale Glutton.jpg"
 			}
 		},
 		{
@@ -6711,16 +6711,16 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Clue",
-			"collector_number": "599",
+			"collector_number": "600",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/599_Meeting Request_back.jpg"
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/600_Meeting Request_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/599_Meeting Request_front.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/600_Meeting Request_front.jpg"
 			}
 		},
 		{
@@ -6728,9 +6728,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}{W}{B}",
 			"type": "Legendary Sorcery",
-			"collector_number": "530",
+			"collector_number": "531",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/530_Mnemomantic Resurgence.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/531_Mnemomantic Resurgence.jpg"
 			}
 		},
 		{
@@ -6738,9 +6738,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/260_Molten Splash.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/261_Molten Splash.jpg"
 			}
 		},
 		{
@@ -6748,9 +6748,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Planeswalker — Myiraj",
-			"collector_number": "532",
+			"collector_number": "533",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/532_Myiraj, Journeying Mnemomancer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/533_Myiraj, Journeying Mnemomancer.jpg"
 			}
 		},
 		{
@@ -6768,9 +6768,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "634",
+			"collector_number": "635",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/634_Newfound Territory.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/635_Newfound Territory.jpg"
 			}
 		},
 		{
@@ -6778,9 +6778,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "474",
+			"collector_number": "475",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/474_Protective Memories.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/475_Protective Memories.jpg"
 			}
 		},
 		{
@@ -6788,16 +6788,16 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "540",
+			"collector_number": "541",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/540_Ripple Through Eternities_back.jpg"
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/541_Ripple Through Eternities_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/540_Ripple Through Eternities_front.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/541_Ripple Through Eternities_front.jpg"
 			}
 		},
 		{
@@ -6805,16 +6805,16 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Battle — Challenge",
-			"collector_number": "194",
+			"collector_number": "195",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/194_Ritual of Retrospection_back.jpg"
+					"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/195_Ritual of Retrospection_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/194_Ritual of Retrospection_front.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/195_Ritual of Retrospection_front.jpg"
 			}
 		},
 		{
@@ -6822,9 +6822,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Cat",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/274_Sear-Striped Ambusher.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/275_Sear-Striped Ambusher.jpg"
 			}
 		},
 		{
@@ -6832,9 +6832,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Clue",
-			"collector_number": "606",
+			"collector_number": "607",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/606_Seismic Forge.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/607_Seismic Forge.jpg"
 			}
 		},
 		{
@@ -6842,9 +6842,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/276_Shatter the Earth.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/277_Shatter the Earth.jpg"
 			}
 		},
 		{
@@ -6852,9 +6852,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}",
 			"type": "Instant",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/280_Spark of Memory.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/281_Spark of Memory.jpg"
 			}
 		},
 		{
@@ -6872,9 +6872,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "611",
+			"collector_number": "612",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/611_Spiritsteel Lance.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/612_Spiritsteel Lance.jpg"
 			}
 		},
 		{
@@ -6882,9 +6882,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "643",
+			"collector_number": "644",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/643_Splitting Barrens.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/644_Splitting Barrens.jpg"
 			}
 		},
 		{
@@ -6909,9 +6909,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "644",
+			"collector_number": "645",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/644_Temple of the Fallen Star.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/645_Temple of the Fallen Star.jpg"
 			}
 		},
 		{
@@ -6919,9 +6919,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "645",
+			"collector_number": "646",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/645_Temple of the Hidden Flame.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/646_Temple of the Hidden Flame.jpg"
 			}
 		},
 		{
@@ -6939,9 +6939,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "652",
+			"collector_number": "653",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/652_Volcanic Shelter.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/653_Volcanic Shelter.jpg"
 			}
 		},
 		{
@@ -6966,9 +6966,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legend ary Creature — Angel",
-			"collector_number": "464",
+			"collector_number": "465",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/464_Is Amy a House Gift.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/465_Is Amy a House Gift.jpg"
 			}
 		},
 		{
@@ -6976,9 +6976,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/135_You Try to Talk About Blue Prince.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/134_You Try to Talk About Blue Prince.jpg"
 			}
 		},
 		{
@@ -6986,9 +6986,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Lizard Wizard",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/291_Viashino Pyromaster.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/292_Viashino Pyromaster.jpg"
 			}
 		},
 		{
@@ -6996,9 +6996,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Boar",
-			"collector_number": "331",
+			"collector_number": "330",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/331_Runetusk Boar.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/330_Runetusk Boar.jpg"
 			}
 		},
 		{
@@ -7076,9 +7076,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/275_Set Alight.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/276_Set Alight.jpg"
 			}
 		},
 		{
@@ -7086,9 +7086,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Elemental Dragon Nightmare",
-			"collector_number": "511",
+			"collector_number": "512",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/511_Galdrashan, Apex of the Edge.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/512_Galdrashan, Apex of the Edge.jpg"
 			}
 		}
 	]
