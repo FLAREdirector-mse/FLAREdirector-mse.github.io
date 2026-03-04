@@ -3850,7 +3850,7 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Lord of the Mosh Pit",
+        "card_name": "Eyes Wide Shut",
         "number": 0,
         "shape": "normal",
         "set": "DEC25"
@@ -3880,7 +3880,7 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Eyes Wide Shut",
+        "card_name": "Right Behind You",
         "number": 0,
         "shape": "normal",
         "set": "DEC25"
@@ -3910,7 +3910,7 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Right Behind You",
+        "card_name": "Fruitless Persistence",
         "number": 0,
         "shape": "normal",
         "set": "DEC25"
@@ -3940,7 +3940,7 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Fruitless Persistence",
+        "card_name": "Absolute Dominion",
         "number": 0,
         "shape": "normal",
         "set": "DEC25"
@@ -3970,7 +3970,7 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Absolute Dominion",
+        "card_name": "Weave",
         "number": 0,
         "shape": "normal",
         "set": "DEC25"
@@ -4000,9 +4000,9 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Weave",
+        "card_name": "Subterranean Expedition",
         "number": 0,
-        "shape": "normal",
+        "shape": "class",
         "set": "DEC25"
     },
     {
@@ -4030,9 +4030,9 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Subterranean Expedition",
+        "card_name": "Disconnect",
         "number": 0,
-        "shape": "class",
+        "shape": "normal",
         "set": "DEC25"
     },
     {
@@ -4060,9 +4060,9 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Disconnect",
+        "card_name": "Ritual of Retrospection",
         "number": 0,
-        "shape": "normal",
+        "shape": "modal double faced split",
         "set": "DEC25"
     },
     {
@@ -4090,9 +4090,9 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Ritual of Retrospection",
-        "number": 0,
-        "shape": "modal double faced split",
+        "card_name": "Conquest of the Pit",
+        "number": 1,
+        "shape": "transform double faced split",
         "set": "DEC25"
     },
     {
@@ -4120,9 +4120,9 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Conquest of the Pit",
-        "number": 1,
-        "shape": "battle split",
+        "card_name": "Blown Cover",
+        "number": 125,
+        "shape": "normal",
         "set": "DEC25"
     },
     {
@@ -4150,8 +4150,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Blown Cover",
-        "number": 125,
+        "card_name": "Carefree Vagabond",
+        "number": 128,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4180,8 +4180,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Carefree Vagabond",
-        "number": 128,
+        "card_name": "Consult the Skeletons",
+        "number": 129,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4210,8 +4210,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Consult the Skeletons",
-        "number": 129,
+        "card_name": "Cruel Attendant",
+        "number": 130,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4240,8 +4240,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Cruel Attendant",
-        "number": 130,
+        "card_name": "Cruel Bargain",
+        "number": 131,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4270,8 +4270,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Cruel Bargain",
-        "number": 131,
+        "card_name": "Cruel Timekeeper",
+        "number": 132,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4300,8 +4300,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Cruel Timekeeper",
-        "number": 132,
+        "card_name": "Demon of Noble Work",
+        "number": 134,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4330,8 +4330,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Demon of Noble Work",
-        "number": 134,
+        "card_name": "Dig Through the",
+        "number": 135,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4360,8 +4360,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Dig Through the",
-        "number": 135,
+        "card_name": "Eager Candidates",
+        "number": 138,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4390,8 +4390,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Eager Candidates",
-        "number": 138,
+        "card_name": "Erstwhile Attendants",
+        "number": 139,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4417,8 +4417,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Erstwhile Attendants",
-        "number": 139,
+        "card_name": "Etherium Salvaging",
+        "number": 140,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4444,8 +4444,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Etherium Salvaging",
-        "number": 140,
+        "card_name": "Eva Unit 00",
+        "number": 141,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4471,8 +4471,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Eva Unit 00",
-        "number": 141,
+        "card_name": "Expert Intruder",
+        "number": 142,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4498,8 +4498,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Expert Intruder",
-        "number": 142,
+        "card_name": "Faerie Assassin",
+        "number": 143,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4525,8 +4525,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Faerie Assassin",
-        "number": 143,
+        "card_name": "Fearless Poacher",
+        "number": 144,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4552,8 +4552,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Fearless Poacher",
-        "number": 144,
+        "card_name": "Fettered Ambition",
+        "number": 146,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4579,8 +4579,8 @@
         "set": "DEC25"
     },
     {
-        "card_name": "Fettered Ambition",
-        "number": 146,
+        "card_name": "Goblin Bonethrower",
+        "number": 149,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4603,8 +4603,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Goblin Bonethrower",
-        "number": 149,
+        "card_name": "Harbinger of the Black Star",
+        "number": 151,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4627,8 +4627,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Harbinger of the Black Star",
-        "number": 151,
+        "card_name": "Kill and Devour",
+        "number": 155,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4651,8 +4651,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Kill and Devour",
-        "number": 155,
+        "card_name": "Lett, Who Eschews Aether",
+        "number": 157,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4675,8 +4675,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Lett, Who Eschews Aether",
-        "number": 157,
+        "card_name": "Liliana's Charm",
+        "number": 158,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4696,8 +4696,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Liliana's Charm",
-        "number": 158,
+        "card_name": "Modriss of Zargoth Fen",
+        "number": 160,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4717,8 +4717,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Modriss of Zargoth Fen",
-        "number": 160,
+        "card_name": "Nifty, Adamslayer",
+        "number": 162,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4738,8 +4738,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Nifty, Adamslayer",
-        "number": 162,
+        "card_name": "Nine-Lives Familiar",
+        "number": 163,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4759,8 +4759,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Nine-Lives Familiar",
-        "number": 163,
+        "card_name": "Party Hijacker",
+        "number": 164,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4780,8 +4780,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Party Hijacker",
-        "number": 164,
+        "card_name": "The Price of Knowledge",
+        "number": 165,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4801,8 +4801,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "The Price of Knowledge",
-        "number": 165,
+        "card_name": "Sangrite Harvest",
+        "number": 168,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4822,8 +4822,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sangrite Harvest",
-        "number": 168,
+        "card_name": "Sanguine Stalker",
+        "number": 169,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4843,8 +4843,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sanguine Stalker",
-        "number": 169,
+        "card_name": "Spectramorphosis",
+        "number": 175,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4864,8 +4864,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Spectramorphosis",
-        "number": 175,
+        "card_name": "Sphinx of Ambition",
+        "number": 176,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4885,8 +4885,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sphinx of Ambition",
-        "number": 176,
+        "card_name": "Spreader of Self",
+        "number": 178,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4906,8 +4906,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Spreader of Self",
-        "number": 178,
+        "card_name": "Starlight Invoker",
+        "number": 180,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4927,8 +4927,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Starlight Invoker",
-        "number": 180,
+        "card_name": "Strike from the Rooftops",
+        "number": 183,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4948,8 +4948,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Strike from the Rooftops",
-        "number": 183,
+        "card_name": "Thieves' Guild Slicktongue",
+        "number": 185,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4969,8 +4969,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Thieves' Guild Slicktongue",
-        "number": 185,
+        "card_name": "Tortured Artist",
+        "number": 188,
         "shape": "normal",
         "set": "DEC25"
     },
@@ -4979,24 +4979,6 @@
         "number": 256,
         "shape": "normal",
         "set": "DEC25"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Tortured Artist",
-        "number": 188,
-        "shape": "normal",
-        "set": "DEC25"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
