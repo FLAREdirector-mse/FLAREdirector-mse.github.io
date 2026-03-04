@@ -11,7 +11,7 @@
 	{ "cards":  [ "!group MorganWU", "!group MorganUB", "!group MorganBR", "!group MorganRG", "!group MorganGW" ] },
 	{ "cards":  [ "!group MorganWB", "!group MorganUR", "!group MorganBG", "!group MorganRW", "!group MorganGU" ] },
 	{ "cards":  [ "!group MorganWUB", "!group MorganUBR", "!group MorganBRG", "!group MorganRGW", "!group MorganGWU" ] },
-	{ "cards":  [ "!group MorganRWB", "!group MorganGUR", "!group MorganWBG", "!group MorganURW", "!group MorganBGU" ]ssssdasd },
+	{ "cards":  [ "!group MorganRWB", "!group MorganGUR", "!group MorganWBG", "!group MorganURW", "!group MorganBGU" ] },
 	{ "cards":  [ "!group MorganWUBR", "!group MorganUBRG", "!group MorganBRGW", "!group MorganRGWU", "!group MorganGWUB" ] },
 	{ "cards":  [ "!group MorganWUBRG" ] },
 	{ "cards":  [ "!group MorganC" ] },
