@@ -1,4 +1,1848 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Phoberos Cockatrice added.
+Divine General Mahoraga added.
+Dr. John Watson added.
+Fortune's Favor added.
+Frieren, the Slayer added.
+Himmel the Hero added.
+Holmes, Who Fears Nothing added.
+Irene Adler, the Woman added.
+Journey to Aureole added.
+Logoia, Soul of Spirits added.
+Satoru Gojo, the Strongest added.
+Sherlock Holmes, Bohemian added.
+Sherlock, Consulting Detective added.
+Sukuna, Disgraced One added.
+Yahenni, a Dying Party-Son added.
+Fowl of the Sunset added.
+A Killing Joke added.
+Retrieval Run added.
+Starving Broodmother added.
+Enduring Euphoria added.
+Solemn Riteworld added.
+Suspicious Wickerfolk added.
+Three Kisses and a Lie added.
+A Wonderful, Awful Idea added.
+Corrupt Kami's Embrace added.
+Hazel, Magitech Crafter added.
+Bizarrazad added.
+Coalbark Revenant added.
+Razorkin Ecstasy added.
+Reaver's Frenzy added.
+Thrashing Excess added.
+Phyrexian Broodmother added.
+Quick Repair added.
+Remorseful Replica added.
+Silk Weald added.
+Find the Garden Party added.
+Hal Jordan, Green Lantern added.
+Threat Display added.
+Biosphere Simulant added.
+Fear of Amphibians added.
+Swing Onto the Scene added.
+Immense Discovery added.
+Protective Bodyguard added.
+Solemn Paradise added.
+Elven Wickercrafter added.
+For Those That Come After added.
+Split Stitches added.
+Colossal Courage added.
+Contractual Occupation added.
+Scieth, Seeking Witnesses added.
+Song of Assimilation added.
+Ash's Pikachu added.
+Fear of Deadlines added.
+Hidden-Flame Heron added.
+Lunatic Red Eyes added.
+Ten-Thousandth New Year added.
+Animar's Sanction added.
+Fight for Our City added.
+Morgan, Head Elf added.
+Cabaretti Menagerist added.
+Ripieno Concerto added.
+Harmonious Migration added.
+Kami-Guided Bushi added.
+Neriv's Thunder added.
+Jurina, General at the End added.
+Mardu Stormcaller added.
+Stampeding Stormherd added.
+Lady Spider, Inventive added.
+Network Cache added.
+Search for Clues added.
+The Cure for Thirst added.
+Undying Hatred added.
+Unproven Arrangement added.
+League Recruitment added.
+Nerix, of the Riddle Brood added.
+Developing Thoughtblade added.
+Refraction Gambit added.
+Tilda of the Branching Paths added.
+We All Become One added.
+Essence Release added.
+Sublime Cosmogrand added.
+The Kin-Tree Burial added.
+Close Enough added.
+Final Raybearers added.
+Squeakeasy added.
+Hekra, Maggots' Majesty added.
+Lost to the House added.
+Orb of Vitality added.
+Deceptions of Freedom added.
+Dream-Pod Nursery added.
+Envoy of the Clouds added.
+Auroran Alopeke added.
+Reign of the Supermen! added.
+Triple-Cross added.
+Flandre & Remilia Scarlet added.
+From One to Infinity added.
+Gentle Spring added.
+Gift Recycling added.
+Aberrant Kirin added.
+Numbing Reiteration added.
+Cure Administrant added.
+Draft Dodger added.
+Heavenly Painter added.
+Patient Master added.
+Politician's Talent added.
+Weird Parodist added.
+Afterthought Seizer added.
+Allan added.
+Chicks Dig Giant Robots added.
+Collective Solution added.
+Distinguished Knuckleblade added.
+Facelifter added.
+Full Length Transformation Sequence added.
+He Left His Family Behind! added.
+Iceman, Cool Kid added.
+Paliano Courtlich added.
+Panopticon's Blind Spot added.
+Parting Clouds added.
+Picked Skaab added.
+Pizzeria Guest added.
+Professor Roalesk added.
+Amonkhet Dissenter added.
+Bunk Dead added.
+Craniomancy added.
+Freak of the Dark Woods added.
+Humerus Jester added.
+Icon of Sin, Imprisoned added.
+Meathook Massacre 3D added.
+Quick Draw added.
+Rein-Carnation added.
+Serf of the Pit added.
+Sultai Kitchen added.
+Tongue Tied added.
+The Bite of '87 added.
+Curse of the Lover Girl added.
+Daretti's Talent added.
+The Dragon from Dungeons & Dragons added.
+Indeterminately-Headed Giant added.
+Majima Everywhere added.
+Monocular Philosopher added.
+Pyromancer's Initiative added.
+Belief in a Higher Power added.
+Obstinate Obstacle added.
+Ornithophobe added.
+Pawning Ouphe added.
+Scouting Sheep added.
+Splitting Image added.
+Spirit Realm Vacation added.
+Duskmourn Deathriders added.
+Hollow Automaton added.
+Mister Integer added.
+Renegade Killer added.
+Ban Crabs added.
+Medieval Dead added.
+BOY WIF REASONABLE SIZE SHOOTA added.
+Slot Machine of Xenagos added.
+Steamflogger Crank added.
+Friendly Neighborhood Sliver added.
+Gogh Adman added.
+Cyklyst of the Thousand Pedals added.
+Chain of Memories added.
+Michiru, Runaway Tanuki added.
+Scream Door added.
+Bloodgush & Goresplosion, Attorneys at Law added.
+The Compleatductor added.
+Mantis added.
+Rogue and Gambit added.
+Sidisi, Undead Gumtail added.
+Taliyah, the Stoneweaver added.
+Orcish Haggis added.
+Santa Hat added.
+Common Hybrid added.
+Breakfast Crunchwrap added.
+Filigree Hybrid added.
+Lich's Phylactery added.
+Myr Conduit added.
+No. 2 Pencil added.
+The Shattered Veil added.
+Slumbering Guardian added.
+Super Duper Pointy Hat added.
+Weaponized Microwave added.
+Brilliant Nebula added.
+Drannith Rebuilt added.
+Dungeon Construction Site added.
+Flynn's Grid added.
+Thousandfold Seas of Rabiah added.
+Steel Taurus added.
+Scrap Baby added.
+Golden Skeleton added.
+Bonfire of Safety added.
+Cauldron of Growth added.
+Explosive Ordnance added.
+Forever Shifting Dice added.
+Tutoring Hand added.
+Broken Thopterpack added.
+Identity Disc added.
+The Knight's Blade added.
+City of Ephyra added.
+Blazing Cat added.
+Hungry Dreadmaw added.
+Undying Friend added.
+Dragon of the Dungeon added.
+Wind Drake added.
+Caer Flur's Guard added.
+Faerie Searcher added.
+Spreading Horror added.
+Mothsworn Soldier added.
+Seeking Ninja added.
+Hidden Assassin added.
+Unified Force added.
+Reminiscence added.
+Dragon of the Hive added.
+Thri-Kreen Soldier added.
+Tiderider added.
+Feral Orc Chieftain added.
+Ember Sliver added.
+Snake of Two Clans added.
+Attack of the Goblins added.
+Sword of the King added.
+Beast of War added.
+Magical Girl Stella added.
+Wash Buckler added.
+A Mage's Dance added.
+A Veritable Menagerie added.
+Blood Magic added.
+Fading Ranks added.
+Fae Posse added.
+Frozen in the Ice added.
+Learning from Pain added.
+Potentially Popular Attraction added.
+Temple of the Lost added.
+Traitorous Elector added.
+Growing Blade added.
+Oath of the Ancients added.
+Magical Cipher added.
+Quieted Mind added.
+Story of the Forgotten added.
+The First Oath added.
+The Most Epic Tale added.
+A Frightening Blow added.
+Cat Scratch added.
+Inexperienced Learning added.
+Power of the Grave added.
+Swept Away added.
+Turn to Bats added.
+Cubic Focus added.
+Dredge, Forgotten Soul added.
+HWSS Agamemnon added.
+The First Avishkari Aircraft added.
+The Iron Lung added.
+Sarandiel, Savior of the Meek added.
+Zacian, Sword of Justice added.
+Eres, Embersworn Skyraider added.
+Omri, Woodrage Zealot added.
+Jegantha, the Soothed Flame added.
+Arzas, Awakener of the Wilds added.
+Shyrrik, Mind Master added.
+Thanatos, Master of Death added.
+Dawn, Away from Valgavoth added.
+Vin, Mistborn added.
+Aurelia, Knower of Many added.
+Saito, Caretaker of Graves added.
+Kirby, Succing Everything added.
+Bered, Mage Guild Leader added.
+Shade, Living Shadow added.
+Rintaro, Poisoned Fang added.
+Salkhin, Dragon of the Land added.
+A Sudden Find added.
+Evidence of the Calamity added.
+Growing Hunger added.
+Wicked Maelstrom added.
+Skeletal Reprise added.
+Alara added.
+Heartbeat added.
+Advocate of the Spark added.
+Ari'El, Remnant of Hope added.
+Dragon Eater added.
+Eludha Awakening added.
+I Thought I Was an Angel added.
+Intentionally Left Blank added.
+Invisible Means of Support added.
+Lucy, Cheer Captain added.
+Rise to the Challenge added.
+Space Out added.
+Take the Hit added.
+With a Vengeance added.
+Bioengineered Wind Drake added.
+Elegy of Syb'Sarixis added.
+Jenny, the Nerd added.
+Protection of the Guilds added.
+Staff of the Mad Sorcerer added.
+Stutter Cutter added.
+Trianna, Face of Regret added.
+Adamantine Necromancer added.
+Answer Withengar's Call added.
+Deal With Death added.
+Inciter Despot added.
+Liliana of the Last Breath added.
+Million Vengeful Blades Style added.
+Most Likely to Die to Removal added.
+Sasha, the Outcast added.
+Solemn Sliver added.
+Spiteblade added.
+Storm Killer added.
+Thousand-Lash Shredder added.
+X-Sang-Win-8 added.
+Civilizations Burned at Our Whims added.
+Dawn, Scrapper Adept added.
+Exochromasis added.
+Mage-Ring Holdout added.
+Pyrokine Phoenix added.
+Ritual of the Consuming Blade added.
+Vicious Tabby added.
+Vulshok Armorer added.
+Cult of the Fang added.
+Sentinel of the Sacred Curve added.
+Aurish-Auricha, Life's Purpose added.
+Cultist of Aurish-Auricha added.
+Watching You added.
+Attack on the Thieves' Guild added.
+Psyche Ripper added.
+Soulthief added.
+Timecutter Samantha added.
+Toxic Thoughts added.
+We Lived Here Long Before You added.
+Yrina, Queen of Crows added.
+Hymn to Klothys added.
+Blood for Blood added.
+Skrelv, Cut from the Core added.
+Everstorm Drake added.
+Floodboil Overlord added.
+Mephiston, Lord of Death added.
+Rakhamezhi, Indomitable added.
+Stormswimmer Regent added.
+Rise From the Sixth Circle added.
+Aryxi, Blademaster added.
+Vicious Avenger added.
+Angel Dust, Under the Eyes added.
+Grimora's Reign added.
+History of the Temur added.
+Iyana, Oblivion Dancer added.
+Kherek-Shaula, Lord of Song added.
+A Lesson in Agony added.
+Lynuzhi, Million Shadows added.
+Morgan, Flare Director added.
+The Overbeast added.
+Rezek Ko-Dzell, Amnesiarch added.
+Salkhin and Tsagaan added.
+Syb-Saryxis, Forged of Deeds added.
+Thus Fall All Who Oppose Us added.
+Bloodwitch Guildmage added.
+Burglar Cat added.
+Collapse Disparity added.
+Eleven, Beyond Shadows' Grasp added.
+Psychic Hammers added.
+Three Judgments added.
+Cluster Bomber Squadron added.
+Giant Head added.
+The Iron Stair added.
+Skyship Intrepid added.
+Resurrection Rota added.
+
+
+Bough-Breaker Outcast
+
+Battlefield Prayer
+
+Singularity of Purpose
+
+Superior Scorn
+
+Eye on the Prize
+
+Manasvi Needs a Smoke
+
+Salkhin, the Rain After Storm
+
+Tsagaan, Over Troubled Waters
+
+Simic Company Printer
+
+Feline of Life and Death
+
+Feline of Life and Death
+
+Feline of Life and Death
+
+Copy
+
+Alice, Lost in Size and Shadows
+
+Ennard, Horror of Wires
+
+Island Leviathan
+
+Tartarus Engine
+
+The Flesh That Hates
+
+Those Who Remain
+
+Byleth, Proven Professor
+
+Edelgard, Flame Emperor
+
+Astartes Warrior
+
+Chaos Knights of Nurgle
+
+Glorious Rot
+
+Ku'gath, Plaguefather
+
+Maggotkin
+
+Mansion of the Plaguelord
+
+March of the Undying
+
+Necrotic Summonings
+
+Plaguebearers
+
+Sigil of Nurgle
+
+Star Rotspawn
+
+Ethereal Differentialist
+
+Heisenberg
+
+Jesse Pinkman
+
+Shiv Dragon
+
+Spreader of Self
+
+Wander the Infinite
+
+We Need to Cook
+
+Drannith Patrol
+
+Trouble in Twos
+
+Midnight Carrier
+
+Fearless Poacher
+
+Kill and Devour
+
+Lavabrink Stinger
+
+Lethal Swordclaw
+
+Tiger-Dillo
+
+Bramble Seeker
+
+Traverse the Plane
+
+Evolve Beyond Death
+
+Syldra, Apex of Depths
+
+Cat-Owl
+
+Evolving Wilds
+
+Aminatou's Grace
+
+Into the Unknown
+
+Curious Fae
+
+Lainur of Lives Beyond
+
+Harbinger of the Black Star
+
+Starlight Invoker
+
+Aminatou, Daughter of Fate
+
+Daughter of the Frost
+
+Destiny's Verdict
+
+Fates Unbound
+
+Journey onto Dreams
+
+Abandoned Chapel
+
+Dawnbound Vista
+
+Parched Marsh
+
+Alia, Bringer of Snow
+
+Secret Admirer
+
+Friendly Rival
+
+The Black Fox
+
+Signature Slash
+
+Leaping Sliver
+
+Deception Sliver
+
+Trawling Sliver
+
+Unscrupulous Sliver
+
+Virulent Sliver
+
+Sliver's Singe
+
+Wrath Sliver
+
+Branchwinder Sliver
+
+Ephemeral Sliver
+
+Sliver Hive-Tender
+
+Jovial Rift-Mage
+
+Twin-Blade Ravager
+
+Alliance Hawk
+
+Sphinx of the End
+
+Flock of Doves
+
+The Price of Knowledge
+
+Dealer's Choice
+
+Searching the Wilds
+
+Soul of the Beast
+
+Abyssal Persistant
+
+Battle Ready Vigil
+
+Costly Knowledge
+
+Hellbound Rhox
+
+Inner Light
+
+Jubilant Captain
+
+Reminiscing Companion
+
+Soul Division
+
+Swordbourne Slash
+
+Trial by Fire
+
+Volo, Monster Cataloguer
+rules_text: Multitude [i](If you control four or more non- [i]Human creatures with unique creature types, you get the zookeeper's blessing for the rest of the game.)[/i]
+[/i]Whenever this creature deals combat damage
+to a player, if you have the zookeeper's blessing, draw a card for each non-Human creature you control. => Multitude [i](If you control four or more non- [i]Human creatures with unique creature types, you get the zookeeper's blessing for the rest of the game.)[/i]
+[/i]Whenever Volo deals combat damage to a player, if you have the zookeeper's blessing, draw a card for each non-Human creature you control.
+
+Gild-Scale Defector
+
+Nomadic Necroseer
+
+Wayward Disciple
+
+Enlightened Marauder
+
+Scrapscaping
+
+Molten Core
+
+Heapseeker
+
+Conspiracy Board
+
+Trinket Snatcher
+
+Bright Ol' Barthimew
+
+Desiccated Dragon
+
+Fane, Dread Crow
+
+Grxlmet, Friend of Fiends
+
+Mydrin, Hydro Cerebrus
+
+Remur, Strong and True
+
+Breya, the Crux
+
+Three-Headed Homunculus
+
+Subdivide
+
+Inkwell Phial
+
+Chalice of Reshaping
+
+Fae of Twenty-Three Winds
+
+Shimmering Puppet
+
+Adaptor Novuform
+
+Confounding Monolith
+
+Aetherhusher
+
+Mentalist Aether-Lich
+
+Vectis Mindshaper
+
+Etherium Salvaging
+
+Matter Claimer
+
+Breya's Collector
+
+Crucius' Charm
+
+Make Aware
+
+Monitor Glider
+
+Nullmage's Innova
+
+The Lighthouse
+
+Deanimate
+
+Iteration Sphinx
+
+Vicarious Sentinel
+
+Crucius the Mad
+
+Glass-Dune Sphinx
+
+Retinue Charger
+
+Repurposed Return
+
+Visitarium Informant
+
+Imbue with Etherium
+
+Sphinx of Ambition
+
+Aerial Foundry
+
+Suspended Tide
+
+Persistent Aether-Liches
+
+Kemuel, the Riddle Gate
+
+Aether Dispersal
+
+Riddling Gaze
+
+At a Loss
+
+Shadow Way Mage
+
+Demon of Noble Work
+
+Empyrial Experiment
+
+Galling Mist
+
+Lett, Who Eschews Aether
+
+Lodus of the Ethersworn
+
+Lordly Aetherlich
+
+Multifaceted Interloper
+
+Repurposer Golem
+
+Seeker Knight
+
+Telemin Trainer
+
+Vectis Outfitter
+
+Sangrite Harvest
+
+Winter's Blessing
+
+Young Witches
+
+River's Blessing
+
+Widow's Blessing
+
+Heartless Blessing
+
+Isaac & Miria, Joyful Rapscallions
+
+Hunger's Blessing
+
+Muscarian Brew
+
+Your Power is Mine Now!
+
+Brawling Mako
+
+Potion
+
+Heedless Investigator
+
+Eager Candidates
+
+Friendly Inviters
+
+Coax into the Feast
+
+Dreading the Inevitable
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+I — Exile target nonland permanent.
+II — You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+Exile target nonland permanent.
+You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+I — Exile target nonland permanent.
+II — You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Hexproof
+Exile target nonland permanent.
+You may sacrifice a creature or token.
+If you do, remove
+a lore counter from this Saga and add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+Search your library for a Leviathan card,
+reveal it, put it into your hand, then shuffle.
+
+Envoy of the Leviathan
+
+Karian, Soul of the Cult
+
+Lull with Secrets
+
+Maw, the Sudden Extinction
+
+Morbid Séance
+
+'Til its Arrival
+
+Yann, Eternal Victim
+
+Rebirthing Circle
+
+Sanctum of the Soulless
+
+Spirit
+
+Citizen
+
+Deliver the Goods
+
+Reindeer
+
+Beguiling Speech
+
+May I Have Your Name
+
+Prophetic Sight
+
+Faerie Assassin
+
+Faerie Dealmaker
+
+Purrrgatory Prowler
+
+Entrancing Fey
+
+Hypnotic Ninja
+
+Misleading Moonlight
+
+Spill the Cauldron
+
+Arlette, Oona's Firstborn
+
+Dark Magician
+
+Alastor, the Radio Demon
+
+Angel Dust, Hell's Darling
+
+Blitzø, I.M.P. Boss
+
+Charlie Morningstar, Redeemer
+
+Husk, High Roller
+type: Legendary Creature — Dog Demon => Legendary Creature — Cat Demon
+
+It That Glistens
+
+Lucifer Morningstar
+
+Nifty, Adamslayer
+
+Sir Pentious, Sinful Scientist
+
+Stolas, Goetia Prince
+
+Vaggie, Fallen Angel
+
+Vox, Voice of the People
+
+Arinelle, the Frozen Sea
+
+Egg Pilot
+
+Highland Caller
+
+Planar Rebirth
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — If this Saga was cast, exile all other permanents.
+II, III, IV — Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+V — For each color among other permanents you control, discover 10. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+If this Saga was cast, exile all other permanents.
+Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+For each color among other permanents you control, discover 10.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — If this Saga was cast, exile all other permanents.
+II, III, IV — Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+V — For each color among other permanents you control, discover 10. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+If this Saga was cast, exile all other permanents.
+Each player
+chooses up to three target permanent cards exiled with this Saga. Return each card chosen this way to the battlefield under its owner's control.
+For each color among other permanents you control, discover 10.
+
+Iconoclasm of Horomazes
+
+Ulrike, Silvered Moonmist
+
+Flametongue Myr
+
+Lost to Meadows
+
+Myr
+
+Myr
+
+Urtetian Schema
+
+Chargohr, Bloodmad Lich
+
+Eva Unit 00
+
+Gargantuan Mauler
+
+Lentavore
+
+Above It All
+
+First Contact
+
+Towering Archangel
+
+Condemnation
+
+Divine Flourish
+
+Emeria's Redeemer
+
+Scouring Scions
+
+That Which Sets the Sun
+
+To Dust Once More
+
+Iona, Skyclave Sentinel
+
+Crimson Snapper
+
+Crom, Insatiable Ape
+
+Elder Deepwood
+
+Gorichal, Blightful Deus
+
+K1, the Test Core
+
+Rolan, Paragon of Bant
+
+Torka, the Turtle King
+
+Verdant Snapper
+
+Vespik, Sanguine Deus
+
+Vorazoa
+
+Bloodsecrator Demon
+
+Dripping Perfection
+
+Leprosy Dribbler
+
+Phyrexian Fleshgrinder
+
+Solitary Groffskithur
+
+Kyubey, Messenger of Magic
+
+Long Hat Lily
+
+Magical Girl Transformation
+
+Sailor Moon, Light of Justice
+
+Ballybog Geezer
+
+Innocent Inmate
+
+Inspirational Wulfenite
+
+Saruli Oathseeder
+
+Talruum Remnant
+
+Mossback Elk
+
+Obligation Crown
+
+Obsession Crown
+
+Obtention Crown
+
+Obviation Crown
+
+Sacred Starseeker
+
+Spectramorphosis
+
+Moonlace Clique
+
+Overgrown Bogle
+
+Screeching Boggart
+
+Witch of the Deeps
+
+Moon's Echo
+
+Mire's Might
+
+Grazatl, Moon's Call
+
+Grazatl's Command
+
+Grisly Baryonyx
+
+Lurking Carnotaur
+
+Scartin, Dean of Exploration
+
+Verdant Altisaur
+
+Robe of Oblivion
+
+Display Parlor
+
+Suffering Venger
+
+Unalike Remorse
+
+Chittering Scavenger
+
+Strong Back
+
+Armory Paladin
+
+Benefactor's Intervention
+
+Bureau Headmaster
+
+Carnival Recollections
+
+City, Cultish Evangel
+
+Dawn, Clever Inventor
+
+Shimmervibe
+
+Fortified Village
+
+Melatorok
+
+Cynder, Shadowdancer
+
+Whirlwind, Ultimate Rainbower
+
+Mirror of Mystery
+
+Winged Sapphire
+
+Elana, Canopy Whisperer
+
+Ossified by Coral
+
+Hangman's Tangle
+
+Adoranz's Snatcher
+
+Angel of the Verge
+
+Adoranz the Conquerer
+
+Elvar's Pride
+
+Rithe, the Blightswarm
+
+Elvar's Tears
+
+Exploring Crew
+
+Combat Mobilization Beam
+
+Foretelling Horizons
+
+Ignited Memory Jar
+
+Insufferable Hubris
+
+Kranker Surgeon
+
+Liquimetalworker
+
+Scrap Scout
+
+Shimmering Cavern
+
+Thez, Professional Disassembler
+
+Timespiraled
+
+Yawgmoth Hideout
+
+Aurelia's Lieutenant
+
+Chaos
+
+Effigies of Orzhova
+
+Erstwhile Attendants
+
+Experiment
+
+Hydrofungal Specimen
+
+Prerogative of New Prahv
+
+Prophet of the World Tree
+
+Selective Truths
+
+Slizt Clan Operative
+
+Absorb Knowledge
+
+Ashfeather Plunderer
+
+Cloudcaller Whale
+
+Exemplar Operator
+
+Gunpowder Brawler
+
+Lost Compass
+
+Map
+
+Rouse the Young
+
+The Crab Raver
+
+Unexpected Torrent
+
+Worldheart Pinnacle
+
+Xaver, Uhuru Proprietor
+
+Remnants of a World Long Past
+
+Spires that Reach to the Heavens
+
+The Wargrounds of Gods New and Old
+
+Cheering Procession Leader
+
+Deluging Amabie
+
+Dokuro, Yesterday's Grudge
+
+Kaito, Stinging Shadow
+
+Mighty Sealmaster
+
+Murderous Duplicator
+
+Rampaging Megabeetle
+
+Reibai-shi, Deity Channeler
+
+Revengful Bakekujira
+
+Stealthy Vaultbreaker
+
+Wicked House Spirit
+
+Aggress Dread
+
+Castellabeast
+
+Disciples of Takot
+
+Embracing Change
+
+Fettered Ambition
+
+Harrowing End
+
+Horror
+
+Mania Bawn
+
+Odyseeker
+
+Possibility Dreg
+
+Shahar, Teiran Escapist
+
+Somnikinesis
+
+Sopor Mimic
+
+Unfaltering Daughter
+
+Hill Giant
+
+Unruly Mob
+
+Song of a New Universe
+
+Creekside Shellodon
+
+False Wyvern
+
+Foreverbeast's Kin
+
+Gentle Heavyshell
+
+Polyfox Pack
+
+Razorhorn Charger
+
+Jelena, Friend of the Sea
+
+Consult the Skeletons
+
+Modriss of Zargoth Fen
+
+Morbulat, Draining Puppeteer
+
+Sanguine Stalker
+
+Unlock the Tomb
+
+Hazardous Sparks
+
+The Clattering Cavalier
+
+Hazran the Bonelord
+
+Replace Soul
+
+Scathanna, Dauthi Remnant
+
+The Glimmering Eviscerator
+
+Overgrown Boneyard
+
+Skeleton
+
+Skeleton
+
+Clue Skeleton
+
+Cruel Timekeeper
+
+Lord of Eighteen Plagues
+
+Witness of the Glade
+
+Chronicler of Obsession
+
+Cor, Baron of the West Woods
+
+Cedric, Blade of Kell's Ridge
+
+Verlis of House Morgont
+
+Liliana's Charm
+
+Toll of Winter
+
+Voldaren Venerator
+
+Bestial Rebirth
+
+Fires of Ketria
+
+Spell Riposte
+
+Mr. Orfeo's Business Associate
+
+Redoubled Fury
+
+Afterlife Seer
+
+Velandra, Guilt Trapper
+
+Sincerest Form of Flattery
+
+Magda Zalken
+
+The Hunter's Quarry
+
+Magda's Hideout
+
+Zalken Mansion
+
+Ready the Blade
+
+Valor Unending
+
+Through the Heart
+
+Versatile Technique
+
+Final Flourish
+
+Practice Makes Progress
+
+Battlefield Revenant
+
+Hollow Victory
+
+Beloved Protector
+
+The Profane Marionettist
+
+Expropriate
+
+Trail of Evidence
+
+Treasure Cruise
+
+The Walrus Captain
+
+Cruel Bargain
+
+Nine-Lives Familiar
+
+Queen Vanessa
+
+The Akroan War
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature for as long as The Akroan War remains on the battlefield.
+II — Until your next turn, creatures your opponents control attack each combat if able.
+III — Each tapped creature deals damage to itself equal to its power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Gain control of target creature for as long as The Akroan War remains on the battlefield.
+Until your next turn, creatures your opponents control attack each combat if able.
+Each tapped creature deals damage to itself equal to its power.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature for as long as The Akroan War remains on the battlefield.
+II — Until your next turn, creatures your opponents control attack each combat if able.
+III — Each tapped creature deals damage to itself equal to its power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Gain control of target creature for as long as The Akroan War remains on the battlefield.
+Until your next turn, creatures your opponents control attack each combat if able.
+Each tapped creature deals damage to itself equal to its power.
+
+Ball Lightning
+
+Food Fight
+
+Exploration
+
+Killer Service
+
+The Empress
+
+Hat Kid
+
+Mafia Boss
+
+Mustache Girl
+
+Putrefy
+
+The Conductor
+
+DJ Grooves
+
+The Snatcher
+
+Crown of Gondor
+
+Sol Ring
+
+Thriving Bluff
+
+Thriving Grove
+
+Thriving Heath
+
+Thriving Isle
+
+Thriving Moor
+
+Wayfarer's Shrine
+
+Treasure
+
+Planar Defence Initiative
+
+Stockpile Initiative
+
+Freeway Getaway
+
+Rylai, the Crystal Maiden
+
+Rubick, the Grand Magus
+
+Vesperian Jethawk
+
+Blown Cover
+
+Lanaya, the Templar Assassin
+
+Neurodisruptor
+
+O.I.A. Spook
+
+Aurel, the Gyrocopter
+
+C.G.B. Handler
+
+Negotiation Provocation
+
+Vibe Investing
+
+Anarch Hotshot
+
+Coshan Armour
+
+Leviathan, the Tidehunter
+
+Assured Destruction
+
+Missile
+
+Disturbing Revelation
+
+Cthulhu, Lying Dreaming
+
+Deep Ones of Innsmouth
+
+Herbert West
+
+Mi-Go
+
+Nyarlathotep
+
+The Necronomicon
+
+Brineboil Trainee
+
+Butchershop Quartet
+
+Enraptured Audience
+
+Fevered Masterstroke
+
+Fleetfoot Crasher
+
+Inkblot Trespasser
+
+Marble Hulk
+
+Raucous Audience
+
+Snuffling Sweetseeker
+
+Symphony of Storms
+
+Cruel Attendant
+
+Killer Feast
+
+Waning Innovator
+
+Party Hijacker
+
+Red Sun Rising
+
+Side Knife
+
+Stylish Kobold
+
+Spirit Caller
+
+Thieves' Guild Slicktongue
+
+Lord Downey, Master Assassin
+
+Assembling Mutterers
+
+Persistent Mumbler
+
+Expert Intruder
+
+Strike from the Rooftops
+
+J.H. Boggis, Bespoke Thief
+
+Molly, Queen of the Beggars
+
+Demander of a Chip
+
+Subtle Submersible
+
+Lewis Hamiltongue, Ejection Specialist
+
+Planestrider, Docking System
+
+Nameless Follower
+
+Giftbearer
+
+Elusive Seabane
+
+Dig Through the
+
+Goblin Bonethrower
+
+Wandering Corpse Eaters
+
+Flametouched Warrior
+
+Rowanwood Ent
+
+Pale-Rock Hermit
+
+Cursed Hollow
+
+Foreboding Temple
+
+Magmaflow Cavern
+
+Ruins of Somewhere
+
+Silent Shoal
+
+Verdant Weald
+
+Psionic Combatant
+
+Lord of the Mosh Pit
+
+Figure of Tragedy
+
+Fire Auditorium
+
+Mysterious Bladebike
+
+Gravebloom Kirin
+
+Moonlight Prancer
+
+All-Smile Masquerade
+
+Awaken Sleeping Power
+
+Cogwork Gate
+
+Corset Dragon
+
+Ever-Sprawling
+
+Extermination Squad
+
+Eyes Wide Shut
+
+Fear of Being Forgotten
+
+Fervent Roleplayer
+
+Glimmerweaver
+
+Grinning Wickerfolk
+
+House Observatory
+
+Nightcrawler, Tricky Teleporter
+
+RARE! weed smorking loot
+
+Right Behind You
+
+Rogue, Kiss of Death
+
+To Commit Murder
+
+Tron Ares Ticket
+
+Unsettling Ritual
+
+Divayth Fyr, Clone Creator
+
+Fruitless Persistence
+
+Monokuma, Headmaster
+
+Mudcrab Merchant
+
+Robert and Rosalind
+
+Mecatol Rex, Wasted Throne
+
+There Is No Escape
+
+Gaea's Nursery
+
+Icatian Spear-Speaker
+
+Recurring Daydream
+
+Sultai Educator
+
+Universal Public Housing
+
+Absolute Dominion
+
+Bonded Bands
+
+Heir Revealed
+
+Marsten, King of Murk
+
+Nightmares Made Manifest
+
+Popular Uprising
+
+Ulterior Motives
+
+Mounted Strassi
+
+Sun's Historian
+
+Protectors from Beyond
+
+Pi Day
+
+Sinister Cypress
+
+Meowth
+
+Patches the Pirate
+
+Ragnaros the Firelord
+
+Rocket League
+
+The Doom Slayer
+
+Garrosh Hellscream
+
+Music Baby
+
+How to Teleport
+
+Magic I Want You
+
+Carefree Vagabond
+
+Dream Sequence
+
+Alone at the Edge of the World
+
+Dead Man Flexin'
+
+Jane Remover
+
+The Horn of Valere
+
+Kairi, Princess of Heart
+
+The Hourglass of Time
+
+Duncan, the Spell Catcher
+
+Glaurung, the Great Worm
+
+Jezrien, Herald of Kings
+
+Particular Acolyte
+
+Summon Simba
+
+Alexa, the Bright Blossom
+
+Composer of Biographies
+
+Fleur de Violet
+
+Mira, Eldrazi Beckoner
+
+Render Fleeting
+
+Scourge of Oxid Ridge
+
+Take It from the Top
+
+Tortured Artist
+
+Your Story
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile up to one target instant or sorcery card in your graveyard with mana value less than or equal to twice the number of lore counters on Your Story. Copy that card. You may cast the copy without paying its mana cost.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile up to one target instant or sorcery card in your graveyard with mana value less than or equal to twice the number of lore counters on Your Story. Copy that card. You may cast the copy without paying its mana cost.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile up to one target instant or sorcery card in your graveyard with mana value less than or equal to twice the number of lore counters on Your Story. Copy that card. You may cast the copy without paying its mana cost.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile up to one target instant or sorcery card in your graveyard with mana value less than or equal to twice the number of lore counters on Your Story. Copy that card. You may cast the copy without paying its mana cost.
+​
+​
+
+Creeping Shadows
+
+Naeth the Immovable
+
+Nyctophobia
+
+Planet Glurg
+
+Bouncing Flask
+
+Face Trader, Merchant of Masks
+
+Heatsinks
+
+Immolate
+
+Judgment
+
+Weave
+
+Aerial Expedition
+
+Aquatic Expedition
+
+Blue Pikmin
+
+Candypop Expedition
+
+Flamelit Expedition
+
+Glow Pikmin
+
+Ice Pikmin
+
+Pikmin Forever!
+
+Purple Pikmin
+
+Red Pikmin
+
+Rock Pikmin
+
+Subterranean Expedition
+
+White Pikmin
+
+Winged Pikmin
+
+Yellow Pikmin
+
+Apocalyptic Panorama
+
+Corroded Volcano
+
+Daos' Chase
+
+Endless Stretches
+
+Hietear, Tragic Cathedral
+
+Myiraj's Search
+
+Recall the End
+
+Abandoned Home
+
+Aethertaint Stalker
+
+Ancient Workshop
+
+Attuned to Distotun
+
+Chamber of Records
+
+Daos, Counterfeit Pursuer
+
+Disconnect
+
+Fluttering Restoration
+
+Grasp at Remnants
+
+Havenless Angel
+
+Hexedcrawler
+
+Home-Seek Worm
+
+Igneous Mauler
+
+Magmascale Glutton
+
+Meeting Request
+
+Mnemomantic Resurgence
+
+Molten Splash
+
+Myiraj, Journeying Mnemomancer
+
+Myiraj, Sparkless and Alone
+
+Newfound Territory
+
+Protective Memories
+
+Ripple Through Eternities
+
+Ritual of Retrospection
+
+Sear-Striped Ambusher
+
+Seismic Forge
+
+Shatter the Earth
+
+Spark of Memory
+
+Spark Rupture
+
+Spiritsteel Lance
+
+Splitting Barrens
+
+Tel, the Girl in the Box
+
+Temple of the Fallen Star
+
+Temple of the Hidden Flame
+
+Unmake Anew
+
+Volcanic Shelter
+
+What Was Done
+
+Is Amy a House Gift
+
+You Try to Talk About Blue Prince
+
+Viashino Pyromaster
+
+Runetusk Boar
+
+Kitasan Black
+
+Primordial Coalescence
+
+Air Duct Duty
+
+Corridor Reaper
+
+Dromoka's Vanguard
+
+Marang River Schemer
+
+Stormbreath Finisher
+
+Set Alight
+
+Galdrashan, Apex of the Edge
+
+Conquest of the Pit
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
