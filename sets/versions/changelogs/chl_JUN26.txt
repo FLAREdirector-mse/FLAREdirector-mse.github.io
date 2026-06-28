@@ -1,4 +1,221 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Augury Token
+rules_text: [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+​
+​ => [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+III — Draw a card.
+​
+​
+special_text: [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+​
+​ => [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+III — Draw a card.
+​
+​
+
+Spirited Stagehand
+rules_text: When this creature enters, it assembles a contraption. [i](To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+[i]Gizmo[/i] — As long as you control a Contraption on each sprocket, this creature has double strike. => When this creature enters, it assembles a contraption. [i](Put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+[i]Gizmo[/i] — As long as you control a Contraption on each sprocket, this creature has double strike.
+
+The Burning of the Erdtree
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 1/1 white Cleric creature token.
+Sacrifice a creature. If you do, add {R}{R}{R}.
+Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Cleric creature token.
+II — Sacrifice a creature. If you do, add {R}{R}{R}.
+III — Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 1/1 white Cleric creature token.
+Sacrifice a creature. If you do, add {R}{R}{R}.
+Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Cleric creature token.
+II — Sacrifice a creature. If you do, add {R}{R}{R}.
+III — Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i]
+
+Cosmic Upheaval
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost.
+
+
+VERSION 7 CHANGELOG
+====================
+
+Pathway to Everywhere added.
+
+
+Inspirit, Here For Some Reason
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature[/i]
+[i]at 3+.)
+[/i]When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5]
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature[/i]
+[i]at 3+.)
+[/i]When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5]
+
+Elysia, Nyxborn Palace
+rules_text: {T}: Add {G} or {W}. Spend this mana only to cast enchantment creature spells or activate abilities of enchantment creatures. => {T}: Add {G} or {W}. Spend this mana only to cast an enchantment creature spell or activate an ability of an enchantment creature source.
+
+Under-University of Nephalia
+rules_text: {T}: Add {U} or {R}. Spend this mana only to cast spells from your graveyard. => {T}: Add {U} or {R}. Spend this mana only to cast a spell from your graveyard.
+
+Augury Token
+rules_text: [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+III — Draw a card.
+​
+​ => [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+​
+​
+special_text: [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+III — Draw a card.
+​
+​ => [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+​
+​
+
+Spirited Stagehand
+rules_text: When this creature enters, it assembles a contraption. [i](Put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+[i]Gizmo[/i] — As long as you control a Contraption on each sprocket, this creature has double strike. => When this creature enters, it assembles a contraption. [i](To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+[i]Gizmo[/i] — As long as you control a Contraption on each sprocket, this creature has double strike.
+
+Carruvio, Pearl of Brineford
+rules_text: Ward—Pay two mana of different colors.
+Whenever you cast a spell, add one mana of any color. Spend that mana only to cast spells of a color you haven't cast this turn. => Ward—Pay two mana of different colors.
+Whenever you cast a spell, add one mana of any color. Spend this mana only to cast a spell of a color you haven't cast this turn.
+
+The Burning of the Erdtree
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Cleric creature token.
+II — Sacrifice a creature. If you do, add {R}{R}{R}.
+III — Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 1/1 white Cleric creature token.
+Sacrifice a creature. If you do, add {R}{R}{R}.
+Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Cleric creature token.
+II — Sacrifice a creature. If you do, add {R}{R}{R}.
+III — Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 1/1 white Cleric creature token.
+Sacrifice a creature. If you do, add {R}{R}{R}.
+Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i]
+
+Cosmic Upheaval
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost.
+
+Bast, Watchful Whiskers
+rules_text: Devoid [i](This card has no color.)[/i]
+Rats you control have annihilator X, where
+X is the number of Rats you control minus 2. [i](Whenever a c[i]reature with annihilator X attacks,[/i]
+defending player sacrifices X permanents of their choice.)[/i] => Devoid [i](This card has no color.)[/i]
+As long as you control three or more Rats, Rats you control have annihilator X, where X is the number of Rats you control minus 2. [i](Whenever a c[i]reature with annihilator X attacks, defending player sacrifices X permanents of their choice.)[/i][/i]
+
+Sanshuu Hero Club
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Scry 2, then mill two cards.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Scry 2, then mill two cards.
+III — Exile this Saga, then return it
+the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Scry 2, then mill two cards.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Scry 2, then mill two cards.
+III — Exile this Saga, then return it
+the battlefield transformed under your control.
+
+Test of the All-Seeing Crone
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap target creature and
+put two stun counters on it.
+II — Shuffle your graveyard into your library. Draw a card. 
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+Draw a card, then scry 2.
+Exile the top card of your library. Create an X/X colorless Human creature token with prowess where X is that card's mana value. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap target creature and
+put two stun counters on it.
+II — Shuffle your graveyard into your library.
+Draw a card. 
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+Draw a card, then scry 2.
+Exile the top card of your library. Create an X/X colorless Human creature token with prowess where X is that card's mana value. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap target creature and
+put two stun counters on it.
+II — Shuffle your graveyard into your library. Draw a card. 
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+Draw a card, then scry 2.
+Exile the top card of your library. Create an X/X colorless Human creature token with prowess where X is that card's mana value. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap target creature and
+put two stun counters on it.
+II — Shuffle your graveyard into your library.
+Draw a card. 
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+Draw a card, then scry 2.
+Exile the top card of your library. Create an X/X colorless Human creature token with prowess where X is that card's mana value. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]
+
+The Desert Lands
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Great Hall of the Biblioplex added.
