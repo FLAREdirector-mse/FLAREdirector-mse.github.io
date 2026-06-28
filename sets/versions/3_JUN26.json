@@ -1,5 +1,5 @@
 ﻿{
-    "name": "",
+    "name": "JUN26",
     "formats": "",
     "trimmed": "n",
     "image_type": "jpg",
@@ -4995,7 +4995,7 @@
             "notes": "!Pi \u2014 punctuation, shuffle"
         },
         {
-            "card_name": "\u00c9ph\u00e9m\u00e8re, Temporary",
+            "card_name": "Ephemere, Temporary",
             "color": "WUG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Spirit",
@@ -5011,7 +5011,7 @@
             "loyalty": "",
             "artist": "Alex Alice",
             "alias": "",
-            "notes": "!Pi \u2014 punctuation"
+            "notes": "!exportname Ephemere, Temporary"
         },
         {
             "card_name": "Flickering Lantern",

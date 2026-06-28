@@ -54528,7 +54528,7 @@
             "image_type": "jpg"
         },
         {
-            "card_name": "\u00c9ph\u00e9m\u00e8re, Temporary",
+            "card_name": "Ephemere, Temporary",
             "color": "WUG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Human Spirit",
@@ -54544,7 +54544,7 @@
             "loyalty": "",
             "artist": "Alex Alice",
             "alias": "",
-            "notes": "!Pi \u2014 punctuation",
+            "notes": "!exportname Ephemere, Temporary",
             "image_type": "jpg"
         },
         {

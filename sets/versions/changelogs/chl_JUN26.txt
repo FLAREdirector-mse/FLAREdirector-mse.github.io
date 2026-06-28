@@ -1,4 +1,12 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Ephemere, Temporary added.
+
+Éphémère, Temporary removed.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Conquest added.
