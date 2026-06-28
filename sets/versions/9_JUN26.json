@@ -787,7 +787,7 @@
             "color2": "B",
             "type2": "",
             "cost2": "{B}{B}",
-            "rules_text2": "Create two Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
+            "rules_text2": "When you unlock this door, create two Treasure tokens.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
