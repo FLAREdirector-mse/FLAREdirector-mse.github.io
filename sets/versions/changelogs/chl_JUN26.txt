@@ -1,4 +1,1771 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Great Hall of the Biblioplex added.
+
+Great Hall of the Bibliopex removed.
+Pathway to Everywhere removed.
+
+Terrifying Tentacle
+
+Simul, Runaway Researcher
+
+The Dragon Eater
+
+Velian, Missionary of the Hunt
+
+Stories Retold
+
+I'm Thinking
+
+Fortnite Intrusion
+
+The Yellow One
+
+Gratuitous Brony
+
+Job Offering
+
+Inspirit, Here For Some Reason
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5]
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5]
+
+Fanfic Author Twilight
+
+Work Break
+
+The Ultimate Showdown
+
+The Card That Makes Morgan Suffer
+
+The Grinch
+
+Twist Betrayal
+
+MORE YURI
+
+MORE YAOI
+
+MORE... Straight ships ig...
+
+Jumpscare
+
+Peter Griffin
+
+Overeagerness
+
+I Always Come Back
+
+Ponyamory
+
+Everything is Awesome
+
+Miku, Compleat Melody
+
+Tsundere Dash
+
+The Pit
+
+Demonbrute
+
+Conflicted Soul
+
+Sign in Blood
+
+Defeat the Boss
+
+Devilbrute
+
+Hidden Pitfall
+
+Abyssal Flame
+
+Flame Pillar
+
+Tenacious Enemy
+
+Surprise Bombs
+
+Constrictor Contractor
+
+Ambush Room
+
+View the Map
+
+Undying Morsel
+
+Wretched Recruiter
+
+Spike Trap
+
+Abyssal Skirmisher
+
+Skeleton Key
+
+Condemn to the Abyss
+
+Urchin Gang
+
+Attack of the Mages
+
+Flaming Miscreant
+
+Inevitable Roamer
+
+Sequence Break
+
+Wuvin, Dungeon Crawler
+
+Archmaster's Signet
+
+Orderly Scarab
+
+Snow Serpent
+
+Dark Sprite
+
+Fire Cat
+
+Verdant Leprechaun
+
+Arclight Accumulator
+
+Productive Brooding
+
+Metalsoul Forges
+
+Sanguine Conflict
+
+Cavern Conflict
+
+Fae Conflict
+
+Laboratory Conflict
+
+Hive-City Conflict
+
+Ashiok and Oko
+
+Perfect Guard
+
+Territorial Rathalos
+
+Charging Zinogre
+
+Defiler Nergigante
+
+Fatalis, Dark Demise
+
+Vaal Hazak, Hellish Fiend
+
+The Tech Chief
+
+Hinoa, Quest Maiden
+
+The Admiral
+
+The Huntsman
+
+The Meowscular Chef
+
+Murderous Spikes
+
+Agnaktor
+
+Bladescale Storm
+
+Abrade
+
+Demondrug
+
+The Frightful Skeletron Prime
+
+The Mighty Destroyer
+
+The All-Seeing Twins
+
+Kaladin Stormblessed
+
+Sylphrena, Never Lost
+
+Voice of the Murky Shallows
+
+Hornet, Daughter of Hallownest
+
+Little Ghost
+
+Foresee in Thunder
+
+Spreading Rancor
+
+Consume the Mind
+
+Struggle for Survival
+
+Spectral Aid
+
+Reject the Past
+
+Recursive Plagiarist
+
+Ditto
+
+Mezdrithalik, First Lich
+
+Kreek, Reckless Shaman
+
+Conquest
+
+Settle Realities
+
+Wyrmhole
+
+Center of the Multiverse
+
+Diverge the Timeline
+
+Clairvoyant Astronomer
+
+Blueshift
+
+The Big Crunch
+
+Temporally-Displaced Wildlife
+
+Timestream Entity
+
+Realmroil Excavator
+
+Bone Legion
+
+Ancient Craving
+
+Sleepytime
+
+Heartbeat Hare
+
+Hoppy the Overthinker
+
+Hero of the Many
+
+Willow, the Honored Knight
+
+Anomaly Research Craft
+
+Tap and Pat, the Ever-Pair
+
+Hylenex, the Hunger
+
+Adventurous Vacationers
+
+Tropical Getaway
+
+The Spellshine, Omencruiser
+
+Shoreside Tour Guide
+
+Thorough Vacationer
+
+Lotis, Resort Manager
+
+Treasure Cruise
+
+Gilded Lobby
+
+Mud Baths
+
+Tropical Resort
+
+Shipboard Sauna
+
+Multiversal Passage
+
+Summer Bloom
+
+Farseek
+
+Scenic Eruption
+
+Omencruise Guidebook
+
+Omencruise Adbot
+
+Vacationer's Reminiscence
+
+Traveler's Ennui
+
+Pool Installer
+
+Nomanis, Former Loner
+
+Summer Vacation
+
+Crushing Defeats
+
+The Felling of Merrevia Sal
+
+Gwafa, Merchant of Jhess
+
+Rakka Mar, the Summoner
+
+Malfegor, Invader of Bant
+
+The Carmot Hieresiarch
+
+Marisi, Revolution's Claw
+
+The Shattering of Madara
+
+Ajani, Naya's Vanguard
+
+Naktamun Repurposed
+
+Tezzeret of Tidehollow
+
+Lazotep Legionnaires
+
+Plans Spanning Eons
+
+Tetsuo Umezawa, Shrinebreaker
+
+What's in a Name
+
+The Immortal Sun Shines On
+
+Sarkhan, the Stormshaper
+
+The Meteor Hammer
+
+Naiva, Winter's Fang
+
+Birth of the Twin Dragons
+
+Nicol Bolas, Forever Serpent
+
+Skikraj, Towering Surveyor
+
+Epicurean
+
+Collective Might
+
+Neighborhood Watch
+
+Serene Advokist
+
+Yoked Skaab
+
+Productive Dialogue
+
+Conform
+
+Great-Souled Pupil
+
+HWC Anthem
+
+Virtual Confluence
+
+Seferet, Heart of the System
+
+Spatial Interfacer
+
+Virtual Convergence
+
+Nodal Terminus
+
+Rokka, Angel of Savagery
+
+Amahu, Hurloon Hero
+
+Daylight Chant
+
+Ember Chant
+
+Planar Drift
+
+Stormflight Lookout
+
+Aerial Collision
+
+Echo Strike
+
+Llanowar Warden
+
+Dowsing Spaewife
+
+Wonder
+
+Knight of the Ebon Hand
+
+Tangleroot Crystal
+
+Wicker Witch of the Woods
+
+Arvgrin, the Goldstarved
+
+Rambunctious Twins
+
+Rotwing Dracolich
+
+Drowning Reflection
+
+Scantsoul Exsanguinary
+
+Individuality's End
+
+Impending Desolation
+
+Tali En, Pelagic Songstress
+
+Bubble Ribbon, Team Leader
+
+Coeur, Everyone's Mascot
+
+Bravery
+
+Kajiya, Team's Outfitter
+
+Richissim Lady
+
+Trigger-Happy Gunner
+
+Thoughtburning Ingenue
+
+Firebound Tyrant
+
+Windbound Regent
+
+Fireborn Suit
+
+Lightborn Suit
+
+Elegant Bladesinger
+
+Pyre Prodigy
+
+Clear the Board
+
+Power of Friendship!
+
+Aegishorn Drummer
+
+Scaled Hunter
+
+Gnarlstaff Pathfinder
+
+Titanic Decay
+
+Billowing Sootstrider
+
+MOU-53 Field Armor
+
+Last Resort
+
+Neathbound Commander
+
+Shattered Skyline
+
+Faltering Wildscape
+
+Tomebound Dragonling
+
+Azami, Attended Exile
+
+Azusa, Buried but Blooming
+
+Stratagoyf
+
+Tread the Winding Way
+
+Oathbound Zealot
+
+Boon of the Waking World
+
+Whiskerwitch Switcher
+
+The Furies
+
+Relentless Rots
+
+Planar Vanguard
+
+Neathstalkers
+
+Diligent Shepherd
+
+Timelocked Sarcophagus
+
+Drifting Whail
+
+Lost Soul
+
+The Blue Prince
+
+Peaceful Whail
+
+Burning Man
+
+Decomposition Ground
+
+Unresting Whail
+
+Colossal Whail
+
+Disperse Lightning
+
+Summon to Banishment
+
+Impulsive Whail
+
+Decorated Assassin
+
+Ephemere, Temporary
+
+Flickering Lantern
+
+Open a Thousand Doors
+
+Elesh Norn, Ballin'
+
+Journey to the Center of the Moon
+
+A Special Task, Just for You
+
+Chrongus, Eater of Eons
+
+Spewing Mutant
+
+Shady Encampment
+
+Resourceful Survivor
+
+Questionable Survival Method
+
+New Karis, the Living Fortress
+
+Wardens of New Karis
+
+Improvised Nuke
+
+Nuclear Winter
+
+Archangel of the Old Faith
+
+Tech Cult Remnant
+
+Symbiotic Mutant
+
+Mutant Titan
+
+Unnatural Disaster
+
+Toxic Waste Ooze
+
+Lone Scavenger
+
+Contaminated Relic
+
+Clash of the Elders
+
+Devil
+
+Horror
+
+Obligate Bodysnatcher
+
+Warweaving Puppetmaster
+
+Festival Sparkmage
+
+Nostalgia
+
+Mutating Flesh Pod
+
+Lovec, White Wolf
+
+Lovec, Bane of Monsters
+
+Lovec, Grey Wolf
+
+Lightning Bolt
+
+Metempsychosis Titan
+
+Dovin, Student of Perfection
+
+Discern Imperfection
+
+Dovin's Obsession
+
+Vectis Drone
+
+Tezzeret's Desperation
+
+Appraiser of Worth
+
+Guardian of Secrets
+
+Vault of the Seekers
+
+Hardened Steel
+
+Angrath's Sacrifice
+
+Aranzhur Warlord
+
+Aranzhur, Freefire Plane
+
+Sarkhan's Awakening
+
+Qal Sisma Peaks
+
+Qal Sisma Firebelly
+
+Divine Ambition
+
+Calix's Purpose
+
+Wanderer's Mantle
+
+Spinner of Klothys
+
+Elysia, Nyxborn Palace
+
+Experimenter's Tools
+
+Tibalt's Gambit
+
+Relishing Devils
+
+Under-University of Nephalia
+
+Riders of the Conqueror
+
+Ob Nixilis's Folly
+
+Demon of Whispered Glory
+
+The Hopeless Temple
+
+Rotfarm Lurker
+
+Corrupt Exterminators
+
+The Rotwastes
+
+Vraska's Resentment
+
+Trusted Line-Sling
+
+Nahiri's Vision
+
+Angel of Death's Defeat
+
+Line-Slingers' Headquarters
+
+Inner Spark
+
+Kasmina's Cunning
+
+Cabal Mentor
+
+The Thoughtstream
+
+Planekeepers' Hub
+
+Tezzeret, Etherium Thief
+
+Angrath, Humble Father
+
+Sarkhan, Clanless Wanderer
+
+Calix, Nyxmade
+
+Tibalt, Pain Scholar
+
+Ob Nixilis, the Ambitious
+
+Vraska, Scorned
+
+Nahiri, Noble Adventurer
+
+Kasmina, Planar Student
+
+Archpaladin's Charm
+
+Magus of the Cruise
+
+Cauldron Clowder
+
+Swiftspear Training
+
+Thragcub
+
+Golgari Swarmcaller
+
+Manno, Boxed Surprise
+
+Monoist Battleplatform
+
+Magician's Warp
+
+Caldaia Archivist
+
+Season of the Eclipse
+
+Brineborn Marauder
+
+Honor-Bound Charge
+
+Coppercoat Alarmer
+
+Tegwyll's Attendant
+
+Starchase Invoker
+
+Collective Ingenuity
+
+Mabel's Apprentice
+
+Celestial Approach
+
+Rupture the Blood Fast
+
+Dromoka's Outrider
+
+Regal Dreadmaw
+
+Blood
+
+Brineborn Cutthroat
+
+Mabel's Apprentice
+
+Colossal Dreadmaw
+
+Beast
+
+Insect Army
+
+Copy
+
+Soldier Army
+
+Hemomechanical Virus
+
+Human Monk
+
+Dust Shielding
+
+Soldier
+
+Alacore Sunbright
+
+Lucas D'Arcini
+
+Sir Thronk
+
+Mr. Grabbyhands
+
+Alacore the Just
+
+Lucas the Wise
+
+Thronk the Great
+
+Grabbyhands the Pardoned
+
+Treasure
+
+Dragon
+
+The Game Master
+
+The Party's Pet
+
+Sword Sealing
+
+Chosen by the Sword
+
+Case of the Persistent Blizzard
+
+Case of the Gibdo Invasion
+
+Case of the Golden Mask
+
+Case of the Bodyless Sage
+
+The Blade of Evil's Bane, Reforged
+
+Case of the Sullied Waterways
+
+Elegy of Emptiness
+
+Crystal Guardian
+
+Soothing Springs
+
+Vengeful Spirit
+
+Crafty Menderbug
+
+Eternal of Wilting Flowers
+
+Rot Upon the Throne
+
+Grey Mourner
+
+Graceful Alubas
+
+Dream of Betrayal
+
+Great Husk Sentry
+
+Pale Lurker
+
+Spiked Ambloom
+
+Essence Seer
+
+Moss Prophet
+
+Backtrack
+
+Burn the Father
+
+Brooding Mawlek
+
+Daybreak
+
+Lightseed
+
+Mantis Traitor
+
+Soul Twister
+
+Snail Shaman
+
+Idea Instilled
+
+Kingsmould
+
+Old Nail
+
+Winged Lancer
+
+Secret Admirer
+
+Bristling Spinehusk
+
+Windscythe Petra
+
+Binder of Lingering Regrets
+
+Aged Flukemunga
+
+To Greener Paths
+
+Distant Village Weaver
+
+Slashing Sentry
+
+Aspid Mother
+
+Dust
+
+Insect
+
+Soul
+
+Shade
+
+Clue
+
+Copy
+
+Weapon
+
+Hearthian Ventureship
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn. => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn.
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn. => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn.
+
+Lilac, Attuner Priestess
+
+Nola, Executioner
+
+Headless Defender
+
+Steadfast Lynel
+
+Noonwraith's Take
+
+Voyages Past
+
+Sweltered Explorer
+
+Unsetting Enormity
+
+Wight's Wreath
+
+A Threshold to Llenwffaedd
+
+Stor, Witchstalker
+
+A Margin of Wycfolyth
+
+Wycfolyth Lunges, Furious
+
+Inquisitor
+
+Probing Witch Hunter
+
+Shirou Wait Did He Actually Say That
+
+A Servant's First Appearance
+
+Artoria, Once and Future King
+
+Display of Power
+
+Swallower of Stars
+
+Dihydra
+
+Sinuous Altar
+
+Golgari Omnicycler
+
+Unihydra
+
+Enraged Guardian
+
+The Absolute Radiance
+
+Hornet, Protector
+
+Hornet, Sentinel
+
+Primal Aspid
+
+Charm Notch
+
+Reaper Bird
+
+Snowdrake's Mother
+
+Endogeny
+
+Memoryhead
+
+Lemon Bread
+
+Goblin Frame
+
+Gorgon Frame
+
+Hadran and Calyda
+
+Steel Traitor
+
+Kragh, Ebon Lord
+
+Zur the Mad
+
+Cisarzim Wildbrawn
+
+The Vigilante
+
+Augury
+
+Bloomburrow United
+
+Blade of Grass
+
+On the Offense
+
+Rallying Rats
+
+Calamitous Presence
+
+Sword in the Stone
+
+The Savior
+
+Veteran Lieutenant
+
+Archelos, Slow and Steady
+
+Kwain, Bounding Bunny
+
+Bello, Trinketmaster
+
+Nightwhorl Assassin
+
+Seedbed Intimidation
+
+Slay
+
+The Lonely Traveler
+
+Ancestry Elder
+
+Protector of the Brambles
+
+Nefarious Needler
+
+Ral's Lightning
+
+Otter Wizard
+
+Talespinning
+
+Pawpatch Sailor
+
+Keen-Eyed Scout
+
+Of Fashioned Wings
+
+A Steed Rider
+
+A Humble Heron
+
+A Mysterious Cloak
+
+Finch Rider
+
+Fateful Encounter
+
+Overworked
+
+Outer Scout
+
+Treetop Recycler
+
+Frogkin Jester
+
+Playful Stormchaser
+
+The Foretold Warriors
+
+Pick Up the Branch
+
+Golden Griffin
+
+Beza, Season of Spring
+
+The Rat King
+
+Ire, of the Burning Bog
+
+United Village
+
+Squirrel Squad
+
+Lightning Stag
+
+Library of Ruina
+
+Apocalypse Ride
+
+Journey to Bloomburrow
+
+Kirby, Cheerful Gourmand
+
+Kirby, the Copier
+
+Watcher by the Water
+
+Nikh'olas, Bringer of Gifts
+
+Skewered in Place
+
+Component Collection
+
+Imbue with Passion
+
+Imago Mystic
+
+Zealot to Worlds Beyond
+
+Form from Fog
+
+Guardian of Certainties
+
+Unreality
+
+Harvester of a True World
+
+Contemplate Creation
+
+Elise, From Beyond
+
+Modra, Terra Firma Primus
+
+Ocelot Pride
+
+Ocelot Glutton
+
+Ocelot Sloth
+
+Ocelot Wrath
+
+Ocelot Greed
+
+Shout as One
+
+Resilient Gastropod
+
+Fight to the Finish
+
+Cardinal of Wishes
+
+Worthy Sacrifice
+
+Trestian Caretaker
+
+Contract Killing
+
+Cogwork Militia
+
+Warden of the High City
+
+Torchcat Pride
+
+Scales of Leshy
+
+Massacre Girl, Serial Hunter
+
+Sigils of the Bone King
+
+Diviner of Bone
+
+Visions of Now
+
+Leyline Visionary
+
+Vapor Seer
+
+Brazier of Futures
+
+Augury Token
+
+Return Triumphant
+
+Gadwick, Prescient Planner
+
+Tourney Champion
+
+Pathways of the Wilds
+
+Graveyard Scavenger
+
+Passing the Torch
+
+Forerunner of War
+
+Avatar of Calamity
+
+Boughs to Shade Generations
+
+Amesha of Sanctuary
+
+Guyandeh, the Herald
+
+Baranji, Yazata of Insight
+
+Celestial Guidance
+
+Divested Gains
+
+Div of Foul Exchanges
+
+Takashia, Depths Seeker
+
+Wisp, of Vengeful Moons
+
+Hexes of Verlorene
+
+Forever the Champion
+
+Sierha, Basking Deity
+
+Pride of the Clan
+
+Philosopher's Stone
+
+Expert Crafter
+
+Charge of Exploration
+
+Mirrodin Armed
+
+Enigmatic Escape
+
+Armor of the Aegis
+
+Inasyah, Forgotten
+
+Burst from Beyond
+
+Jack-in-a-Mimic
+
+Reluraun, Heroic Taleteller
+
+Gruntch, Planeswalker Anew
+
+Weirdness
+
+Spirited Stagehand
+
+Verdant Set
+
+William, Theatrical Unifier
+
+Inspiring Storyteller
+
+Megamurder
+
+Ragde, King of Oragif
+
+Rakdos Instigator
+
+Teferi's Reluctant Protection
+
+Questionable Beast
+
+Explorer's Pick
+
+Genichi Sojo, Blade Appreciator
+
+Chihiro Rokuhira, Avenger
+
+Seiichi Samura, Repentant
+
+Akemura Soga, Sword Saint
+
+Hiyuki, Wielder of Flame Bone
+
+Togo Shiba, Elusive Ally
+
+The Call of Chaos
+
+The Collector
+
+Rod Bauer, Disinterested
+
+Thane Bauer, Uncertain
+
+Yu Bauer, Crosswired
+
+Claire Francoise, Classist
+
+Rae Taylor, the Protagonist
+
+Kiloh, Rampage Blade
+
+Glint, Portal Skirmisher
+
+Gertrude, the Matrix
+
+Volk, Harbinger of Law
+
+Henrik, Rebels' Cowl
+
+Overeager Venturers
+
+Andel, the Dubious
+
+Intellect's Hunger
+
+Free Fallin'
+
+Beatdrop, Tiniest Groundswell
+
+Choir Beckoner
+
+Gravedust, Rattlin' Prophet
+
+Rhythm of the Coast
+
+Trilling Soloist
+
+Rise from the Dregs
+
+Ready
+
+Censor
+
+Innocent Slaughter
+
+Know Mortality
+
+Contemplation of the Infinite
+
+Divine Division
+
+Mists of Minamo
+
+Touch of the Ghastlord
+
+Move Like Water
+
+Enter the Brumewake
+
+Gilded Servitor
+
+Witness History
+
+High Regent Omertis
+
+Lord of the Grand Lagoon
+
+Surpass
+
+Path of Conquest
+
+Path of Peace
+
+Path of Glory
+
+Adventuring Twins
+
+Mistweave Riders
+
+Lantern Festival
+
+Cutthroat Dynast
+
+Rell, Isolated Heiress
+
+Goldwater Broker
+
+Scorching Bargain
+
+Outlands Wayfinder
+
+Visions of Dominion
+
+Kinbless
+
+Duranda, Molten Prophet
+
+Disgraced Viscount
+
+Face Your Destiny
+
+Ignited Scavenger
+
+The First Avarice
+
+Forlorn Colony
+
+Faceted Greed
+
+Kotone, the Wildcard
+
+Avacyn, Innistrad's Light
+
+Gaene, Demon of Pain
+
+Brotein, the Pectorally Vast
+
+Two Buck Chuck
+
+Mystic Mountain
+
+Leomon, Noble Hero
+
+Another Scoop of Protein
+
+Protein Shake
+
+Beelstarmon
+
+Queen Miasma
+
+Star ⭐ Luminous
+
+Moon-Maddened Tinkerer
+
+Memory of Cymede
+
+Hallownest
+
+The Kingsoul
+
+Iselda & Cornifer
+
+Insect
+
+Spider
+
+Geothermal Elemental
+
+Iris, Goddess of Rainbows
+
+Voice of the Heavens
+
+Contemplate Existence
+
+Miss Tetra, Pirate Leader
+
+Gambit Mage
+
+Nightmarish Walking Ship
+
+Siege of Precinct Five
+
+Goddess's Protection
+
+Search Party
+
+Wild Thoughts
+
+Dagger of the Old Gods
+
+Forced Isolation
+
+Call Dark Powers
+
+Goblin Merchant
+
+Horror From Beyond
+
+Zirixik, Mothfolk Scoundrel
+
+God of the Hearth
+
+Mind Drake
+
+Jungle Guard
+
+Spirit-Bound Armor
+
+Horsemen of the Apocalypse
+
+Gatekeeper Thrull
+
+Market Fire
+
+Like Clockwork
+
+Bladed Glove
+
+Bane of the Valley
+
+Mosquito Swarm
+
+Join the Circus
+
+Reinvent the Wheel
+
+Dakkon, Blade Breaker
+
+Soulless Heart
+
+Blood-Soaked Neyaka
+
+Welcome to Brineford
+
+Carruvio, Pearl of Brineford
+
+Cedwyn, Lord Farsbury
+
+Cwyllog, Old Five-Eyes
+
+E'er-Wandering Cyllin
+
+Cristin, Postmaster General
+
+Madoc, Driftwood King
+
+Gemseeker Rhain
+
+Currentbound Lovers
+
+Spiritbound Caretaker
+
+Mournroot Dryad
+
+Combat Arbiter
+
+Aethercetus
+
+Winged Cantor
+
+Truthrender
+
+Paradoxal Recallist
+
+Agony Harvester
+
+Rootrend Tusker
+
+Nanaya, Insidious Maiden
+
+Frenzy of Madness
+
+Nomadic Merchant
+
+Hyetta, Wandering Maiden
+
+Demihuman Lookout
+
+Margit the Fell Omen
+
+Cursed-Blood Slice
+
+Midra, Lord of Frenzy
+
+Sealing of Destined Death
+
+Shabriri the Reviled
+
+Tibia Mariner
+
+Blasphemous Act
+
+Ignite the Future
+
+Bandit's Talent
+
+Court of Ambition
+
+Aging Untouchable
+
+Frenzied Troll
+
+The Madding Hand
+
+Edgar, Maddened General
+
+Ensha, Roundtable Raider
+
+Shabriri's Howl
+
+Unendurable Frenzy
+
+Fingerprint Shield
+
+Vyke, Festering Fingerprint
+
+Miquella's Needle
+
+The Burning of the Erdtree
+
+Resolute Soulshell
+
+Placid Soulshell
+
+Noxious Soulshell
+
+Erratic Soulshell
+
+Fecund Soulshell
+
+Pheebie-Mode
+
+Brainstorm Joker
+
+Polylute
+
+Blade Dance
+
+Compost
+
+Golden Retriever
+
+Silver Retriever
+
+Leaden Retriever
+
+Iron Retriever
+
+Copper Retriever
+
+Tempest Mare
+
+Skittish School
+
+Vexing Harlequin
+
+Rocky Rodent
+
+Empowered Brawl
+
+Whimsical Cyclist
+
+Misty Cyclist
+
+Melancholic Cyclist
+
+Fervent Cyclist
+
+Meandering Cyclist
+
+Llanowar Explorer
+
+Astrolabe Tender
+
+Canopy Sharpshooter
+
+Joraga Vinecutter
+
+Secluded Monastery
+
+The Gathering Glade
+
+Astral Zenith
+
+Tendo Ice Gate
+
+Omenpath Portal
+
+Evendo Broodhive
+
+Garden Protector
+
+Cosmic Upheaval
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+I — Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+I — Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost.
+
+Bast, Watchful Whiskers
+
+Rat Elemental Blast
+
+Void Heart
+
+Delicious Dungeon
+
+Sanshuu Hero Club
+
+Test of the All-Seeing Crone
+
+Relentless Natsuki Subaro
+
+Karen Aijo, Blazing Star
+
+The Desert Lands
+
+Zagoth
+
+
+VERSION 5 CHANGELOG
+====================
+
+Augury Token added.
+
+Augury removed.
+
+Inspirit, Here For Some Reason
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5]
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5]
+
+Lightning Bolt
+cost:  => {R}
+
+Hearthian Ventureship
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn. => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn.
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn. => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn.
+
+Spirited Stagehand
+rules_text: When this creature enters, it assembles a contraption. [i](To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+[i]Gizmo[/i] — As long as you control a Contraption on each sprocket, this creature has double strike. => When this creature enters, it assembles a contraption. [i](Put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+[i]Gizmo[/i] — As long as you control a Contraption on each sprocket, this creature has double strike.
+
+Cosmic Upheaval
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+I — Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+I — Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
