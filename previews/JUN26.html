@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/JUN26-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>JUN26 visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/JUN26-files/logo.png" />
+	<img class="preload-hidden" src="/sets/DEC24-files/icon.png" />
+		<img class="preload-hidden" src="/sets/JUN25-files/icon.png" />
+		<img class="preload-hidden" src="/sets/DEC25-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="JUN26"><img src="/sets/JUN26-files/icon.png"></a>
+	
+		<a class="set-bar inactive" href="DEC24"><img src="/sets/DEC24-files/icon.png">Secret Santa Dec. 2024</a>
+	
+		<a class="set-bar inactive" href="JUN25"><img src="/sets/JUN25-files/icon.png">Secret Santa June 2025</a>
+	
+		<a class="set-bar inactive" href="DEC25"><img src="/sets/DEC25-files/icon.png">Secret Santa Dec. 2025</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/JUN26-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img alt="/sets\JUN26-files\img\1_Peaceful Whail.jpg" id="1_Peaceful Whail" data-flag="@X" onclick="openSidebar('1_Peaceful Whail',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\2_Drifting Whail.jpg" id="2_Drifting Whail" data-flag="@X" onclick="openSidebar('2_Drifting Whail',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\4_Zur the Mad.jpg" id="4_Zur the Mad" data-flag="@X" onclick="openSidebar('4_Zur the Mad',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\5_Impulsive Whail.jpg" id="5_Impulsive Whail" data-flag="@X" onclick="openSidebar('5_Impulsive Whail',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\6_Colossal Whail.jpg" id="6_Colossal Whail" data-flag="@X" onclick="openSidebar('6_Colossal Whail',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\3_Unresting Whail.jpg" id="3_Unresting Whail" data-flag="@X" onclick="openSidebar('3_Unresting Whail',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\8_Whiskerwitch Switcher.jpg" id="8_Whiskerwitch Switcher" data-flag="@X" onclick="openSidebar('8_Whiskerwitch Switcher',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\7_The Furies.jpg" id="7_The Furies" data-flag="@X" onclick="openSidebar('7_The Furies',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\25t_Protein Shake.jpg" id="25t_Protein Shake" data-flag="@X" onclick="openSidebar('25t_Protein Shake',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\1t_Copy.jpg" id="1t_Copy" data-flag="@X" onclick="openSidebar('1t_Copy',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\1t_Path of Conquest.jpg" id="1t_Path of Conquest" data-flag="@X" onclick="openSidebar('1t_Path of Conquest',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\2t_Copy.jpg" id="2t_Copy" data-flag="@X" onclick="openSidebar('2t_Copy',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\2t_Path of Glory.jpg" id="2t_Path of Glory" data-flag="@X" onclick="openSidebar('2t_Path of Glory',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\3t_Path of Peace.jpg" id="3t_Path of Peace" data-flag="@X" onclick="openSidebar('3t_Path of Peace',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\3t_Great Hall of the Bibliopex.jpg" id="3t_Great Hall of the Bibliopex" data-flag="@X" onclick="openSidebar('3t_Great Hall of the Bibliopex',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\4t_Shade.jpg" id="4t_Shade" data-flag="@X" onclick="openSidebar('4t_Shade',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\5t_Void Heart.jpg" id="5t_Void Heart" data-flag="@X" onclick="openSidebar('5t_Void Heart',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\6t_Wonder.jpg" id="6t_Wonder" data-flag="@X" onclick="openSidebar('6t_Wonder',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\7t_Zagoth.jpg" id="7t_Zagoth" data-flag="@X" onclick="openSidebar('7t_Zagoth',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\22t_Blood.jpg" id="22t_Blood" data-flag="@X" onclick="openSidebar('22t_Blood',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\23t_Clue.jpg" id="23t_Clue" data-flag="@X" onclick="openSidebar('23t_Clue',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\24t_The Kingsoul.jpg" id="24t_The Kingsoul" data-flag="@X" onclick="openSidebar('24t_The Kingsoul',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\26t_Soul.jpg" id="26t_Soul" data-flag="@X" onclick="openSidebar('26t_Soul',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\27t_Treasure.jpg" id="27t_Treasure" data-flag="@X" onclick="openSidebar('27t_Treasure',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\28t_Weapon.jpg" id="28t_Weapon" data-flag="@X" onclick="openSidebar('28t_Weapon',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\29t_Hallownest.jpg" id="29t_Hallownest" data-flag="@X" onclick="openSidebar('29t_Hallownest',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\30t_The Pit.jpg" id="30t_The Pit" data-flag="@X" onclick="openSidebar('30t_The Pit',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\8t_Inquisitor.jpg" id="8t_Inquisitor" data-flag="@X" onclick="openSidebar('8t_Inquisitor',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\9t_Insect.jpg" id="9t_Insect" data-flag="@X" onclick="openSidebar('9t_Insect',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\10t_Soldier.jpg" id="10t_Soldier" data-flag="@X" onclick="openSidebar('10t_Soldier',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\11t_Soldier Army.jpg" id="11t_Soldier Army" data-flag="@X" onclick="openSidebar('11t_Soldier Army',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\12t_Sylphrena, Never Lost.jpg" id="12t_Sylphrena, Never Lost" data-flag="@X" onclick="openSidebar('12t_Sylphrena, Never Lost',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\13t_Brineborn Cutthroat.jpg" id="13t_Brineborn Cutthroat" data-flag="@X" onclick="openSidebar('13t_Brineborn Cutthroat',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\14t_Horror.jpg" id="14t_Horror" data-flag="@X" onclick="openSidebar('14t_Horror',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\15t_Insect Army.jpg" id="15t_Insect Army" data-flag="@X" onclick="openSidebar('15t_Insect Army',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\16t_Devil.jpg" id="16t_Devil" data-flag="@X" onclick="openSidebar('16t_Devil',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\17t_Dragon.jpg" id="17t_Dragon" data-flag="@X" onclick="openSidebar('17t_Dragon',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\18t_Human Monk.jpg" id="18t_Human Monk" data-flag="@X" onclick="openSidebar('18t_Human Monk',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\19t_Mabel's Apprentice.jpg" id="19t_Mabels Apprentice" data-flag="@X" onclick="openSidebar('19t_Mabels Apprentice',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\20t_Beast.jpg" id="20t_Beast" data-flag="@X" onclick="openSidebar('20t_Beast',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\21t_Colossal Dreadmaw.jpg" id="21t_Colossal Dreadmaw" data-flag="@X" onclick="openSidebar('21t_Colossal Dreadmaw',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\31t_Insect.jpg" id="31t_Insect" data-flag="@X" onclick="openSidebar('31t_Insect',false)"></div>
+				<div class="container"><img alt="/sets\JUN26-files\img\32t_Spider.jpg" id="32t_Spider" data-flag="@X" onclick="openSidebar('32t_Spider',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

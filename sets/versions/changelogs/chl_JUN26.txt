@@ -1,0 +1,266 @@
+﻿VERSION 2 CHANGELOG
+====================
+
+Conquest added.
+Mabel's Apprentice added.
+
+Mabel's Apprientice removed.
+Rat Elemental Blast removed.
+
+Stories Retold
+
+Inspirit, Here For Some Reason
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5]
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+When Inspirit enters, it deals 3 damage to any target and you gain 3 life.
+[level 3+] Whenever an artifact you control enters, put a +1/+1 counter on target creature you control. It gains haste until end of turn. [3/3]
+[level 14+] Whenever an artifact you control enters, put a +1/+1 counter on each creature you control. They gain haste until end of turn. [5/5]
+
+Fanfic Author Twilight
+rules_text: When Fanfic Author Twilight enters, ship two creatures you control. [i](Whenever one of them becomes the target of a spell, you may copy that spell targeting the other creature. If one or more counters would be put on one of them, put that many counters on both instead.)[/i]
+Whenever you ship, if it's yuri, draw a card. If it's yaoi, create a 1/1 white Pony creature token. Otherwise, creatures you control get +1/+1 until end of turn. => When Fanfic Author Twilight enters, ship two creatures you control. [i](Whenever one of them becomes the target of a spell, you may copy that spell targeting the other creature. If one or more counters would be put on one of them, put that many counters on both instead.)[/i]
+Whenever you ship, if it's yuri, draw a card. If
+it's yaoi, create a 1/1 white Pony creature token. Otherwise, creatures you control get +1/+1 until end of turn.
+
+Fae Conflict
+rules_text: Escalate {G}{U} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or both —
+• Until end of turn, target artifact or creature loses all abilities and becomes a Faerie Insect with base power and toughness 1/1.
+• Return target permanent you control to its owner's hand. => Escalate {G}{U} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or both —
+• Until end of turn, target artifact or creature loses all abilities and becomes a Faerie Insect creature with base power and toughness 1/1.
+• Return target permanent you control to its owner's hand.
+
+The Huntsman
+
+Bone Legion
+
+Naiva, Winter's Fang
+
+Faltering Wildscape
+
+Whiskerwitch Switcher
+
+The Furies
+
+Drifting Whail
+rules_text: Blanc {2}{U} [i](You may cast this spell for its blanc cost. If you do, it's exiled when it enters the battlefield.)[/i]
+When this creature enters draw two cards.
+At the beginning of your end step, you may tap target creature and put a stun counter on it. => Blanc {2}{U} [i](You may cast this spell for its blanc cost. If you do, it's exiled when it enters the battlefield.)[/i]
+When this creature enters, draw two cards.
+At the beginning of your end step, you may tap target creature and put a stun counter on it.
+
+The Blue Prince
+
+Peaceful Whail
+
+Unresting Whail
+
+Colossal Whail
+
+Impulsive Whail
+
+Decorated Assassin
+
+Open a Thousand Doors
+
+New Karis, the Living Fortress
+rules_text: New Karis enters tapped.
+At the beginning of your upkeep and whenever you lose life during your turn, put a +1/+1 counter on New Karis.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+
+[level 10+] New Karis is a Mutant in addition
+to its other types and has trample and “Ward—Pay 5 life.” [0/1] => New Karis enters tapped.
+At the beginning of your upkeep and whenever you lose life during your turn, put a +1/+1 counter on New Karis.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this land. Station only as a sorcery. It's a land creature at 10+.)[/i]
+
+[level 10+] New Karis is a Mutant in addition
+to its other types and has trample and “Ward—Pay 5 life.” [0/1]
+special_text: New Karis enters tapped.
+At the beginning of your upkeep and whenever you lose life during your turn, put a +1/+1 counter on New Karis.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+
+[level 10+] New Karis is a Mutant in addition
+to its other types and has trample and “Ward—Pay 5 life.” [0/1] => New Karis enters tapped.
+At the beginning of your upkeep and whenever you lose life during your turn, put a +1/+1 counter on New Karis.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this land. Station only as a sorcery. It's a land creature at 10+.)[/i]
+
+[level 10+] New Karis is a Mutant in addition
+to its other types and has trample and “Ward—Pay 5 life.” [0/1]
+
+Festival Sparkmage
+
+Lovec, White Wolf
+
+Lovec, Bane of Monsters
+
+Lovec, Grey Wolf
+
+Metempsychosis Titan
+
+Coppercoat Alarmer
+rules_text: When this creature enters, recruit. [i](Create
+a 0/0 white Soldier Army creature token,
+then put a +1/+1 counter on each Armyyou control.)[/i] => When this creature enters, recruit. [i](Create
+a 0/0 white Soldier Army creature token,
+then put a +1/+1 counter on each Army you control.)[/i]
+
+Case of the Persistent Blizzard
+rules_text: At the beginning of each combat, you may pay {WU}. If you do, target creature gains flying until end of combat.
+To solve — Three or more creatures with flying dealt combat damage to a player this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is
+a 2/2 Spirit Bird Scout creature with flying and first strike in addition to its other types. => At the beginning of each combat, you may pay {WU}. If you do, target creature gains flying until end of combat.
+To solve — Three or more creatures with flying dealt combat damage to a player this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is a 2/2 Spirit Bird Scout creature with flying and first strike in addition to its other types.
+special_text: At the beginning of each combat, you may pay {WU}. If you do, target creature gains flying until end of combat.
+To solve — Three or more creatures with flying dealt combat damage to a player this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is
+a 2/2 Spirit Bird Scout creature with flying and first strike in addition to its other types. => At the beginning of each combat, you may pay {WU}. If you do, target creature gains flying until end of combat.
+To solve — Three or more creatures with flying dealt combat damage to a player this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is a 2/2 Spirit Bird Scout creature with flying and first strike in addition to its other types.
+
+Case of the Bodyless Sage
+rules_text: When this Case enters, return target artifact card from your graveyard to your hand.
+To solve — Five differently named artifacts left the battlefield under your control this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is a 6/6 Spirit Golem Vehicle with indestructible, crew 1, and “This Vehicle
+can be enchanted and equipped as though it were a creature” in addition to its other types. => When this Case enters, return target artifact card from your graveyard to your hand.
+To solve — Five differently named artifacts left the battlefield under your control this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is a 6/6 Spirit Golem Vehicle with indestructible, crew 1, and “This Vehicle can be enchanted and equipped as though it were a creature” in addition to its other types.
+special_text: When this Case enters, return target artifact card from your graveyard to your hand.
+To solve — Five differently named artifacts left the battlefield under your control this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is a 6/6 Spirit Golem Vehicle with indestructible, crew 1, and “This Vehicle
+can be enchanted and equipped as though it were a creature” in addition to its other types. => When this Case enters, return target artifact card from your graveyard to your hand.
+To solve — Five differently named artifacts left the battlefield under your control this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is a 6/6 Spirit Golem Vehicle with indestructible, crew 1, and “This Vehicle can be enchanted and equipped as though it were a creature” in addition to its other types.
+
+Case of the Sullied Waterways
+rules_text: When this Case enters
+for each player, tap target creature you don't control and put a stun counter on it.
+At the beginning of your upkeep, if you don't control a creature with a shield counter on it, put a shield counter on target creature you control.
+To solve — A creature you controlled with a counter on it dealt combat damage to an opponent this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is
+a 2/4 Spirit Shark Noble creature with vigilance and ward {2} in addition to its other types. => When this Case enters,
+for each player, tap target creature you don't control and put a stun counter on it.
+At the beginning of your upkeep, if you don't control a creature with a shield counter on it, put a shield counter on target creature you control.
+To solve — A creature you controlled with a counter on it dealt combat damage to an opponent this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is a 2/4 Spirit Shark Noble creature with vigilance and ward {2} in addition to its other types.
+special_text: When this Case enters
+for each player, tap target creature you don't control and put a stun counter on it.
+At the beginning of your upkeep, if you don't control a creature with a shield counter on it, put a shield counter on target creature you control.
+To solve — A creature you controlled with a counter on it dealt combat damage to an opponent this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is
+a 2/4 Spirit Shark Noble creature with vigilance and ward {2} in addition to its other types. => When this Case enters,
+for each player, tap target creature you don't control and put a stun counter on it.
+At the beginning of your upkeep, if you don't control a creature with a shield counter on it, put a shield counter on target creature you control.
+To solve — A creature you controlled with a counter on it dealt combat damage to an opponent this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — This Case is a 2/4 Spirit Shark Noble creature with vigilance and ward {2} in addition to its other types.
+
+Crafty Menderbug
+rules_text: Flying
+Exhaust — {1}{W}, Tap an untapped artifact you control: Put a +1/+1 counter on this creature. It gains lifelink until end of turn. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => Flying
+Exhaust — {1}{W}, Tap an untapped artifact you control: Put a +1/+1 counter on this creature. It gains lifelink until end of turn. [i](Activate each exhaust ability only once.)[/i]
+
+Eternal of Wilting Flowers
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+At the beginning of your end step, you may squander. If you do, each opponent loses 2 life. [i](To squander, put Dust just beneath the top card[/i]
+[i]of your library. It's a {2} sorcery with “You draw
+a card and you lose 2 life.”)
+[/i]Spells you cast named Dust cost {2} less to cast. => Ward {1}
+At the beginning of your end step, you may squander. If you do, each opponent loses 2 life. [i](To squander, put Dust just beneath the top card[/i]
+[i]of your library. It's a {2} sorcery with “You draw
+a card and you lose 2 life.”)
+[/i]Spells you cast named Dust cost {2} less to cast.
+
+Rot Upon the Throne
+rules_text: As an additional cost to cast this spell, pay {2} or squander. [i](Put Dust just beneath the top card of your library. It's a 2 sorcery with “You draw a card and you lose 2 life.”)[/i]
+Destroy target creature. => As an additional cost to cast this spell, pay {2} or squander. [i](Put Dust just beneath the top card of your library. It's a {2} sorcery with “You draw a card and you lose 2 life.”)[/i]
+Destroy target creature.
+
+Grey Mourner
+rules_text: When this creature enters, you may squander.
+When you do, put a +1/+1 counter on target creature. It gains trample until end of turn. [i](To squander, put Dust just beneath the top card of your library. It's a 2 sorcery with “You draw a card and you lose 2 life.”)[/i] => When this creature enters, you may squander.
+When you do, put a +1/+1 counter on target creature. It gains trample until end of turn. [i](To squander, put Dust just beneath the top card of your library. It's a {2} sorcery with “You draw a card and you lose 2 life.”)[/i]
+
+Graceful Alubas
+rules_text: Flying
+Whenever this creature enters or attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Flying
+Whenever this creature enters or attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Hearthian Ventureship
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn. => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn.
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn. => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+[level 3+] Flying [3/3]
+[level 12+] Whenever this Spacecraft deals combat damage to a player, take an extra turn after this one. Skip
+the combat step of that turn. You may play an additional land during that turn.
+
+Zur the Mad
+
+Ocelot Glutton
+
+Ocelot Sloth
+
+Ocelot Wrath
+
+Augury
+rules_text: [i](As this saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+​
+​ => [i](As this saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+III — Draw a card.
+​
+​
+special_text: [i](As this saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+​
+​ => [i](As this saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+III — Draw a card.
+​
+​
+
+Brotein, the Pectorally Vast
+
+Contemplate Existence
+
+Nightmarish Walking Ship
+
+Horsemen of the Apocalypse
+
+Midra, Lord of Frenzy
+
+Shabriri the Reviled
+
+Bandit's Talent
+
+Bast, Watchful Whiskers
+
+Rat Elemental Blast
+type: Enchantment => Kindred Instant — Rat
+cost: {1}{W}{W} => {U}{UB}{B}
+rules_text: Creatures you control get +1/+1 for each territory counter on this enchantment.
+Whenever you attack, if the number of players and/or permanents you're attacking is greater than the number of territory counters on this enchantment, put a territory counter on it. => Choose one —
+• Counter target non-Rat spell.
+• Destroy target non-Rat permanent.
+
+
+VERSION 1 CHANGELOG
+====================
+
+First version published.

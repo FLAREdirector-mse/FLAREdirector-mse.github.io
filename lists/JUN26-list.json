@@ -1,0 +1,352 @@
+﻿[
+    {
+        "card_name": "Peaceful Whail",
+        "number": 1,
+        "shape": "normal",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Drifting Whail",
+        "number": 2,
+        "shape": "normal",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Zur the Mad",
+        "number": 4,
+        "shape": "normal",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Impulsive Whail",
+        "number": 5,
+        "shape": "normal",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Colossal Whail",
+        "number": 6,
+        "shape": "normal",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unresting Whail",
+        "number": 3,
+        "shape": "normal",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Whiskerwitch Switcher",
+        "number": 8,
+        "shape": "normal",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Furies",
+        "number": 7,
+        "shape": "normal",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Protein Shake",
+        "number": 25,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Copy",
+        "number": 1,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Path of Conquest",
+        "number": 1,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Copy",
+        "number": 2,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Path of Glory",
+        "number": 2,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Path of Peace",
+        "number": 3,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Great Hall of the Bibliopex",
+        "number": 3,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Shade",
+        "number": 4,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Void Heart",
+        "number": 5,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Wonder",
+        "number": 6,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Zagoth",
+        "number": 7,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Blood",
+        "number": 22,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Clue",
+        "number": 23,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "The Kingsoul",
+        "number": 24,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Soul",
+        "number": 26,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 27,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Weapon",
+        "number": 28,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Hallownest",
+        "number": 29,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "The Pit",
+        "number": 30,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Inquisitor",
+        "number": 8,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Insect",
+        "number": 9,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Soldier",
+        "number": 10,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Soldier Army",
+        "number": 11,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Sylphrena, Never Lost",
+        "number": 12,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Brineborn Cutthroat",
+        "number": 13,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Horror",
+        "number": 14,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Insect Army",
+        "number": 15,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Devil",
+        "number": 16,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Dragon",
+        "number": 17,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Human Monk",
+        "number": 18,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Mabel's Apprentice",
+        "number": 19,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Beast",
+        "number": 20,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Colossal Dreadmaw",
+        "number": 21,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Insect",
+        "number": 31,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "Spider",
+        "number": 32,
+        "shape": "token",
+        "set": "JUN26"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
