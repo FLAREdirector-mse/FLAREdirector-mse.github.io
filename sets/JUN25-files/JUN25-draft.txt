@@ -37,7 +37,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/2_.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/2t_.jpg"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Token Creature — Saurian Zombie",
 			"collector_number": "628",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/628_Saurian Zombie.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/628t_Saurian Zombie.jpg"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Token Creature — Yak",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/100_Yak.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/100t_Yak.jpg"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Token Creature — Gnome Nomad",
 			"collector_number": "390",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/390_Gnome Nomad.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/390t_Gnome Nomad.jpg"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Token Creature — Werewolf",
 			"collector_number": "703",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/703_Werewolf.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/703t_Werewolf.jpg"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Token Creature — Shade Cat",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/253_Shade Cat.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/253t_Shade Cat.jpg"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/0_The Spire — Beyond.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/0t_The Spire — Beyond.jpg"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/0_The Spire — City.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/0t_The Spire — City.jpg"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/0_The Spire — Exordium.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/0t_The Spire — Exordium.jpg"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/116_Construct.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/116t_Construct.jpg"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Token Creature — Rogue",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/264_Thief.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/264t_Thief.jpg"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Token Creature — Warrior",
 			"collector_number": "363",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/363_Warrior.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/363t_Warrior.jpg"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/282_Bloodletter.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/282t_Bloodletter.jpg"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/107_Blue Horrors.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/107t_Blue Horrors.jpg"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Token Creature — Astartes",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/184_Chaos Marine.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/184t_Chaos Marine.jpg"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/214_Herald of Slaanesh.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/214t_Herald of Slaanesh.jpg"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "410",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/410_Plaguebearer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/410t_Plaguebearer.jpg"
 			}
 		},
 		{
@@ -1864,7 +1864,7 @@
 			"type": "Token Artifact — Ball",
 			"collector_number": "709",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/709_The Ball.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/709t_The Ball.jpg"
 			}
 		},
 		{
@@ -3668,7 +3668,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/0_The Clocktower.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/0t_The Clocktower.jpg"
 			}
 		},
 		{
@@ -3978,7 +3978,7 @@
 			"type": "Creature",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/13_Manifest.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/13t_Manifest.jpg"
 			}
 		},
 		{
@@ -3988,7 +3988,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/181_Bird.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/181t_Bird.jpg"
 			}
 		},
 		{
@@ -3998,7 +3998,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/274_Zombie.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/274t_Zombie.jpg"
 			}
 		},
 		{
@@ -4008,7 +4008,7 @@
 			"type": "Token Creature — Elf Warrior",
 			"collector_number": "381",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/381_Elf Warrior.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/381t_Elf Warrior.jpg"
 			}
 		},
 		{
@@ -4018,7 +4018,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "717",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/717_Clue.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/717t_Clue.jpg"
 			}
 		},
 		{
@@ -4028,7 +4028,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "724",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/724_Food.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/724t_Food.jpg"
 			}
 		},
 		{
@@ -4612,7 +4612,7 @@
 			"type": "Token Enchantment — Aura",
 			"collector_number": "374",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/374_Cradle.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/374t_Cradle.jpg"
 			}
 		},
 		{
@@ -4652,7 +4652,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "715",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/715_Clue.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/715t_Clue.jpg"
 			}
 		},
 		{
@@ -4662,7 +4662,7 @@
 			"type": "Token Creature — Human",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/50_Human.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/50t_Human.jpg"
 			}
 		},
 		{
@@ -4702,7 +4702,7 @@
 			"type": "Token Artifact — Gold",
 			"collector_number": "728",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/728_Gold.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/728t_Gold.jpg"
 			}
 		},
 		{
@@ -5037,7 +5037,7 @@
 			"type": "Token Artifact Creature — Food Plant",
 			"collector_number": "372",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/372_Bugsnak.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/372t_Bugsnak.jpg"
 			}
 		},
 		{
@@ -5884,7 +5884,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "716",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/716_Clue.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/716t_Clue.jpg"
 			}
 		},
 		{
@@ -6222,7 +6222,7 @@
 			"type": "Token Creature — Wizard",
 			"collector_number": "683",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/683_Wizard.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/683t_Wizard.jpg"
 			}
 		},
 		{
@@ -6242,7 +6242,7 @@
 			"type": "",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/6_.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/6t_.jpg"
 			}
 		},
 		{
@@ -6252,7 +6252,7 @@
 			"type": "",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/5_.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/5t_.jpg"
 			}
 		},
 		{
@@ -6262,7 +6262,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/1_.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/1t_.jpg"
 			}
 		},
 		{
@@ -6272,7 +6272,7 @@
 			"type": "",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/7_.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/7t_.jpg"
 			}
 		},
 		{
@@ -6282,7 +6282,7 @@
 			"type": "",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/8_.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/8t_.jpg"
 			}
 		},
 		{
@@ -6292,7 +6292,7 @@
 			"type": "",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/3_.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/3t_.jpg"
 			}
 		},
 		{
@@ -6302,7 +6302,7 @@
 			"type": "",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/4_.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/4t_.jpg"
 			}
 		},
 		{
@@ -6322,7 +6322,7 @@
 			"type": "Token Creature — Human Werewolf",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/51_Human Werewolf.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/JUN25-files/img/51t_Human Werewolf.jpg"
 			}
 		},
 		{

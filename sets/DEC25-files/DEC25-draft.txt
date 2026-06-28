@@ -107,7 +107,7 @@
 			"type": "Token Creature — Zombie Cat",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/21_Feline of Life and Death.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/21t_Feline of Life and Death.jpg"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Token Creature — Zombie Cat",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/145_Feline of Life and Death.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/145t_Feline of Life and Death.jpg"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Token",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/2_Copy.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/2t_Copy.jpg"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Token Creature — Astartes Warrior",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/123_Astartes Warrior.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/123t_Astartes Warrior.jpg"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "442",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/442_Maggotkin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/442t_Maggotkin.jpg"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Token Artifact — Potion",
 			"collector_number": "523",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/523_Potion.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/523t_Potion.jpg"
 			}
 		},
 		{
@@ -1934,7 +1934,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Spirit.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0t_Spirit.jpg"
 			}
 		},
 		{
@@ -1944,7 +1944,7 @@
 			"type": "Token Creature — Citizen",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/261_Citizen.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/261t_Citizen.jpg"
 			}
 		},
 		{
@@ -1964,7 +1964,7 @@
 			"type": "Snow Token Creature — Reindeer",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/275_Reindeer.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/275t_Reindeer.jpg"
 			}
 		},
 		{
@@ -2238,7 +2238,7 @@
 			"type": "Token Creature — Egg Pilot",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/15_Egg Pilot.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/15t_Egg Pilot.jpg"
 			}
 		},
 		{
@@ -2308,7 +2308,7 @@
 			"type": "Token Artifact Creature — Myr",
 			"collector_number": "519",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/519_Myr.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/519t_Myr.jpg"
 			}
 		},
 		{
@@ -2318,7 +2318,7 @@
 			"type": "Token Artifact Creature — Myr",
 			"collector_number": "520",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/520_Myr.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/520t_Myr.jpg"
 			}
 		},
 		{
@@ -3485,7 +3485,7 @@
 			"type": "Token Artifact — Map",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Map.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0t_Map.jpg"
 			}
 		},
 		{
@@ -3755,7 +3755,7 @@
 			"type": "Token Enchantment Creature — Horror",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/153_Horror.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/153t_Horror.jpg"
 			}
 		},
 		{
@@ -4062,7 +4062,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/173_Skeleton.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/173t_Skeleton.jpg"
 			}
 		},
 		{
@@ -4072,7 +4072,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/172_Skeleton.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/172t_Skeleton.jpg"
 			}
 		},
 		{
@@ -4082,7 +4082,7 @@
 			"type": "Token Artifact Creature — Clue Skeleton",
 			"collector_number": "508",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/508_Clue Skeleton.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/508t_Clue Skeleton.jpg"
 			}
 		},
 		{
@@ -4382,7 +4382,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Hollow Victory.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0t_Hollow Victory.jpg"
 			}
 		},
 		{
@@ -4692,7 +4692,7 @@
 			"type": "Artifact Token — Treasure",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Treasure.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0t_Treasure.jpg"
 			}
 		},
 		{
@@ -4882,7 +4882,7 @@
 			"type": "Token Artifact Creature — Missile",
 			"collector_number": "517",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/517_Missile.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/517t_Missile.jpg"
 			}
 		},
 		{
@@ -6226,7 +6226,7 @@
 			"type": "Emblem",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0_Creeping Shadows.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/0t_Creeping Shadows.jpg"
 			}
 		},
 		{
@@ -6346,7 +6346,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/73_Blue Pikmin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/73t_Blue Pikmin.jpg"
 			}
 		},
 		{
@@ -6376,7 +6376,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/148_Glow Pikmin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/148t_Glow Pikmin.jpg"
 			}
 		},
 		{
@@ -6386,7 +6386,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/88_Ice Pikmin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/88t_Ice Pikmin.jpg"
 			}
 		},
 		{
@@ -6406,7 +6406,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "499",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/499_Purple Pikmin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/499t_Purple Pikmin.jpg"
 			}
 		},
 		{
@@ -6416,7 +6416,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/235_Red Pikmin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/235t_Red Pikmin.jpg"
 			}
 		},
 		{
@@ -6426,7 +6426,7 @@
 			"type": "Token Artifact Creature — Plant",
 			"collector_number": "525",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/525_Rock Pikmin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/525t_Rock Pikmin.jpg"
 			}
 		},
 		{
@@ -6446,7 +6446,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/66_White Pikmin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/66t_White Pikmin.jpg"
 			}
 		},
 		{
@@ -6456,7 +6456,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "504",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/504_Winged Pikmin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/504t_Winged Pikmin.jpg"
 			}
 		},
 		{
@@ -6466,7 +6466,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "472",
 			"image_uris": {
-				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/472_Yellow Pikmin.jpg"
+				"en": "https://FLAREdirector-mse.github.io/sets/DEC25-files/img/472t_Yellow Pikmin.jpg"
 			}
 		},
 		{

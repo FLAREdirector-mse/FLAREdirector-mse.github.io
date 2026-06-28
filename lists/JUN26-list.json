@@ -14,34 +14,3589 @@
     },
     "a->main",
     {
-        "card_name": "Peaceful Whail",
-        "number": 1,
+        "card_name": "Kaladin Stormblessed",
+        "number": 0,
         "shape": "normal",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "Drifting Whail",
-        "number": 2,
+        "card_name": "Lotis, Resort Manager",
+        "number": 0,
         "shape": "normal",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mezdrithalik, First Lich",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sarkhan, the Stormshaper",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Velian, Missionary of the Hunt",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hero of the Many",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tezzeret of Tidehollow",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Big Crunch",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Firebound Tyrant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Celestial Approach",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Great-Souled Pupil",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tali En, Pelagic Songstress",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hoppy the Overthinker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ocelot Greed",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kirby, Cheerful Gourmand",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Windbound Regent",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chrongus, Eater of Eons",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Season of the Eclipse",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rae Taylor, the Protagonist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ocelot Sloth",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lilac, Attuner Priestess",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magus of the Cruise",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ocelot Wrath",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Duranda, Molten Prophet",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Madoc, Driftwood King",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Artoria, Once and Future King",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Library of Ruina",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Call Dark Powers",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vyke, Festering Fingerprint",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Joraga Vinecutter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Absolute Radiance",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ocelot Glutton",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Zirixik, Mothfolk Scoundrel",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stories Retold",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MORE YURI",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ocelot Pride",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Intellect's Hunger",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nanaya, Insidious Maiden",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Attack of the Mages",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Struggle for Survival",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Avacyn, Innistrad's Light",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Welcome to Brineford",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bast, Watchful Whiskers",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flaming Miscreant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hylenex, the Hunger",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Miss Tetra, Pirate Leader",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MORE YAOI",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Condemn to the Abyss",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Territorial Rathalos",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Adventurous Vacationers",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Goddess's Protection",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Peter Griffin",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Urchin Gang",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Foresee in Thunder",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shoreside Tour Guide",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tempest Mare",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Consume the Mind",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Metalsoul Forges",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kreek, Reckless Shaman",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Felling of Merrevia Sal",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Delicious Dungeon",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pool Installer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reject the Past",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wyrmhole",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Naiva, Winter's Fang",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Ultimate Showdown",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Summer Vacation",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bone Legion",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rakka Mar, the Summoner",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Birth of the Twin Dragons",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spectral Aid",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lazotep Legionnaires",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Crushing Defeats",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Immortal Sun Shines On",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Amahu, Hurloon Hero",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conquest",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plans Spanning Eons",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tetsuo Umezawa, Shrinebreaker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Meteor Hammer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nuclear Winter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Willow, the Honored Knight",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Azami, Attended Exile",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "What's in a Name",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Impending Desolation",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mutating Flesh Pod",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tropical Getaway",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Guardian of Secrets",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mutant Titan",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Trigger-Happy Gunner",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spinner of Klothys",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Omencruise Adbot",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brineborn Marauder",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Demon of Whispered Glory",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Festival Sparkmage",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Regal Dreadmaw",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Shattering of Madara",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Collective Ingenuity",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Corrupt Exterminators",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Qal Sisma Firebelly",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hearthian Ventureship",
+        "number": 0,
+        "shape": "leveler",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ajani, Naya's Vanguard",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lucas the Wise",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rupture the Blood Fast",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relishing Devils",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "A Servant's First Appearance",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Naktamun Repurposed",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elegy of Emptiness",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grabbyhands the Pardoned",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swiftspear Training",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Apocalypse Ride",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Epicurean",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Resilient Gastropod",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Guardian of Certainties",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thronk the Great",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Inspiring Storyteller",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Richissim Lady",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cardinal of Wishes",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Massacre Girl, Serial Hunter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Imbue with Passion",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hyetta, Wandering Maiden",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elesh Norn, Ballin'",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Visions of Now",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Diviner of Bone",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Contemplate Creation",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fecund Soulshell",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Appraiser of Worth",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Expert Crafter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Genichi Sojo, Blade Appreciator",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mirrodin Armed",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Compost",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Angel of Death's Defeat",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ragde, King of Oragif",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Akemura Soga, Sword Saint",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jack-in-a-Mimic",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Copper Retriever",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Archpaladin's Charm",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Togo Shiba, Elusive Ally",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Goldwater Broker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gruntch, Planeswalker Anew",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Empowered Brawl",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alacore the Just",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ready",
+        "number": 0,
+        "shape": "aftermath",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gaene, Demon of Pain",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Goblin Merchant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Meandering Cyclist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Journey to Bloomburrow",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Contemplation of the Infinite",
+        "number": 0,
+        "shape": "class",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nightmarish Walking Ship",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Market Fire",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Llanowar Explorer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vapor Seer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gambit Mage",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mosquito Swarm",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Demihuman Lookout",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sanshuu Hero Club",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Amesha of Sanctuary",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Placid Soulshell",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cursed-Blood Slice",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blasphemous Act",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ponyamory",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Charge of Exploration",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brainstorm Joker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sealing of Destined Death",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ignite the Future",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Summer Bloom",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Inasyah, Forgotten",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Silver Retriever",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tibia Mariner",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Burning of the Erdtree",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Titanic Decay",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Burst from Beyond",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skittish School",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Court of Ambition",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Erratic Soulshell",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tread the Winding Way",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Divine Division",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Misty Cyclist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unendurable Frenzy",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blade Dance",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sarkhan's Awakening",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Resolute Soulshell",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Astrolabe Tender",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Noxious Soulshell",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Iron Retriever",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Calix's Purpose",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pheebie-Mode",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Test of the All-Seeing Crone",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Polylute",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rocky Rodent",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vraska's Resentment",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Golden Retriever",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "I'm Thinking",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Leaden Retriever",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fervent Cyclist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Party's Pet",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Whimsical Cyclist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arclight Accumulator",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vexing Harlequin",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "View the Map",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unsetting Enormity",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Everything is Awesome",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blueshift",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Melancholic Cyclist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Undying Morsel",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unihydra",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Collective Might",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thorough Vacationer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Zur the Mad",
         "number": 4,
         "shape": "normal",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "Impulsive Whail",
-        "number": 5,
+        "card_name": "Agnaktor",
+        "number": 0,
         "shape": "normal",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lightning Stag",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Productive Dialogue",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Echo Strike",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Terrifying Tentacle",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bladescale Storm",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Component Collection",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conform",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Neathstalkers",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Constrictor Contractor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Anomaly Research Craft",
+        "number": 0,
+        "shape": "leveler",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Trestian Caretaker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "HWC Anthem",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lone Scavenger",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ambush Room",
+        "number": 0,
+        "shape": "fuse split",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scenic Eruption",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Leyline Visionary",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tangleroot Crystal",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dovin's Obsession",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Defiler Nergigante",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fireborn Suit",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Questionable Beast",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lightborn Suit",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kasmina's Cunning",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Murderous Spikes",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tibalt's Gambit",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lantern Festival",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Archangel of the Old Faith",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lucas D'Arcini",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ancient Craving",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sir Thronk",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Canopy Sharpshooter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alacore Sunbright",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voyages Past",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Heartbeat Hare",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Steadfast Lynel",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Verdant Leprechaun",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Noonwraith's Take",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Probing Witch Hunter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rotwing Dracolich",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sweltered Explorer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Farseek",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shirou Wait Did He Actually Say That",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Goblin Frame",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scantsoul Exsanguinary",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Display of Power",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wicker Witch of the Woods",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Savior",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gorgon Frame",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relentless Rots",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pick Up the Branch",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Last Resort",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Warden of the High City",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Calamitous Presence",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Improvised Nuke",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Torchcat Pride",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Inner Spark",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirited Stagehand",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unreality",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unnatural Disaster",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rakdos Instigator",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thragcub",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Teferi's Reluctant Protection",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Baranji, Yazata of Insight",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lovec, White Wolf",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Visions of Dominion",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grey Mourner",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kinbless",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Censor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tezzeret's Desperation",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nomadic Merchant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Moss Prophet",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voice of the Heavens",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Move Like Water",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Angrath's Sacrifice",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Frenzied Troll",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mantis Traitor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirit-Bound Armor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Witness History",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ob Nixilis's Folly",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Karen Aijo, Blazing Star",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bristling Spinehusk",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Orderly Scarab",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Moon-Maddened Tinkerer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cauldron Clowder",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tsundere Dash",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "To Greener Paths",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Neighborhood Watch",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Like Clockwork",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mr. Grabbyhands",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Devilbrute",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bloomburrow United",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Yoked Skaab",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Twist Betrayal",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Headless Defender",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hidden Pitfall",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blade of Grass",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Daylight Chant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Snow Serpent",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wight's Wreath",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Abyssal Flame",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ancestry Elder",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Resourceful Survivor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Recursive Plagiarist",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Foretold Warriors",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flame Pillar",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Protector of the Brambles",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Divine Ambition",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure Cruise",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Worthy Sacrifice",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fire Cat",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "A Steed Rider",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Riders of the Conqueror",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Llanowar Warden",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Contract Killing",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Abrade",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Harvester of a True World",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Coppercoat Alarmer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scaled Hunter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Div of Foul Exchanges",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Demondrug",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Boughs to Shade Generations",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dromoka's Outrider",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Open a Thousand Doors",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Megamurder",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ember Chant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Outlands Wayfinder",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sword Sealing",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Experimenter's Tools",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Know Mortality",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stormflight Lookout",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jungle Guard",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Crafty Menderbug",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tegwyll's Attendant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Enter the Brumewake",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aerial Collision",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Colossal Whail",
         "number": 6,
         "shape": "normal",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pale Lurker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Soothing Springs",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Surpass",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gnarlstaff Pathfinder",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Daybreak",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Graceful Alubas",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mind Drake",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wardens of New Karis",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Winged Lancer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Backtrack",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Soulless Heart",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hardened Steel",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Slashing Sentry",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Snail Shaman",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bandit's Talent",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Honor-Bound Charge",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Of Fashioned Wings",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Windscythe Petra",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relentless Natsuki Subaro",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mabel's Apprentice",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Finch Rider",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Augury",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jumpscare",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vengeful Spirit",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fateful Encounter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Otter Wizard",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "I Always Come Back",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Great Husk Sentry",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Overworked",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Talespinning",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Demonbrute",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Burn the Father",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Squirrel Squad",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pawpatch Sailor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conflicted Soul",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Idea Instilled",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Adventuring Twins",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "A Humble Heron",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sign in Blood",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Old Nail",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Peaceful Whail",
+        "number": 1,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Enigmatic Escape",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Defeat the Boss",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Vigilante",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mists of Minamo",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Sprite",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "On the Offense",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mistweave Riders",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sleepytime",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nefarious Needler",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Drifting Whail",
+        "number": 2,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Knight of the Ebon Hand",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ral's Lightning",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spewing Mutant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keen-Eyed Scout",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Questionable Survival Method",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brazier of Futures",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tech Cult Remnant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Passing the Torch",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Toxic Waste Ooze",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scorching Bargain",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rot Upon the Throne",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "God of the Hearth",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spiked Ambloom",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Impulsive Whail",
+        "number": 5,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lightseed",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Aged Flukemunga",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Aspid Mother",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rallying Rats",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nightwhorl Assassin",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Seedbed Intimidation",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Slay",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "A Mysterious Cloak",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Watcher by the Water",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sigils of the Bone King",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -53,7 +3608,9 @@
         "card_name": "Unresting Whail",
         "number": 3,
         "shape": "normal",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -75,10 +3632,798 @@
     },
     "a->gold",
     {
+        "card_name": "Summon to Banishment",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Card That Makes Morgan Suffer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wuvin, Dungeon Crawler",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Realmroil Excavator",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Overeagerness",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dovin, Student of Perfection",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tezzeret, Etherium Thief",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clash of the Elders",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sarkhan, Clanless Wanderer",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tap and Pat, the Ever-Pair",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kirby, the Copier",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Collector",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Angrath, Humble Father",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cisarzim Wildbrawn",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Calix, Nyxmade",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rell, Isolated Heiress",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Yu Bauer, Crosswired",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Steel Traitor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kotone, the Wildcard",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swallower of Stars",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Iris, Goddess of Rainbows",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Blue Prince",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kiloh, Rampage Blade",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dakkon, Blade Breaker",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beza, Season of Spring",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gwafa, Merchant of Jhess",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Rat King",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beelstarmon",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gemseeker Rhain",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Iselda & Cornifer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Drowning Reflection",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Job Offering",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blood-Soaked Neyaka",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bello, Trinketmaster",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Search Party",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Enraged Guardian",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Oathbound Zealot",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Inevitable Roamer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reluraun, Heroic Taleteller",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gratuitous Brony",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hornet, Protector",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beatdrop, Tiniest Groundswell",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sequence Break",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Another Scoop of Protein",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rambunctious Twins",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kwain, Bounding Bunny",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rise from the Dregs",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Malfegor, Invader of Bant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bane of the Valley",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Diligent Shepherd",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Form from Fog",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Touch of the Ghastlord",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arvgrin, the Goldstarved",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Edgar, Maddened General",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dust Shielding",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fortnite Intrusion",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Disgraced Viscount",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Warweaving Puppetmaster",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spreading Rancor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Winged Cantor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lost Soul",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Truthrender",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lovec, Bane of Monsters",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Temporally-Displaced Wildlife",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Perfect Guard",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Case of the Persistent Blizzard",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rat Elemental Blast",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aranzhur Warlord",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Boon of the Waking World",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Symbiotic Mutant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Imago Mystic",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Productive Brooding",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hemomechanical Virus",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sinuous Altar",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pride of the Clan",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Celestial Guidance",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Caldaia Archivist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forerunner of War",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Face Your Destiny",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rhythm of the Coast",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cutthroat Dynast",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Geothermal Elemental",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Forced Isolation",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Join the Circus",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rootrend Tusker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Aethercetus",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Frenzy of Madness",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wanderer's Mantle",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Whiskerwitch Switcher",
         "number": 8,
         "shape": "normal",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Madding Hand",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Discern Imperfection",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ensha, Roundtable Raider",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Magician's Warp",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shabriri's Howl",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -93,7 +4438,218 @@
         "card_name": "e"
     },
     {
-        "card_name": "er"
+        "card_name": "The Grinch",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wretched Recruiter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spike Trap",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Abyssal Skirmisher",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Skeleton Key",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Billowing Sootstrider",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Burning Man",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Case of the Golden Mask",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Agony Harvester",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tenacious Enemy",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Surprise Bombs",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -106,12 +4662,794 @@
     },
     {
         "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ob Nixilis, the Ambitious",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tibalt, Pain Scholar",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rokka, Angel of Savagery",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Tech Chief",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Simul, Runaway Researcher",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nikh'olas, Bringer of Gifts",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gadwick, Prescient Planner",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nostalgia",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hornet, Daughter of Hallownest",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MORE... Straight ships ig...",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Claire Francoise, Classist",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rod Bauer, Disinterested",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vraska, Scorned",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bubble Ribbon, Team Leader",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nomanis, Former Loner",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Andel, the Dubious",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lord of the Grand Lagoon",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Modra, Terra Firma Primus",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Coeur, Everyone's Mascot",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kasmina, Planar Student",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cristin, Postmaster General",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cwyllog, Old Five-Eyes",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cedwyn, Lord Farsbury",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nahiri, Noble Adventurer",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Carruvio, Pearl of Brineford",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Return Triumphant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Charging Zinogre",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Azusa, Buried but Blooming",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thane Bauer, Uncertain",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cosmic Upheaval",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Seiichi Samura, Repentant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wild Thoughts",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Golgari Swarmcaller",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Star \u2b50 Luminous",
+        "number": 0,
+        "shape": "modal double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vacationer's Reminiscence",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Innocent Slaughter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reinvent the Wheel",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Golgari Omnicycler",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "E'er-Wandering Cyllin",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Individuality's End",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The First Avarice",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Timestream Entity",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aging Untouchable",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bravery",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Journey to the Center of the Moon",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Margit the Fell Omen",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Planar Drift",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Work Break",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kajiya, Team's Outfitter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cabal Mentor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Yellow One",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aegishorn Drummer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Decorated Assassin",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thoughtburning Ingenue",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dihydra",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Serene Advokist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tomebound Dragonling",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Binder of Lingering Regrets",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elegant Bladesinger",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fanfic Author Twilight",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Distant Village Weaver",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Soul Twister",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treetop Recycler",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pyre Prodigy",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voice of the Murky Shallows",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Outer Scout",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Primal Aspid",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Graveyard Scavenger",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clear the Board",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ditto",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gatekeeper Thrull",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Playful Stormchaser",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Divested Gains",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Power of Friendship!",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clairvoyant Astronomer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spiritbound Caretaker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Choir Beckoner",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gravedust, Rattlin' Prophet",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hornet, Sentinel",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Neathbound Commander",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Furies",
         "number": 7,
         "shape": "normal",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Paradoxal Recallist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forlorn Colony",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chihiro Rokuhira, Avenger",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Case of the Sullied Waterways",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sanguine Conflict",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Laboratory Conflict",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mournroot Dryad",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hiyuki, Wielder of Flame Bone",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Secret Admirer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skewered in Place",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cavern Conflict",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Overeager Venturers",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Frogkin Jester",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rotfarm Lurker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Leomon, Noble Hero",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pathways of the Wilds",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -121,6 +5459,1715 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "Memory of Cymede",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Trilling Soloist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Inspirit, Here For Some Reason",
+        "number": 0,
+        "shape": "leveler",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Currentbound Lovers",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Planar Vanguard",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Garden Protector",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nahiri's Vision",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fae Conflict",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Starchase Invoker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Horror From Beyond",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Chosen by the Sword",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Case of the Gibdo Invasion",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kingsmould",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Charm Notch",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Veteran Lieutenant",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Zealot to Worlds Beyond",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tourney Champion",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ignited Scavenger",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Combat Arbiter",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hive-City Conflict",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Nola, Executioner",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Dragon Eater",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stratagoyf",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hinoa, Quest Maiden",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ephemere, Temporary",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Carmot Hieresiarch",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fatalis, Dark Demise",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ire, of the Burning Bog",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Admiral",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stor, Witchstalker",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fight to the Finish",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vaal Hazak, Hellish Fiend",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Avatar of Calamity",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Meowscular Chef",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "High Regent Omertis",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nicol Bolas, Forever Serpent",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Midra, Lord of Frenzy",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hadran and Calyda",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Manno, Boxed Surprise",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shabriri the Reviled",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Henrik, Rebels' Cowl",
+        "number": 0,
+        "shape": "transform double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "William, Theatrical Unifier",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Metempsychosis Titan",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brotein, the Pectorally Vast",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gertrude, the Matrix",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Huntsman",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Volk, Harbinger of Law",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Marisi, Revolution's Claw",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Blade of Evil's Bane, Reforged",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Glint, Portal Skirmisher",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Lovec, Grey Wolf",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Settle Realities",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forever the Champion",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elise, From Beyond",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ashiok and Oko",
+        "number": 0,
+        "shape": "planeswalker",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kragh, Ebon Lord",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Call of Chaos",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brooding Mawlek",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Guyandeh, the Herald",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Archelos, Slow and Steady",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hexes of Verlorene",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Takashia, Depths Seeker",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wisp, of Vengeful Moons",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sierha, Basking Deity",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dream of Betrayal",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Siege of Precinct Five",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Disperse Lightning",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Queen Miasma",
+        "number": 0,
+        "shape": "modal double faced",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Diverge the Timeline",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Crystal Guardian",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Traveler's Ennui",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Essence Seer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Obligate Bodysnatcher",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Eternal of Wilting Flowers",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Miku, Compleat Melody",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Game Master",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Horsemen of the Apocalypse",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shout as One",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Seferet, Heart of the System",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Free Fallin'",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Frightful Skeletron Prime",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Mighty Destroyer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The All-Seeing Twins",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Little Ghost",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Center of the Multiverse",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Spellshine, Omencruiser",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skikraj, Towering Surveyor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Virtual Convergence",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "A Special Task, Just for You",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "A Threshold to Llenwffaedd",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reaper Bird",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Snowdrake's Mother",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Endogeny",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Memoryhead",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lemon Bread",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scales of Leshy",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Philosopher's Stone",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Weirdness",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Faceted Greed",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fingerprint Shield",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Miquella's Needle",
+        "number": 0,
+        "shape": "adventure",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Archmaster's Signet",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Omencruise Guidebook",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MOU-53 Field Armor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Case of the Bodyless Sage",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "A Margin of Wycfolyth",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Golden Griffin",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cogwork Militia",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Armor of the Aegis",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Contemplate Existence",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dagger of the Old Gods",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spatial Interfacer",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nodal Terminus",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dowsing Spaewife",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Timelocked Sarcophagus",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flickering Lantern",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Contaminated Relic",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lightning Bolt",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vectis Drone",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Trusted Line-Sling",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Monoist Battleplatform",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dust",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wycfolyth Lunges, Furious",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sword in the Stone",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Lonely Traveler",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Augury",
+        "number": 0,
+        "shape": "saga",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Explorer's Pick",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gilded Servitor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Two Buck Chuck",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bladed Glove",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Desert Lands",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pathway to Everywhere",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tendo Ice Gate",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shady Encampment",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "New Karis, the Living Fortress",
+        "number": 0,
+        "shape": "leveler",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Evendo Broodhive",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Verdant Set",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Secluded Monastery",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Thoughtstream",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vault of the Seekers",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aranzhur, Freefire Plane",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shattered Skyline",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elysia, Nyxborn Palace",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gilded Lobby",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mud Baths",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Qal Sisma Peaks",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Hopeless Temple",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Under-University of Nephalia",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Rotwastes",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Line-Slingers' Headquarters",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Planekeepers' Hub",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shipboard Sauna",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tropical Resort",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Mystic Mountain",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Gathering Glade",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Astral Zenith",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Multiversal Passage",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Decomposition Ground",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Omenpath Portal",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Faltering Wildscape",
+        "number": 0,
+        "shape": "flip",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "United Village",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Virtual Confluence",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -142,211 +7189,281 @@
         "card_name": "Protein Shake",
         "number": 25,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Copy",
         "number": 1,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Path of Conquest",
         "number": 1,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Copy",
         "number": 2,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Path of Glory",
         "number": 2,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Path of Peace",
         "number": 3,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Great Hall of the Bibliopex",
         "number": 3,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Shade",
         "number": 4,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Void Heart",
         "number": 5,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Wonder",
         "number": 6,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Zagoth",
         "number": 7,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Blood",
         "number": 22,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Clue",
         "number": 23,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Kingsoul",
         "number": 24,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Soul",
         "number": 26,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Treasure",
         "number": 27,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Weapon",
         "number": 28,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hallownest",
         "number": 29,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Pit",
         "number": 30,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Inquisitor",
         "number": 8,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Insect",
         "number": 9,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Soldier",
         "number": 10,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Soldier Army",
         "number": 11,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sylphrena, Never Lost",
         "number": 12,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Brineborn Cutthroat",
         "number": 13,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Horror",
         "number": 14,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Insect Army",
         "number": 15,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Devil",
         "number": 16,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dragon",
         "number": 17,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Human Monk",
         "number": 18,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mabel's Apprentice",
         "number": 19,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Beast",
         "number": 20,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Colossal Dreadmaw",
         "number": 21,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Insect",
         "number": 31,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Spider",
         "number": 32,
         "shape": "token",
-        "set": "JUN26"
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
