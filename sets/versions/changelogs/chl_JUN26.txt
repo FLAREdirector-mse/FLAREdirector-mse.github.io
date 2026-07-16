@@ -1,4 +1,414 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Bard added.
+Choose Your Own Cat added.
+Copy added.
+Copy added.
+Copy added.
+Eldrazi Scion Squirrel added.
+Ghostfire Explorer added.
+Phyrexian Mite added.
+Sothera added.
+William Afton added.
+Wish of Five Boons added.
+Absolver Squadron added.
+Adept Magician added.
+Alabaster, Selfless Healer added.
+Ame-no-To of Crystalline Stars added.
+Angelic Seraph added.
+Ardelleine the Leader added.
+Army of the Living added.
+Beach Episode added.
+Benalish Hero of Bladehold added.
+Buster Arts added.
+Cloud of Weakness added.
+Cosmos Capturer added.
+Crafted Deity added.
+Dragon added.
+Eshemki of the Five added.
+Fae of the Beyond added.
+The Festering Horde added.
+Friendly Unicorn added.
+Halfling Soldier added.
+Hare Apparent added.
+Harness the Cosmos added.
+Honor's Perpendicularity added.
+Hospitable Spirit added.
+Hunt for the Beast added.
+Judge of the Sands added.
+Local Amusement Park added.
+Rabbit added.
+Rabbit added.
+Ruler of Flight added.
+Savai Racebeast added.
+Shadesmar Travelcraft added.
+Shard of Angelic Hopes added.
+Simple Campfire added.
+Soul Crystal Prison added.
+Spider added.
+Sunweaver's Transformation Sequence added.
+Swords added.
+Syr Comfrens added.
+Tattered Sheet of Paper Elemental added.
+The Wanderer, Compleated added.
+Weaversong added.
+Windrunner Shardplate added.
+Ame-no-To of Gathering Clouds added.
+Art of Knowledge added.
+Blogatog added.
+Breathtaking Leap added.
+Curious Kitten added.
+Flipit, the Fishy Fool added.
+Forced Plans added.
+Foreboding Leviathan added.
+Greek Gift added.
+Halt the Unbelievers added.
+Hornet's Intuition added.
+The Pretender's Ascension added.
+Rapid Knowledge Acceleration added.
+Reconnaissance Faerie added.
+Squire Fonkson added.
+Teferi's Refutation added.
+Teferi's Study added.
+Tonight We Are One added.
+Unsecured Trade Routes added.
+Adept Necromancer added.
+Alabaster, Soul Seeker added.
+Ame-no-To of Implacable Thirst added.
+Angel of Death added.
+Bloodcrazed Athlete added.
+Bonestriver added.
+Colony of Infinite Rats added.
+Copy added.
+Corrupted Stallion added.
+Cultist of the Lage added.
+Davriel, Spark Drinker added.
+Death Devourer added.
+Demon of Annihilation added.
+Demon of Genesis added.
+Fall to Darkhul added.
+Follower of Phyrexia added.
+Furious Horseman added.
+God-Pharaoh's Scorn added.
+Henrye, Glory Holder added.
+Lamb of the Slaughter added.
+Lazotep Reforger added.
+A LETHAL DEATH RAY OF DOOOOOOOOOM!!!! added.
+A LETHAL DEATH RAY OF DOOOOOOOOOM!!!!! added.
+Lifewell Cauldron added.
+Marit Lage added.
+Massacre Girl, On the Run added.
+Matiasteron, the Event Horizon added.
+Mind Drain added.
+More Tired Concierge added.
+The Pec-Man added.
+Precised Chains added.
+Redhanded Avenger added.
+Ritual of Forgetfulness added.
+Shadows of Darkness added.
+Sheoldred, Timeline Chaser added.
+Silent Hunter added.
+Sin Eater added.
+Soul Parasite added.
+Stonesight Dragon added.
+Tales of the Trials added.
+Tired Concierge added.
+True Ferocity added.
+Undercover Return added.
+Zombie added.
+Zombie Army added.
+Ame-no-To of Sundered Flames added.
+Anyra's Wager added.
+Blood Amulet added.
+Burn the City added.
+Canyon Goblin added.
+Canyon Goblin added.
+Charred Ringers added.
+Dreams of Devastation added.
+Ettie, Expert Sprocketeer added.
+Expert Troubadour added.
+Exploding Goat added.
+Extreme Mining added.
+Face-Breaking Ally added.
+Fire-Breathing Dragon added.
+Growing Firestorm added.
+Hammerwing Instigator added.
+Harness the Power added.
+Heat Exhaustion added.
+I Hate the Heat added.
+Itzquinth and Brass, Venturers added.
+Leybound Dragon added.
+The Lovely Fish added.
+Magmatic Dragon added.
+Manaflow Devourer added.
+Orbital Laser added.
+Rebel added.
+Scarlet, Destructor added.
+Scramble the Ranks added.
+Silent Firebird added.
+Silent Firebird added.
+Tender of the Scriptures added.
+Tokgoyf added.
+Twenty-One Gun Salute added.
+Urabrask, Against Phyrexia added.
+Weird Mascot added.
+Ame-no-To of Cloven Stalks added.
+Art of Exploration added.
+Aspen Grove added.
+Caller of the Behemoth added.
+Casing the Lands added.
+Center of the Wilds added.
+Colossal Dreadmaw added.
+Conduit Employment added.
+Corrupted Hermit added.
+Denizen of the Old Growth added.
+Dreadmaw Captain added.
+Egg added.
+Egg Thief added.
+Harvesting the Lands added.
+Helpful Inventor added.
+Hunt for the Nest added.
+Hunt for the Ouphe added.
+Ice Cream Salesman added.
+Inviolable Saint Elize added.
+Jukai Diviner added.
+Kristina of the Woods added.
+Landfroth added.
+Like Rabbits added.
+Maddening Mishap added.
+Mutagen Burst added.
+Nurturing Mother added.
+Quandrix Hydra added.
+Restorer of Vigor added.
+Saproling added.
+Saproling Food added.
+Skyrun Cruiser added.
+Stampeding Horde added.
+Stardust Harvester added.
+True Dread added.
+Universes Beyond — Jenga added.
+Verdant, Friend added.
+Violent Treebounder added.
+Vynn's Wager added.
+Wood Elementals' Gambit added.
+Ablation Angel added.
+Attack on the Manufactory added.
+Ephara's Faithful added.
+Geistreign added.
+A Lot of Very Smart People added.
+Rintaro Okabe, D-Mail Sender added.
+Scintillating Dreams added.
+Take Back the Day added.
+Zelda, Princess of Time added.
+Alleyway Dasher added.
+The Awakening of Ashiok added.
+Black Rose Intelligence added.
+Counterrat added.
+Disappearance added.
+Experienced Enchanter added.
+Eye of Possessi-ON added.
+Homura's Wish added.
+Jazith Sha, Remembered Ancient added.
+Kiss, Ermes' Stand added.
+Life Absorption Trap added.
+The Mimic added.
+Paint Over added.
+We Were Their Failed Experiments added.
+Amra-Inkote, Price Unpaid added.
+Dark Forest Deterrence added.
+Darth Vader, Imposing Presence added.
+Desperate Baller added.
+Emmeranne, the Fallen added.
+Flowey, Who Does Too Much added.
+Killer in the Mirror added.
+Lavafolk Vanguard added.
+Lucian, Deal Signer added.
+Ludodontis, Table Flipper added.
+Monkey Sun God added.
+Sozin's First Comet added.
+Vyll, the Worthless Hunger added.
+Caitlyn Zhliss, Relic Bringer added.
+Jeyn, Violent Puppeteer added.
+Khei Atza, Living Civilization added.
+Monument to the Khenra added.
+Wellow, Went Down the Well added.
+Asmira, Corrupted Soul added.
+Curious Ooze added.
+Hunt for the Mirari added.
+Karametra's Sanction added.
+Lynn, Daughter of Spring added.
+Primal Aspid added.
+Rabbits in Love added.
+Rabbit's Warren added.
+Racing Raptors added.
+Adora, Sun's Priestess added.
+Cursed Boatman added.
+Hornet, Pharloom's Shaman added.
+Judgment of God added.
+Like Clockwork added.
+Rabbit Chef added.
+Bringer of Dawn and Sometimes Dusk added.
+Chandra, But She's Also Blue Now added.
+The First Task added.
+Gamblomancy Adept added.
+Girl, That Magics added.
+Prismari Captain added.
+Salt the Fields added.
+Scrounging Starspawn added.
+True Geass added.
+Dreadhall Chant added.
+Kali, Lost to Darkness added.
+Recall of the Dead added.
+Smeal, Broodmother added.
+Syr Morgan, Through the Door added.
+Thelonite Nutritionist added.
+Fark, Daughter of Autumn added.
+Lifeweave Battleship added.
+Link, Light of Hyrule added.
+Loafing Behemoth added.
+Pranticle Peak added.
+Shulk, Heir to Monado added.
+Spirits of the Fields added.
+Warning Bell added.
+We Remembered Our Fallen added.
+Do'Lovaas, Expert Lutist added.
+Expert Bouncer added.
+Masterful Geometrist added.
+The Most Dangerous Prodigy added.
+Plumed Stalker added.
+Protection of the Many added.
+Raygun Technician added.
+Robo-Searching added.
+Shinshi, Mistwalker added.
+Square Shapal added.
+Therosian Transfer Student added.
+Vim Drinker Program added.
+We Built Worlds With Every Step added.
+Aar'ys, God of Beyond added.
+Case of the Tilled Yore added.
+Chloe or Sam or Sophia or Marcus added.
+Date Night With Bolas added.
+Ekko, Who Shattered Time added.
+Emmet, Master Builder added.
+Ephara, Light of the Hearth added.
+High Warden Jahsiah added.
+Human Soldier added.
+Hunt for Battle added.
+Hunt for the Boss added.
+Immortal Vengeance added.
+Kailyn, Undercity Queen added.
+Khadurel the Endless Cycle added.
+Kherevel, Driven to the Edge added.
+Kraudir, Kingpin of the Sands added.
+Maelstrom Wandering Awe added.
+Meshi Krek-So, Standoffish added.
+Niv-Mizzet, Protector added.
+Obeka, Abolisher of Aeons added.
+Prologatog added.
+Skritchie, Pyrite Peddler added.
+Stridebreaker added.
+Studious Monstrosity added.
+Surge of the Five Rivers added.
+Three Omens added.
+The Victory of Bolas added.
+Yawgmoth's Heir added.
+Yeliz-dagh, Sempiternal added.
+Ulalek, the More added.
+Demonic Student added.
+Something Amiss added.
+Eclipsed Shaman added.
+Hallownest Wanderer added.
+Blessed of the Mortal Rose added.
+Boros Guild-Agent added.
+Ablative Krasis added.
+Hazel, Jeskai Resolute added.
+Leaves of Doran added.
+Guild Headquarters added.
+Surge added.
+Blade of the Arena added.
+Clue added.
+Construct added.
+Creator of the Defined added.
+Food added.
+Food added.
+Hat added.
+Master Sword added.
+Mox Lion's Eye Diamond added.
+Mutagen added.
+Omen added.
+Scriptures added.
+Servo added.
+Tower of Drakun added.
+Treasure added.
+Treasure added.
+Treasure added.
+Treasure added.
+Treasure added.
+Waste Maker added.
+Autumn, the Forest Before Winter added.
+Mephitic Arena added.
+Treeperson added.
+
+
+Augury Token
+rules_text: [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+III — Draw a card.
+​
+​ => [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+​
+​
+special_text: [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+III — Draw a card.
+​
+​ => [i](As this Saga enters and after your draw step add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+​
+​
+
+The Burning of the Erdtree
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Cleric creature token.
+II — Sacrifice a creature. If you do, add {R}{R}{R}.
+III — Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 1/1 white Cleric creature token.
+Sacrifice a creature. If you do, add {R}{R}{R}.
+Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Cleric creature token.
+II — Sacrifice a creature. If you do, add {R}{R}{R}.
+III — Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 1/1 white Cleric creature token.
+Sacrifice a creature. If you do, add {R}{R}{R}.
+Nonbasic lands become Wastes. [i](They lose all other land types and abilities and have “{T}: Add {C}.”)[/i]
+
+Cosmic Upheaval
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all non-
+Saga, nonland permanents to their owner's hands.
+II — Draw cards equal
+to the number of differently named lands you control.
+III — The next green or blue spell you cast this turn can be cast without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all non-
+Saga, nonland permanents to their owner's hands.
+Draw cards equal
+to the number of differently named lands you control.
+The next green or blue spell you cast this turn can be cast without paying its mana cost.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
