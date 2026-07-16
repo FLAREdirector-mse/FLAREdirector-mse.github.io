@@ -1,4 +1,41 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Naomi's Skyrunner added.
+Left Adrift added.
+Obscura Stakeout added.
+Contraband Coordinates added.
+Frontline Automaton added.
+Kiln-Vested Vanguard added.
+Frigophobic Adapter added.
+Rooted Prototype added.
+Mechan Ascetic added.
+Phi-Phreaker added.
+Riveteers' Sanction added.
+Soul of the Edge added.
+Hauntwood Copsestalker added.
+Lumencrackle Battery added.
+Vibrant Courtyard added.
+
+
+Sozin's First Comet
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a firebending 2 counter on each creature you control. [i](Whenever a creature with firebending attacks, add {R}{R}. This mana lasts until end of combat.)[/i]
+I — This Saga deals 4 damage to each creature without firebending.
+Each creature with firebending deals damage to target player equal to its power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a firebending 2 counter on each creature you control. [i](Whenever a creature with firebending attacks, add {R}{R}. This mana lasts until end of combat.)[/i]
+This Saga deals 4 damage to each creature without firebending.
+Each creature with firebending deals damage to target player equal to its power.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a firebending 2 counter on each creature you control. [i](Whenever a creature with firebending attacks, add {R}{R}. This mana lasts until end of combat.)[/i]
+I — This Saga deals 4 damage to each creature without firebending.
+Each creature with firebending deals damage to target player equal to its power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a firebending 2 counter on each creature you control. [i](Whenever a creature with firebending attacks, add {R}{R}. This mana lasts until end of combat.)[/i]
+This Saga deals 4 damage to each creature without firebending.
+Each creature with firebending deals damage to target player equal to its power.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 No changes.
