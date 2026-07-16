@@ -2725,6 +2725,214 @@
     {
         "card_name": "er"
     },
+    "a->Piguy",
+    {
+        "card_name": "Savai Racebeast",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Breathtaking Leap",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bloodcrazed Athlete",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Weird Mascot",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Casing the Lands",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Syr Comfrens",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Squire Fonkson",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Helpful Inventor",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Black Rose Intelligence",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Racing Raptors",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Surge",
+        "number": 0,
+        "shape": "fuse split",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Prismari Captain",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thelonite Nutritionist",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Blade of the Arena",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mephitic Arena",
+        "number": 0,
+        "shape": "normal",
+        "set": "JUN26",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     "a->main",
     {
         "card_name": "Adventuring Twins",
